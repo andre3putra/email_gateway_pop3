@@ -1,0 +1,137 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.235; Wed, 31 Oct 2012 02:14:14 -0700
+Return-Path: <notifications+vvjqvv0zxhj@zyngamail.com>
+Received-SPF: pass (domain of zyngamail.com designates 74.114.9.162 as permitted sender)
+X-YMailISG: Kz1L7lUWLDuyOqeKbdx8rFDFruDIerxT9bRaKhUsvvdlFgnX
+ wr8WU7ud1tRBUb9JKpPUUmvEXGubvinIobphsgfykQbwwanLZwxp3jrYdDwo
+ FRohdG68DOZKe_Ssle5NYseIMOOLO_tUkROKEopr31jl6YFc8SUJJ75pc3Fs
+ rOHqcrigfYC9Fwq65DF.Kjcwvyw0St9q3iel05Xv3c8oB.stYXbVarBr5ou9
+ Bq3wmLB6tJDnezunrPaZZ2U4z.WWeeLwtqDP5pNTHzkmbrOpeT2BbOlXfSA9
+ d5ipAFm_PFcGvdBTRVr_L9.Iwk0jGHx8YCpkh6cW4ItklfjiegZwywapzfyW
+ etcX.V9V1q6_YW_p6yE5kgEaa3A0WHLAdwKQb1.NQiVyQF6FbG2PXPdBoND1
+ 93h7oWgdtxF7UuXy4vrCWhsCLwuH3RVRTb_fWEfCIQaAZH2O6Bw7346BFXeP
+ xi8n2qHMhIbx8WLaAAnw71APdsRcg6wbWu7Y_yM0KAatIEJ..FMiSMNMW94z
+ bSu1pMs5A7tREpeKMrxPHuLK8Nc1JFZDtmD6YW_y6jVBDVF_tAtvE4aRnE_Y
+ 77PEvhU5ADtGhg.gyhlF2RPZWcJYvSnnv14dWuzgkWfLxKkEvKZctUNZWHP2
+ c17ORtX5S8SuHR4H.Z.7qPIPcfQwIZrDZ0f1hzFeY6QRCnCaOvrSNK3VrSfd
+ sVLA7XfuKR94QO35xhYlxAzQ9yGKt0XWq7I2f.liiuErf8cAXlRAgYueUT3d
+ F.iLN6ROe53RJwBm8cIUfTj5oQxMrAL7Y0P7yFc6mw6PGyAT7oKxCBhelxcu
+ 9GwFhMwGBJ3ITKSYNmeOUZc4du94FduuvqmAyFCQCLItyCGCECn2OzNYqAvQ
+ uE2Dzabiut0xYozep0xbTim9Nnx_o_nrpoJ8Y4UowZ0ukpZ7nu0kIguEx0Ai
+ ylxYbh.MN5vFjE0rAyHWChC4WbR6jB11M3ARz6poALUkis5uvrVQQxajImj2
+ Iv9W4txx0Ehck.ty1paUorNj7oEW2MlTLtlCEe5zxNJQqXBhkw3dT7dgpqqX
+ IWKAcWbns_guHaFZWkbOtw_WlvwbaCgDpN5ZAc.z27pwYMneN2fJJkP9iV_S
+ BLwry3qalNaCJGPOkWJ.lnPIg_1FCxeruiCxRvgymeKvDi5MC3ivj1pozZfm
+ ajkeB3_x0M5441zHhtzkyTXfxFvnnucjHsVbCBbqIEocLPdvs0QFeDo59EWL
+ i1f949oh9cA9Sfa.x0qgAzxRML8S6FwsbZEiqcob1mOJH2rkMh2eB96LJbQt
+ aGD0W7l57CqmGs_geSW1xQbWQpTk9s2ixOPyKW8ij6TOyFsRmiJnKIrM4XMc
+ aall8HQ0lDqvDKxp8iwDHW4FL5Uk.RNZNEx4j.mk0w0poPsK22KlZnT1
+X-Originating-IP: [74.114.9.162]
+Authentication-Results: mta1413.mail.mud.yahoo.com  from=zyngamail.com; domainkeys=neutral (no sig);  from=zyngamail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO outmail.zyngamail.com) (74.114.9.162)
+  by mta1413.mail.mud.yahoo.com with SMTP; Wed, 31 Oct 2012 02:14:13 -0700
+Return-Path: <notifications+vvjqvv0zxhj@zyngamail.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=zyngamail.com; s=dkim512; c=relaxed/simple;
+	q=dns/txt; i=@zyngamail.com; t=1351674853;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=cR/3UCOvnpmQSmsmXK1yPdskIWM=;
+	b=x0+9AYT6JnGHryRcUEYm1YQyRsklBKQE+7qFbdJWjPpv8jkJZVcykcWG4if2QsKn
+	XC7ZfsiaZ7s2Q7Rbw5VneA==;
+X-MSFBL: ZmFsZG9fc29uaWNAeWFob28uY29tQGRlZmF1bHRAZGVmYXVsdEB3dmpxdnYwenho
+	am4yOW4jIlNlcHJpYW50b24gSGFzYW4gdmlhIEhpZGRlbiBDaHJvbmljbGVzIiA8
+	bm90aWZpY2F0aW9ucyt2dmpxdnYwenhoalxAenluZ2FtYWlsLmNvbT4=
+Received: from [10.68.74.224] ([10.68.74.224:49616] helo=zyngamail.com)
+	by s2zs-msg-mta10 (envelope-from <notifications+vvjqvv0zxhj@zyngamail.com>)
+	(ecelerity 3.1.1.39454 r(39454)) with ESMTP
+	id 48/FD-16391-5EBE0905; Wed, 31 Oct 2012 02:14:13 -0700
+Date: Wed, 31 Oct 2012 02:14:13 -0700
+Message-ID: <48.FD.16391.5EBE0905@s2zs-msg-mta10>
+MIME-Version: 1.0
+From: "Seprianton Hasan via Hidden Chronicles" <notifications+vvjqvv0zxhj@zyngamail.com>
+Errors-To: notifications+vvjqvv0zxhj@zyngamail.com
+Reply-To: noreply@zyngamail.com
+Content-Type: text/html; charset=UTF-8
+To: faldo_sonic@yahoo.com
+Subject: Saya mencari-cari Anda
+X-Zynga-Notify: wvjqvv0zxhjn29n
+Content-Length: 12638
+
+
+<html>
+ <head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ </head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="-webkit-text-size-adjust:none;">
+<table width="615" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="615" height="46" align="center" valign="middle" bgcolor="#eff5f8"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/1_1323457637.jpg" width="615" height="46" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="615" height="114" align="center" valign="middle" bgcolor="#002437"><table width="615" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="38" height="114" align="center" valign="middle" bgcolor="#002437"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/2a_1323457638.jpg" width="38" height="114" border="0"></a></td>
+        <td width="315" height="114" align="center" valign="middle" bgcolor="#002437"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/2b_1323457639.jpg" alt="HIDDEN CHRONICLES" width="315" height="114" border="0"></a></td>
+        <td width="262" height="114" align="center" valign="middle" bgcolor="#002437"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/2c_1323457640.jpg" width="262" height="114" border="0"></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td width="615" height="34" align="center" valign="middle" bgcolor="#FFFFFF"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/3_1323457640.jpg" width="615" height="34" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="615" height="90" align="center" valign="middle" bgcolor="#FFFFFF"><table width="615" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="41" height="90" rowspan="2" align="center" valign="middle" bgcolor="#FFFFFF"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/4a_1323457641.jpg" width="41" height="90" border="0"></a></td>
+        <td width="354" height="90" rowspan="2" align="center" valign="middle" bgcolor="#FFFFFF"><table width="354" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="50" height="90" align="center" valign="top" bgcolor="#FFFFFF"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="https://graph.facebook.com/1232320179/picture?type=square" alt="https://graph.facebook.com/1232320179/picture?type=square" width="50" height="50" border="0"></a></td>
+              <td width="20" height="90" align="center" valign="middle" bgcolor="#FFFFFF">&#160;</td>
+              <td width="264" height="90" align="left" valign="top" bgcolor="#FFFFFF"><font style="font-family: Arial; font-size: 13px; color: #003b7d; font-weight: bold;"> Seprianton Hasan</font> <font style="font-family: Arial; font-size: 13px; color: #000000;">telah mengundang Anda untuk main Hidden Chronicles, game misteri, puzzle, dan benda tersembunyi. Maukah Anda ikut berburu?</font></td>
+              <td width="20" height="90" align="center" valign="middle" bgcolor="#FFFFFF">&#160;</td>
+            </tr>
+          </table></td>
+        <td width="179" height="49" align="center" valign="middle" bgcolor="#FFFFFF"><table width="179" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="31" height="49" align="center" valign="middle" bgcolor="#437d2a"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/btn-left_1323457647.jpg" width="31" height="49" border="0"></a></td>
+            <td width="117" height="49" align="center" valign="middle" bgcolor="#437d2a"><table width="117" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="117" height="10" align="center" valign="middle"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/btn-top_1323457648.jpg" width="117" height="10" border="0"></a></td>
+              </tr>
+              <tr>
+                <td width="117" height="29" align="center" valign="middle"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank" style="font-family: Arial; font-size: 14px; color: #ffffff; font-weight: bold; text-decoration: none;">Main Sekarang</a></td>
+              </tr>
+              <tr>
+                <td width="117" height="10" align="center" valign="middle"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/btn-bottom_1323457647.jpg" width="117" height="10" border="0"></a></td>
+              </tr>
+            </table></td>
+            <td width="31" height="49" align="center" valign="middle" bgcolor="#437d2a"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/btn-rt_1323457648.jpg" width="31" height="49" border="0"></a></td>
+          </tr>
+        </table></td>
+        <td width="41" height="90" rowspan="2" align="center" valign="middle" bgcolor="#FFFFFF"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/4b_1323401461.jpg" width="41" height="90" border="0"></a></td>
+      </tr>
+      <tr>
+        <td width="179" height="41" align="center" valign="middle" bgcolor="#FFFFFF">&#160;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td width="615" height="122" align="center" valign="middle" bgcolor="#002437"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/5_1323457644.jpg" width="615" height="122" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="615" height="134" align="center" valign="middle" bgcolor="#002437"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/6_1323457645.jpg" width="615" height="134" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="615" height="63" align="center" valign="middle" bgcolor="#002437"><a href="http://apps.facebook.com/hidden-chronicles/tracks.php?src=appemail&aff=neighbor&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6" target="_blank"><img style="display: block;" src="http://accounts.static.zynga.com/email_images/7_1323457646.jpg" alt="Orient Express" width="615" height="63" border="0"></a></td>
+  </tr>
+  <tr>
+    <td width="615" height="80" align="left" valign="top" bgcolor="#eff5f8" style="padding-left: 20px; padding-right: 20px;">     <font style="font-family: Arial; font-size: 12px; color: #000000;">Tidak ingin menerima pemberitahuan email? <a href="http://accounts.zynga.com/?game=115&unsub=49005&templateid=1000003382&sig=18:20224462881:115:20121031091413:qrp8268r30090qp131r89n77qp7q5n5rn1osop9o" target="_blank">Berhenti berlangganan di sini</a> atau <a href="http://accounts.zynga.com/?game=115&templateid=1000003382" target="_blank">Sesuaikan Pengaturan Pesan Anda</a>.<br><br>&copy; 2011, Zynga Inc. 699 8th Street San Francisco, CA 94103 <a href="http://www.zynga.com/privacyPolicy/" target="_blank">Kebijakan Privasi</a></font>     </td>
+</table>
+
+
+
+
+
+  <img src="http://accounts.zynga.com/track.php?next=http%3A%2F%2Faccounts.static.zynga.com%2Femail_images%2F1x1.gif&sendkey=555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6&hid=owooqqsouun&gameid=115&sig=07711415deb2562fe243086d3c3472089f6a8a39&linkname=open" border="0" width="1" height="1">
+  
+  
+</body>
+</html><!-- ZMAIL TRACE: {"time_send":1351674829,"time_zmail_q":1351674850.4546,"time_mta":1351674853.4066}--><!-- ZMAIL DATA: [18,115,20224462881,"faldo_sonic@yahoo.com","1000003382","HTML","555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6",{"snId":"18","gameId":"115","app_url":"https:\/\/apps.facebook.com\/hidden-chronicles\/","__locale":"id_ID","uId":"20224462881","to":"","recipient_first_name":"","recipient_last_name":"","recipient_image":"","Receiver_level":"0","sender_first_name":"Seprianton","sender_last_name":"Hasan","sender_image":"https:\/\/graph.facebook.com\/1232320179\/picture?type=square","Sender_level":"3","sendkey":"555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6","SENDKEY":"555ae7d94d80cae341fa82a5892a7c84$$dcH)R_WW4*mqUgb8GJO*xF,6TChxkkDuwcsi))U.5hqS9fNrJ-1ovqXkC-1P6LlmTHXJKVLz,.!V9Z8OVlI8U3-4Uxj7c9Or(JPP58zHbg_6","SIGNATURE":"18:20224462881:115:20121031091413:qrp8268r30090qp131r89n77qp7q5n5rn1osop9o","EVENTID":"49005","EVENTDESC":"Neighbor Invitation","TEMPLATEID":"1000003382","__trace":{"time_send":1351674829,"time_zmail_q":1351674850.4546,"time_mta":1351674853.4066},"TOUID":20224462881,"TOSNID":18,"GAMEID":115},false,null,false]--><!-- ZMAIL SOURCE: 10.68.74.224-->

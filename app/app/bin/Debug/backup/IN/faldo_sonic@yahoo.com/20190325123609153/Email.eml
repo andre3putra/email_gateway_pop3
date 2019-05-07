@@ -1,0 +1,332 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.233; Tue, 30 Oct 2012 06:52:40 -0700
+Return-Path: <faldo_sonic=yahoo.com@bounces.wp.com>
+Received-SPF: pass (domain of bounces.wp.com designates 72.233.119.196 as permitted sender)
+X-YMailISG: TJGgtCcWLDs7I5rS5qIWDbbHwklbA0SAUx8rajRohNnFbSNQ
+ NRbd29Dy6iOQHbiY1mgabaX_p4wQ1OO6vDtvZL46ZBnxs3qrwAYlea1EMT65
+ K1ETQjQHun2kZMzpehcLzQOwk1ImLQf9qlEDNTDAhN9t7e0hrnJW3wnIwkic
+ EykjnxyZBkRHQRGQQDrAqIBYp60WGcYhr336KuB0rLFaJMC69tM_OKbElrne
+ IDjiZ17rt1m_jTEb2lv0zFCM6F2Fw93H20CnU62yJP0RX4vcKd5WPmo10pCq
+ fwjGjSlO2TlAcP36lCyU.JF1OxGYiO0hB5kahoTnbIUKawr.7491Gys7Hi2L
+ l.uyFrgfAh1daWBdZrVdWwzQMikaAW4TlDnt0Ho08ENb4lyw4z5Rgz0Xp3Es
+ 7wXfJBeo5tOfJPoFRCGPe2VK9gM8fqcmWFPYqcqQABEqNWJTqFyKsa4Dt.oX
+ 87VJW6PjaMs3pG0eXFi4wMeZ1113Rn81xu6uYRfCla9rjwX6XsXTASO3qhPt
+ pdgalwoyEHg82pdIR6S0UXzCv6hU8QmLJM_p8QhSz7oZsJFDyviTs9Ho1hQT
+ eBQHlD_ZZIw2fgjTcZrLQNEb2rG3Ihp4StzzIhh1g2C7b63YklyqG1kaZC9b
+ 4O6VI3M30C7mU7f5xfQPJdf3vaALkvoIkwd.uCSV.g1ThAcjhKHkMA51EUNH
+ iQySoh7VGppngLR6C6CGh7tpA6pRPoYes707hqK_BGnnm75IOG7_4K1vTI.C
+ w6VJb5EzEq8jzRhasQDR1dDxwPZYA4bDkzKVo1l1QsjNpNxQKhajWMTaEz.3
+ sLp1mczbOifPAbkTiwxR9hietsz8jT0FCzMLqA9WHkBROxNnexjHUTdiuR4N
+ tlGxHdi56jSTm2Q5lb_.h5hJQY7yiFlv90_3sD8FvbDWQiODKKOlRJ17t3fV
+ ZakpGoxI21PWktpBr8JKkhUmM_fPamJy5HFEnNRKxtKPkwrGjV1AP9ldKrqY
+ b_VzHFu6nZqh8YqVP6lfs3vAw.JFGvE4YLaLbdY9UkEDyfo9V2Izk8gOy2pZ
+ U6NceHuAPgsgL1G5eJw9yvU7Y.fUdMv2WJnk17zawNDWIiugvpbIZ8.zsD3B
+ uKSBr6sLCWaLUEOT6D9VaFBlojutLD0yIHOBXvyPQX2FDvWiDBH5SfP5FGVf
+ jl7PIwqaISc6TJoUjnIAR.kkbAXb12B5Wlu8ECNvqRQYYbwvuKpZcQ4ewaPL
+ WZIoH8CtVBbliwynMm.unDN7dp.LEEgkIBR00wFLhrcUanBbIhmGec9vgPmk
+ Bm8e0rYEt7DD571z6JDOsySNpoZHBdmxcmzinIYBdgY7RoQHt367PrvGiC24
+ y_ALEi5AFVzQZEGZixnDv5Q5hvxMExVhoZ_d2uS63o8-
+X-Originating-IP: [72.233.119.196]
+Authentication-Results: mta1215.mail.sk1.yahoo.com  from=wordpress.com; domainkeys=pass (ok);  from=wordpress.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO smtp3.luv.wordpress.com) (72.233.119.196)
+  by mta1215.mail.sk1.yahoo.com with SMTP; Tue, 30 Oct 2012 06:52:39 -0700
+Received: from smtp3.luv.wordpress.com (localhost.localdomain [127.0.0.1])
+	by smtp3.luv.wordpress.com (Postfix) with ESMTP id 657C210091
+	for <faldo_sonic@yahoo.com>; Tue, 30 Oct 2012 13:52:39 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wordpress.com; h=date:to
+	:from:subject:message-id:reply-to:list-help:list-unsubscribe
+	:list-subscribe:list-archive:mime-version:content-type; s=my5;
+	 bh=0y6W5S/WgswaJp8d2FyclddpNTQ=; b=RhnB8wTy2uov9qNGNCxFIJkmKD1R
+	4pQyBbfXiDIQrAGh1NmbC/xSQ25KudskfSqiEaAud6Stu+aDVwrw2O6WFiZ6uP3Z
+	YZNRmCbmn06k0GdB1UOsrD5H8BTev7xFcwH2KhyQPEgtwTJ1DrPglIvkhswDUHk/
+	3Xwhh7OSXEyU+hs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wordpress.com; h=date:to:from
+	:subject:message-id:reply-to:list-help:list-unsubscribe
+	:list-subscribe:list-archive:mime-version:content-type; q=dns;
+	 s=my5; b=b66REWwWvmuKzKo8r+Xk4AhX1R+LKoidzRlgRTpkWfqL7qLgsfiZWg
+	Io+z1wmgrGB/1R/kyAm0oNtXjICm3QbPl+l+qDkXnawAilYu8GGBwfDXkn/+KuxZ
+	e6FJlblu/81ZSG4vwp6G5y2pmbC5B2FPzDz3yhQwYuO8ddCIh4fIQ=
+Received: from wordpress.com (jobs24.luv.wordpress.com [72.233.44.107])
+	by smtp3.luv.wordpress.com (Postfix) with ESMTP id 63BB61008E
+	for <faldo_sonic@yahoo.com>; Tue, 30 Oct 2012 13:52:39 +0000 (UTC)
+Date: Tue, 30 Oct 2012 13:52:39 +0000
+To: faldo_sonic@yahoo.com
+From: Java Sexy Edition <comment-reply@wordpress.com>
+Subject: [Tulisan baru] Download Buku Membuat Aplikasi Java Web Enterprise Gratis
+Message-ID: <1819006.5087.0@wordpress.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+Reply-to: "Java Sexy Edition" <comment+egnd_bsdrbaxuf-8kjfn6c@comment.wordpress.com>
+List-Help: <http://en.support.wordpress.com/subscriptions/>
+List-Unsubscribe: <https://subscribe.wordpress.com/?key=3ae65f1c86a8473c58dc123507d6b8bf&amp;email=faldo_sonic%40yahoo.com&amp;b=LaezZ%2C%25G.7mEW38oSoy8.%3D35Oekz8bZVTHf%25LM.%3FCem3uvYB%2F6>
+List-Subscribe: <http://eecchhoo.wordpress.com>
+List-Archive: <http://eecchhoo.wordpress.com>
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2ad3caaee424240b89cbf998c1e15ce4"
+Content-Length: 19207
+
+
+--b1_2ad3caaee424240b89cbf998c1e15ce4
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tulisan  : Download Buku Membuat Aplikasi Java Web Enterprise Gratis=0AURL =
+     : http://eecchhoo.wordpress.com/2012/10/30/download-buku-membuat-aplik=
+asi-java-web-enterprise-gratis-2/=0ATerkirim : 30 Oktober 2012 pada 20.52=
+=0APenulis  : Eko Kurniawan Khannedy=0ATag      : belajar pemrograman java =
+enterprise, download buku java enterprise, download tutorial pemrograman ja=
+va enterprise, java enterprise, tutorial java enterprise=0AKategori : Other=
+=0A=0ABuku ini ngebahas tentang membuat aplikasi java web enterprise sederh=
+ana. Buku ini menggunakan teknologi java enterprise seperti JSF, EJB, JPA d=
+an Bean Validation. Dalam buku ini juga menggunakan tool NetBeans dan Glass=
+fish. Silahkan download bukunya di tautan dibawah ini : http://stripbandunk=
+.googlecode.com/files/Membuat-Aplikasi-Java-Web-Enterprise-Sederhana.pdf Se=
+lamat belajar=C2=A0=0A=0ABaca tulisan ini lebih lanjut (http://eecchhoo.wor=
+dpress.com/2012/10/30/download-buku-membuat-aplikasi-java-web-enterprise-gr=
+atis-2/)=0A=0AKomentari tulisan ini: http://eecchhoo.wordpress.com/2012/10/=
+30/download-buku-membuat-aplikasi-java-web-enterprise-gratis-2/#respond=0A=
+=0A-- =0AWordPress.com | Terima kasih karena terbang bersama WordPress!=0A=
+=0AKelola Langganan=0Ahttps://subscribe.wordpress.com/?key=3D3ae65f1c86a847=
+3c58dc123507d6b8bf&email=3Dfaldo_sonic%40yahoo.com=0A=0AUnsubscribe:=0Ahttp=
+s://subscribe.wordpress.com/?key=3D3ae65f1c86a8473c58dc123507d6b8bf&email=
+=3Dfaldo_sonic%40yahoo.com&b=3DLaezZ%2C%25G.7mEW38oSoy8.%3D35Oekz8bZVTHf%25=
+LM.%3FCem3uvYB%2F6=0A
+
+--b1_2ad3caaee424240b89cbf998c1e15ce4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A=09<style type=3D"text/css" media=3D"all">=
+=0A=09a:hover {=09color: red;=09}=0A=09a {=0A=09=09text-decoration: none;=
+=0A=09=09color: #0088cc;=0A=09}=0A=09=0A=09a.primaryactionlink:link, a.prim=
+aryactionlink:visited { background-color: #2585B2; color: #fff; }=0A=09a.pr=
+imaryactionlink:hover, a.primaryactionlink:active { background-color: #1172=
+9E !important; color: #fff !important; }=0A=0A/*=0A =09@media only screen a=
+nd (max-device-width: 480px) { =0A=09=09 .post { min-width: 700px !importan=
+t; }=0A=09}=0A*/=0A=09</style>=0A=09<title>WordPress.com</title>=0A=09<!--[=
+if gte mso 12]>=0A=09<style type=3D"text/css" media=3D"all">=0A=09body {=0A=
+=09font-family: arial;=0A=09font-size: 0.8em;=0A=09}=0A=09.post, .comment {=
+=0A=09background-color: white !important;=0A=09line-height: 1.4em !importan=
+t;=0A=09}=0A=09</style>=09=0A=09<![endif]-->=0A=09<meta http-equiv=3D"Conte=
+nt-Type" content=3D"text/html; charset=3Dutf-8" />=0A</head>=0A=0A<body sty=
+le=3D"background: #DDDDDD; font-family: &quot;Helvetica Neue&quot;, Helveti=
+ca, Arial, sans-serif; font-size: 14px; color: #666; text-align: center; ma=
+rgin: 0; padding: 0;" class=3D"subscription-body-tag">=0A=0A<table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#DDDDDD" style=3D"bac=
+kground: #DDDDDD; width: 100%;">=0A=09<tr>=0A=09=09<td>=0A=09=09=09=09=09<s=
+pan style=3D"display:none !important">=0A=09=09=09=09Eko Kurniawan Khannedy=
+ menulis:"Buku ini ngebahas tentang membuat aplikasi java web enterprise se=
+derhana. Buku ini menggunakan teknologi java enterprise seperti JSF, EJB, J=
+PA dan Bean Validation. Dalam buku ini juga menggunakan tool NetBeans dan G=
+lassfish.
+
+Silahkan download bukunya d"=09=09=09</span>=0A=09=09=09=09=09=09<table bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D'center'  style=3D"pa=
+dding: 10px; width: 100%;" class=3D"subscribe-body">=0A=09=09=09=09<tr>=0A=
+=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"1=
+00%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" clas=
+s=3D"header-small-text" style=3D"padding-bottom:10px; width: 100%;">=0A=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09<td align=3D"center" style=
+=3D"color: #555 !important; font-size: 10px;">Tanggapi tulisan ini dengan m=
+enuliskannya di atas garis ini</td>=0A=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"ma=
+x-width: 600px; margin: 0 auto; overflow: hidden;">=0A=09=09=09=09=09=09=09=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff"=
+  style=3D"background-color: #fff; text-align: left; margin: 0 auto; max-wi=
+dth: 1024px; min-width: 320px; width: 100%;" class=3D"subscribe-wrapper">=
+=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td>=0A=09=09=
+=09=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" height=3D"8" background=3D"http:/s.wordpress.com/i/emails/stripes.gi=
+f"  style=3D"background-image: url( 'http:/s.wordpress.com/i/emails/stripes=
+.gif'); background-repeat: repeat-x; background-color: #43A4D0; height: 8px=
+; width: 100%;" class=3D"subscribe-header-wrap">=0A=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0"  style=3D"color: #0088cc; margin: 0 0 5px 0; font-size: 1.6em=
+; color: #0088cc; margin: 0 0 0px 0; font-size: 1.6em; background-color: #E=
+FEFEF; padding: 0; border-bottom: 1px solid #DDD; width: 100%;" class=3D"su=
+bscribe-header">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<h2 styl=
+e=3D"padding: 0px; margin: 5px 20px; font-size: 16px; line-height: 1; font-=
+weight: normal; color: #464646; font-family: &quot;Helvetica Neue&quot;, He=
+lvetica, Arial, sans-serif;" class=3D"subscribe-title">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09Tulisan baru pada <strong>Java Sexy Edition</str=
+ong>=09=09=09=09=09=09=09=09=09=09=09=09=09</h2>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-a=
+lign: right;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<img border=3D"0" s=
+tyle=3D"margin: 5px 20px 5px 0; vertical-align: middle;" class=3D"head-avat=
+ar" src=3D'http://1.gravatar.com/blavatar/9130446ee1a980e58c057ac91c3551d3?=
+s=3D32&#038;ts=3D1351605159' alt=3D'' style=3D'vertical-align: middle;' />=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"20" bgc=
+olor=3D"#ffffff" style=3D"width: 100%;">=0A=09=09=09=09=09=09=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"width: 100%;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" class=3D"th=
+e-post">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"width: 100%;">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td style=3D"width: 60px !important; white-space: nowrap; ve=
+rtical-align: top;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<a href=3D"http://eecchhoo.wordpress.com/author/khannedy/" style=
+=3D"display: block; margin-right: 10px; text-decoration: none; color: #0088=
+cc; text-decoration: underline; color: #2585B2;"><img border=3D"0" alt=3D''=
+ src=3D'http://1.gravatar.com/avatar/df38f3ac51acc07e479259f59984ea7a?s=3D5=
+0&amp;d=3Dhttp%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6=
+523536%3Fs%3D50&amp;r=3DX' class=3D'avatar avatar-50' height=3D'50' width=
+=3D'50' /></a>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<h2 style=3D"margi=
+n: 0; font-size: 1.6em; color: #555; margin: 0; font-size: 1.6em; color: #5=
+55; font-size: 20px;" class=3D"post-title"><a style=3D"text-decoration: non=
+e !important; text-decoration: none; color: #0088cc; text-decoration: under=
+line; color: #2585B2;" href=3D"http://eecchhoo.wordpress.com/2012/10/30/dow=
+nload-buku-membuat-aplikasi-java-web-enterprise-gratis-2/">Download Buku Me=
+mbuat Aplikasi Java Web Enterprise&nbsp;Gratis</a></h2>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #888;">b=
+y <a href=3D"http://eecchhoo.wordpress.com/author/khannedy/" style=3D"color=
+: #888 !important; text-decoration: none; color: #0088cc; text-decoration: =
+underline; color: #2585B2;">Eko Kurniawan Khannedy</a></span>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"marg=
+in-top: 1em; max-width: 560px;" class=3D"post-content">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<p style=3D"font-size: 14px; line-height: 1.4em; color: #444=
+444; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;=
+ margin: 0 0 1em 0;">Buku ini ngebahas tentang membuat aplikasi java web en=
+terprise sederhana. Buku ini menggunakan teknologi java enterprise seperti =
+JSF, EJB, JPA dan Bean Validation. Dalam buku ini juga menggunakan tool Net=
+Beans dan Glassfish. Silahkan download bukunya di tautan dibawah ini : http=
+://stripbandunk.googlecode.com/files/Membuat-Aplikasi-Java-Web-Enterprise-S=
+ederhana.pdf Selamat belajar=C2=A0</p>=0A<p style=3D"font-size: 14px; line-=
+height: 1.4em; color: #444444; font-family: &quot;Helvetica Neue&quot;, Hel=
+vetica, Arial, sans-serif; margin: 0 0 1em 0;"><a href=3D"http://eecchhoo.w=
+ordpress.com/2012/10/30/download-buku-membuat-aplikasi-java-web-enterprise-=
+gratis-2/" style=3D"text-decoration: none; color: #0088cc; text-decoration:=
+ underline; color: #2585B2;">Baca tulisan ini lebih lanjut</a></p>=0A<div s=
+tyle=3D"clear: both"></div>=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<div style=3D"color: #999; font-size: 0.9em; margin-top: 4px; c=
+olor: #999; font-size: 0.9em; margin-top: 4px; line-height: 160%; padding: =
+15px 0 15px; border-top: 1px solid #eee; border-bottom: 1px solid #eee; ove=
+rflow: hidden" class=3D"meta">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<strong><a href=3D"http://eecchhoo.wordpress.com/author/khanned=
+y/" style=3D"text-decoration: none; color: #0088cc; text-decoration: underl=
+ine; color: #2585B2;">Eko Kurniawan Khannedy</a></strong> | 30 Oktober 2012=
+ pada 20.52 | Tag: <a href=3D"http://eecchhoo.wordpress.com/?tag=3Dbelajar-=
+pemrograman-java-enterprise" style=3D"text-decoration: none; color: #0088cc=
+; text-decoration: underline; color: #2585B2;">belajar pemrograman java ent=
+erprise</a>, <a href=3D"http://eecchhoo.wordpress.com/?tag=3Ddownload-buku-=
+java-enterprise" style=3D"text-decoration: none; color: #0088cc; text-decor=
+ation: underline; color: #2585B2;">download buku java enterprise</a>, <a hr=
+ef=3D"http://eecchhoo.wordpress.com/?tag=3Ddownload-tutorial-pemrograman-ja=
+va-enterprise" style=3D"text-decoration: none; color: #0088cc; text-decorat=
+ion: underline; color: #2585B2;">download tutorial pemrograman java enterpr=
+ise</a>, <a href=3D"http://eecchhoo.wordpress.com/?tag=3Djava-enterprise" s=
+tyle=3D"text-decoration: none; color: #0088cc; text-decoration: underline; =
+color: #2585B2;">java enterprise</a>, <a href=3D"http://eecchhoo.wordpress.=
+com/?tag=3Dtutorial-java-enterprise" style=3D"text-decoration: none; color:=
+ #0088cc; text-decoration: underline; color: #2585B2;">tutorial java enterp=
+rise</a>=0A | Categories: <a href=3D"http://eecchhoo.wordpress.com/?cat=3D1=
+035" style=3D"text-decoration: none; color: #0088cc; text-decoration: under=
+line; color: #2585B2;">Other</a>=0A | URL: <a href=3D"http://wp.me/p7DcO-1k=
+3" style=3D"text-decoration: none; color: #0088cc; text-decoration: underli=
+ne; color: #2585B2;">http://wp.me/p7DcO-1k3</a>=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</div>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<p style=3D"font-size: 14px; padding: 0; c=
+olor: #666; padding-top: 1em; padding-bottom: 0em; margin-bottom: 0; margin=
+-left: 0; padding-left: 0;" class=3D"subscribe-action-links">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"width: 100%;">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td style=3D"width: 10px;"><a style=3D'-moz-b=
+order-radius: 10em; -webkit-border-radius: 10em; border-radius: 10em; borde=
+r: 1px solid #11729E; text-decoration: none; color: #fff; text-shadow: 0 1p=
+x 0 #11729E; background-color: #2585B2; padding: 5px 15px; font-size: 16px;=
+ line-height: 1.4em; font-family: Helvetica Neue, Helvetica, Arial, sans-se=
+rif; font-weight: normal; margin-left: 0; white-space: nowrap;' href=3D"htt=
+p://eecchhoo.wordpress.com/2012/10/30/download-buku-membuat-aplikasi-java-w=
+eb-enterprise-gratis-2/#respond" style=3D"text-decoration: none; color: #00=
+88cc; text-decoration: underline; color: #2585B2;">Komentar</a></td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>&nbsp;&nbsp;&n=
+bsp;<a style=3D"font-size: 14px; text-decoration: underline; text-decoratio=
+n: none; color: #0088cc; text-decoration: underline; color: #2585B2;" class=
+=3D"subscribe-action-link" href=3D"http://eecchhoo.wordpress.com/2012/10/30=
+/download-buku-membuat-aplikasi-java-web-enterprise-gratis-2/#comments">See=
+ all comments</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ta=
+ble>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09<table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"20" bgcolor=3D"#efefef"  style=3D"backgro=
+und-color: #efefef; text-align: left; border-top: 1px solid #dddddd; width:=
+ 100%;" class=3D"subscribe-wrapper-sub">=0A=09=09=09=09=09=09=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"border-top: 1px =
+solid #f3f3f3; color: #888; font-family: &quot;Helvetica Neue&quot;, Helvet=
+ica, Arial, sans-serif; font-size: 14px; background: #efefef;" class=3D"sub=
+scribe-content">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D'font-=
+size: 12px; line-height: 1.4em; margin: 0px 0px 10px 0px;' style=3D"font-si=
+ze: 14px; line-height: 1.4em; color: #444444; font-family: &quot;Helvetica =
+Neue&quot;, Helvetica, Arial, sans-serif; margin: 0 0 1em 0;">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09Unsubscribe or change your email settings =
+at <a href=3D"https://subscribe.wordpress.com/?key=3D3ae65f1c86a8473c58dc12=
+3507d6b8bf&amp;email=3Dfaldo_sonic%40yahoo.com" style=3D"text-decoration: n=
+one; color: #0088cc; text-decoration: underline; color: #2585B2;">Manage Su=
+bscriptions</a>.=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<p style=3D'font-size: 12px; line-height: 1.4=
+em; margin: 0px 0px 0px 0px;' style=3D"font-size: 14px; line-height: 1.4em;=
+ color: #444444; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,=
+ sans-serif; margin: 0 0 1em 0;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<strong>Trouble clicking?</strong> Copy and paste this URL into your bro=
+wser: <br />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://=
+eecchhoo.wordpress.com/2012/10/30/download-buku-membuat-aplikasi-java-web-e=
+nterprise-gratis-2/" style=3D"text-decoration: none; color: #0088cc; text-d=
+ecoration: underline; color: #2585B2;">http://eecchhoo.wordpress.com/2012/1=
+0/30/download-buku-membuat-aplikasi-java-web-enterprise-gratis-2/</a>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09<t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=3D"3" backgrou=
+nd=3D"http:/s.wordpress.com/i/emails/stripes.gif"  style=3D"background-imag=
+e: url( 'http://s.wordpress.com/i/emails/stripes.gif'); background-repeat: =
+repeat-x; background-color: #43A4D0; height: 3px; width: 100%;" class=3D"su=
+bscribe-footer-wrap">=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09<td></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09<=
+/table>=0A=09=09=09=09=09=09</div>=0A=09=09=09=09=09</td>=0A=09=09=09=09</t=
+r>=0A=09=09=09</table>=0A=0A=09=09=09=0A=09=09=09=09<table width=3D"100%" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D'center'  style=3D"=
+padding-bottom: 2em; color: #555555; font-size: 12px; height: 18px; text-al=
+ign: center; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, san=
+s-serif; width: 100%;" class=3D"subscribe-footer">=0A=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09<td align=3D'center'>=0A=09=09=09=09=09=09<a style=3D"fon=
+t-size: 14px; color: #555555 !important; text-decoration: none; font-family=
+: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: #555 !im=
+portant; font-size: 14px; text-decoration: none;" class=3D"subscribe-footer=
+-link"  href=3D"http://wordpress.com">Thanks for flying with <img border=3D=
+"0" src=3D"http://s.wordpress.com/i/emails/wp-footericon.png" alt=3D"" styl=
+e=3D"vertical-align: middle;" width=3D"16" and height=3D"17" /> WordPress.c=
+om</a>=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=
+=0A=0A=09=09=09=0A=09=09=09<br />=0A=09=09</td>=0A=09</tr>=0A</table>=0A=0A=
+<img alt=3D"" border=3D"0" src=3D"http://stats.wordpress.com/b.gif?host=3De=
+ecchhoo.wordpress.com&#038;blog=3D1819006&#038;post=3D5087&#038;subd=3Deecc=
+hhoo&#038;ref=3D&#038;email=3D1&#038;email_o=3Dwpcom" width=3D"1" height=3D=
+"1" /></body></html>
+
+
+--b1_2ad3caaee424240b89cbf998c1e15ce4--
+

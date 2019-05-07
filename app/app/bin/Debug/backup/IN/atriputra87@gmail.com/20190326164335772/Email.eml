@@ -1,0 +1,32 @@
+Return-Path: <atriputra87@gmail.com>
+Received: from ctiteam.domain ([112.78.180.57])
+        by smtp.gmail.com with ESMTPSA id g5sm7511856pfo.53.2019.03.26.00.48.52
+        for <andre@invision-ap.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 26 Mar 2019 00:48:53 -0700 (PDT)
+Message-ID: <56c75e328f742493243a007b001be28a@gmail.com>
+From: <atriputra87@gmail.com>
+To: <andre@invision-ap.com>
+Subject: Test
+Date: Tue, 26 Mar 2019 14:48:46 +0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="087a1af2c3d14c6f3c4d0c8f000ac340"
+
+This is a multi-part message in MIME format.
+
+--087a1af2c3d14c6f3c4d0c8f000ac340
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Test
+
+--087a1af2c3d14c6f3c4d0c8f000ac340
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Test
+
+--087a1af2c3d14c6f3c4d0c8f000ac340--

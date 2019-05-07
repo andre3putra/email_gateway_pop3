@@ -1,0 +1,480 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.234; Tue, 30 Oct 2012 08:55:48 -0700
+Return-Path: <z650adeb71snyqb_fbavp=lnubb.pbz@postmaster.twitter.com>
+Received-SPF: pass (domain of postmaster.twitter.com designates 199.59.148.231 as permitted sender)
+X-YMailISG: VESqw9kWLDsjnYllkxCS8otwst_stin8gAEPQxaF6XJQy3Nq
+ BCgBXmMEfjXlMtyCjMzhLz3IIplXGw4DGF547fR5dlCjFvLQ1qmc.9Tdf_D3
+ tm7F3nAAyJ1T82UzRmAgdSQIVeCsEdh4PKQF3zqNi5M0FkCCbnaUOYDK6yOb
+ Jqqc5ThwH7PNnf0Q_ZfSqiBEZIn_ZeeMRrLaKL9ZfMys.qGHjhaDSQ84.3RX
+ ZnVHQ8qjiwSHy9.FDS.vU2uHYR6jGgF.gPdu4i0BQRg7Ml54P5pOYV5D34om
+ nsKGU9OyVjygMHJjwuo.d13Z55O57fsrnHeGOb9R791Cfyi548risBA6pijr
+ mcLK1TqPQoJYa.CM2APP34oUVGN44ZevO.HiBRsoMheywMStKJRr8Khz9FS8
+ HhcMRqNehp.0QlE4Ul4WWM782ilinG09azygWb8SclUd0HVaQdnmSejZ6Z9p
+ 0Jebd8DUMOwOJiY00YY18jVHCjfXC5ayANmzeuYE2ZefLkabfzhYGhqg337k
+ FBCzoXSI6rz951vADKznMxZndPB0Kmdkg1E3jsaGPfT4SAX9ZEy1qyKn8eqv
+ zQuempo4teNjlHSgDBJGomgL1_dzqSrnMG2ArGvYSaQIJdtlqkIrMPVAXd0G
+ mbTx4FDjpUdvNi8SckRBnOXPOWzhESNVA.ZOBPGFhsoss9mM45zizfQ3KFcN
+ Dh79JxyNlOv6hnIox2F4VUwmPNW2FSqenF96y8wBQqq_75S32qNwa_uxuLLd
+ w8rjOBHKmJSpFmf54NeygDYHQtODrIQRVkfklwVUv.3SpKQBKT5ee.gsS5j8
+ yEsCnQVl0awVuzcrrlJ2Udt3_Ene6ZylVUSscwF_PalTVu.Wh.A9cbPFuocT
+ XLAV4LTDnV.26KJ7IiKTOGPOSeUErL8eG3jGo9DzeyZY320HNQyGgN3RkoNE
+ esMjG05xxWE_cbYeTS4gpTl79pD6aaN_YQrRbmnyu_2VN_gWhHSAda1oh.r.
+ P9X1uxYhyOZX9DZ3CGDmwUw9xLg1D25KtxVVThO_JEkjtZE5FcTI0YyuVcDs
+ tl3eQ9cktX5NxNlBYMBpL58ohs5ZSIx8cB4G97QO53wNdd0HYNgimvA_3Pzv
+ XuYBBP88UcWFJ0NUCVGrizgpUdC07JBGHbz_GzXcvgtU5..gsYYX1eTnsB..
+ UN6zwanjkJe6_cD7hACoXXqK2VZ208euO_CRr6vDknpmZ70xu36v6zTGjgUl
+ dLf_HX1CPawiseZPdND7R5VpxFR2IaYPPMn6a_xij6JlGQKaHDY7Qb4rB6ix
+ _TZuYe7E05E0d2b3fp3gprzWSL5sZLG6H3XUHSneH1ZR6Qi9mrQvy4EuHw--
+X-Originating-IP: [199.59.148.231]
+Authentication-Results: mta1354.mail.mud.yahoo.com  from=postmaster.twitter.com; domainkeys=neutral (no sig);  from=twitter.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO ham-cannon.twitter.com) (199.59.148.231)
+  by mta1354.mail.mud.yahoo.com with SMTP; Tue, 30 Oct 2012 08:55:48 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/simple; d=twitter.com; s=dkim-201205;
+	h=Message-ID:Date:Content-Type:MIME-Version:Subject:To:From; bh=RkDMkQYA0+vNdyJbIyFTUoNionsFGSDvt+RdZXTb1Zs=;
+	b=q4TTNpK/7EOJOC6nJMD3ON5yX6WSO+tvvK3GHiTinDF41ymdrpSsXh0sizGHpF4+uusWL7Tyr6svSNVqSxXX6w4PbbsL8onedJzmKDzmjkCIsz3yeKaDxKpk/TemccE42zrLzPLV6y4fmfJO3I0rVZ3z9i9Ax+wV642vByCHAOA=;
+From: Twitter <n-snyqb_fbavp=lnubb.pbz-00617@postmaster.twitter.com>
+To: "Andre I.Triputra" <faldo_sonic@yahoo.com>
+Subject: Krisnawan Triady P(@kriez_one) menyebut Anda di Twitter!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4743702_855788308.1351612538007"
+X-mailstream: default
+X-twfbl: am-4065281413516125376349822
+Date: Tue, 30 Oct 2012 15:55:38 +0000
+Message-ID: <20469202.47382481351612538013.JavaMail.ibis@1TTEAE-0004VK-WI.mta.twitter.com>
+Content-Length: 18878
+
+------=_Part_4743702_855788308.1351612538007
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Krisnawan Triady P @kriez_one
+Congrats my brother... Cepat sembuh yaa RT @andre_sonic: Alhamdullilah operasi berjalan lancar
+10:55 PM - 30 Okt 12
+------------------------
+
+Jaga percakapan agar terus berlanjut:
+Balas ke @Krisnawan Triady P
+https://twitter.com/kriez_one/status/263308182858891264
+
+
+------------------------
+
+Lupa kata sandi Twitter? Dapatkan petunjuk cara pengaturan ulang:
+https://twitter.com/account/resend_password
+
+Anda juga dapat berhenti berlangganan email ini atau mengubah pengaturan notifikasi Anda:
+https://twitter.com/i/u?uid=66145027&iid=am-4065281413516125376349822&nid=4+26&sig=ea73baae671b4c61c7582a6770c2324bebf6659b
+https://twitter.com/settings/notifications
+
+Butuh bantuan?
+https://support.twitter.com
+
+Jika Anda menerima pesan ini dan tidak pernah mendaftar di Twitter, klik url di bawah:
+https://twitter.com/account/not_my_account/andre_sonic/C5F8C-D62HA-135161
+------=_Part_4743702_855788308.1351612538007
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .global-width-670-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-520-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-500-to-300 {
+width: 300px !important;
+}
+table[class=outer] .global-separator-padding {
+height: 8px !important;
+}
+table[class=outer] .global-shrinking-to-0 {
+height: 0px !important;
+}
+table[class=outer] .global-shrinking-to-10 {
+height: 10px !important;
+}
+table[class=outer] .global-h1 {
+font-size: 14px !important;
+}
+
+table[class=outer] .cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .vcut {
+height: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] img.cut {
+display: none !important;
+width: 0 !important;
+height: 0 !important;
+}
+table[class=outer] .cut span, table[class=outer] .cut a {
+display: none !important;
+}
+table[class=outer] .frame {
+width: 320px !important;
+border-left: 0px !important;
+border-right: 0px !important;
+}
+table[class=outer] .main_header.media_header {
+width: 300px !important;
+height: 55px !important;
+}
+table[class=outer] .header_left {
+height: 55px !important;
+}
+table[class=outer] .logo_header {
+height: 62px !important;
+}
+table[class=outer] .main_name {
+font-size: 12px !important;
+}
+table[class=outer] .subtitle {
+font-size: 12px !important;
+}
+table[class=outer] .media_main {
+width: 300px !important;
+}
+table[class=outer] .media_main .intro {
+width: 260px !important;
+font-size: 14px !important;
+}
+table[class=outer] .media_main .intro2 {
+font-size: 14px !important;
+}
+table[class=outer] .media_main .suggestions {
+font-size: 14px !important;
+}
+table[class=outer] .media_more {
+width: 300px !important;
+border-radius: 0 !important;
+background-color: #ffffff !important;
+border-top: 1px solid #e8e8e8 !important;
+}
+table[class=outer] .media_button {
+width: 300px !important;
+background-color: #209ae4 !important;
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+}
+table[class=outer] .media_footer {
+font-size: 11px !important;
+line-height: 14px !important;
+padding: 0 10px !important;
+}
+table[class=outer] .address {
+font-size: 11px !important;
+line-height: 14px !important;
+display: block !important;
+}
+table[class=outer] td[class=footer-padding-top] {
+height: 20px !important;
+}
+table[class=outer] td[class=footer-padding-bottom] {
+height: 17px !important;
+}
+table[class=outer] .media_footer br {
+display: none !important;
+}
+table[class=outer] .spacer.ios {
+display: none !important;
+}
+table[class=outer] .reset {
+display: block !important;
+padding-bottom: 4px !important;
+}
+table[class=outer] .media_logo_div {
+display: block !important;
+position: absolute !important;
+left: 274px !important;
+top: 0 !important;
+background-image: url('https://twitter.com/images/email/t1/ribbon.png') !important;
+background-size: 100% 100% !important;
+width: 36px !important;
+height: 68px !important;
+z-index: 1 !important;
+}
+table[class=employee-only-padding-top-bottom] {
+width: 310px !important;
+}
+td[class=employee-only-padding-left-right] {
+width: 4px !important;
+}
+table[class=employee-only] {
+width: 310px !important;
+}
+td[class=header_padding] {
+height: 55px !important;
+}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .media_button {
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+background-color: #209ae4 !important;
+}
+table[class=outer] .media_button td.cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .media_button {
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+}
+
+</style>
+</head>
+<body style="margin: 0; padding: 0; background: #ffffff;-webkit-text-size-adjust: 100%;">
+<span style="color: white; font-size: 1px; display: none;">Congrats my brother... Cepat sembuh yaa RT @andre_sonic: Alhamdullilah operasi berjalan lancar - @kriez_one</span>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="outer" style="position: relative; background-color: #dddddd;">
+<tbody>
+<tr>
+<td>
+<table class="outer frame" align="center" cellpadding="0" cellspacing="0" border="0" width="670" style="border: 0px; border-left: 1px solid #cccccc; border-right: 1px solid #cccccc; background-color: #ffffff;position: relative; background-color: #dddddd;">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+21" style="border: none; color: #0084b4; text-decoration: none;"><span class="media_logo_div"></span></a>
+<table cellpadding="0" cellspacing="0" border="0" width="670" class="header frame" style="background-color: #f2f2f2; table-layout: fixed;">
+<tbody>
+<tr>
+<td class="header_left cut" style="width: 19px; height: 77px;"> &nbsp; </td>
+<td height="94" width="46" valign="top" rowspan="2" class="logo_header cut" style="background-color: #ffffff; line-height: 100%;"><a href="https://twitter.com?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+21" style="border: none; color: #0084b4; text-decoration: none;"><img class="logo cut" src="https://twitter.com/images/email/t1/ribbon.png" width="46" height="94" style="border: 0; background-color: #fff; line-height: 100%;border: 0;" /></a></td>
+<td class="cut" width="9"> &nbsp; </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td width="458" height="77" class="main_header media_header" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="main_name" style="font-size: 14px; font-weight: bold; color: #000000;"> Andre I.Triputra, </td>
+</tr>
+<tr>
+<td class="subtitle" style="font-size: 14px; color: #666666;"> Anda disebut dalam sebuah Tweet! </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td class="main_avatar cut" width="32" style="text-align: right;"> <a href="https://twitter.com/andre_sonic?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+22" style="border: none; color: #0084b4; text-decoration: none;"><img class="cut" src="https://si0.twimg.com/profile_images/2193145430/247333_1844457549027_1168267629_31723764_3993209_n_reasonably_small.jpg" width="32" height="32" alt="Andre I.Triputra" style="background-color: #ffffff; border-radius: 5px;border: 0;" /></a> </td>
+<td class="col header cut" style="background-color: #f2f2f2; table-layout: fixed;width: 85px;"></td>
+</tr>
+<tr>
+<td class="main header_drop cut" style="border-top: 1px solid #dddddd;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">&nbsp;</td>
+<td class="main header_drop cut" style="border-top: 1px solid #dddddd;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">&nbsp;</td>
+<td class="main header_drop media_header" height="17" style="border-top: 1px solid #dddddd;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;"><img width="1" height="1" style="display: block;border: 0;" src="https://twitter.com/scribe/ibis?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+20" /></td>
+<td class="main header_drop cut" height="17" colspan="4" style="border-top: 1px solid #dddddd;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td style="background: #ffffff;">
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class="main"] {
+width: 320px !important;
+}
+table[class="general-text-rules"] {
+width: 300px !important;
+}
+table[class="separator-padding"] {
+width: 320px !important;
+}
+table[class="separator-padding"] td {
+height: 8px !important;
+}
+hr[class="separator"] {
+width: 320px !important;
+}
+table[class="action"] {
+width: 300px !important;
+border-radius: 0 !important;
+background-color: #ffffff !important;
+}
+td[class="engagement-message"] {
+display: none;
+}
+td[class="top-height"] {
+height: 8px !important;
+}
+}
+
+</style>
+<table width="670" border="0" cellpadding="0" cellspacing="0" class="main frame" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">
+<tbody>
+<tr>
+<td>
+<table width="520" border="0" align="center" cellpadding="0" cellspacing="0" class="general-text-rules" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<tbody>
+<tr>
+<td height="20" class="top-height" style="height: 20px;"></td>
+</tr>
+<tr>
+<td>
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class="big-tweet-template"] {
+width: 300px !important;
+}
+td[class="big-tweet-template-text"] {
+font-size: 18px !important;
+line-height: 22px !important;
+}
+td[class="big-tweet-template-text"] a {
+color: #777 !important;
+}
+td[class="big-tweet-template-user-info"] {
+width: 242px !important;
+}
+}
+
+</style>
+<table width="500" border="0" align="center" cellpadding="0" cellspacing="0" class="big-tweet-template" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: white; table-layout: fixed;">
+<tbody>
+<tr valign="top">
+<td rowspan="2" width="48" class="big-tweet-template-avatar" style="width: 48px;"> <a href="https://twitter.com/kriez_one/status/263308182858891264?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+246" style="border: none; color: #0084b4; text-decoration: none;"> <img width="48" height="48" src="https://si0.twimg.com/profile_images/2011849413/337092398_reasonably_small.jpg" alt="Krisnawan Triady P" style="border: 0;width: 48px; height: 48px; border-radius: 4px;" /> </a> </td>
+<td rowspan="2" width="10" class="big-tweet-template-avatar-padding"></td>
+<td height="24" valign="bottom" class="big-tweet-template-user-info" style="width: 442px;"> <a href="https://twitter.com/kriez_one/status/263308182858891264?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+248" style="border: none; color: #0084b4; text-decoration: none;"><span class="big-tweet-template-name" style="font-size: 18px; font-weight: bold; color: #333;">Krisnawan Triady P</span></a> </td>
+</tr>
+<tr valign="top">
+<td height="24" class="big-template-tweet-user-info"> <a href="https://twitter.com/kriez_one/status/263308182858891264?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+247" style="border: none; color: #0084b4; text-decoration: none;"> <span class="big-tweet-template-screen-name" style="font-size: 14px; color: #999;">@kriez_one</span> </a> </td>
+</tr>
+<tr>
+<td height="10" colspan="3" class="big-tweet-template-padding"></td>
+</tr>
+<tr>
+<td colspan="3" class="big-tweet-template-text" style="word-wrap: break-word; color: #333; font-size: 22px; font-family: Georgia, 'Times New Roman', Times, serif; line-height: 26px;"> Congrats my brother... Cepat sembuh yaa RT <a href="http://twitter.com/andre_sonic?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+255" style="border: none; color: #0084b4; text-decoration: none;">@andre_sonic</a>: Alhamdullilah operasi berjalan lancar </td>
+</tr>
+<tr>
+<td height="4" colspan="3" class="big-tweet-template-padding"></td>
+</tr>
+<tr>
+<td colspan="3" class="big-tweet-template-date" style="font-size: 12px; color: #bbb;"> <a href="https://twitter.com/kriez_one/status/263308182858891264?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+251" style="border: none; color: #0084b4; text-decoration: none;color: #bbb;">10:55 PM - 30 Okt 12</a> </td>
+</tr>
+</tbody>
+</table>
+<table width="500" border="0" align="center" cellpadding="0" cellspacing="0" class="separator-padding">
+<tbody>
+<tr>
+<td width="500" height="12"></td>
+</tr>
+</tbody>
+</table>
+<hr class="separator" style="height: 1px; border: 0px; margin: 0px; background-color: #e8e8e8; width: 520px;" />
+<!-- -------------------- -->
+<table cellpadding="0" cellspacing="0" width="500" align="center" class="action">
+<tbody>
+<tr>
+<td height="12" colspan="2"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="engagement-message" style="color: #666; font-size: 14px;"> Jaga percakapan agar terus berlanjut. </td>
+<td align="right">
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=button-template] {
+width: 300px !important;
+}
+tr[class=button-template-vertical-padding] {
+height: 3px !important;
+}
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+td[class=button-template] {
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+}
+
+</style>
+<table cellpadding="0" cellspacing="0" border="0" class="button-template" style="background-image: url('https://twitter.com/images/email/t1/button_bg_long.png'); background-repeat: repeat-x; background-color: #33a9e5; border-radius: 5px; height: 28px; border: 1px solid #28C; word-wrap: break-word; text-align: center;">
+<tbody>
+<tr>
+<td align="center" style="padding-left: 15px; padding-right: 15px;">
+<table cellpadding="0" cellspacing="0" border="0" class="button-template-inner">
+<tbody>
+<tr>
+<td style="padding-left: 15px; padding-right: 15px;padding-left: 0px; padding-right: 0px;"> <a href="https://twitter.com/home?screen_name=kriez_one&amp;context=email&amp;iid=am-4065281413516125376349822&amp;in_reply_to_status_id=263308182858891264&amp;status=&amp;uid=66145027&amp;nid=4+256" style="border: none; color: #0084b4; text-decoration: none;color: white;"> <img src="https://twitter.com/images/email/t1/reply_arrow.png" alt="" style="border: 0;" /> </a> </td>
+<td width="6" class="button-template-inner-vertical-padding" style="padding-left: 15px; padding-right: 15px;padding-left: 0px; padding-right: 0px;height: 6px;"> <a href="https://twitter.com/home?screen_name=kriez_one&amp;context=email&amp;iid=am-4065281413516125376349822&amp;in_reply_to_status_id=263308182858891264&amp;status=&amp;uid=66145027&amp;nid=4+256" style="border: none; color: #0084b4; text-decoration: none;color: white;"> </a> </td>
+<td height="28" class="button-template-font" style="color: white; font-size: 13px; font-weight: bold; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;padding-left: 15px; padding-right: 15px;padding-left: 0px; padding-right: 0px;"> <a href="https://twitter.com/home?screen_name=kriez_one&amp;context=email&amp;iid=am-4065281413516125376349822&amp;in_reply_to_status_id=263308182858891264&amp;status=&amp;uid=66145027&amp;nid=4+256" style="border: none; color: #0084b4; text-decoration: none;color: white;"> Balas ke @kriez_one </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height="12" colspan="2"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" width="670" class="frame footer" style="background-color: #eeeeee; background-image: url(https://twitter.com/images/email/t1/shadow_bottom.jpg); background-position: top; background-repeat: repeat-x; border-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;">
+<tbody>
+<tr>
+<td colspan="4" height="28" class="footer-padding-top"></td>
+</tr>
+<tr>
+<td class="col cut" style="width: 85px;"></td>
+<td class="footer_body media_footer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 17px; color: #777; text-shadow: 0 1px 0 #ffffff;">
+<div>
+Lupa kata sandi Twitter?
+<a class="reset" href="https://twitter.com/account/resend_password?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+24" style="border: none; color: #0084b4; text-decoration: none;">Dapatkan petunjuk cara pengaturan ulang.</a>
+</div>
+<div>
+Anda juga dapat
+<a href="https://twitter.com/i/u?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+26&amp;sig=ea73baae671b4c61c7582a6770c2324bebf6659b" style="border: none; color: #0084b4; text-decoration: none;">berhenti berlangganan email ini</a>
+<span class="reset">atau mengubah <a href="https://twitter.com/settings/notifications?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+27" style="border: none; color: #0084b4; text-decoration: none;">pengaturan notifikasi</a> Anda. Butuh <a href="https://support.twitter.com?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+97" style="border: none; color: #0084b4; text-decoration: none;">bantuan</a>?</span>
+</div>
+<div class="reset">
+Jika Anda menerima pesan ini karena kesalahan dan belum mendaftar di Twitter, silakan klik
+<a href="https://twitter.com/account/not_my_account/andre_sonic/C5F8C-D62HA-135161?uid=66145027&amp;iid=am-4065281413516125376349822&amp;nid=4+25" style="border: none; color: #0084b4; text-decoration: none;">bukan akun saya</a>.
+</div>
+<div>
+<a href="#" class="address" style="border: none; color: #0084b4; text-decoration: none;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration: none; font-size: 11px; line-height: 17px; color: #999999; text-shadow: 0 1px 0 #ffffff;">Twitter, Inc. 1355 Market St., Suite 900 <span class="nobreak" style="white-space: nowrap;">San Francisco, CA 94103 </span></a>
+</div> </td>
+<td class="col cut" style="width: 85px;"></td>
+</tr>
+<tr>
+<td colspan="3" class="footer-padding-bottom" height="25"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+------=_Part_4743702_855788308.1351612538007--

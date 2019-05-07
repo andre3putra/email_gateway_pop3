@@ -1,0 +1,782 @@
+Delivered-To: atriputra87@gmail.com
+Received: by 2002:a25:b68a:0:0:0:0:0 with SMTP id s10-v6csp3015325ybj;
+        Thu, 29 Nov 2018 18:46:24 -0800 (PST)
+X-Received: by 2002:a6b:b496:: with SMTP id d144mr3031987iof.180.1543545984212;
+        Thu, 29 Nov 2018 18:46:24 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1543545984; cv=none;
+        d=google.com; s=arc-20160816;
+        b=z69KdaKaPDGKKejmOUJPFL0QMk7Ptl0NQJiNtIxNKPRsYgEVxBLAZW/P1E0xo3l4qW
+         RwaxdmzNelKFe+CDuIlq8YPStkYwaAw30TEib6Ps592/GFQOTwGkDt8jniHnTscmSCv0
+         Z+OOrWFAAGZ177aKdRrT8BYyz5wMGMcfdqOto3BjrY+X5Guwb5gHUpLYBKV7/PghnpNB
+         q+nYdx+nJKSX410m+ihPDqX0OHp3pzXfcUq5TCK5C0dR7I5afDvUBXV/+3STTqpxqVko
+         kznWeXQg+dhcL3oWx5/mDBO9F+WpjK3a0LsjxHd8lBdYCYKaI9Cg3N+4ohVHn/y8mupv
+         v5uQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:from:subject:message-id:feedback-id:reply-to:date:mime-version
+         :dkim-signature;
+        bh=RB01lU4qySQ9c7zTpI+v4A1MX/JqA1N/tjM0f26bl7w=;
+        b=OgvOQNDgjr/q0GnzyWbqV6FQBWgWDrRGjaWvHWGHXM7WiEyiPhluX45TGM9TDe6tf0
+         7uwEBT4XbH6kkCsksU6yeWbwG91PgaTOgoTMwR+PfbzxxzRVsRHObaTek/KDAe0TH+Ir
+         pFt99u1pUScodCWaGrMiowIShvvOC2cx4T5A2ECzp+huuzWXJyRb8EGTb1FTGY46fasY
+         ozpbEBiMW5J1783D7B6UdC0Q/iNDYap/MTufBpKp8JKvRD59j2ZeQqXXnx4upLVMQR8l
+         ViXWFhOv9gamEb0mdJbTZGO7IaAMS/sQEBA8NuOe/TphhYgWUTnO4Clw5jbMx5R7dSiQ
+         z27Q==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@google.com header.s=20161025 header.b=cdR5YIh0;
+       spf=pass (google.com: domain of 3ekqaxbskakkpxxpunlxvvdwrchcnjv-wxanyuhpxxpun.lxv@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=3eKQAXBsKAKkPXXPUNLXVVdWRchcNJV-WXaNYUhPXXPUN.LXV@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+Return-Path: <3eKQAXBsKAKkPXXPUNLXVVdWRchcNJV-WXaNYUhPXXPUN.LXV@scoutcamp.bounces.google.com>
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
+        by mx.google.com with SMTPS id c8sor1836043ioh.120.2018.11.29.18.46.16
+        for <atriputra87@gmail.com>
+        (Google Transport Security);
+        Thu, 29 Nov 2018 18:46:24 -0800 (PST)
+Received-SPF: pass (google.com: domain of 3ekqaxbskakkpxxpunlxvvdwrchcnjv-wxanyuhpxxpun.lxv@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@google.com header.s=20161025 header.b=cdR5YIh0;
+       spf=pass (google.com: domain of 3ekqaxbskakkpxxpunlxvvdwrchcnjv-wxanyuhpxxpun.lxv@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=3eKQAXBsKAKkPXXPUNLXVVdWRchcNJV-WXaNYUhPXXPUN.LXV@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=mime-version:date:reply-to:feedback-id:message-id:subject:from:to;
+        bh=RB01lU4qySQ9c7zTpI+v4A1MX/JqA1N/tjM0f26bl7w=;
+        b=cdR5YIh0oGBTxzTCaehkZi5c96Y3thYahCKPW4FvespwBiL1bLD4tgVhxVpaUkWaAl
+         bpTqYm1ae+5g3tYocc5OnD42TtMdzsjypFm9+LxwDX6437R+zw/LpdFslFJIPLWBT0c5
+         8ud6n0T7X9za5df95b3idDWZSZFuAndlaVru+ImGnJbtiE8P55n/EyMrr8zZgvVn3GAc
+         z+Sm77RVHSJLeryDOgaHty9OKWeKSYf28z23gt3fgjKQsk7vpZxaYguw2O7DbMWS4lAT
+         qJM3RF6t1zI2zdi+ErtD5SEfXTOUT6nEnBuGebe/k9TeCHRQt9HogzbymIGVJXZYUcMn
+         KQSQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:reply-to:feedback-id
+         :message-id:subject:from:to;
+        bh=RB01lU4qySQ9c7zTpI+v4A1MX/JqA1N/tjM0f26bl7w=;
+        b=QhjfuyGR8kInLjTBduqa9O1RJJlbqziGTKv+xB/c/0746IuweXDVJVujXSRdsnfe10
+         CVzhFcsdcA7EKuo+xiHbQOik7I3/anZktN1O8T8qJT3K5HihqY8JWCoM3xsRCSOQhgG/
+         UwYcXoPgNtIEi80iuKRLfb0/poRbI779omPevzjnvGctNwnPWrXrS+SxzeO5QzzVhRDk
+         a0eqOHLMovFvxfjXUWI/EnNt8sMFXE14p3E9dQUCsz9W+rXBWs0NLkFcOSWE1zqcB4vG
+         HLupvKh63jwAYl8HSu7RRUwSWC8aggm4r+SMn4Cx2ns0Y2Saq8O022vyldZtETM329Pf
+         QiBg==
+X-Gm-Message-State: AA+aEWaQUv00IH1ft6++KsGywwhS0mKfEztTMAlLNurP7D3UPFOlGy/E
+	CgfQSDgymhEcUYg=
+X-Google-Smtp-Source: AFSGD/VY0jJjTWI5QqWE9N9en9a73EXG5QaTNJ+XSd4E+fASLagq+qqJRujAFfd6KpeutP7q2nsHhjk=
+MIME-Version: 1.0
+X-Received: by 2002:a5d:9749:: with SMTP id c9mr2833120ioo.12.1543545976612;
+ Thu, 29 Nov 2018 18:46:16 -0800 (PST)
+Date: Thu, 29 Nov 2018 18:46:16 -0800
+Reply-To: Google Community Team <googlecommunityteam-noreply@google.com>
+X-Google-Id: 24574653						
+Feedback-ID: Lid:P-35:C20063660:gamma
+X-Notifications: GAMMA:<659a401cb2bc3db143cc477bdedb29d569c148b0-20063660-110437599@google.com>
+Message-ID: <659a401cb2bc3db143cc477bdedb29d569c148b0-20063660-110437599@google.com>
+Subject: Andre, selamat datang di Akun Google baru Anda
+From: Google Community Team <googlecommunityteam-noreply@google.com>
+To: atriputra87@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000a169cf057bd8cdd3"
+
+--000000000000a169cf057bd8cdd3
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+SGFsbyBBbmRyZSwNCg0KS2FtaSBzYW5nYXQgc2VuYW5nIEFuZGEgbWVtdXR1c2thbiB1bnR1ayBt
+ZW5jb2JhIEdtYWlsLiBCZXJpa3V0IGluaSAgDQpiZWJlcmFwYSB0aXBzIHVudHVrIG1lbWJ1YXQg
+QW5kYSBzaWFwIGRhbiBkYXBhdCBzZWdlcmEgbWVuZ2d1bmFrYW5ueWEuDQoNCi0tLS0tLS0tDQoN
+Ckdvb2dsZSBBc3Npc3RhbnQgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0
+L3AvQUJNQlVRUHNZYURRS0RxemlQUWZ0V1BCZDlfOUlWOVVPODZZOUN1LXBEN09HQTFnT05DUDlz
+eUlpbTJaUDFhN241Z0UxLVVXazNqWmU2VmhObXRTYkRJTW1ta3dBcWhOSnhqN21sYy1vT0drUjNK
+ekIzTWtQeXhZbXNQdF9QNFlnUWNMal9CMHF1a2RzX01mT2x4VVB0Q1hUSVctRkFEN3BGZkRSdTJL
+TDlaOWdtV0h6bmJnUXNQNVNGbXJHNUoxQmJybF9nT0ljWXVIeVg2Wk5nb2JPZ19MMG1IWVBlSlNs
+WUY2OEJrPg0KDQpNaW50YSBBc2lzdGVuIEdvb2dsZSB1bnR1ayBtZW1iYW50dSBBbmRhDQoNClNl
+bGVzYWlrYW4gcGVuZ2F0dXJhbiB1bnR1ayBBc2lzdGVuIEdvb2dsZSBBbmRhIC0gY2FyYSB5YW5n
+IGxlYmloIG11ZGFoICANCnVudHVrIG1lbnllbGVzYWlrYW4gYmVyYmFnYWkgdHVnYXMgZGkgcG9u
+c2VsIGJhcnUgQW5kYQ0KDQpTRUxFU0FJS0FOIFBFTkdBVFVSQU4gIA0KPGh0dHBzOi8vd3d3Lmdv
+b2dsZS5jb20vYXBwc2VydmUvbWt0L3AvQUJNQlVRT01NRjgtcWZ2bDVFWXZsQWZ5UGlpVEgzMFYw
+cThqbldNemdJaW9kX3pESEE4R2VjZy14bzVFTEZmSVdiVjRwVWFaVW4ycFl3UldNbHRrcWpXa0pW
+REhPb0lLSjRvLWhyM3I5dUdIeFdUcll0NGZUTUxLblhGYVZveVBraUU3WjIxR2JqYU0tTUJPM2oy
+ZmJuM1R0YnlXbUxqT1pGMVNud1EtcHJBUW9yN2t6X3VhRDZ1dFRFQUhDdnJNcVdYRnY4VVQ2YjJh
+ei1LbmdxNDBiMHNQeGRMMXVFdlh0V2VHUmc+DQoNCi0tLS0tLS0tDQoNCkdtYWlsICANCjxodHRw
+czovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wL0FCTUJVUU41am5ZNXdibVgwMUFTdE5w
+eUl2N3lVT1NiTzdJMjY3MlVRME1IUzFNNUlPTWpFVExGTTRCMzNCbGp0aDN1S2FOM0NReG9aN01o
+RUxNYm1peHFlaGZ2a3lkdno3dzVhRkRxbUVCMU80Yi1RZkRVekJRMHVHSWdvY292MEFZWTFuR3gz
+dkRSVzlLakp1TmU2OU9yNXVMYnozeGZJV0N3c2c+DQoNCkdtYWlsIGthcGFuIHNhamEgZGkgbWFu
+YSBzYWphDQpEZW5nYW4gR21haWwgdW50dWsgIA0KQW5kcm9pZDxodHRwczovL3d3dy5nb29nbGUu
+Y29tL2FwcHNlcnZlL21rdC9wL0FCTUJVUU12ckpWNk1SNi1yOFlPWUMtd2poYWZDYld5SWRqRU9Y
+QWs0eEdNcmV6VEdSVElnQWlzZGRrUWdWSERaaXhOdV9zWFAwSmFGaVhNWVNIZDA1S1JKRVR4UWJT
+aDJ4OVJ1NE8xbG5Kb0JSMlpTbE9La0h1elp1SEM5RnoyNnZzTF81R1JwQ3d6ZDY4NERkV2prdkUt
+ODMzUG5WYnJWbzRaa05kejFXMXlhTTdLVk9zSE8zYWR3Vm1MdEJXaHZxd25ZR2tadi1KR3dHMVpE
+YTA+ICANCmRhbiAgDQppT1M8aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvcC9B
+Qk1CVVFPUVdraEVBdGxtZ1hYTzQ4RE8xaEZkdVVJbGRfa3FGZlZWUHZCNlFxdi11Zi1ZWTFDdlds
+MVR5b1FjektnQW1pSUFkTUFXVTJkR2xoSEtnX3ZOc0huRHBvWXh2ZTJaSERsVTVPR0ZHdmY3NUND
+c0hyUzlTTzlUZU5KLVBET0ZtMVZ5aS1wUng3WldMcjE4bDI1bHh0ZnVuN0tRbllGdmtCVGp5dz4s
+ICANCkFuZGEgbWVuZGFwYXRrYW4gbm90aWZpa2FzaSBzZWNhcmEgcmVhbC10aW1lIGphZGkgdGlk
+YWsgYWthbiBhZGEgZW1haWwgIA0KcGVudGluZyB5YW5nIHRlcmxld2F0Lg0KDQotLS0tLS0tLQ0K
+DQpUcnVzdCBTaGllbGQgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3Av
+QUJNQlVRTVFEbExrX2pZUWNPd0ZxbEtoUmtZY3dTU2FRQ3hJSkFTNnhxRzRneHl0Tmw2NHdOR1Rp
+VlNsUWRsYTg1MW5iQ1pJUDBBXzlULW8xMkFhTjZCbmViYzZrRWF6X3ZLMHE0d29hSlo3cFZPMDFf
+a0dfU2l0cFlnakgtMm1iN0U0T1U3eXdTWjBUaWNUTzZVZWk5VWVNM0pFMlJzMD4NCg0KQW5kYSB5
+YW5nIG1lbWVnYW5nIGtlbmRhbGkNClBpbGlobGFoIHNldGVsYW4geWFuZyBjb2NvayB1bnR1ayBB
+bmRhLiBBbmRhIGRhcGF0IG1lbmluamF1IGRhbiAgDQptZW55ZXN1YWlrYW4gc2V0ZWxhbiBwcml2
+YXNpIHNlcnRhIGtlYW1hbmFuIGthcGFuIHNhamEgZGkgQWt1biBTYXlhICANCjxodHRwczovL3d3
+dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wL0FCTUJVUU5UdnV1Sm5NekpCY0g0SDlqWDVDUE1j
+WXpBYkNyNVpYSkhCRHdMd2ExQ3NKMU9VSGxaejZZbFZPQl9WMmlQZmlGSmZmQWVyeVA1U2hGZV80
+cWpHeFQtNzRteU0zMGxTS3BTdE5YejhfN0xkRno4c3Z2ZVFJdEQ0UVNSTG4tYm1ablJwMXNHSWdW
+Z0JGT2kxVFYtenJGZ3gxaUpKQkR6bXc+Lg0KDQotLS0tLS0tLQ0KDQpCYWxhc2FuIGtlIGVtYWls
+IGluaSB0aWRhayBkaXBhbnRhdSwgbmFtdW4gamlrYSBhZGEgcGVydGFueWFhbiwga3VuanVuZ2kg
+IA0KUHVzYXQgIA0KQmFudHVhbjxodHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9w
+L0FCTUJVUU5RTkxkNldRWDRkOXlmQWc3TlBDM0JqbUJ0Q05uemhRem1seDM1TUt6aC1qbUVVbDd6
+U29Ga0c3OTBIRDl0WVhfSWlxLUFFNGJ5M0FiLVVmY1hYOTRDM1RHeUhhd3pCaGw0el9ydENvZTNw
+S091VW8wYUhFQlhXc3lOVU1USmxDbTZGd1RrTGVTLTFHbHlWVzNZQnc+ICANCmF0YXUgYnVhdCBw
+b3N0aW5nYW4gZGkgRm9ydW0gQmFudHVhbiAgDQpHbWFpbDxodHRwczovL3d3dy5nb29nbGUuY29t
+L2FwcHNlcnZlL21rdC9wL0FCTUJVUVBBVDdGd21idUZGQ0l3YTlOUTJMX1VraWFYTEswVFZPQlEz
+QWM2VjBOak5kakdPRVRlQy1NaE5kcjNfU21zbWZZYUpTZFRMeUVVV1dlZHZ3V2pnaHp5d19SQm9o
+aEI3UlFtcFFpdWNpV0Y5SktuZGFwOUpueXdGczJiMHJOaUNOcUVkUUtVejI0aW53WXJMbDFVM1ZB
+eFQ0ZDR1UDByUnFpT1h2alZJX1ZJd1BMX2lzc0RfQT4gIA0KdGVtcGF0IHRpbSBzYXlhIGRhbiBw
+ZW5nZ3VuYSBhaGxpIGxhaW5ueWEgbWVuamF3YWIgYmVyYmFnYWkgcGVydGFueWFhbi4NCg0KTmlr
+bWF0aSBha3VuIGJhcnUgQW5kYSwNCg0KDQoNCkNvbW11bml0eSBNYW5hZ2VyIEdtYWlsDQoNCklr
+dXRpIGthbWkNCg0KVHdpdHRlciAgDQo8aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9t
+a3QvcC9BQk1CVVFQbnNFRDFFeXpQVjVfVlpqU1RJU2ROWEUxczhIU00yc1A1aEw5UDFXX2hWWmQz
+TWtrTjdoWVJURlBlak1qT3Ayc21vWmNhWkMzQ2lmQ2NjVE9kZVI2dVRVVE1jNXFBcThnQTBSOC0y
+LVM1Y3hrZWNIdWxYZklaY0JvOEJMV3RmX0p5TWlaUjdvZGRYR1RtcnRMXzAyV0dHbEYwUzdjPg0K
+DQpGYWNlYm9vayAgDQo8aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvcC9BQk1C
+VVFQMnUwT2N3ZE9Zd0VaX1Y4VjBkcWQ5amh2MVdQbTg3a3RiZUc1NmhFd1FKMEpfVTF5MlpMUEEy
+YTJKLURkaHRub2h0SlpwLWtsdzc4aXJVMlFKamFxQUxwNG4taDIyREFmQ0FCZHM1aG5veUxSekk1
+b2RBMlJsZi1SblJlWklpbU0xMEExRVJOOXFZeDdNckhqYm5KUTRDUT4NCg0KR29vZ2xlKyAgDQo8
+aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvcC9BQk1CVVFPU0hfZlpRUEtGdUV3
+YWk4eXJ2blRUcUdjNkd0amNiSmFUSTRNYnh4THRYby16NXAxQ0poNjR0LTVTWXV6NjRkdTJiRW05
+bG1fcE40LUh0aFFrVlNCMUIzWmxYNExXb2lEZWl2ZkdwajlNQ2xUbjMzZjVsYnhMWVJnOUdfRjc5
+MC1Pbm5IcVlTTXlLQldEV2c0MnktVlgwSFR1LVE+DQoNCkRhcGF0a2FuIEdtYWlsIGthcGFuIHNh
+amEgZGkgbWFuYSBzYWphLg0KDQpHb29nbGUgUGxheSAgDQo8aHR0cHM6Ly93d3cuZ29vZ2xlLmNv
+bS9hcHBzZXJ2ZS9ta3QvcC9BQk1CVVFQVFVFbDhibmFLdTd1UEUwd2ZURHNKQzNlcFZDam9IaHlm
+cndkOUVmaWwtNUxkTV9ZYXNYdGZUVnREWVczd1BCVjFOQmhrRWVraTBtMXl1TFR5NDZOS3kzUl9r
+ZjZZbnpqVThiZGNkUWg0NF8xQnlTYUdMclhqVnVzQTZ4bWZ5N2VLRzYtZkdOTlp6R1lXLV9XN2NX
+RTVXZXNSajVmX0ZHOGJzRWpmT3k1R3dkSkxTcU8zWk9pX1FiM0pjWjZXNml6aWVuZHZBWEwtR19m
+TT4NCg0KQXBwIFN0b3JlICANCjxodHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9w
+L0FCTUJVUU45UzQtYXplR2xONmk5ZmtHYWlSZjN5M19Bc0ZKVVhmSzMtWGFpaXdhbThBTndDSTl1
+VHpWQTVfUGMtb1pRTXdmbi1KcGFTUHZlaHpHcmdDM3JEY3E3X3UwVFRRSzhoaGl3UjkweGc4SHoy
+WmJMNjZvd2RJQ2ZHbEhZTFhIdWdKdTlsTjA2bVZ2X2dhRmhKeUQtM09MV2g1ZU5DQUVRb1d6aFZP
+OD4NCg0KR29vZ2xlICANCjxodHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wL0FC
+TUJVUU03UGNTQkJSdkNHSVFCbEl1N0J5OUstRnR0cEFtM3A3ZFQxbFhCY21YUWRJbU51UHF1QkJi
+YlMtTkJRNTVCQWc5WWtLcndSaTk3STRBSjBrcGhlTWdlc2c4Ylh6cUYzNkwyUGM0WDNtUExLMjVN
+UWVabXVvTUlYWVhIZWhMMzBoTTlrclpHZ0dvLWpSMU42V05CNnc+DQoNCkdvb2dsZSBTZWFyY2gg
+IA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3AvQUJNQlVRUFNldGlKZk9G
+NVJQTHRMak94aHdwOXFISXZKdnFfdXE3LXBNaUNuQjVDVVVud3gxdDdkc0haYzhvLXcxTzhBTTNt
+VEcxSWsxaGRPNTBMQ3ZVaDZvVmlMXy1KWEhBR3Z6WFNHOG1SVXItU1lENmlydEE0LXh1YUF2OVl4
+eXIzRFZkQU4wNDhQT0g1TDBYcVNJdnd6Zz4NCg0KR21haWwgIA0KPGh0dHBzOi8vd3d3Lmdvb2ds
+ZS5jb20vYXBwc2VydmUvbWt0L3AvQUJNQlVRT1M5d2t3MG1VUUgzeHFXNEdkNDBJNWhPRm9tejh6
+bnhfU19pRzVZNVJuNWRCdHFlY29GbWJ4U3B4TUNkNUlFem4tdXF6V3o5YjZmNTRiUnI4a25Ua0JN
+dUxsWndGYzQxWjk1bU9XQVhlUlpyclFMc2hpOEFfdGxoTE1SVHJGOTJ5STJ6WnZmUFZwb25MYWJa
+LThWSlV2QS1oeDdHMWNmQ00+DQoNCk1hcHMgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBw
+c2VydmUvbWt0L3AvQUJNQlVRTlpJUW16R044OWhoczZ0TnpPX1A1eXJDS0JuWDZ3RGxRcTZGNEhf
+bDlvWThhUDE1QTdlQzc4V0pEeVIxOHoyQVY2c25qMmV3SEQ2TnlWMjYwclJSVmhSaGVMeDJyUzRf
+WlhJVzBaT0Jjak44YzFVOVkyNkN2YUh0OTNDbmdDWVV4STZObmJpcjZQNjFlVGpLREpyM2I1QXc+
+DQoNCllvdVR1YmUgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3AvQUJN
+QlVRTlNiYnZZc0JJQVlSZkR4WWwtRDVZS0EzdEpRdHpFM0VOSjBtSjFLRDVDSjY4NEdMN1RDVXJl
+WUtsZl9Nd0FyTGYzS01CZkI0U1dvN2FRX3pfV2ZjYmhGRkdMellwSlZuUzRELVZQMTFvY2twUXBH
+aERtTlpFYlFhTXdHNzVUX2ttUFdoc0QxQkhLTXlTQkpnPg0KDQpHb29nbGUgRHJpdmUgIA0KPGh0
+dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3AvQUJNQlVRTllmYUdlRXZKZEtOWHpk
+NXFkMTNOZm9rSVhQZElsUUFpNGYtVDQtNEhNSjUwb2haYlk5Q25mTFEwMFgwQ2JXSzZWWWdRcEZJ
+TXE0OWl0c21DUC1zRHI1bGU1OWZtVFg3NHJaRjhzcVFEOWRwMW1aOWlqRlMwdk5Ka0dfVjhRclVa
+OGNQdnhUNnZ5NmdhRzhpUkJuek0+DQoNCkdvb2dsZSBQaG90b3MgIA0KPGh0dHBzOi8vd3d3Lmdv
+b2dsZS5jb20vYXBwc2VydmUvbWt0L3AvQUJNQlVRTVRUM08zLV9qdlQzQ1JILTExOEc5Y25YeUs2
+U0l5UHozLXdPNDZNMkg0VnNkQ2hMR1B0eXBBWm83NjJCQlZneVJueUxjenRoWGF6c2h4MDUzeU5T
+OExKUzJxVVVBeExvWlJ4SHZsQVN3SU1WUzZ2S19CTUduY0VDZnVqZUNwTS1MaHhYQUxmdXVWYUpr
+d3VZMkdyelU2WUE+DQoNCkdvb2dsZSBQbGF5ICANCjxodHRwczovL3d3dy5nb29nbGUuY29tL2Fw
+cHNlcnZlL21rdC9wL0FCTUJVUU0xLUVaTW5tc0Nxb2pMYUpsdmRsWDFRODhiUzQzeTFuRVBPU1FX
+VVJKVTkxV2U5SWNVVW4xZ3YxSDVndUF6VXl5N2tCUTJiSm1nZHBWbXNOdkhvME9YXzlrX29qVDVj
+a0wzNXB0Q3dyeFhtekdtQTN6d0x6WC1BLXJvWWsyT21heTkyZnVBRjczbDNXYUxLQ1BIVW0zb0dD
+OD4NCg0KQ2hyb21lICANCjxodHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wL0FC
+TUJVUVBIZ0VIX1JjRlkzUVU5Y2c3RmJjbFFuajFjbFg4NnhUQ08xUF9TWDlaM1NWMkl3cjNtWDJR
+bzB0U1VXVS1uVmVQOWhJS2tlODFzdFRPajBOV2dyNnZqQy1ZQkhKVmM5cEdueDNzZnNONG9pMFMx
+R00ya3o2X2RxeFZ5VUhKTXVvTW8xZFFqa0NRbWZxSEJFUGxXdFBWSmM1SHUyY2M+DQoNCsKpIDIw
+MTggR29vZ2xlIExMQyAxNjAwIEFtcGhpdGhlYXRyZSBQYXJrd2F5LCBNb3VudGFpbiBWaWV3LCBD
+QSA5NDA0M0FuZGEgIA0KbWVuZXJpbWEgZW1haWwgaW5pIGthcmVuYSB0ZWxhaCBtZW1idWF0IGFr
+dW4gR29vZ2xlLg0KDQo=
+--000000000000a169cf057bd8cdd3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+=20
+=20
+=20
+=20
+=20
+<!doctype html public "- / /w3c / /dtd xhtml 1.0 transitional / /en" "http:=
+ / /www.w3.org /tr /xhtml1 /dtd /xhtml1-transitional.dtd">
+<html>
+   <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1, maximum-scale=3D1">
+      <!--<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-=
+scale=3D1.0"/>
+         <meta name=3D"viewport" content=3D"target-densitydpi=3Ddevice-dpi"=
+/> -->
+         <title></title>
+     <style type=3D"text/css">    =20
+
+    @media only screen and (max-width: 767px){
+    	 .body_wrapper{min-width:100vw !important;}
+      .device_txt{font-size:26px!important;}
+    }
+   =20
+    @media screen and (min-resolution: 288dpi) {
+      .body_wrapper{min-width:100% !important;}
+      .device_txt{font-size:26px!important;}
+	}
+      =20
+   </style>
+   </head>
+   <body style=3D"padding: 0; margin: 0;" class=3D"body_wrapper">
+      <style>
+         @media screen{@font-face{font-family:'Open Sans';font-style:normal=
+;font-weight:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(h=
+ttp://fonts.gstatic.com/s/opensans/v9/DXI1ORHCpsQm3Vp6mXoaTRampu5_7CjHW5spx=
+oeN3Vs.woff2) format('woff2'),url(http://fonts.gstatic.com/s/opensans/v9/DX=
+I1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format('woff')}}body{paddin=
+g:0;margin:0}@media only screen and (max-width:520px){-webkit-text-size-adj=
+ust:100%}
+      </style>
+      <center>
+         <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"c=
+enter" width=3D"520" bgcolor=3D"#ffffff" style=3D"background: #ffffff; max-=
+width: 520px; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust=
+: none; -ms-text-size-adjust: 100%;">
+            <tr>
+               <td width=3D"20" bgcolor=3D"#eeeeee" style=3D"background: #e=
+eeeee;"></td>
+               <td width=3D"480" style=3D"-webkit-font-smoothing: antialias=
+ed; -webkit-text-size-adjust: none; -ms-text-size-adjust: 100%;">
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"100%">
+                     <tr>
+                        <td height=3D"20" bgcolor=3D"#eeeeee" style=3D"back=
+ground: #eeeeee;"></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"center" width=3D"100%" style=3D"border-bottom: 1px solid #=
+eeeeee;">
+                              <tr>
+                                 <td height=3D"49"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"whom" style=
+=3D"color:#4285f4; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open San=
+s&quot;, Arial, sans-serif; font-size:32px; font-weight:300; line-height:46=
+px; margin:0; padding:0 25px 0 25px; text-align:center">Halo Andre,</td>
+                              </tr>
+                              <!--[if !mso]><!-- -->
+                              <tr>
+                                 <td height=3D"20"></td>
+                              </tr>
+                              <!--<![endif]-->
+                              <!--[if mso]>
+                              <tr>
+                                 <td height=3D"7">&nbsp;</td>
+                              </tr>
+                              <![endif]-->
+                              <tr>
+                                 <td align=3D"center" class=3D"parasec" sty=
+le=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open S=
+ans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:=
+24px; margin:0; padding:0 25px 0 25px; text-align:center; word-break:normal=
+;">Kami sangat senang Anda memutuskan untuk mencoba Gmail. Berikut ini bebe=
+rapa tips untuk membuat Anda siap dan dapat segera menggunakannya.</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"30">
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"center" width=3D"100%" style=3D"border-bottom: 1px solid #=
+eeeeee;">
+                              <tr>
+                                 <td height=3D"32"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <a href=3D"https://www.google.com/appse=
+rve/mkt/p/ABMBUQPsYaDQKDqziPQftWPBd9_9IV9UO86Y9Cu-pD7OGA1gONCP9syIim2ZP1a7n=
+5gE1-UWk3jZe6VhNmtSbDIMmmkwAqhNJxj7mlc-oOGkR3JzB3MkPyxYmsPt_P4YgQcLj_B0qukd=
+s_MfOlxUPtCXTIW-FAD7pFfDRu2KL9Z9gmWHznbgQsP5SFmrG5J1Bbrl_gOIcYuHyX6ZNgobOg_=
+L0mHYPeJSlYF68Bk" target=3D"_blank" style=3D"color:#4285f4; text-decoration=
+:underline">
+                                    <img width=3D"64" border=3D"0" src=3D"h=
+ttps://www.gstatic.com/images/branding/product/2x/assistant_48dp.png" alt=
+=3D"Google Assistant" style=3D"width: 64px; text-align: center; border: non=
+e;">
+                                    </a>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"15"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"device_txt" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Ope=
+n Sans&quot;, Arial, sans-serif; font-size:24px; font-weight:300; line-heig=
+ht:33px; margin:0; padding:0 25px 0 25px; text-align:center">Minta Asisten =
+Google untuk membantu Anda</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"4" style=3D"line-height: 4px=
+; font-size: 4px;"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para" style=
+=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open San=
+s&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:24=
+px; margin:0; padding:0 25px 0 25px; text-align:center; word-break:normal;"=
+>Selesaikan pengaturan untuk Asisten Google Anda - cara yang lebih mudah un=
+tuk menyelesaikan berbagai tugas di ponsel baru Anda</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"20"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para" style=
+=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open San=
+s&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:24=
+px; margin:0; padding:0 25px 0 25px; text-align:center">
+                                    <a href=3D"https://www.google.com/appse=
+rve/mkt/p/ABMBUQOMMF8-qfvl5EYvlAfyPiiTH30V0q8jnWMzgIiod_zDHA8Gecg-xo5ELFfIW=
+bV4pUaZUn2pYwRWMltkqjWkJVDHOoIKJ4o-hr3r9uGHxWTrYt4fTMLKnXFaVoyPkiE7Z21GbjaM=
+-MBO3j2fbn3TtbyWmLjOZF1SnwQ-prAQor7kz_uaD6utTEAHCvrMqWXFv8UT6b2az-Kngq40b0s=
+PxdL1uEvXtWeGRg" target=3D"_blank" style=3D"color:#4285f4; text-decoration:=
+underline;">SELESAIKAN PENGATURAN</a>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"30"></td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"center" width=3D"100%" style=3D"border-bottom: 1px solid #=
+eeeeee;">
+                              <tr>
+                                 <td height=3D"32"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <a href=3D"https://www.google.com/appse=
+rve/mkt/p/ABMBUQN5jnY5wbmX01AStNpyIv7yUOSbO7I2672UQ0MHS1M5IOMjETLFM4B33Bljt=
+h3uKaN3CQxoZ7MhELMbmixqehfvkydvz7w5aFDqmEB1O4b-QfDUzBQ0uGIgocov0AYY1nGx3vDR=
+W9KjJuNe69Or5uLbz3xfIWCwsg" target=3D"_blank" style=3D"color:#4285f4; text-=
+decoration:underline">
+                                    <img width=3D"64" border=3D"0" src=3D"h=
+ttps://services.google.com/fh/files/emails/owe_gmail_128dp.png" alt=3D"Gmai=
+l" style=3D"width: 64px; text-align: center; border: none;">
+                                    </a>=20
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"15"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"device_txt" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Ope=
+n Sans&quot;, Arial, sans-serif; font-size:24px; font-weight:300; line-heig=
+ht:33px; margin:0; padding:0 25px 0 25px; text-align:center">Gmail kapan sa=
+ja di mana saja</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"4" style=3D"line-height: 4px=
+; font-size: 4px;"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para" style=
+=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open San=
+s&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:24=
+px; margin:0; padding:0 25px 0 25px; text-align:center; word-break:normal;"=
+>Dengan Gmail untuk <a href=3D"https://www.google.com/appserve/mkt/p/ABMBUQ=
+MvrJV6MR6-r8YOYC-wjhafCbWyIdjEOXAk4xGMrezTGRTIgAisddkQgVHDZixNu_sXP0JaFiXMY=
+SHd05KRJETxQbSh2x9Ru4O1lnJoBR2ZSlOKkHuzZuHC9Fz26vsL_5GRpCwzd684DdWjkvE-833P=
+nVbrVo4ZkNdz1W1yaM7KVOsHO3adwVmLtBWhvqwnYGkZv-JGwG1ZDa0" target=3D"_blank" =
+style=3D"color:#4285f4;text-decoration:underline">Android</a> dan <a href=
+=3D"https://www.google.com/appserve/mkt/p/ABMBUQOQWkhEAtlmgXXO48DO1hFduUIld=
+_kqFfVVPvB6Qqv-uf-YY1CvWl1TyoQczKgAmiIAdMAWU2dGlhHKg_vNsHnDpoYxve2ZHDlU5OGF=
+Gvf75CCsHrS9SO9TeNJ-PDOFm1Vyi-pRx7ZWLr18l25lxtfun7KQnYFvkBTjyw" target=3D"_=
+blank" style=3D"color:#4285f4;text-decoration:underline">iOS</a>, Anda mend=
+apatkan notifikasi secara real-time jadi tidak akan ada email penting yang =
+terlewat.</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"30"></td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"center" width=3D"100%" style=3D"border-bottom: 1px solid #=
+eeeeee;">
+                              <tr>
+                                 <td height=3D"32"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <a href=3D"https://www.google.com/appse=
+rve/mkt/p/ABMBUQMQDlLk_jYQcOwFqlKhRkYcwSSaQCxIJAS6xqG4gxytNl64wNGTiVSlQdla8=
+51nbCZIP0A_9T-o12AaN6Bnebc6kEaz_vK0q4woaJZ7pVO01_kG_SitpYgjH-2mb7E4OU7ywSZ0=
+TicTO6Uei9UeM3JE2Rs0" target=3D"_blank" style=3D"color:#4285f4; text-decora=
+tion:underline">
+                                    <img width=3D"60" height=3D"77" src=3D"=
+https://services.google.com/fh/files/emails/shield_logo_150_rt.png" alt=3D"=
+Trust shield" border=3D"0" style=3D"width: 60px; height: 77px; text-align: =
+center; border: none;">
+                                    </a>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"15"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"device_txt" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Ope=
+n Sans&quot;, Arial, sans-serif; font-size:24px; font-weight:300; line-heig=
+ht:33px; margin:0; padding:0 25px 0 25px; text-align:center">Anda yang meme=
+gang kendali</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"4" style=3D"line-height: 4px=
+; font-size: 4px;"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para1" style=
+=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open San=
+s&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:24=
+px; margin:0; padding:0 20px 0 20px; text-align:center; word-break:normal;"=
+>Pilihlah setelan yang cocok untuk Anda. Anda dapat meninjau dan menyesuaik=
+an setelan privasi serta keamanan kapan saja di <a href=3D"https://www.goog=
+le.com/appserve/mkt/p/ABMBUQNTvuuJnMzJBcH4H9jX5CPMcYzAbCr5ZXJHBDwLwa1CsJ1OU=
+HlZz6YlVOB_V2iPfiFJffAeryP5ShFe_4qjGxT-74myM30lSKpStNXz8_7LdFz8svveQItD4QSR=
+Ln-bmZnRp1sGIgVgBFOi1TV-zrFgx1iJJBDzmw" target=3D"_blank" style=3D"color:#4=
+285f4;text-decoration:underline;white-space:nowrap">Akun Saya</a>. </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"30"></td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"center" width=3D"100%">
+                              <tr>
+                                 <td height=3D"27"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"parasec" sty=
+le=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open S=
+ans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:=
+24px; margin:0; padding:0 25px 0 25px; text-align:center; word-break:normal=
+;">
+                                    Balasan ke email ini tidak dipantau, na=
+mun jika ada pertanyaan, kunjungi <a href=3D"https://www.google.com/appserv=
+e/mkt/p/ABMBUQNQNLd6WQX4d9yfAg7NPC3BjmBtCNnzhQzmlx35MKzh-jmEUl7zSoFkG790HD9=
+tYX_Iiq-AE4by3Ab-UfcXX94C3TGyHawzBhl4z_rtCoe3pKOuUo0aHEBXWsyNUMTJlCm6FwTkLe=
+S-1GlyVW3YBw" target=3D"_blank" style=3D"text-decoration:underline;color:#4=
+285f4">Pusat Bantuan</a> atau buat postingan di <a href=3D"https://www.goog=
+le.com/appserve/mkt/p/ABMBUQPAT7FwmbuFFCIwa9NQ2L_UkiaXLK0TVOBQ3Ac6V0NjNdjGO=
+ETeC-MhNdr3_SmsmfYaJSdTLyEUWWedvwWjghzyw_RBohhB7RQmpQiuciWF9JKndap9JnywFs2b=
+0rNiCNqEdQKUz24inwYrLl1U3VAxT4d4uP0rRqiOXvjVI_VIwPL_issD_A" target=3D"_blan=
+k" style=3D"color:#4285f4;text-decoration:underline;white-space:nowrap!impo=
+rtant">Forum Bantuan Gmail</a> tempat tim saya dan pengguna ahli lainnya me=
+njawab berbagai pertanyaan.
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"25"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"parasec" sty=
+le=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open S=
+ans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:=
+24px; margin:0; padding:0 25px 0 25px; text-align:center">Nikmati akun baru=
+ Anda,</td>
+                              </tr>
+                              <tr>
+<td align=3D"center" style=3D"padding-top:13px; padding-bottom:8px;">
+           =20
+</td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"parasec" sty=
+le=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open S=
+ans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:=
+24px; margin:0; padding:0 25px 0 25px; text-align:center">
+                                   Community Manager Gmail
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"35"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para" style=
+=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, &quot;Open San=
+s&quot;, Arial, sans-serif; font-size:17px; font-weight:300; line-height:24=
+px; margin:0; padding:0 25px 0 25px; text-align:center">Ikuti kami <a href=
+=3D"https://www.google.com/appserve/mkt/p/ABMBUQPnsED1EyzPV5_VZjSTISdNXE1s8=
+HSM2sP5hL9P1W_hVZd3MkkN7hYRTFPejMjOp2smoZcaZC3CifCccTOdeR6uTUTMc5qAq8gA0R8-=
+2-S5cxkecHulXfIZcBo8BLWtf_JyMiZR7oddXGTmrtL_02WGGlF0S7c" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">Twitter</a>, <a href=3D"=
+https://www.google.com/appserve/mkt/p/ABMBUQP2u0OcwdOYwEZ_V8V0dqd9jhv1WPm87=
+ktbeG56hEwQJ0J_U1y2ZLPA2a2J-DdhtnohtJZp-klw78irU2QJjaqALp4n-h22DAfCABds5hno=
+yLRzI5odA2Rlf-RnReZIimM10A1ERN9qYx7MrHjbnJQ4CQ" target=3D"_blank" style=3D"=
+color:#4285f4; text-decoration:underline">Facebook</a>, <a href=3D"https://=
+www.google.com/appserve/mkt/p/ABMBUQOSH_fZQPKFuEwai8yrvnTTqGc6GtjcbJaTI4Mbx=
+xLtXo-z5p1CJh64t-5SYuz64du2bEm9lm_pN4-HthQkVSB1B3ZlX4LWoiDeivfGpj9MClTn33f5=
+lbxLYRg9G_F790-OnnHqYSMyKBWDWg42y-VX0HTu-Q" target=3D"_blank" style=3D"colo=
+r:#4285f4; text-decoration:underline">Google+</a></td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"27"></td>
+                              </tr>
+
+                              <tr>
+                                 <td>
+                                    <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"100%">
+                                       <tr>
+                                          <td colspan=3D"3" align=3D"center=
+" style=3D"text-align: center; font-family: &#39;Roboto&#39;,OpenSans,&#39;=
+Open Sans&#39;,Arial,sans-serif; font-size: 17px; line-height: 24px; font-w=
+eight: 300; color: #757575;">Dapatkan Gmail kapan saja di mana saja.</td>
+                                       </tr>
+                                       <tr>
+                                          <td colspan=3D"3" style=3D"height=
+:10px"></td>
+                                       </tr>
+                                       <tr>
+                                          <td style=3D"text-align:right; li=
+ne-height:10px;" width=3D"229">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQPTUEl8bnaKu7uPE0wfTDsJC3epVCjoHhyfrwd9Efil-5LdM_Ya=
+sXtfTVtDYW3wPBV1NBhkEeki0m1yuLTy46NKy3R_kf6YnzjU8bdcdQh44_1BySaGLrXjVusA6xm=
+fy7eKG6-fGNNZzGYW-_W7cWE5WesRj5f_FG8bsEjfOy5GwdJLSqO3ZOi_Qb3JcZ6W6iziendvAX=
+L-G_fM" target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline=
+"><img src=3D"https://services.google.com/fh/files/emails/en_generic_rgb_wo=
+_60.png" alt=3D"Google Play" width=3D"162" height=3D"48" style=3D"max-width=
+: none; height: 48px; width:162px; outline: none; display: block; -ms-inter=
+polation-mode: bicubic; border-top-width: 0; border-right-width: 0; border-=
+bottom-width: 0; border-left-width: 0;" align=3D"right"></a>
+                                          </td>
+                                          <td width=3D"21" height=3D"48" st=
+yle=3D"width:21px;height:48px"> </td>
+                                          <td style=3D"text-align:left; lin=
+e-height:10px;" width=3D"230">
+                                              <a href=3D"https://www.google=
+.com/appserve/mkt/p/ABMBUQN9S4-azeGlN6i9fkGaiRf3y3_AsFJUXfK3-Xaiiwam8ANwCI9=
+uTzVA5_Pc-oZQMwfn-JpaSPvehzGrgC3rDcq7_u0TTQK8hhiwR90xg8Hz2ZbL66owdICfGlHYLX=
+HugJu9lN06mVv_gaFhJyD-3OLWh5eNCAEQoWzhVO8" target=3D"_blank" style=3D"color=
+:#4285f4; text-decoration:underline"><img src=3D"https://services.google.co=
+m/fh/files/emails/one_wel_email_itunes_icon.png" alt=3D"App Store" width=3D=
+"162" height=3D"48" style=3D"max-width: none; width:162; height: 48px; outl=
+ine: none; display: block; -ms-interpolation-mode: bicubic; border-top-widt=
+h: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;"=
+ align=3D"left"></a>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"36"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <a href=3D"https://www.google.com/appse=
+rve/mkt/p/ABMBUQM7PcSBBRvCGIQBlIu7By9K-FttpAm3p7dT1lXBcmXQdImNuPquBBbbS-NBQ=
+55BAg9YkKrwRi97I4AJ0kpheMgesg8bXzqF36L2Pc4X3mPLK25MQeZmuoMIXYXHehL30hM9krZG=
+gGo-jR1N6WNB6w" target=3D"_blank" style=3D"color:#4285f4; text-decoration:u=
+nderline">
+                                    <img width=3D"134" height=3D"46" border=
+=3D"0" src=3D"https://services.google.com/fh/files/emails/google_log_new.pn=
+g" alt=3D"Google" style=3D"width: 134px; height: 46px; text-align: center; =
+border: none;">
+                                    </a>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"31"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"center" width=3D"405" class=3D"strip" style=3D"pa=
+dding-left:10px;padding-right:10px;">
+                                       <tr>
+                                          <td width=3D"32" class=3D"prod-ic=
+on" style=3D"margin:0; padding:0 0 0 0">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQPSetiJfOF5RPLtLjOxhwp9qHIvJvq_uq7-pMiCnB5CUUnwx1t7=
+dsHZc8o-w1O8AM3mTG1Ik1hdO50LCvUh6oViL_-JXHAGvzXSG8mRUr-SYD6irtA4-xuaAv9Yxyr=
+3DVdAN048POH5L0XqSIvwzg" target=3D"_blank" style=3D"color:#4285f4; text-dec=
+oration:underline">
+                                             <img width=3D"32" border=3D"0"=
+ src=3D"https://services.google.com/fh/files/emails/owe_googleg_32dp.png" a=
+lt=3D"Google Search" style=3D"width: 32px; text-align: center; border: none=
+;">
+                                             </a>
+                                          </td>
+                                          <td width=3D"15" style=3D"margin:=
+0; padding:0"></td>
+                                          <td width=3D"32" class=3D"prod-ic=
+on" style=3D"margin:0; padding:0 0 0 0">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQOS9wkw0mUQH3xqW4Gd40I5hOFomz8znx_S_iG5Y5Rn5dBtqeco=
+FmbxSpxMCd5IEzn-uqzWz9b6f54bRr8knTkBMuLlZwFc41Z95mOWAXeRZrrQLshi8A_tlhLMRTr=
+F92yI2zZvfPVponLabZ-8VJUvA-hx7G1cfCM" target=3D"_blank" style=3D"color:#428=
+5f4; text-decoration:underline">
+                                             <img width=3D"32" border=3D"0"=
+ src=3D"https://services.google.com/fh/files/emails/owe-new_gmail_32dp.png"=
+ alt=3D"Gmail">
+                                             </a>
+                                          </td>
+                                          <td width=3D"19" style=3D"margin:=
+0; padding:0"></td>
+                                          <td width=3D"32" class=3D"prod-ic=
+on" style=3D"margin:0; padding:0 0 0 0">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQNZIQmzGN89hhs6tNzO_P5yrCKBnX6wDlQq6F4H_l9oY8aP15A7=
+eC78WJDyR18z2AV6snj2ewHD6NyV260rRRVhRheLx2rS4_ZXIW0ZOBcjN8c1U9Y26CvaHt93Cng=
+CYUxI6Nnbir6P61eTjKDJr3b5Aw" target=3D"_blank" style=3D"color:#4285f4; text=
+-decoration:underline">
+                                             <img width=3D"32" border=3D"0"=
+ src=3D"https://services.google.com/fh/files/emails/owe_maps_32dp.png" alt=
+=3D"Google Maps" style=3D"width: 32px; text-align: center; border: none;">
+                                             </a>
+                                          </td>
+                                          <td width=3D"19" style=3D"margin:=
+0; padding:0"></td>
+                                          <td width=3D"32" class=3D"prod-ic=
+on" style=3D"margin:0; padding:0 0 0 0">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQNSbbvYsBIAYRfDxYl-D5YKA3tJQtzE3ENJ0mJ1KD5CJ684GL7T=
+CUreYKlf_MwArLf3KMBfB4SWo7aQ_z_WfcbhFFGLzYpJVnS4D-VP11ockpQpGhDmNZEbQaMwG75=
+T_kmPWhsD1BHKMySBJg" target=3D"_blank" style=3D"color:#4285f4; text-decorat=
+ion:underline">
+                                             <img width=3D"32" border=3D"0"=
+ src=3D"https://services.google.com/fh/files/emails/owe_youtube_32dp.png" a=
+lt=3D"YouTube" style=3D"width: 32x; text-align: center; border: none;">
+                                             </a>
+                                          </td>
+                                          <td width=3D"14" style=3D"margin:=
+0; padding:0"></td>
+                                          <td width=3D"32" class=3D"prod-ic=
+on" style=3D"margin:0; padding:0 0 0 0">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQNYfaGeEvJdKNXzd5qd13NfokIXPdIlQAi4f-T4-4HMJ50ohZbY=
+9CnfLQ00X0CbWK6VYgQpFIMq49itsmCP-sDr5le59fmTX74rZF8sqQD9dp1mZ9ijFS0vNJkG_V8=
+QrUZ8cPvxT6vy6gaG8iRBnzM" target=3D"_blank" style=3D"color:#4285f4; text-de=
+coration:underline">
+                                             <img width=3D"32" border=3D"0"=
+ src=3D"https://services.google.com/fh/files/emails/owe_drive_32dp.png" alt=
+=3D"Google Drive" style=3D"width: 32px; text-align: center; border: none;">
+                                             </a>
+                                          </td>
+                                          <td width=3D"13" style=3D"margin:=
+0; padding:0"></td>
+                                          <td width=3D"32" class=3D"prod-ic=
+on" style=3D"margin:0; padding:0 0 0 0">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQMTT3O3-_jvT3CRH-118G9cnXyK6SIyPz3-wO46M2H4VsdChLGP=
+typAZo762BBVgyRnyLczthXazshx053yNS8LJS2qUUAxLoZRxHvlASwIMVS6vK_BMGncECfujeC=
+pM-LhxXALfuuVaJkwuY2GrzU6YA" target=3D"_blank" style=3D"color:#4285f4; text=
+-decoration:underline">
+                                             <img width=3D"32" border=3D"0"=
+ src=3D"https://services.google.com/fh/files/emails/owe_photos_32dp.png" al=
+t=3D"Google Photos" style=3D"width: 32px; text-align: center; border: none;=
+">=20
+                                             </a>
+                                          </td>
+                                          <td width=3D"16" style=3D"margin:=
+0; padding:0"></td>
+                                          <td width=3D"32" class=3D"prod-ic=
+on" style=3D"margin:0; padding:0 0 0 0">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQM1-EZMnmsCqojLaJlvdlX1Q88bS43y1nEPOSQWURJU91We9IcU=
+Un1gv1H5guAzUyy7kBQ2bJmgdpVmsNvHo0OX_9k_ojT5ckL35ptCwrxXmzGmA3zwLzX-A-roYk2=
+Omay92fuAF73l3WaLKCPHUm3oGC8" target=3D"_blank" style=3D"color:#4285f4; tex=
+t-decoration:underline">
+                                             <img width=3D"32" border=3D"0"=
+ src=3D"https://services.google.com/fh/files/emails/owe_play_32dp.png" alt=
+=3D"Google Play" style=3D"width: 32px; text-align: center; border: none;">=
+=20
+                                             </a>
+                                          </td>
+                                          <td width=3D"15" style=3D"margin:=
+0; padding:0"></td>
+                                          <td width=3D"32" class=3D"prod-ic=
+on" style=3D"margin:0; padding:0 0 0 0">
+                                             <a href=3D"https://www.google.=
+com/appserve/mkt/p/ABMBUQPHgEH_RcFY3QU9cg7FbclQnj1clX86xTCO1P_SX9Z3SV2Iwr3m=
+X2Qo0tSUWU-nVeP9hIKke81stTOj0NWgr6vjC-YBHJVc9pGnx3sfsN4oi0S1GM2kz6_dqxVyUHJ=
+MuoMo1dQjkCQmfqHBEPlWtPVJc5Hu2cc" target=3D"_blank" style=3D"color:#4285f4;=
+ text-decoration:underline">
+                                             <img width=3D"32" border=3D"0"=
+ src=3D"https://services.google.com/fh/files/emails/owe_chrome_32dp.png" al=
+t=3D"Chrome" style=3D"width: 32px; text-align: center; border: none;">
+                                             </a>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"28"></td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"19" bgcolor=3D"#eeeeee" styl=
+e=3D"background: #eeeeee;"></td>
+                              </tr>
+                              <tr>
+                                 <td class=3D"footer" valign=3D"middle" sty=
+le=3D"background:#eee; color:#777; font-family:&quot;Roboto&quot;, OpenSans=
+, &quot;Open Sans&quot;, Arial, sans-serif; font-size:10px; font-weight:300=
+; line-height:14px; margin:0; padding:0 6px 0 6px; text-align:center" align=
+=3D"center">
+                                    =C2=A9 2018 Google LLC 1600 Amphitheatr=
+e Parkway, Mountain View, CA 94043<br>Anda menerima email ini karena telah =
+membuat akun Google.
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height=3D"18" bgcolor=3D"#eeeeee" style=3D"back=
+ground: #eeeeee;"></td>
+                     </tr>
+                  </table>
+               </td>
+               <td width=3D"20" bgcolor=3D"#eeeeee" style=3D"background: #e=
+eeeee;"></td>
+            </tr>
+         </table>
+         <div style=3D"display:none; white-space:nowrap; font:15px courier;=
+ line-height:0;">
+            =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+            =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+         </div>
+      </center>
+   <img height=3D"1" width=3D"3" src=3D"https://www.google.com/appserve/mkt=
+/img/ABMBUQMmLEEQ4-jYmBrsflRjTaF8dhU3ERURamcVEeg3SnbILw.gif"></body>
+  </html>
+--000000000000a169cf057bd8cdd3--

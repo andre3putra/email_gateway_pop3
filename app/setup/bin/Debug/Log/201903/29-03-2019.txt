@@ -1,0 +1,1 @@
+2019-03-29 10: 06:10	user	FSetting.MyBase.Load.SettingsException	Could not find file 'E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\bin\Debug\config.ini'.

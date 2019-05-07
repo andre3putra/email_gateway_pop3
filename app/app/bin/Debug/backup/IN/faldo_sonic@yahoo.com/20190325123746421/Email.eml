@@ -1,0 +1,698 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.234; Tue, 30 Oct 2012 08:55:43 -0700
+Return-Path: <v-jnoemk_encecdkoh_meppbjn_meppbjn_a@bounce.email.lumosity.com>
+Received-SPF: pass (domain of bounce.email.lumosity.com designates 208.85.54.183 as permitted sender)
+X-YMailISG: KQi05TIWLDvaJ_Ir8BcEdTQdnidzeYXXNU9ozNWmtY1liEYc
+ 39IRSv0G80wR7ykc7ymiVMUaKVQO5mNGuSDUBR5JUm6BWKW4nE7EFxIzJOj4
+ wekaqIjkAMaEg.J6yOp5s.xVIddM8rYqpwaYcEExVn6G7G5wnOnYhb_XHRLu
+ qLEjYDXfUiO2iu7N69ZAnrRLD2PvniAgrXZ3WxGj.CyPjHfiMlrmbFLV_Xz.
+ 74W9.U1CCCufKLMCZdDV5Nej7hTz.x8cv5X8C2GvqmCTOZN9y5IIJ_DAVZ18
+ 1UzKviD3sK0w1BLGnmLRTGE4M1TxF59EklXg.PFPibX5WXC9VuKjLodRJNcG
+ Onm7I6COyDEv6BHUHxS0eysFGbBM5u8oYKz4kGs9gH0Rq0yOfmaDtkO9bFyW
+ lzp0IIYND.uC.wIzHvNtdQATSloMh2gDTzoALSw6WthCqckaz7win5ksYq5m
+ 4tvsOEDywQWV6SGTMQcsJLqXBgnOPTRHwpdFCtG8DWYmF57JlRKWgndPoKzv
+ i7_1tu7Z0fUcMqhz2HMWINMC7zO7kPsItfoCnYSDEWt7ddqbFIdbv1pZelM9
+ DRtgCrIGy9iedpYAxv4OLGnCkvsNU9jtDIgAmiuxp2t8a9DdE0NQ.vxCrOfA
+ kOtL_vFBSYV9OPWok0igYw5SI9WukjNCyQcVmTo5bE.ZTa_jLatujUN7UOBQ
+ fFiq_J1pgC3BaIMhm8BPdMcVC_BPzi0cpNtR_DMctgGn3VJjwFNmaWsB6VQ8
+ 4eQBNJfmvP_sBKqXbD5ItiKlmIe0qRPE4DXfP.syi_2nPo9xzZ6uGuI3cIQu
+ JH3fhqU0iS2RY59zMRzu6HoLGZNbZIYJqDMevaFJQg.FyWrJWvzWslrFhfM9
+ OmJ5JHyVPV.ipMuRS63ooNSiS7jNV9h8SRcmKxMNZn8aFDFgM8aU1DGvUYjT
+ cl3dcdWrc4E8A4LV7OYsS_HekihxOAfCo0VvXf3I3ip_E0bEDKCLd6qNvH6a
+ g5xRiBhP4hFxdqhFQf_jD_602HqRboucHPDopIoQW5A6S0Hr8wu8ozSzPbJZ
+ 8xkdvPXZen7pdUOXcjID7hmyTIi1VrypoOoGfu292n2PXEXUxcwZQAe91nw.
+ ixYNjsr.tDMD0j47puxsvLW9Ih3di7uN_KZLC6DF2bYf40xxeCp5
+X-Originating-IP: [208.85.54.183]
+Authentication-Results: mta1216.mail.sk1.yahoo.com  from=email.lumosity.com; domainkeys=pass (ok);  from=email.lumosity.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail1446.email.lumosity.com) (208.85.54.183)
+  by mta1216.mail.sk1.yahoo.com with SMTP; Tue, 30 Oct 2012 08:55:43 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop; d=email.lumosity.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=newsletter@email.lumosity.com;
+ bh=TKobn2q+ZM8M636MXvcO4NKQk+o=;
+ b=kLbGuBMTXX0lACiz1hyhkk8tXB9bCYRqrxv2if3PzUjjp+VCYJZmLl4WjhNvaKLht4QpeKxdD8qS
+   jgy3Hm0Qjg==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop; d=email.lumosity.com;
+ b=tcoBjH4EsdPsAbcCrvS2xPerJ9Wq8RSWGhsi8sdEJVn/dEVZHlQzKA4EZNIguwQKEXQPYUaIe07+
+   uPXPIcj2sQ==;
+Received: by mail1446.email.lumosity.com id hhvs7u19if4b for <faldo_sonic@yahoo.com>; Tue, 30 Oct 2012 14:44:57 +0000 (envelope-from <v-jnoemk_encecdkoh_meppbjn_meppbjn_a@bounce.email.lumosity.com>)
+Date: Tue, 30 Oct 2012 14:44:57 +0000 (GMT)
+From: Lumosity <newsletter@email.lumosity.com>
+Reply-To: newsletter@email.lumosity.com
+To: faldo_sonic@yahoo.com
+Message-ID: <179858460.142532671351608297541.JavaMail.app@rbg32.atlis1>
+Subject: The science behind Lost in Migration: why this game works
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_39585_1227287803.1351608250062"
+x-mid: 10347722
+x-job: 10347722
+x-rpcampaign: sp10347722
+x-orgId: 9185
+X-CSA-Complaints: whitelist-complaints@eco.de
+List-Unsubscribe: <mailto:v-jnoemk_encecdkoh_meppbjn_meppbjn_a@bounce.email.lumosity.com?subject=Unsubscribe>
+Content-Length: 43678
+
+------=_Part_39585_1227287803.1351608250062
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hi andretriputra,
+
+The Science Behind Lumosity: Lost in Migration
+
+Lumosity members love Lost in Migration. It's easy to learn, exciting 
+to play, and can improve your concentration skills. But like all our 
+games, Lost in Migration is more than just a game: it origins are 
+steeped in an exciting research breakthrough that gave psychologists 
+and neuroscientists an important new tool for studying attention.
+
+Charles Eriksen (or 'Erik' as he was known to his colleagues) 
+certainly did not fit the academic stereotype of the 1970s: he wore 
+cowboy boots, played darts, and played practical jokes on his fellow 
+professors. But Erik had noticed something fascinating about a visual 
+attention task in which subjects identified one target letter out of 
+a ring of other letters.
+
+This original task required that subjects pull a lever in different 
+directions depending on what the target letter was--but Erik noticed 
+that people were slower at responding when the target letter was 
+closer to other distracter letters.
+
+Does this sound similar? In Lost in Migration, the goal is to train 
+your ability to focus on the center bird. But you can't let yourself 
+get distracted by the directionality of similar surrounding birds.
+
+After noting this fact, Eriksen went on to develop a new type of 
+attention test very similar to the one you?ll encounter in Lost in 
+Migration.  In this new 'flanker' task, the target letter, instead 
+of appearing on a ring of other letters, was surrounded by either 
+identical or different letters. Once again, subjects took longer to 
+respond when the target letter was different from surrounding ones.
+
+Erik pointed out that this phenomenon of response competition had 
+been previously identified in psychology in an exercise known as the 
+Stroop Task. (You can try Color Match for a great example of the 
+classic Stroop task.)
+
+Ever since Eriksen's research in the 1970s, flanker tasks have 
+enjoyed extensive use among psychologists. They've been used to 
+evaluate different aspects of attention, making them a perfect 
+choice when our neuroscientists needed a foundation for Lost in 
+Migration. We've made some key changes: for example, we used birds 
+rather than letter so that members with less experience with roman 
+characters(A, E, O, U, etc) are not at a disadvantage in the task.
+
+Now that you know a bit more about the history behind Lost in 
+Migration, why not give it a play? It can help you avoid 
+distractions and concentrate better--skills you might use to 
+tackle tough problems at work or at home. Once you've mastered this 
+game, consider challenging yourself with our full suite of 
+attention games by unlocking subscriber access. 
+
+Subscribe now and receive 35% off for a limited time:
+ http://links.email.lumosity.com/ctt?kn=303&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Read more on our blog:
+ http://links.email.lumosity.com/ctt?kn=43&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+---------------------------------------------------------------------
+
+Subscribe to Lumosity and receive 35% off
+
+- Improve your memory
+- Focus better
+- Think more quickly
+
+ http://links.email.lumosity.com/ctt?kn=243&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+---------------------------------------------------------------------
+
+FREE BRAIN EXERCISES
+
+Word Bubbles:
+ http://links.email.lumosity.com/ctt?kn=344&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Memory Matrix:
+ http://links.email.lumosity.com/ctt?kn=140&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Lost in Migration:
+ http://links.email.lumosity.com/ctt?kn=332&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Speed Match:
+ http://links.email.lumosity.com/ctt?kn=117&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Raindrops:
+ http://links.email.lumosity.com/ctt?kn=197&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+
+Are 5 brain exercises not enough? Subscribe to Lumosity to gain 
+access to ALL of Lumosity's 35+ brain exercises.
+
+Subscribe today and save 35%:
+ http://links.email.lumosity.com/ctt?kn=180&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Keep your brain bright,
+The Lumosity Team
+
+
+-------------------------------------------------------------------
+
+LEARN MORE
+
+Help Center / FAQs:
+ http://links.email.lumosity.com/ctt?kn=247&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+About Lumosity:
+ http://links.email.lumosity.com/ctt?kn=252&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Contact Us:
+ http://links.email.lumosity.com/ctt?kn=79&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+-------------------------------------------------------------------
+
+Keep up with the latest Lumosity updates:
+
+Like Us on Facebook: 
+ http://links.email.lumosity.com/ctt?kn=54&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Follow us on Twitter:
+ http://links.email.lumosity.com/ctt?kn=214&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Watch Us on YouTube:
+ http://links.email.lumosity.com/ctt?kn=225&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+
+-------------------------------------------------------------------
+
+We are unable to respond to messages sent to this automated email 
+address. To contact us, please submit your question here:
+ http://links.email.lumosity.com/ctt?kn=1&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0 
+
+Lumos Labs, Inc. | 153 Kearny Street, Floor 6 | San Francisco, CA 94108   
+
+-------------------------------------------------------------------
+
+This email was sent to faldo_sonic@yahoo.com.
+
+Click here to update your Lumosity email preferences:
+ http://links.email.lumosity.com/ctt?kn=200&ms=MTAzNDc3MjIS1&r=MjA3MDc0MjQ5OTkS1&b=2&j=MjA2NTY1Nzg5S0&mt=2&rj=MjA2NTY1Nzg5S0&rt=0                                                                                                                                                                                                                                                                                    
+                                             
+      
+                                                                                                                  
+     
+
+
+------=_Part_39585_1227287803.1351608250062
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>     </head>     <body vlink=3D"#2181a9" text=3D"#333333" link=
+=3D"#2181a9" alink=3D"#2181a9" topmargin=3D"20" style=3D"background-color: =
+rgb(178, 223, 245);"><p></p>         <div style=3D"display: none; visibilit=
+y: hidden; color: rgb(178, 223, 245); font-size: 0px;">The story behind how=
+ our games were made.</div>         <table width=3D"100%" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" style=3D"text-align: left; padding: 15px 3p=
+x; background-color: rgb(178, 223, 245); font-family: lucida grande,lucida =
+sans unicode,verdana,sans; font-size: 13px;">                              =
+<tr>                     <td><center>                     <div style=3D"pad=
+ding-bottom: 20px; margin: 0px; padding-top: 20px;"><img width=3D"520" heig=
+ht=3D"6" border=3D"0" src=3D'http://contentm.mkt1247.com/ra/2012/9185/10/10=
+347722/top_520.gif'  alt=3D""    style=3D"display: block;" />              =
+       <table width=3D"520" cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+" style=3D"text-align: left; padding: 0px; background-color: rgb(255, 255, =
+255); font-family: lucida grande,sans-serif;">                             =
+                         <tr>                                 <td style=3D"=
+padding: 0px 15px;"><table width=3D"490" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" style=3D"text-align: left; background-color: rgb(255, 255, 2=
+55); font-family: lucida grande,lucida sans unicode,verdana,sans; font-size=
+: 13px;">                                                                  =
+            <tr>                                             <td width=3D"5=
+0%"><a href=3D"http://links.email.lumosity.com/ctt?kn=3D35&ms=3DMTAzNDc3MjI=
+S1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0" target=3D"=
+_blank"  name=3D"Logo"><img width=3D"130" height=3D"40" border=3D"0" src=3D=
+'http://contentm.mkt1247.com/ra/2012/9185/10/10347722/LumosityLogo2.gif' ti=
+tle=3D"Lumosity"  alt=3D"Lumosity"    /></a></td>                          =
+                   <td width=3D"50%" style=3D"text-align: right; padding: 5=
+px 0px 20px 5px; font-family: lucida grande,lucida sans unicode,sans-serif;=
+ color: rgb(187, 187, 187); font-size: 13px;"><a href=3D"http://links.email=
+.lumosity.com/ctt?kn=3D263&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=
+=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0" target=3D"_blank"  style=3D"line-height: 2=
+; color: rgb(33, 129, 169); text-decoration: none;" name=3D"Train">Train</a=
+> | <a href=3D"http://links.email.lumosity.com/ctt?kn=3D193&ms=3DMTAzNDc3Mj=
+IS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0" target=3D=
+"_blank"  style=3D"line-height: 2; color: rgb(33, 129, 169); text-decoratio=
+n: none; padding-top: 2px;" name=3D"Your Profile">Your Profile</a></td>    =
+                                     </tr>                                 =
+                                     </table></td>                         =
+    </tr>                             <tr>                                 =
+<td width=3D"520" valign=3D"top" style=3D"padding: 15px; line-height: 1.4; =
+background-color: rgb(230, 242, 250); font-size: 14px;"><!-- START TOP BANN=
+ER -->                             <!-- END TOP BANNER -->                 =
+                <table width=3D"490" cellspacing=3D"0" cellpadding=3D"0" bo=
+rder=3D"0">                                                                =
+              <tr>                                             <td width=3D=
+"310" valign=3D"top"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+" style=3D"padding: 15px 15px 0px; background-color: rgb(255, 255, 255); wi=
+dth: 310px;">                                                              =
+                                        <tr>                               =
+                          <td width=3D"280" style=3D"font-family: lucida gr=
+ande,lucida sans unicode,verdana,sans; font-size: 13px;"><!-- START MAIN CO=
+NTENT -->                                                         <p style=
+=3D"line-height: 1.4; margin: 0px; font-family: Trebuchet MS,sans; color: r=
+gb(238, 119, 11); font-size: 20px; font-weight: bold;">The Science Behind L=
+umosity: Lost in Migration<strong><br />
+                                                        </strong></p>
+                                                        <p style=3D"margin:=
+ 1em 0pt;"><a href=3D"http://links.email.lumosity.com/ctt?kn=3D26&ms=3DMTAz=
+NDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NT=
+Y1Nzg5S0&rt=3D0" target=3D"_blank" name=3D"sub_maincreative" ><img width=3D=
+"280" height=3D"209" border=3D"0" src=3D'http://contentm.mkt1247.com/ra/201=
+2/9185/10/10347722/lost-in-migration3.jpg_4.jpe'     alt=3D"The story behin=
+d Lost in Migration" title=3D"The story behind Lost in Migration" /></a></p=
+>
+                                                        <p style=3D"margin:=
+ 1em 0pt;">Lumosity members love <a target=3D"_blank" href=3D"http://links.=
+email.lumosity.com/ctt?kn=3D382&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=
+=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0"  name=3D"game_LO=
+M_1" style=3D"color: #2181A9; text-decoration: none">Lost in Migration</a>.=
+ It's easy to learn, exciting to play, and can improve your concentration s=
+kills. But like all our games, Lost in Migration is more than just a game: =
+it origins are steeped in an exciting research breakthrough that gave psych=
+ologists and neuroscientists an important new tool for studying attention.<=
+/p>
+                                                        <p style=3D"margin:=
+ 1em 0pt;">Charles Eriksen (or &ldquo;Erik&rdquo; as he was known to his co=
+lleagues) certainly did not fit the academic stereotype of the 1970s: he wo=
+re cowboy boots, enjoyed darts, and played practical jokes on his fellow pr=
+ofessors. But Erik had noticed something fascinating about a visual attenti=
+on task in which subjects identified one target letter out of a ring of oth=
+er letters.</p>
+                                                        <p style=3D"margin:=
+ 1em 0pt;">This original task required that subjects pull a lever in differ=
+ent directions depending on what the target letter was&mdash;but Erik notic=
+ed that people were slower at responding when the target letter was closer =
+to other distracter letters.</p>
+                                                        <p style=3D"margin:=
+ 1em 0pt;">Does this sound similar? In Lost in Migration, <strong>the goal =
+is to train your ability to focus</strong> on the center bird. But you can'=
+t let yourself get distracted by the directionality of similar surrounding =
+birds.</p>
+                                                        <p style=3D"margin:=
+ 1em 0pt;">After noting this fact, Eriksen went on to develop a new type of=
+ attention test very similar to the one you&rsquo;ll encounter in Lost in M=
+igration.&nbsp; In this new &ldquo;flanker&rdquo; task, the target letter, =
+instead of appearing on a ring of other letters, was surrounded by either i=
+dentical or different letters. Once again, subjects took longer to respond =
+when the target letter was different from surrounding ones.</p>
+                                                        <p style=3D"margin:=
+ 1em 0pt;">Erik pointed out that this phenomenon of response competition ha=
+d been previously identified in psychology in an exercise known as the Stro=
+op Task. (You can try <a target=3D"_blank" href=3D"http://links.email.lumos=
+ity.com/ctt?kn=3D373&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA=
+2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0"  name=3D"sub_game_1" style=
+=3D"color: #2181A9; text-decoration: none">Color Match</a> for a great exam=
+ple of the classic Stroop task.)</p>
+                                                        <p style=3D"margin:=
+ 1em 0pt;">Ever since Eriksen&rsquo;s research in the 1970s, flanker tasks =
+have enjoyed extensive use among psychologists. They&rsquo;ve been used to =
+evaluate different aspects of attention, making them a perfect choice when =
+our neuroscientists needed a foundation for Lost in Migration. We&rsquo;ve =
+made some key changes: for example, we used birds rather than letter so tha=
+t members with less experience with roman characters (A, E, O, U, etc) are =
+not at a disadvantage in the task.</p>
+                                                        <p style=3D"margin:=
+ 1em 0pt;">Now that you know a bit more about the history behind <a name=3D=
+"game_LOM2_1"  href=3D"http://links.email.lumosity.com/ctt?kn=3D335&ms=3DMT=
+AzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2=
+NTY1Nzg5S0&rt=3D0" target=3D"_blank" style=3D"color: #2181A9; text-decorati=
+on: none">Lost in Migration</a>, why not give it a play? It can help you <s=
+trong>avoid distractions and concentrate better</strong>&mdash;skills you m=
+ight use to tackle tough problems at work or at home. Once you've mastered =
+this game, consider challenging yourself with our <a name=3D"sub_txtbtm1_1"=
+  href=3D"http://links.email.lumosity.com/ctt?kn=3D387&ms=3DMTAzNDc3MjIS1&r=
+=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=
+=3D0" target=3D"_blank" style=3D"color: #2181A9; text-decoration: none">ful=
+l suite of attention games</a> by unlocking subscriber access.&nbsp;</p>
+                                                        <p style=3D"text-al=
+ign: center; margin: 1em 0pt;"><a href=3D"http://links.email.lumosity.com/c=
+tt?kn=3D169&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5=
+S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0" target=3D"_blank"  name=3D"sub_mainbu=
+tton"><img width=3D"260" height=3D"45" border=3D"0" src=3D'http://contentm.=
+mkt1247.com/ra/2012/9185/10/10347722/staysharpandfocused.gif_4.gif' title=
+=3D"Stay Sharp and Focus"  alt=3D"Stay Sharp and Focus"    /></a></p>
+                                                        <p style=3D"line-he=
+ight: 1.4; margin: 1em 0px;">Learn more on the <a target=3D"_blank" href=3D=
+"http://links.email.lumosity.com/ctt?kn=3D208&ms=3DMTAzNDc3MjIS1&r=3DMjA3MD=
+c0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0"  st=
+yle=3D"color: #2181A9; text-decoration: none" name=3D"bloglink_1_1">Lumosit=
+y blog</a>.</p>
+</span>                                                         <!-- END MA=
+IN CONTENT -->                                                         <p s=
+tyle=3D"line-height: 1.2; margin-bottom: 0px; margin-top: 30px; font-family=
+: Trebuchet MS,sans; color: rgb(238, 119, 11); font-size: 20px; font-weight=
+: bold;">Learning From Missteps<a href=3D"http://links.email.lumosity.com/c=
+tt?kn=3D326&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5=
+S0&mt=3D1&rt=3D0" target=3D"_blank"  name=3D"creative_1"> </a></p>         =
+                                                <p style=3D"margin: 1em 0pt=
+"><a href=3D"http://links.email.lumosity.com/ctt?kn=3D326&ms=3DMTAzNDc3MjIS=
+1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0" target=3D"_=
+blank"  name=3D"creative_1"><img width=3D"280" height=3D"181" border=3D"0" =
+src=3D'http://contentm.mkt1247.com/ra/2012/9185/10/10347722/taylor2802.jpg'=
+ title=3D"Taylor"  alt=3D"Taylor"    /></a></p>                            =
+                             <p style=3D"margin: 1em 0px; font-weight: bold=
+;"><a href=3D"http://links.email.lumosity.com/ctt?kn=3D329&ms=3DMTAzNDc3MjI=
+S1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0" target=3D"=
+_blank"  style=3D"color: rgb(33, 129, 169);" name=3D"lumosity_com_blog_quot=
+_">Taylor F.</a><a href=3D"http://links.email.lumosity.com/ctt?kn=3D329&ms=
+=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=
+=3D0" target=3D"_blank"  style=3D"color: rgb(33, 129, 169);" name=3D"lumosi=
+ty_com_blog_quot_">                                                        =
+</a></p>                                                         <p style=
+=3D"margin: 1em 0px;"><table width=3D"280" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0">                                                          =
+                                                                    <tr>   =
+                                                                  <td width=
+=3D"15" style=3D"font-style: italic; padding-right: 5px; font-family: trebu=
+chet ms,sans; font-size: 30px; vertical-align: top;">&ldquo;</td>          =
+                                                           <td width=3D"250=
+" style=3D"line-height: 20px; font-family: lucida grande,lucida sans unicod=
+e,verdana,sans; font-size: 13px;">I play for mental clarity, flexibility an=
+d for general well-being of the mind. Through my day-to-day games, I am abl=
+e to forge ahead and learn to adapt when I'm wrong. That's the biggest thin=
+g: missing something, then having the presence of mind and mental flexibili=
+ty to figure out your mistake and get a new high score. It's not easy, but =
+you learn the most from your errors.</td>                                  =
+                                   <td width=3D"15" style=3D"font-style: it=
+alic; font-family: trebuchet ms,sans; font-size: 30px; vertical-align: bott=
+om;">&bdquo;</td>                                                          =
+       </tr>                                                               =
+                                                       </table></p></td>   =
+                                                  </tr>                    =
+                                                                          <=
+/table>                                             <p></p>                =
+                             <table style=3D"padding: 5px; background-color=
+: rgb(255, 255, 255); width: 310px;" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0">                                                 <tbody>        =
+                                             <tr>                          =
+                               <td><table style=3D"border: 2px dashed rgb(2=
+55, 190, 0); background-color: rgb(255, 255, 255);" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"300">                                   =
+                          <tbody>                                          =
+                       <tr>                                                =
+                     <td style=3D"text-align: center; padding: 10px 15px; f=
+ont-style: italic; font-family: trebuchet ms,sans; color: rgb(238, 119, 11)=
+; font-size: 18px;"><p style=3D"margin: 1em 0px;">Subscribe to Lumosity <br=
+>                                                                     withi=
+n the next 3 days to <b>receive 35% off</b></p>                            =
+                                         <p style=3D"margin: 1em 0px;"><a n=
+ame=3D"sub_bottombutton"  target=3D"_blank" href=3D"http://links.email.lumo=
+sity.com/ctt?kn=3D384&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMj=
+A2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0"><img title=3D"Subscribe"  a=
+lt=3D"Subscribe"    src=3D'http://contentm.mkt1247.com/ra/2012/9185/10/1034=
+7722/subfat3.gif' border=3D"0" height=3D"38" width=3D"131"></a></p></td>   =
+                                                              </tr>        =
+                                                     </tbody>              =
+                                           </table></td>                   =
+                                  </tr>                                    =
+             </tbody>                                             </table><=
+/span></td>                                             <td width=3D"180" v=
+align=3D"top" style=3D"background-color: rgb(230, 242, 250); padding-left: =
+15px; font-family: lucida grande,lucida sans unicode,verdana,sans; font-siz=
+e: 13px;"><table width=3D"165" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" style=3D"padding: 0px 15px; background-color: rgb(255, 255, 255);"> =
+                                                                           =
+                          <tr>                                             =
+            <td style=3D"font-family: lucida grande,lucida sans unicode,ver=
+dana,sans; font-size: 12px;"><p style=3D"margin: 1em 0px;"><a href=3D"http:=
+//links.email.lumosity.com/ctt?kn=3D16&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5O=
+TkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0" target=3D"=
+_blank" name=3D"sub_topcoupon" ><img src=3D'http://contentm.mkt1247.com/ra/=
+2012/9185/10/10347722/orange35.jpg' title=3D"Save 35%" alt=3D"Save 35%"    =
+ border=3D"0" height=3D"168" width=3D"135"></a></p>                        =
+                                 <p style=3D"line-height: 1.2; margin: 1em =
+0px; font-family: trebuchet ms; font-size: 18px;"><a target=3D"_blank" href=
+=3D"http://links.email.lumosity.com/ctt?kn=3D380&ms=3DMTAzNDc3MjIS1&r=3DMjA=
+3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0" =
+ style=3D"color: rgb(33, 129, 169); font-size: 24px;" name=3D"sub_text3days=
+only">Save 35% on Lumosity &#8212; 3 Days Only!</a></p>                    =
+                                     <p style=3D"margin: 1em 0px;"><b>Subsc=
+ribers gain:</b><br>                                                       =
+  <span style=3D"font-size: 11px;">&#8226; All 35+ brain exercises<br>     =
+                                                    &#8226; Personalized tr=
+aining<br>                                                         &#8226; =
+Progress tracking<br>                                                      =
+   </span></p>                                                         <p s=
+tyle=3D"margin: 1em 0px;"><a href=3D"http://links.email.lumosity.com/ctt?kn=
+=3D71&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=
+=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0" target=3D"_blank"  style=3D"color: rgb(33,=
+ 129, 169); font-size: 24px;" name=3D"sub_rightcolbutton"><img src=3D'http:=
+//contentm.mkt1247.com/ra/2012/9185/10/10347722/RtCol_Button.gif_2.gif' tit=
+le=3D"Subscribe"  alt=3D"Subscribe"    border=3D"0" height=3D"33" width=3D"=
+135"></a></p></span></td>                                                  =
+   </tr>                                                                   =
+                           </table>                                        =
+     <p></p>                                             <p></p>           =
+                                  <p></p>                                  =
+           <p></p>                                             <p></p>     =
+                                        <p></p>                            =
+                 <p style=3D"margin: 1em 0px 0px; font-family: trebuchet ms=
+,sans; color: rgb(102, 102, 102); font-size: 16px; font-weight: bold; paddi=
+ng-top: 15px;"><p style=3D"font-weight: bold; font-size: 16px; font-family:=
+ trebuchet ms, sans;
+        margin-top: 15px; margin-bottom: 5px;">Your Next Session</p>       =
+  <p style=3D"margin: 0;"><span style=3D"color: #666666; font-weight: bold;=
+ font-size: 16px;
+        font-family: trebuchet ms, sans;">Session 1 of 3</span></p>        =
+ <table style=3D"text-align: left;
+            font-family: lucida grande, sans-serif; font-size: 12px; line-h=
+eight: 20px; padding-top: 5px;
+            color: #666666;" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"163">             <tbody>                 <tr>                 =
+    <td style=3D"padding-bottom: 10px; padding-top: 4px;" valign=3D"top"><a=
+ href=3D"http://links.email.lumosity.com/ctt?kn=3D260&ms=3DMTAzNDc3MjIS1&r=
+=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=
+=3D0" target=3D"_blank" name=3D"SpeedMatchImage" ><img src=3D'http://conten=
+tm.mkt1247.com/ra/2012/9185/10/10347722/thumb_sm_speedMatch.jpg_27.jpe'    =
+ alt=3D"Speed Match" title=3D"Speed Match" align=3D"top" border=3D"0" heigh=
+t=3D"47" width=3D"64"></a></td>                     <td style=3D"padding-le=
+ft: 5px; font-family: lucida grande, lucida
+                    sans unicode, verdana, sans; padding-left: 5px;" valign=
+=3D"top"><span style=3D"font-weight: bold">Speed</span><br>                =
+     Speed Match</td>                 </tr>                 <tr>           =
+          <td style=3D"padding-bottom: 10px; padding-top: 4px;" valign=3D"t=
+op"><a href=3D"http://links.email.lumosity.com/ctt?kn=3D317&ms=3DMTAzNDc3Mj=
+IS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY1Nzg5=
+S0&rt=3D0" target=3D"_blank" name=3D"MemoryMatrixImage" ><img src=3D'http:/=
+/contentm.mkt1247.com/ra/2012/9185/10/10347722/thumb_sm_memoryMatrix.jpg_27=
+.jpe'     alt=3D"Memory Matrix" title=3D"Memory Matrix" align=3D"top" borde=
+r=3D"0" height=3D"47" width=3D"64"></a></td>                     <td style=
+=3D"padding-left: 5px; font-family: lucida grande, lucida
+                    sans unicode, verdana, sans; padding-left: 5px;" valign=
+=3D"top"><span style=3D"font-weight: bold">Memory</span><br>               =
+      Memory Matrix</td>                 </tr>                 <tr>        =
+             <td style=3D"padding-bottom: 10px; padding-top: 4px;" valign=
+=3D"top"><a href=3D"http://links.email.lumosity.com/ctt?kn=3D316&ms=3DMTAzN=
+Dc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D2&rj=3DMjA2NTY=
+1Nzg5S0&rt=3D0" target=3D"_blank" name=3D"EagleEyeImage" ><img src=3D'http:=
+//contentm.mkt1247.com/ra/2012/9185/10/10347722/EagleEye_Thumb3.jpg_8.jpe' =
+    alt=3D"Eagle Eye" title=3D"Eagle Eye" align=3D"top" border=3D"0" height=
+=3D"47" width=3D"64"></a></td>                     <td style=3D"padding-lef=
+t: 5px; font-family: lucida grande, lucida
+                    sans unicode, verdana, sans; padding-left: 5px;" valign=
+=3D"top"><span style=3D"font-weight: bold">Visual   Field</span><br>       =
+              Eagle Eye</td>                 </tr>             </tbody>    =
+     </table>         <p style=3D"font-weight:bold; font-size: 14px; paddin=
+g-top: 10px; margin-top: 0px;
+        margin-bottom: 1em;"><a href=3D"http://links.email.lumosity.com/ctt=
+?kn=3D25&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&=
+mt=3D2&rj=3DMjA2NTY1Nzg5S0&rt=3D0" style=3D"text-decoration:none; color:
+        #2181A9; font-weight: bold;" name=3D"StartTrainingText"  target=3D"=
+_blank">Start   Training <img src=3D'http://contentm.mkt1247.com/ra/2012/91=
+85/10/10347722/Arrow.jpg_36.jpe' alt=3D""     align=3D"textTop" border=3D"0=
+" height=3D"13" width=3D"8"> </a></p></span></p>                           =
+                  <table width=3D"162" cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0">                                                              =
+                                        <tr>                               =
+                          <td><p></p>                                      =
+                   <p><a  name=3D"ProductCreative" target=3D"_blank" href=
+=3D"http://links.email.lumosity.com/ctt?kn=3D171&ms=3DMTAzNDc3MjIS1&r=3DMjA=
+3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0"><img width=3D"162" h=
+eight=3D"100" border=3D"0" alt=3D"" src=3D'http://contentm.mkt1247.com/ra/2=
+012/9185/10/10347722/familyplan_2col.gif' style=3D"display:block;"     /></=
+a></p></td>                                                     </tr>      =
+                                               <tr>                        =
+                                 <td style=3D"padding-top:6px;"><div style=
+=3D"font-family:'Lucida Grande','Lucida Sans Unicode',Verdana,sans-serif; t=
+ext-align:left; display:block;"><p style=3D"color:#000C11; font-size:16px; =
+line-height:19px; margin-top:0;margin-bottom:0;margin-right:0;margin-left:0=
+;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">Train toge=
+ther with friends and family</p></div></td>                                =
+                     </tr>                                                 =
+    <tr>                                                         <td style=
+=3D"padding-top:4px;"><div style=3D"font-family:'Lucida Grande','Lucida San=
+s Unicode',Verdana,sans-serif; text-align:left; display:block;"><p style=3D=
+"color:#000C11; font-size:11px; line-height:16px; margin-top:0;margin-botto=
+m:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;">The Lumosity Family Subscription lets you add up to 4=
+ friends and family members to your account for free. That means each perso=
+n pays just $1.71 per month!</p></div></td>                                =
+                     </tr>                                                 =
+    <tr>                                                         <td style=
+=3D"padding-top:4px;"><div style=3D"font-family:'Lucida Grande','Lucida San=
+s Unicode',Verdana,sans-serif; text-align:left; display:block;"><p style=3D=
+"color:#000C11; font-size:12px; line-height:16px; margin-top:0;margin-botto=
+m:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-rig=
+ht:0;padding-left:0;"><a target=3D"_blank"  name=3D"ProductCTA" href=3D"htt=
+p://links.email.lumosity.com/ctt?kn=3D58&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ=
+5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0" style=3D"color:#2181A9; text=
+-decoration:none;">Find out more&rarr;</a></p></div></td>                  =
+                                   </tr>                                   =
+                                                           </table>        =
+                                     <p style=3D"margin: 1em 0px 0px; font-=
+family: trebuchet ms,sans; color: rgb(102, 102, 102); font-size: 16px; font=
+-weight: bold; padding-top: 15px;">Lumosity Benefits</p>                   =
+                          <p style=3D"margin: 0px; color: rgb(102,102,102);=
+ font-size: 10px; font-weight: bold"><table style=3D"margin: 0px; color: rg=
+b(102, 102, 102); font-size: 10px; font-weight: bold; font-family: lucida g=
+rande,lucida sans unicode,verdana,sans; width: 165px; height: 138px;">     =
+                                                                           =
+                      <tr>                                                 =
+        <td valign=3D"top" style=3D"margin: 0px 2px 0px 0px; color: rgb(102=
+,102,102); font-size: 10px; font-weight: bold"><img width=3D"17" height=3D"=
+13" border=3D"0"    alt=3D""  src=3D'http://contentm.mkt1247.com/ra/2012/91=
+85/10/10347722/check_mark.gif' /></td>                                     =
+                    <td valign=3D"top" style=3D"margin: 0px 2px 0px 0px; co=
+lor: rgb(102,102,102); font-size: 10px; font-weight: bold; font-family: luc=
+ida grande,lucida sans unicode,verdana,sans;">Think more quickly</td>      =
+                                               </tr>                       =
+                              <tr>                                         =
+                <td valign=3D"top" style=3D"margin: 0px 2px 0px 0px; color:=
+ rgb(102,102,102); font-size: 10px; font-weight: bold"><img width=3D"17" he=
+ight=3D"13" border=3D"0"    alt=3D""  src=3D'http://contentm.mkt1247.com/ra=
+/2012/9185/10/10347722/check_mark.gif' /></td>                             =
+                            <td valign=3D"top" style=3D"margin: 0px 2px 0px=
+ 0px; color: rgb(102,102,102); font-size: 10px; font-weight: bold; font-fam=
+ily: lucida grande,lucida sans unicode,verdana,sans;">Increase intelligence=
+</td>                                                     </tr>            =
+                                         <tr>                              =
+                           <td valign=3D"top" style=3D"margin: 0px 2px 0px =
+0px; color: rgb(102,102,102); font-size: 10px; font-weight: bold"><img widt=
+h=3D"17" height=3D"13" border=3D"0"    alt=3D""  src=3D'http://contentm.mkt=
+1247.com/ra/2012/9185/10/10347722/check_mark.gif' /></td>                  =
+                                       <td valign=3D"top" style=3D"margin: =
+0px 2px 0px 0px; color: rgb(102,102,102); font-size: 10px; font-weight: bol=
+d; font-family: lucida grande,lucida sans unicode,verdana,sans;">Solve toug=
+her problems</td>                                                     </tr>=
+                                                     <tr>                  =
+                                       <td valign=3D"top" style=3D"margin: =
+0px 2px 0px 0px; color: rgb(102,102,102); font-size: 10px; font-weight: bol=
+d"><img width=3D"17" height=3D"13" border=3D"0"    alt=3D""  src=3D'http://=
+contentm.mkt1247.com/ra/2012/9185/10/10347722/check_mark.gif' /></td>      =
+                                                   <td valign=3D"top" style=
+=3D"margin: 0px 2px 0px 0px; color: rgb(102,102,102); font-size: 10px; font=
+-weight: bold; font-family: lucida grande,lucida sans unicode,verdana,sans;=
+">Enhance memory</td>                                                     <=
+/tr>                                                     <tr>              =
+                                           <td valign=3D"top" style=3D"marg=
+in: 0px 2px 0px 0px; color: rgb(102,102,102); font-size: 10px; font-weight:=
+ bold"><img width=3D"17" height=3D"13" border=3D"0"    alt=3D""  src=3D'htt=
+p://contentm.mkt1247.com/ra/2012/9185/10/10347722/check_mark.gif' /></td>  =
+                                                       <td valign=3D"top" s=
+tyle=3D"margin: 0px 2px 0px 0px; color: rgb(102,102,102); font-size: 10px; =
+font-weight: bold; font-family: lucida grande,lucida sans unicode,verdana,s=
+ans;">Feel more confident</td>                                             =
+        </tr>                                                     <tr>     =
+                                                    <td valign=3D"top" styl=
+e=3D"margin: 0px 2px 0px 0px; color: rgb(102,102,102); font-size: 10px; fon=
+t-weight: bold"><img width=3D"17" height=3D"13" border=3D"0"    alt=3D""  s=
+rc=3D'http://contentm.mkt1247.com/ra/2012/9185/10/10347722/check_mark.gif' =
+/></td>                                                         <td valign=
+=3D"top" style=3D"margin: 0px 2px 0px 0px; color: rgb(102,102,102); font-si=
+ze: 10px; font-weight: bold; font-family: lucida grande,lucida sans unicode=
+,verdana,sans;">Boost creativity                                           =
+              <p></p></td>                                                 =
+    </tr>                                                                  =
+                            </table></p>                                   =
+          <br />                                             <p style=3D"li=
+ne-height: 18px; margin: 1em 0px; color: rgb(102, 102, 102); font-size: 12p=
+x;"><a name=3D"lumosity_com_invitation_1" style=3D"color: rgb(33, 129, 169)=
+; font-weight: bold;"  href=3D"http://links.email.lumosity.com/ctt?kn=3D230=
+&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&r=
+t=3D0" target=3D"_blank"><br />                                            =
+ </a></p></td>                                         </tr>               =
+                                                       </table></td>       =
+                      </tr>                                              </=
+table>                     <table width=3D"520" cellspacing=3D"10" cellpadd=
+ing=3D"0" border=3D"0" style=3D"background-color: rgb(178, 223, 245); text-=
+align: left; font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-seri=
+f; font-size: 11px; line-height: 20px; margin: 15px 0px">                  =
+                                    <tr>                                 <t=
+d align=3D"center" style=3D"font-size: 12px; font-color: #333333; line-heig=
+ht: 30px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;"=
+><a style=3D"text-decoration: none; color: #2181A9;" target=3D"_blank"  nam=
+e=3D"Follow Us on Twitter" href=3D"http://links.email.lumosity.com/ctt?kn=
+=3D354&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=
+=3D1&rt=3D0"> =09=09=09=09=09=09=09<img width=3D"30" height=3D"30" border=
+=3D"0" align=3D"absMiddle" title=3D"Lumosity on Twitter" alt=3D"Lumosity on=
+ Twitter"     src=3D'http://contentm.mkt1247.com/ra/2012/9185/10/10347722/2=
+0111215_twitter_icon.gif' /> Follow Us =09=09=09=09=09=09</a></td>         =
+                        <td align=3D"center" style=3D"font-size: 12px; font=
+-color: #333333; line-height: 30px; font-family: 'Lucida Grande', 'Lucida S=
+ans Unicode', sans-serif;"><a name=3D"www_facebook_com_Lumosity" style=3D"t=
+ext-decoration: none; color: #2181A9;" target=3D"_blank"  href=3D"http://li=
+nks.email.lumosity.com/ctt?kn=3D336&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS=
+1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0"> =09=09=09=09=09=09=09<img width=
+=3D"30" height=3D"30" border=3D"0" align=3D"absMiddle" title=3D"Lumosity on=
+ Facebook" alt=3D"Lumosity on Facebook"     src=3D'http://contentm.mkt1247.=
+com/ra/2012/9185/10/10347722/20111215_facebook_icon.gif' /> Like Us =09=09=
+=09=09=09=09</a></td>                                 <td align=3D"center" =
+style=3D"font-size: 12px; font-color: #333333; line-height: 30px; font-fami=
+ly: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;"><a name=3D"plus_go=
+ogle_com_Lumosity" style=3D"text-decoration: none; color: #2181A9;"  target=
+=3D"_blank" href=3D"http://links.email.lumosity.com/ctt?kn=3D358&ms=3DMTAzN=
+Dc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0"> =09=
+=09=09=09=09=09=09<img width=3D"30" height=3D"30" border=3D"0" align=3D"abs=
+Middle" title=3D"Lumosity on Google+" alt=3D"Lumosity on Google+"     src=
+=3D'http://contentm.mkt1247.com/ra/2012/9185/10/10347722/20111215_googleplu=
+s_icon.gif' /> Join Us =09=09=09=09=09=09</a></td>                         =
+        <td align=3D"center" style=3D"font-size: 12px; font-color: #333333;=
+ line-height: 30px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', sa=
+ns-serif;"><a name=3D"www_youtube_com_Lumosity" style=3D"text-decoration: n=
+one; color: #2181A9;" target=3D"_blank"  href=3D"http://links.email.lumosit=
+y.com/ctt?kn=3D295&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2N=
+TY1Nzg5S0&mt=3D1&rt=3D0"> =09=09=09=09=09=09=09<img width=3D"30" height=3D"=
+30" border=3D"0" align=3D"absMiddle" title=3D"Lumosity on YouTube" alt=3D"L=
+umosity on YouTube"     src=3D'http://contentm.mkt1247.com/ra/2012/9185/10/=
+10347722/20111215_youtube_icon.gif' /> Watch Us =09=09=09=09=09=09</a></td>=
+                             </tr>                             <tr>        =
+                         <td valign=3D"top" colspan=3D"4" style=3D"font-col=
+or: #666666; font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-seri=
+f;"><center>                                 <p>This email was sent to fald=
+o_sonic@yahoo.com. Your username is andretriputra.<br />                   =
+              Want to receive fewer emails? <a name=3D"Mail Preferences_1" =
+style=3D"color: rgb(33, 129, 169); "  href=3D"http://links.email.lumosity.c=
+om/ctt?kn=3D150&ms=3DMTAzNDc3MjIS1&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1=
+Nzg5S0&mt=3D1&rt=3D0" target=3D"_blank">Update your email preferences</a> o=
+r <a target=3D"_blank"  style=3D"color: #2181A9;" name=3D"Unsubscribe_1_1" =
+href=3D"http://links.email.lumosity.com/servlet/OneClickOptOutServlet?m=3D1=
+0347722&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0">unsub=
+scribe</a>. <br />                                 Have questions? We're he=
+re to help! <a style=3D"color: #2181A9;" name=3D"ContactUs"  target=3D"_bla=
+nk" href=3D"http://links.email.lumosity.com/ctt?kn=3D101&ms=3DMTAzNDc3MjIS1=
+&r=3DMjA3MDc0MjQ5OTkS1&b=3D0&j=3DMjA2NTY1Nzg5S0&mt=3D1&rt=3D0">Contact us</=
+a> anytime.<br />                                 Lumos Labs, Inc. | 153 Ke=
+arny St, Floor 6 | San Francisco, CA 94108</p>                             =
+    </center></td>                             </tr>                       =
+                       </table></div>                     </center></td>   =
+              </tr>                      </table>         <p></p>         <=
+p><style type=3D"text/css">@media print{#_t { background-image: url('https:=
+//34207d72.emltrk.com/34207d72?p');}} div.outlookmessageheader {background-=
+image:url('https://34207d72.emltrk.com/34207d72?f')} table.moz-email-header=
+s-table {background-image:url('https://34207d72.emltrk.com/34207d72?f')} bl=
+ockquote #_t {background-image:url('https://34207d72.emltrk.com/34207d72?f'=
+)}</style></p>         <div id=3D"_t"></div>         <p><img width=3D"1" he=
+ight=3D"1" border=3D"0"  src=3D"https://34207d72.emltrk.com/34207d72" alt=
+=3D"" /></p><IMG src=3D"http://links.email.lumosity.com/open/log/10347722/M=
+jA3MDc0MjQ5OTkS1/0/MjA2NTY1Nzg5S0/1/0"></body></html>
+
+
+------=_Part_39585_1227287803.1351608250062--

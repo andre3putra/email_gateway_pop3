@@ -1,0 +1,244 @@
+Delivered-To: atriputra87@gmail.com
+Received: by 2002:a25:b68a:0:0:0:0:0 with SMTP id s10-v6csp8590072ybj;
+        Tue, 4 Dec 2018 20:04:03 -0800 (PST)
+X-Google-Smtp-Source: AFSGD/WKLbazN2A0CSvkaOIBkRmjh+Kr5hBeF9f7Adq09iT2QawiGLMJtv2dZ3rJnTOTHbbYiX8+
+X-Received: by 2002:a0c:c584:: with SMTP id a4mr19409670qvj.227.1543982643939;
+        Tue, 04 Dec 2018 20:04:03 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1543982643; cv=none;
+        d=google.com; s=arc-20160816;
+        b=BkmEasHh/qzT/ZzpF2odu6ZxrImfH/2fviteDosDovdRZIdlplwxH4iwkG6lLW3WOa
+         PoSOOOg1HssuoNgk9Y2UOsfV7YuUI3KWBykyDQ+U5DaeADyP6rshibbGeiGYG2KOYfyP
+         qvMqWVYPMDSAJGytKJCH8AhwuV62pWheWhBfrRF1KAy1fylgyoPak/MP/YMwVv+B1GD+
+         A/Oc0h92bOFwxRn0S5CLmApK79dFEBM/PrujL2x+JW2dCi34QC/RUWeCx0BRX6+ROO2b
+         m7RTmloenpUWvzijYwOE03E3wpGrexJB0ZAeENX8zOo6P4ZfgZmFcxciX86SvKfaDQh0
+         X1bQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:date:subject:to:from:message-id;
+        bh=EUxKgt/hgUOkQMF+EYQD6r4puJTYRoww1EHrTCOiVDI=;
+        b=rCrKxtfJshHo7YUq/f6leMcWJI7lXNPhr6dC6aN7SmEBrQQYVpo8X63pojsfLNUykA
+         JGg6zbfSxHzyghbGXvcrwirVHnoQgycIpKsVM7P+SMr4xx49U0IHTX/hEmHEK/dggDyd
+         3un9hX/AGa5pZmR/rRjd+1mnXqSo4mvADP4+mEc4Jz6YcMhuQoMEfutITBzslK75Pbp3
+         A2k7MTQ9IjanzK//TG3Q0ksGk++QzgLCx4FCGB6t0L+dHimPYDbf0PBzgn9VDsxYydOv
+         GWC/+LJ/Mk3lT/XqqBRgTFKFcI/3IThTrLFs0x+AhvlzNNPCJ+vBc2zJUa7O55kxq5MG
+         rvBw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=neutral (google.com: 146.20.161.127 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) smtp.mailfrom=andre@invision-ap.com
+Return-Path: <andre@invision-ap.com>
+Received: from smtp127.iad3b.emailsrvr.com (smtp127.iad3b.emailsrvr.com. [146.20.161.127])
+        by mx.google.com with ESMTPS id e7si4356875qvp.159.2018.12.04.20.04.03
+        for <atriputra87@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 04 Dec 2018 20:04:03 -0800 (PST)
+Received-SPF: neutral (google.com: 146.20.161.127 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) client-ip=146.20.161.127;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 146.20.161.127 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) smtp.mailfrom=andre@invision-ap.com
+Received: from smtp8.relay.iad3b.emailsrvr.com (localhost [127.0.0.1])
+	by smtp8.relay.iad3b.emailsrvr.com (SMTP Server) with ESMTP id AE5E74017E
+	for <atriputra87@gmail.com>; Tue,  4 Dec 2018 23:04:03 -0500 (EST)
+X-Auth-ID: andre@invision-ap.com
+Received: by smtp8.relay.iad3b.emailsrvr.com (Authenticated sender: andre-AT-invision-ap.com) with ESMTPSA id DD26C4019E
+	for <atriputra87@gmail.com>; Tue,  4 Dec 2018 23:04:02 -0500 (EST)
+X-Sender-Id: andre@invision-ap.com
+Received: from nb-andre.domain ([UNAVAILABLE]. [182.253.44.54])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384)
+	by 0.0.0.0:465 (trex/5.7.12);
+	Tue, 04 Dec 2018 23:04:03 -0500
+Message-ID: <2adeea06f5f3b4bcc0fc8b5c00372f77@invision-ap.com>
+From: <andre@invision-ap.com>
+To: <atriputra87@gmail.com>
+Subject: Fwd: Test dengan gambar
+Date: Wed, 05 Dec 2018 11:03:57 +0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="08ef485ff0f1a76e1823d786000b51a0"
+
+This is a multi-part message in MIME format.
+
+--08ef485ff0f1a76e1823d786000b51a0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tes---------- Forwarded message ---------From: Andre Triputra =
+&lt;andre@invision-ap.com&gt;Date: Kam, 29 Nov 2018 pukul 13.50Subject: =
+Test dengan gambarTo:  &lt;w77736427@gmail.com&gt;Cc:  =
+&lt;andretriputra87@gmail.com&gt;,  &lt;andre@invision-ap.com&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saya akan coba dengan gambar yang tidak di
+lampiran setelah pesan ini gambar=20
+
+=C2=A0
+
+
+
+=C2=A0
+
+Best regards,
+
+=C2=A0
+
+Andre Triputra
+
+Desktop Programmer
+
+=C2=A0
+
+PT. Invision Astrindo Pratama (Selindo Group)
+
+Darmawangsa Square
+
+Jl. Darmawangsa VI No.9-10, RT.5/RW.1, Pulo, Kebayoran Baru
+
+South Jakarta City, Jakarta 12140 , Indonesia
+
+Phone: 021 =E2=80=93 7264528
+
+Fax: 021 =E2=80=93 7264522
+
+Website : http://invision.io/
+
+=C2=A0
+
+
+
+
+
+
+-- Thanks &amp; Regards,
+               =20
+	
+	ANDRE ILHAM TRIPUTRA+62 852 6582 5873 (mobile)
+                
+
+
+--08ef485ff0f1a76e1823d786000b51a0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:comic =
+sans ms,sans-serif">Tes</div><br><div class=3D"gmail_quote"><div =
+dir=3D"ltr">---------- Forwarded message ---------<br>From: <strong =
+class=3D"gmail_sendername" dir=3D"auto">Andre Triputra</strong> <span =
+dir=3D"ltr">&lt;<a =
+href=3D"mailto:andre@invision-ap.com">andre@invision-ap.com</a>&gt;</span><=
+br>Date: Kam, 29 Nov 2018 pukul 13.50<br>Subject: Test dengan =
+gambar<br>To:  &lt;<a =
+href=3D"mailto:w77736427@gmail.com">w77736427@gmail.com</a>&gt;<br>Cc:  =
+&lt;<a =
+href=3D"mailto:andretriputra87@gmail.com">andretriputra87@gmail.com</a>&gt;=
+,  &lt;<a =
+href=3D"mailto:andre@invision-ap.com">andre@invision-ap.com</a>&gt;<br></di=
+v><br><br>
+
+
+
+
+
+
+
+
+
+<div lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+
+<div class=3D"m_7867117021177444878Section1">
+
+<p class=3D"MsoNormal"><span lang=3D"IN">Saya akan coba dengan gambar yang =
+tidak di
+lampiran setelah pesan ini gambar <u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN"><u></u>=C2=A0<u></u></span></p>
+
+<p class=3D"MsoNormal"><img width=3D"713" height=3D"401" =
+id=3D"m_7867117021177444878Picture_x0020_1" =
+src=3D"cid:1676288bf214ce8e91"><span lang=3D"IN"><u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#1f497d">Best regards,<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#1f497d"><u></u>=C2=A0<u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#1f497d">Andre Triputra<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#1f497d">Desktop Programmer<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#1f497d"><u></u>=C2=A0<u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#7f7f7f">PT. Invision Astrindo Pratama (Selindo =
+Group)<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#7f7f7f">Darmawangsa Square<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#7f7f7f">Jl. Darmawangsa VI No.9-10, RT.5/RW.1, Pulo, Kebayoran =
+Baru<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#7f7f7f">South Jakarta City, Jakarta 12140</span><span =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#7f7f7f"> , Indonesia<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#7f7f7f">Phone: 021 =E2=80=93 7264528<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#7f7f7f">Fax: 021 =E2=80=93 7264522<u></u><u></u></span></p>
+
+<p class=3D"MsoNormal"><span lang=3D"IN" =
+style=3D"font-size:10.0pt;font-family:&quot;Cambria&quot;,&quot;serif&quot;=
+;color:#7f7f7f">Website : <a href=3D"http://invision.io/" =
+target=3D"_blank"><span =
+style=3D"color:blue">http://invision.io/</span></a><u></u><u></u></span></p=
+>
+
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+
+</div>
+
+</div>
+
+
+</div><br clear=3D"all"><div><br></div>-- <br><div dir=3D"ltr" =
+class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div =
+dir=3D"ltr"><font face=3D"tahoma" color=3D"black" size=3D"1"><div><font =
+size=3D"2">Thanks &amp; Regards,</font></div><font size=3D"2">
+                </font><p>
+	</p><font size=3D"2">
+	</font><div><b>ANDRE ILHAM TRIPUTRA</b></div><font =
+size=3D"2"></font><div><font size=3D"2">+62 852 6582 5873 =
+(mobile)</font></div>
+                <div><br></div></font></div></div></div>
+
+
+--08ef485ff0f1a76e1823d786000b51a0--

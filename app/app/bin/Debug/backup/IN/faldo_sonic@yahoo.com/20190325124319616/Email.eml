@@ -1,0 +1,259 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.232; Wed, 31 Oct 2012 06:45:58 -0700
+Return-Path: <notification+z=iepzgz@facebookmail.com>
+Received-SPF: pass (domain of facebookmail.com designates 69.171.232.149 as permitted sender)
+X-YMailISG: 44ondFEWLDuOKMjnTrKt0_9vtKSA9O7FSx_lUG5XarZ4SHg7
+ VGgt1PgBDOE9ZMel5FFqZqfqP6R5RwVPmxtX_7QX7YsRVXuEMVU1ariwCrr8
+ d7Pbwwp3w44evN_Vhf5RBtmGDnzY4B7QQWPfBBmnzbgcR_z37bgFpJaYUWGw
+ rjPlkH2EN_N0xEbnU7cPwowedEPjEGndqK9Mc4APbsNVGuO3r7Kcpc238ieu
+ jfF6TK9mGjOtu.5oa.yi5WUA2.DvFP6rzfaAjfqv3HhC0O5eqmS3kvRdS0PY
+ dTM51O_OLomE_xsTHtEak1moPLg4N7D6sU6xBie6QuxyDJZ3oQRC7eEMwc1x
+ Q4fgR7lUHLRblYMPYorkfs3EuBa2HKpq3qbUkOi27XIookFbHKI_85B2Zt72
+ ZtobdwH6MGpmzTLtMOTmkcS_oc0nV8TaINOdcPuZHM9xeMxRFpAYPSAuyLcX
+ 6xIR9tKp0aGe8TQ4ucsl64XWzej01AR6UOKZQBf9xcStzFVk5naC3YPKXs38
+ CWx0jL4uEKQeeFPwfsMg.M4BLYT7mfm5_zIEhcansLmWJNwiPBE.uhk.DiNv
+ luVPqACer.CCczn9jXU9wL.m44Y68V6iwHQKaTjV3J6B7VhGplrUsbxnod8B
+ L0RYBQLCwFbJgqZFApgASgULJlDOrB1t_pOuOs3_I.CurzrP9T7NtDhoE_2J
+ 1RveyXXWrfHAT8xN1.jM7pOJAbZ6wdjILIY3wYoQ51CqVZZdyDLBx2e3rGJ0
+ BPrEKn6oe68Q22L8gGmf1U_ztEhyQuBTa9SXpGWiikJQPzjacq_rpsz06MGz
+ Amq576hsTULhslplvLdosO8CUNxKeMosuISbtcm3BD27K28Hwhnlt3TKUkaw
+ gP5pEaOjVmJ3DAqUrAi7xxsU10bjiYyUlIAs2Cr1WUB_1V20lNf7NnDGU82o
+ 8su1nYdOXwlpxPqXj0I6FlcNqoy1SWbH4yov.WPqPRUVz0MzlpGRS0Mq5Lp4
+ NX8pv6plkfbaZmcgobW_7HPgXFHrwP4QIwJUGjENcZJtgYG59UbajStlgh2t
+ 0s71PgDfGCKLVg9EI_ufgesb9LjePDFyamKjNRb8AWh16DnELnzmowzaa3Ev
+ mpiC3F5YQyjZLiGnFPflzw9CmkmHhleaY0X4BU7.kp2s.iKZcvCjdexvbvGZ
+ eWyWcbXg0nyVkjOwtVOzTzRgkVXiL9f1vAW4_Je9NVyyZdh2sVv5sBeL4KpK
+ b5LbMh.gqUqLJ0s0TArymSv3MsB93qc-
+X-Originating-IP: [69.171.232.149]
+Authentication-Results: mta1458.mail.mud.yahoo.com  from=facebookmail.com; domainkeys=neutral (no sig);  from=facebookmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mx-out.facebook.com) (69.171.232.149)
+  by mta1458.mail.mud.yahoo.com with SMTP; Wed, 31 Oct 2012 06:45:58 -0700
+Return-Path: <notification+z=iepzgz@facebookmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; d=facebookmail.com; s=s1024-2011-q2; c=relaxed/simple;
+	q=dns/txt; i=@facebookmail.com; t=1351691154;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=8i2fh8IR26IvUwZJ5Iklj+vwUmSY1s7ViuGyvnSylmA=;
+	b=DjB6UyVKOq7U3y7yNxBvlJHTjiY9KSvIiv6SL3U+7hT0JuQpmtol6dpsCnVS9Kiu
+	FGKwVgddCIGpv29jPeEaxkJtQ9SpRkpOw/EE4tmNXSVYIiIowyYsjkTxbMrGR/RM
+	7jrfn/eshoZ/lrfh8JO8Uw6CZVuRMpzrLmZLGDm3yqE=;
+Received: from [10.79.49.45] ([10.79.49.45:55039])
+	by smout072.snc7.facebook.com (envelope-from <notification+z=iepzgz@facebookmail.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id D5/C0-20559-29B21905; Wed, 31 Oct 2012 06:45:54 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Wed, 31 Oct 2012 06:45:54 -0700
+To: AndRe DRe <faldo_sonic@yahoo.com>
+From: "Facebook" <notification+z=iepzgz@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: pembaruan status Halaman mingguan Anda
+Message-ID: <11223f06923322ea5071223ee063791e@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+z=iepzgz@facebookmail.com
+X-Facebook-Notify: fbpage_insights; mailid=6fb28bfG45a2596dG34793feG66
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_11223f06923322ea5071223ee063791e"
+Content-Length: 11641
+
+
+--b1_11223f06923322ea5071223ee063791e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Kelola Halaman Anda
+http://www.facebook.com/n/?home.php&sk=3Dpages&mid=3D6fb28bfG45a2596dG3479=
+3feG66&bcode=3DNlyKtPu7_1.1351691153.AaT7norRaJVPAd4G&n_m=3Dfaldo_sonic%40=
+yahoo.com&lloc=3Dcta
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hai, AndRe,
+
+Berikut ini adalah wawasan terbaru tentang Halaman Facebook Anda.
+
+----------------------
+
+SMK Multi Mekanik Masmur
+
+Tambahan Suka: 0
+Membicarakan Ini: 1 (-83,3%)
+Total Jangkauan Mingguan: 34 (-35,8%)
+
+Lihat Semua Wawasan: http://www.facebook.com/n/?pages%2FSMK-Multi-Mekanik-=
+Masmur%2F212811828736712&amp;ref=3Ddigest_email&amp;sk=3Dpage_insights&amp=
+;mid=3D6fb28bfG45a2596dG34793feG66&amp;bcode=3DNlyKtPu7_1.1351691153.AaT7n=
+orRaJVPAd4G&amp;n_m=3Dfaldo_sonic%40yahoo.com
+Promosikan Halaman: http://www.facebook.com/n/?ads%2Fcreate%2F&amp;fbid=3D=
+212811828736712&amp;src=3Dpdem&amp;mid=3D6fb28bfG45a2596dG34793feG66&amp;b=
+code=3DNlyKtPu7_1.1351691153.AaT7norRaJVPAd4G&amp;n_m=3Dfaldo_sonic%40yaho=
+o.com
+
+Terima kasih,
+Tim Facebook
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Pesan ini dikirim ke faldo_sonic@yahoo.com. Jika Anda tidak ingin menerima =
+email ini lagi dari Facebook, ikuti tautan di bawah ini untuk berhenti =
+berlangganan.
+https://www.facebook.com/o.php?k=3DAS057YTx2JONpc1G&u=3D1168267629&mid=3D6=
+fb28bfG45a2596dG34793feG66
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_11223f06923322ea5071223ee063791e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body style=3D"margin: 0; =
+padding: 0;" dir=3D"ltr"><table cellspacing=3D"0" cellpadding=3D"0" =
+id=3D"email_table" style=3D"border-collapse:collapse;width:98%;" =
+border=3D"0"><tr><td id=3D"email_content" =
+style=3D"font-size:12px;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verda=
+na,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vert=
+ical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:5px =
+20px;"><a style=3D"text-decoration: none;" href=3D"http://www.facebook.com=
+/n/?home.php&amp;sk=3Dpages&amp;mid=3D6fb28bfG45a2596dG34793feG66&amp;bcod=
+e=3DNlyKtPu7_1.1351691153.AaT7norRaJVPAd4G&amp;n_m=3Dfaldo_sonic%40yahoo.c=
+om&amp;lloc=3Dlogo"><span style=3D"background:#3b5998;color:#FFFFFF;font-w=
+eight:bold;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; =
+font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:basel=
+ine;">facebook</span></a></td></tr></table><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:620px;" =
+border=3D"0" width=3D"620px"><tr><td style=3D"font-size:11px;font-family:L=
+ucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;background-color:#=
+f2f2f2;border-left:none;border-right:none;border-top:none;border-bottom:no=
+ne;"><table cellspacing=3D"0" cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px=
+;"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:20px;background-color:#fff;border-left:none;border-right:no=
+ne;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:10px;"><span style=3D"color:#333333;">Halo =
+AndRe,</span></td></tr><tr><td style=3D"font-size:11px;font-family:LucidaG=
+rande,tahoma,verdana,arial,sans-serif;padding-top:10px;padding-bottom:10px=
+;"><span style=3D"color:#333333;">Berikut ini adalah wawasan terbaru =
+tentang Halaman Facebook Anda.</span></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:10px;padding-bottom:10px;"><div style=3D"font: normal =
+12px &#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"></div></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:10px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:20px;border-top:1px solid #e8e8e8;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"top" =
+style=3D"padding-right:10px;font-size: 0px;"><a href=3D"http://www.faceboo=
+k.com/n/?pages%2FSMK-Multi-Mekanik-Masmur%2F212811828736712&amp;ref=3Ddige=
+st_email&amp;mid=3D6fb28bfG45a2596dG34793feG66&amp;bcode=3DNlyKtPu7_1.1351=
+691153.AaT7norRaJVPAd4G&amp;n_m=3Dfaldo_sonic%40yahoo.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbcdn-pr=
+ofile-a.akamaihd.net/hprofile-ak-snc6/187779_212811828736712_1720160_q.jpg=
+" style=3D"border:0;" /></a></td><td valign=3D"top" =
+style=3D"width:100%;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:0px;"><span =
+style=3D"color:#111111;font-size:13px;font-weight:bold;"><a =
+href=3D"http://www.facebook.com/n/?pages%2FSMK-Multi-Mekanik-Masmur%2F2128=
+11828736712&amp;ref=3Ddigest_email&amp;mid=3D6fb28bfG45a2596dG34793feG66&a=
+mp;bcode=3DNlyKtPu7_1.1351691153.AaT7norRaJVPAd4G&amp;n_m=3Dfaldo_sonic%40=
+yahoo.com" style=3D"color:#3b5998;text-decoration:none;">SMK Multi Mekanik =
+Masmur</a></span></td></tr><tr><td style=3D"font-size:11px;font-family:Luc=
+idaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0=
+px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:10px 20px 2px =
+0;"><span style=3D"color:#808080;">Tambahan Suka</span></td><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:10px 20px 2px 0;"><span =
+style=3D"color:#808080;">Membicarakan Ini</span></td><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:10px 20px 2px 0;"><span style=3D"color:#808080;">Total =
+Jangkauan Mingguan</span></td></tr><tr><td style=3D"font-size:11px;font-fa=
+mily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0 20px 10px =
+0;"><span style=3D"color:#333333;font-size:18px;font-weight:bold;font-fami=
+ly:Helvetica, Arial, sans-serif;">0</span></td><td style=3D"font-size:11px=
+;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0 20px =
+10px 0;"><span style=3D"color:#333333;font-size:18px;font-weight:bold;font=
+-family:Helvetica, Arial, sans-serif;">1</span><span style=3D"font_size: =
+11px; font-weight: bold; color: #d44f30;"> -83,3% </span></td><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0 20px 10px 0;"><span style=3D"color:#333333;font-size:18px=
+;font-weight:bold;font-family:Helvetica, Arial, =
+sans-serif;">34</span><span style=3D"font_size: 11px; font-weight: bold; =
+color: #d44f30;"> -35,8% </span></td></tr></table></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:0px;"><div><a href=3D"http://www.facebook.com/n/?pages%=
+2FSMK-Multi-Mekanik-Masmur%2F212811828736712&amp;ref=3Ddigest_email&amp;sk=
+=3Dpage_insights&amp;mid=3D6fb28bfG45a2596dG34793feG66&amp;bcode=3DNlyKtPu=
+7_1.1351691153.AaT7norRaJVPAd4G&amp;n_m=3Dfaldo_sonic%40yahoo.com" =
+style=3D"color:#3b5998;text-decoration:none;">Lihat Semua Wawasan</a> =
+=C2=B7 <a href=3D"http://www.facebook.com/n/?ads%2Fcreate%2F&amp;fbid=3D21=
+2811828736712&amp;src=3Dpdem&amp;mid=3D6fb28bfG45a2596dG34793feG66&amp;bco=
+de=3DNlyKtPu7_1.1351691153.AaT7norRaJVPAd4G&amp;n_m=3Dfaldo_sonic%40yahoo.=
+com" style=3D"color:#3b5998;text-decoration:none;">Promosikan =
+Halaman</a></div></td></tr></table></td></tr></table></td></tr></table></t=
+d></tr></table></td></tr></table></td></tr><tr><td style=3D"font-size:11px=
+;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;widt=
+h:620px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:7px 20px;background-color:#f2f2f2;border-left:none;border-r=
+ight:none;border-top:1px solid #ccc;border-bottom:1px solid #ccc;"><table =
+cellspacing=3D"0" cellpadding=3D"0" style=3D""><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-left:65px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #29447E #29447E =
+#1a356e;background-color: #5b74a8;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a =
+href=3D"http://www.facebook.com/n/?home.php&amp;sk=3Dpages&amp;mid=3D6fb28=
+bfG45a2596dG34793feG66&amp;bcode=3DNlyKtPu7_1.1351691153.AaT7norRaJVPAd4G&=
+amp;n_m=3Dfaldo_sonic%40yahoo.com&amp;lloc=3Dcta" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #fff;font-size: =
+11px;">Kelola Halaman Anda</span></a></td></tr></table></td></tr></table><=
+/td></tr></table></td></tr></table></td></tr></table></td></tr></table><ta=
+ble cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, =
+verdana, arial, sans-serif;padding:30px 20px;background-color:#fff;border-=
+left:none;border-right:none;border-top:none;border-bottom:none;color:#9999=
+99;border:none;">Pesan ini dikirim ke <a =
+href=3D"mailto:faldo_sonic&#064;yahoo.com" style=3D"color:#3b5998;text-dec=
+oration:none;">faldo_sonic&#064;yahoo.com</a>. Jika Anda tidak ingin =
+menerima email ini lagi dari Facebook, <a href=3D"https://www.facebook.com=
+/o.php?k=3DAS057YTx2JONpc1G&amp;u=3D1168267629&amp;mid=3D6fb28bfG45a2596dG=
+34793feG66" =
+style=3D"color:#3b5998;text-decoration:none;">unsubscribe</a>.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table><span style=3D"width:620px;"><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?c=3D1398962786&amp;=
+mid=3D6fb28bfG45a2596dG34793feG66" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_11223f06923322ea5071223ee063791e--

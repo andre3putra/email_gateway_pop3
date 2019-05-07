@@ -1,0 +1,114 @@
+Delivered-To: atriputra87@gmail.com
+Received: by 2002:a25:b68a:0:0:0:0:0 with SMTP id s10-v6csp9859340ybj;
+        Wed, 5 Dec 2018 22:06:16 -0800 (PST)
+X-Received: by 2002:a19:200b:: with SMTP id g11mr15601093lfg.58.1544076376093;
+        Wed, 05 Dec 2018 22:06:16 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1544076376; cv=none;
+        d=google.com; s=arc-20160816;
+        b=dGvLMG3g9ZF1XTRcIswKOwx0X6fW6niUISnUuaRk5ysn62YHWHutlZf2a89W3P17hE
+         S7HpcxMOMPU/XpcL0rwrkvq5BIji2Th778oSZAsUJGW1K7qDkAFIYEXbeTx+Nb7g9SVW
+         1X1JwV1P3Qp5buQwE2p3XFh8ZMupjwOZvfSwYcg7YuXYLDagIvFeggXmrEIfp2ZRxDLZ
+         iUcxsWDRwk+kgROVbsipguHMA0qNiSDaPVRJx+DxtMeatsxC/xUE5+JaDXYLJR/nX2om
+         DRphsBJAJklGSW0qns1kKxyIguFdww7pAKjihz/8kGg8d3RHtvd/P+2TWuCvcd73V33y
+         ZerA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :dkim-signature;
+        bh=gGO4gHVg9MqvydQ+GUlJUCaOhWBWslgMvF0BV222GMc=;
+        b=ej7vSPb/b3YwRm2Sw1nASQJzL1Rtp3i6lI1A+9tG2Ejtp9xDQ6Fp6IL7+utgWKk4JZ
+         5P+y5MNH081BaOvli3FG4HgxJaiESe6ZxFN6lHBmePHyVsUMXHjxSgTCFl7ocIYfI74C
+         /j8D13xid6hmoWoDecCy7s7qLWXV9r4GjWkShU8PfKUybA5iK2UjN92jKSo67F6TLfmq
+         f+Pjz8Nsqciwm0c3kFaqqWKlS7GVHYaH4vty8+O3mBcvVjxRSBHMD842+Ze/GntqOQ/B
+         5toY2CLf6QLHjb8qxQR3ofhMKSXQDYjpgb9L2cBHgrMmkGO7oz51AplmLHjNlODaWzRC
+         7azw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20161025 header.b=Z76flDOQ;
+       spf=pass (google.com: domain of andretriputra87@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=andretriputra87@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <andretriputra87@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id q8-v6sor14167462ljg.29.2018.12.05.22.06.15
+        for <atriputra87@gmail.com>
+        (Google Transport Security);
+        Wed, 05 Dec 2018 22:06:16 -0800 (PST)
+Received-SPF: pass (google.com: domain of andretriputra87@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20161025 header.b=Z76flDOQ;
+       spf=pass (google.com: domain of andretriputra87@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=andretriputra87@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=gGO4gHVg9MqvydQ+GUlJUCaOhWBWslgMvF0BV222GMc=;
+        b=Z76flDOQHB7DG6qFNlJOmsX0D7h4HZoQ2HLNsQiOl0FPMIAzd0ltGjppEcLtgng+WZ
+         pPcX0WbD7CGz/Yw7zpeZOEmCv3QtPjNVlExjIeS+TxnL9vFQXOMheZ+PaCLTYSyHTQyF
+         jH9K3yY8qdUZsbPqvEJ7Dvi+bOtdI9dv7Ub38XU0XYwLlSky8R91OKm9TQt+p7e/nmyC
+         H8WHrSNo+PQH8wqqUVQsqgPA1DI8g0uPTsV0ijgC1VcfTsjVyh1W5wh64htTXaAKID6A
+         T5zjYM0aXQDsB84yAjOI+3PBg824AgJIzvf3jWPiIPlNdwGCr7uTZC9pzxFCDmDNEZH+
+         lYJQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=gGO4gHVg9MqvydQ+GUlJUCaOhWBWslgMvF0BV222GMc=;
+        b=d/MlUUtSrMmta3kbJI4TGf3vrKLW/f1LxJxNzkLKmzGpA28UqKfTG1645hCdRwwVPu
+         SfoiTtQ1pysqJ2QkF/CgHnuM9kQP49VA8g+4QF0MAQlo+cdhXBNtgHTq9FPpEMQI6Dq3
+         H71bLeUGHq+0t/0aixPXuXUCNG36W4uYmLV9opdCPjFtk0S/n8bwQMCfOBcfy7HyGLeK
+         bX5nscSGjAQUKeQelwE2M2JxNvCuq8w5PZKnamemF5Zp2aD5+bI+YzD7z/A3lPyrsRDr
+         aLGQf2kp/Ud1oAjbUzHUQIa7/BFsDbnA+RBMXeRmf915sr9JMl023w7AOYcD0Axau2CH
+         Sayg==
+X-Gm-Message-State: AA+aEWbGGbeMlUU8CkgZYCBtW73nJn2pF+MTMaTFvA9D7IZq2i5Ja9zX
+	zGXqSGl6F+lsErMIOor5T0rwe0910PgJhjnmSLOR0nWS
+X-Google-Smtp-Source: AFSGD/UEYeWpt353VqGCdX+cAM4E7IEzWBZXlNV0w003Ffw0IAhPfvtZ8vvXV2MZe4lgLDz5jgOp+S7slG4exSO6k/E=
+X-Received: by 2002:a2e:568b:: with SMTP id k11-v6mr17892981lje.105.1544076375391;
+ Wed, 05 Dec 2018 22:06:15 -0800 (PST)
+MIME-Version: 1.0
+References: <CAD-ALDVnVQpZW-q43W-dNS2u+z+mVrLUrw+hPaZSf8cpn450_Q@mail.gmail.com>
+In-Reply-To: <CAD-ALDVnVQpZW-q43W-dNS2u+z+mVrLUrw+hPaZSf8cpn450_Q@mail.gmail.com>
+From: Andre Triputra <andretriputra87@gmail.com>
+Date: Thu, 6 Dec 2018 13:06:03 +0700
+Message-ID: <CAHaBm9DWAyZ0nVn9kEaog9Ws4O0cBnKXYA3vU_qkasgi9teZSw@mail.gmail.com>
+Subject: Re: Akun baru
+To: atriputra87@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000dc86ff057c544b57"
+
+--000000000000dc86ff057c544b57
+Content-Type: text/plain; charset="UTF-8"
+
+haaiiiiii
+
+Pada tanggal Jum, 30 Nov 2018 pukul 09.50 Andre Triputra <
+atriputra87@gmail.com> menulis:
+
+> Ini akun baru
+>
+
+
+-- 
+Thanks & Regards,
+
+*ANDRE ILHAM TRIPUTRA*
++62 852 6582 5873 (mobile)
+
+--000000000000dc86ff057c544b57
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:comic sa=
+ns ms,sans-serif">haaiiiiii</div></div><br><div class=3D"gmail_quote"><div =
+dir=3D"ltr">Pada tanggal Jum, 30 Nov 2018 pukul 09.50 Andre Triputra &lt;<a=
+ href=3D"mailto:atriputra87@gmail.com">atriputra87@gmail.com</a>&gt; menuli=
+s:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
+rder-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Ini akun baru</=
+div>
+</blockquote></div><br clear=3D"all"><div><br></div>-- <br><div dir=3D"ltr"=
+ class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"l=
+tr"><font face=3D"tahoma" color=3D"black" size=3D"1"><div><font size=3D"2">=
+Thanks &amp; Regards,</font></div><font size=3D"2">
+                </font><p>
+	</p><font size=3D"2">
+	</font><div><b>ANDRE ILHAM TRIPUTRA</b></div><font size=3D"2"></font><div>=
+<font size=3D"2">+62 852 6582 5873 (mobile)</font></div>
+                <div><br></div></font></div></div>
+
+--000000000000dc86ff057c544b57--

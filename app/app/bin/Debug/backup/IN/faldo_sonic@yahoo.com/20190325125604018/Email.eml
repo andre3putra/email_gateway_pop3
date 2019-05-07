@@ -1,0 +1,181 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.234; Thu, 01 Nov 2012 23:46:56 -0700
+Return-Path: <bounces+5273-e2ba-faldo_sonic=yahoo.com@slidesharemail.com>
+Received-SPF: pass (domain of slidesharemail.com designates 74.63.202.74 as permitted sender)
+X-YMailISG: 15QAZy0WLDt5kN.xJqE4b4fri1s3wKzzI6gy2ayKCMXmmjsG
+ U39qXJlUeaHSCcWtVKTATYUPSXGOXMPaWW_dhQg8lkM0cU_xyoptNMgyodIV
+ tfaa.ty.uE0_h4Nlz7e2kXdEjSYoqvkP2JiMpuw8mgt2jtEJRTWOdcjjg4Dy
+ QZy4dY0ImU5UsM46uFVx03sXd.XL8z_asQ83qLXSBtfV8oXgv8JrKWzygfWZ
+ ROSTfYQv4ttKsnxuQ2gZ0TWhsi9aH.JIyBme3X98oafG2nONIFTbkvmZX71e
+ Oj4nddcl78SFN5My3OdVaE8SZdnKOvJHCT9sA9nnA5kd8.JYA0btOmApqvfq
+ hhK0yY_pbSVrd2XlsHzEGdHaYRtXK6nSioiRHYxG0hjUKcYNqIGKLC77mhJc
+ wEwJsxyPkNLA3sDD8gub5sSEUW_.4U11ZPssdubOZWp6u17hIAM7Aq0C4Ioo
+ c3h5TSXf6OSly2yaV33k9pNs3cKjQI1PGMSljbTUpFk9cRizWB0qc.whWvvh
+ .HQcFBogzZ4eMAozSqmw0TRzfo3YLpYaELoi4BaG5XKsBPy1xDq8In2uuoAv
+ a5Nb5Ke4wjkIbMirlR7GMwTN1w8wlh5uSuI8vI_66ScRd_DJ8TYmVDXlYMwx
+ enhFS1Jvlph4SCdhjfVInb9Ym8bXJMPe0_l0vNWA1u_h6ZhWpiObFhUhFPEz
+ QIc9AhcW6jHuVsGupJ7kbaSiI.2_GpFxFODfCb1IgNwehkJqC3c47DST9dpS
+ r4LGlwSejMtgimXhaXDKEye9r3knJCMLW6buoFoQtw_NT6jsGrli9MJ.Gv7R
+ oZhBAjuEuFViRZJfUVVz1XJCPA7wg0fXW3Bg3BT7G8xM74BB6oJNzVZZTrKq
+ CdyyDsdibo4yzkHG7cML9.kqfHXCDeBGgTTZ2jcyJRNrA8Wgyu_3SM2QUzn2
+ 90xaBFad.4Ye_zq0.MChY3ZAN04NXR0VahZINfmunzuUAJjcdoeV_lEBgpN_
+ TMFIGCddyLPqEG7Fylzh1TySjj86K7UqhtMKVDhPtbhJFWgKCU_ePMI2BTVc
+ 5idVMtLitGOPP30zalS01EccvWOyr.tPD4mXwfConlYIW7vtExRcyoU5UIaE
+ 1TgN54eFcdupnQ5dC3KuPTl8iG00DcCpJLazP7sF75DlBu3rHqxbyfnW59OT
+ 7LHN5HZaGg.9eg--
+X-Originating-IP: [74.63.202.74]
+Authentication-Results: mta1432.mail.mud.yahoo.com  from=slidesharemail.com; domainkeys=pass (ok);  from=slidesharemail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (HELO o1.slidesharemail.com) (74.63.202.74)
+  by mta1432.mail.mud.yahoo.com with SMTP; Thu, 01 Nov 2012 23:46:56 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=slidesharemail.com; h=from
+	:to:subject:mime-version:content-type:content-transfer-encoding;
+	 s=smtpapi; bh=bMJ+jw5mIGUgi6HuKsBKQVf4UBQ=; b=i3NAv7J5bVVERa5bR
+	rFkcLH+By16aSQS5ibWAIP92pqqYHLrsvC+Nf6RgUzw2XLXRFLpQyDMO1tXW26eu
+	Xl7ylAyv54S3zz7vEMU4kADQR2FydWUkDmVo1a4IE7gKk5GT7CksWEl8VD/zaOuE
+	xuLgpjVKozi/srJ+Z5WfMa7bKA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=slidesharemail.com; h=from
+	:to:subject:mime-version:content-type:content-transfer-encoding;
+	 q=dns; s=smtpapi; b=f/56pY3GwVcdyHcUeZp5m/NgDQMt1jF2hrg4JglMj7X
+	LMCAN5R7jMUg9T0UYM+1HnqXyjC3CJ952b/1UE8J0TB7p1Q0CqSKsU0HwEfppdwU
+	30q7o5Ueq9ATiZLoA3N1ldeF2x2eNroiduEHGHpCu9C2eW3oXi9XqZP+fGb6QUzY
+	=
+Received: by 10.4.35.244 with SMTP id mf58.25577.50936C607
+        Fri, 02 Nov 2012 01:46:56 -0500 (CDT)
+Received: from slidesharemail.com (unknown [10.8.49.124])
+	by None (SG) with ESMTP id 50936c60.42ce.b16f29
+	for <faldo_sonic@yahoo.com>; Fri, 02 Nov 2012 01:46:56 -0500 (CST)
+Received: from localhost.localdomain (unknown [10.17.227.66])
+	by slidesharemail.com (Postfix) with ESMTP id 746ED13A8020
+	for <faldo_sonic@yahoo.com>; Fri,  2 Nov 2012 01:46:56 -0500 (CDT)
+Date: Fri, 02 Nov 2012 01:46:56 -0500
+From: SlideShare <donotreply@slidesharemail.com>
+To: faldo_sonic@yahoo.com
+Message-ID: <50936c607012a_5896159e2391d9b8106376ed@slidesharemail.com>
+Subject: Armi Dianova followed you back on SlideShare
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Sendgrid-EID: zrnQfjC9NaiK+f3Cte55Kec5cxDoQQdxQ3rxUwT/uYGFPkPku+RPDh9u/c5i/wr8Txxx78HQLneTrxF2BXs56d3cUNymRxmG2WjM/o97OAZLrWlt29Y3h34VEM2fHgpU
+X-Sendgrid-ID: StcAygWkBlfgpnJnQFlIcsLS3cNz83TZWB7Sat7B/PaFpm6+PMt7d7+6TVdwu+z6KzPD0HG1bU3REKo3Iu5piw==
+Content-Length: 11257
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" class="" style="color:#999999; font-family: Corbel, Gill Sans, Tahoma, sans-serif;font-size:12px;"><tbody><tr><td align="center" width="98%" valign="top">
+The world's largest community for sharing presentations. <a href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkR6XzeRYg8dh3oYgNLzQ7MjzWrXIxfDywzEA4-2BAhAa2A_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLY5ztX879ZSTRf8U1jLb25IqJd-2BD0Lw7YrjQNAOSzHcfeGJ7ZgjA-2BXh2rp7F8wKI3k8yayebbw18kjasjiC8THGZOcx5ZlerBVOA1nr-2FcV-2FYiP4tXu-2BTAgz5OqtBNI7TLyORv5NNUKDwTo0R4gKWhzlRJISlOpRSP03i6ooRX72AnHAQN1laStuDIjorftdyRQ-3D" style="color:#999999;" class="">Start sharing!</a>
+</td></tr></tbody></table>
+<table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></tbody></table>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#DFDFDF" class="" style="font-family: Corbel, Gill Sans, Tahoma, sans-serif;border:solid 1px #DFDFDF;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;"><tbody><tr><td align="center" width="98%" valign="top">
+    <!-- TOP LOGO -->
+    <table width="547" cellspacing="0" cellpadding="0" border="0" style="font-family: Corbel, Gill Sans, Tahoma, sans-serif;">
+      <tbody><tr><td><table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:12px;line-height:12px;">&nbsp;</div></td></tr></tbody></table></td></tr>
+      <tr>
+        <td align="center" valign="top">
+        </td>
+      </tr>
+      <tr><td><table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:6px;font-size:6px;line-height:6px;">&nbsp;</div></td></tr></tbody></table></td></tr>
+    </tbody></table>
+
+    <!-- EMAIL DARK HEADER -->
+    <table width="547" cellspacing="0" cellpadding="0" border="0" bgcolor="#333333" class="" style="font-family: Corbel, Gill Sans, Tahoma, sans-serif;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none;background:#333333;"><tbody><tr><td align="left" width="98%" valign="top">
+      <table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:55px;font-size:55px;line-height:55px;">
+        <img alt="SlideShare" src="http://slideshare-email-assets.s3.amazonaws.com/slideshare-logo-155-55.png" height="55" width="155" />
+      </div></td></tr></tbody></table>
+    </td></tr></tbody></table>
+
+    <!-- EMAIL CONTENT -->
+    <table width="547" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" class="" style="font-family: Corbel, Gill Sans, Tahoma, sans-serif;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:1px solid #cccccc;border-width:0 1px;background:#ffffff"><tbody><tr><td colspan="3"><table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></tbody></table></td></tr><tr><td width="1%" class=""><table width="20" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></tbody></table></td><td align="left" width="98%" valign="top">
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: Corbel, Gill Sans, Tahoma, sans-serif;">
+        <tbody><tr>
+          <td align="left" style="color:#000000;font-family: Corbel, Gill Sans, Tahoma, sans-serif;font-size:16px;font-weight:700;">
+
+Hello  AndRe Triputra,
+                        <br/ > <br/ >
+                    <a href = "www.slideshare.net/armykmx">Armi Dianova</a> is now following you on SlideShare. This is a great time to check out the content they are sharing. View their profile now...
+                      </td>
+                    </tr>
+                                  </tbody>
+                                </table>  
+
+      <table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></tbody></table>
+      <table width="98%" cellspacing="10" cellpadding="0" border="0" bgcolor="#E5E5E5" style="font-family: Corbel, Gill Sans, Tahoma, sans-serif;">
+        <tbody><tr colspan="3">
+          <td align="left" style="color:#333333;font-family: Corbel, Gill Sans, Tahoma, sans-serif;font-size:14px;" valign="top">
+            <a href="www.slideshare.net/armykmx">
+             <img src='https://cdn.slidesharecdn.com/profile-photo-armykmx-96x96.jpg?1351838811' alt='Armi Dianova'  width="170" height="128" style="border:1px solid #FFFFFF;" />
+            </a>
+          </td>
+          <td align="left" style="color:#555555;font-family: Corbel, Gill Sans, Tahoma, sans-serif;font-size:14px;" valign="top">
+            <div style="font-weight:bold;font-size:24px;">
+
+<a href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkRy2e5TIME71zMp0hTcvKtOxGVYPr1Vk8iPrAUfidAPj_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLY5ztX879ZSTRf8U1jLb25II7qiJwNwixDt140rFpO3bYeB39w1dEBPfinVZcSy-2FciwVErz8cMwiMuoQ1l-2F-2B6ZLmMusLGJ6mr7p0E6jOt9eBsFFA-2FoSFDHLiaJq0JukzBDIwkhHZeHnmZbmyONqJGD-2FnXTaAhOqXl8ApEjFgbqQ7Mz-2FCLsHCjnPI8tNaoO0Ulo-3D" style="color:#0073B2;line-height:24px;text-decoration:none;">Armi Dianova</a>
+            </div> <br>
+	<div style="font-weight:bold;font-size:18px;color:#333333;">
+	Assistant Management Data at PNPM Mandiri 
+	</div> <br>
+	<div style="font-weight:bold;font-size:16px;color:#333333;">
+	38 Followers, Following 64 
+	</div> <br>
+            <div style="font-size:10px;line-height:10px;height:10px;">
+              &nbsp;
+</div>
+          </td>
+
+        </tr>
+      </tbody></table>
+      <table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></tbody></table>
+      <table width="98%" cellspacing="0" cellpadding="0" border="0" class="">
+        <tbody><tr>
+          <td align="left" valign="top">
+            <a href="www.slideshare.net/armykmx" 
+            style="display: inline-block;
+            font-size:16px; font-weight:bold;
+            font-family: Corbel, Gill Sans, Tahoma, sans-serif;
+            padding: 7px 15px 7px;
+            margin-bottom: 0;
+            line-height: 18px;
+            color: #FFFFFF;
+            text-align: center;
+            text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+            vertical-align: middle;
+            border: 1px solid #dddcd7;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            border-radius: 4px;
+            -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+            -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+            background-color: #ed9d2c;
+            background-image: -moz-linear-gradient(top, #fcbe47, #d76c03);
+            background-image: -ms-linear-gradient(top, #fcbe47, #d76c03);
+            background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fcbe47), to(#d76c03));
+            background-image: -webkit-linear-gradient(top, #fcbe47, #d76c03);
+            background-image: -o-linear-gradient(top, #fcbe47, #d76c03);
+            background-image: linear-gradient(top, #fcbe47, #d76c03);
+            background-repeat: repeat-x;
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcbe47', endColorstr='#d76c03', GradientType=0);
+            border-color: #d76c03 #d76c03 #8c4602;
+            border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+            filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+            text-decoration:none;">View Profile</a>
+          </td>
+        </tr></tbody>
+      </table>
+      <table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:5px;font-size:5px;line-height:5px;">&nbsp;</div></td></tr></tbody></table>
+
+    </td><td width="1%" class=""><table width="20" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></tbody></table></td></tr><tr><td colspan="3"><table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></tbody></table></td></tr></tbody></table>
+
+    <!-- EMAIL DARK BOTTOM -->
+    <table width="547" cellspacing="0" cellpadding="0" border="0" bgcolor="#333" class="" style="font-family: Corbel, Gill Sans, Tahoma, sans-serif;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none;background:#333333"><tbody><tr><td align="left" width="98%" valign="top">
+      <table width="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></tbody></table>
+    </td></tr></tbody></table>
+
+    <!-- FOOTER -->
+    
+
+
+
+
+
+  <table width="270" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></tbody></table></td></tr></tbody></table><p style="color: #444; font-family: Verdana, Arial, sans-serif; font-size: 11px; line-height: 1.35; padding: 0 0 10px 10px;">We sent this email to faldo_sonic@yahoo.com to help you get the most out of SlideShare. <br>You can change your <a href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkRy2e5TIME71zMp0hTcvKtN1IYXArsIX6mJeRBfXzaVeeD3BG93GC6PhQu0qBFFzXWVfmP8GACR3zGTFIiWiAsw-3D_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLY5ztX879ZSTRf8U1jLb25I0or9NUjMpgyOV9mSdu8PrP2Oo97PmWSeO8NAG2-2Fk6MfYMet3Ff8c2aqtK0p1gUpZkq4TvQSwYbCbDu2bMGuz6qaflw84rRaueItGY2C0bA4SwJcI0E0sd7SACTdsfFa8uNez-2BnpqJppGFSQW5sMXQaZ23GNHoUDVIdrgfFZV7Ag-3D">email preferences</a> anytime. Or click to <a href="http://slidesharemail.com/wf/click?upn=JEzcWfMNhU88p3q140oRkR6XzeRYg8dh3oYgNLzQ7MjpkaKdegbOlFp0mdiCADKu-2FEeZhAuhWzpBGkcus7szNsKB3FmqWh9OCto8UORI036R-2FIh3IjJun1QWHhGEsNu43io8mlZqf-2BjPdKipehhrAuH8bWnKwdn820uFP4EKxYY-3D_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLY5ztX879ZSTRf8U1jLb25Iw9FIVewQtqOUXcCc8Z-2Beo0LPvqsAY8MTxMDy1kjbO6iIX8yXAzt8QX-2BoifqiFBlBuUqU4r-2B0AvInCaSSQBanmuUgjEeilqjnnmCbSAVIZwKBwPCxY-2BKqI68YxjXh8dvxnZ-2BAB2AydDs82fKUP0C8jV-2Fa0Mm70kxoB9tEkMhjpMw-3D">unsubscribe</a> from all SlideShare emails. It's okay, really, we understand.
+</p>
+<img src="http://slidesharemail.com/wf/open?upn=SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLY5ztX879ZSTRf8U1jLb25IWnzC56tnFWzZ2TnzuWlFI34TA8hadC5I36ymzHVKi-2Fo72RGn72bGxQs7GvKH0aJdJTIXT4-2BoTGua3IRuozXFq-2B28uMqOzu5fNwzBR3FCa4sagAB-2BAk-2BIHt2Uc2v-2FIwOHRbvLpM572kPyGJARkUQBFh9BZX80tEKZZfquLKQwuFY-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>

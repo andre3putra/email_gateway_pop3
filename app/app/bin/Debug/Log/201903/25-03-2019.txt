@@ -1,0 +1,37 @@
+2019-03-25 11: 24:28	user	FSetting.MyBase.Load.SettingsException	Could not find file 'E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\bin\Debug\config.ini'.
+2019-03-25 11: 46:14	user	FMain.RetriveEmail.EmailINException	Exception : -ERR [SYS/TEMP] Server error - Please try again later.
+
+2019-03-25 11: 46:17	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 12: 01:50	user	FMain.RetriveEmail.EmailINException	Exception : -ERR [SYS/TEMP] Server error - Please try again later.
+
+2019-03-25 12: 01:50	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 12: 02:51	user	FMain.RetriveEmail.EmailINException	Exception : -ERR [SYS/TEMP] Server error - Please try again later.
+
+2019-03-25 12: 02:51	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 12: 24:46	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception : Procedure or function sp_email_in_attachment_insert has too many arguments specified.
+2019-03-25 12: 44:37	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception : Procedure or function sp_email_in_attachment_insert has too many arguments specified.
+2019-03-25 12: 51:04	user	FMain.RetriveEmail.EmailINException	Exception : A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2019-03-25 12: 51:04	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 13: 14:22	user	FMain.RetriveEmail.EmailINException	Exception : -ERR [SYS/TEMP] Server error - Please try again later.
+
+2019-03-25 13: 14:47	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 13: 30:51	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception : Procedure or function sp_email_in_attachment_insert has too many arguments specified.
+2019-03-25 13: 32:43	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 13: 38:49	user	FMain.RetriveEmail.EmailINException	Exception : * OK Gimap ready for requests from 112.78.181.197 p139mb156222032oic
+
+2019-03-25 13: 38:58	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 13: 39:07	user	FMain.RetriveEmail.EmailINException	Exception : * OK Gimap ready for requests from 112.78.181.197 y203mb147948476oie
+
+2019-03-25 13: 41:20	user	FMain.RetriveEmail.EmailINException	Exception : * OK Gimap ready for requests from 112.78.181.197 u9mb206652285ocd
+
+2019-03-25 13: 41:22	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 13: 41:25	user	FMain.RetriveEmail.EmailINException	Exception : * OK Gimap ready for requests from 112.78.181.197 i5mb106215592oto
+
+2019-03-25 13: 41:26	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 13: 41:31	user	FMain.RetriveEmail.EmailINException	Exception : * OK Gimap ready for requests from 112.78.181.197 c21mb102373580oih
+
+2019-03-25 13: 41:34	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 13: 41:40	user	FMain.RetriveEmail.EmailINException	Exception : * OK Gimap ready for requests from 112.78.181.197 a34mb109538753ooj
+
+2019-03-25 13: 47:48	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2019-03-25 13: 47:58	user	FMain.StoreEmailIntoDatabase.EmailINException	Exception Email IN : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.

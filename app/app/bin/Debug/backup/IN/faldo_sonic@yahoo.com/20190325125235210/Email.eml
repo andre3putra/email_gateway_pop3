@@ -1,0 +1,420 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.235; Thu, 01 Nov 2012 17:40:19 -0700
+Return-Path: <z653a771bbsnyqb_fbavp=lnubb.pbz@postmaster.twitter.com>
+Received-SPF: pass (domain of postmaster.twitter.com designates 199.59.148.236 as permitted sender)
+X-YMailISG: BEVFhBkWLDs0wjkCkgagBMSQRAAtSzP1oW8AXGfVUbv7fLv4
+ bihvaGqg1icnFmps_XjLuWED2iDjnugGKY8lM08Gy_Spzdzy2Jo8wj0BYZXz
+ zf18jf0ToFBIxSnpNFBOqDGIKGsgxGash_GLniVePghd2vk1K.s5nC9V.T9n
+ pUowy55ouI9R6NbE_ruPm0Ry_6hk3jMDAde7NQnRdzkY41BtHVfgZSoWws3p
+ DJL_D4LSkbrL4pPwh_2SngXhj.5XQLZrQ.Lqwj6b2KhDvjyqqhIvN77C7C.6
+ EcIuWErCQY9lE_Kv.6tj8ptjABOsuULx_p7WKR52I1CsD9dIiP_23RpI954T
+ nnniA5sHWbDOOEygl5261W5AkTwV4jPMpe90pOPfsaVbpF_O76ip1kVGeQz0
+ XOMZkdk0hL.V5V3HxucWd8GUo6qzWkqE.p.zk3815By1UAMg_ir84tKelabl
+ L8PjEK7Jb0KjZS40hpUKB.AaJYKUlwYATHUw660NGFNmNuruLzgY2wKbK9f4
+ 56Ni8NhlcUg.78FzYmMUlYJtlh8TGwhaYogJW1ciGycOqIUoFOPJzUkNRhPn
+ wm0QDypmHuO76MedQvE7qO9dgeot1lMKDMVMd.K7xSC8kdhsOEInL4fAFd7g
+ RYcpPZ3783Ffpebis9v.2SoOknLbi8wo_VhQOwpmoMwhwdLBkeKo6cSPoyXd
+ ZmUGHInAgVjqOCMkkPm_hhHpg5H7j.vm8l7xOEUG8QeQ95113n8xupiOZvY2
+ t5V591AaWjYYqd07SgNMCtvHcqMzv8jdV57yEQo0jfwKGUif0es8Dm4eFPZb
+ 0d.TEC6HcfDW82sMJiOSFAclUdkMFyat0ipsLKVFbUjbdxtnFWMxj3yAj5Ds
+ 8FxdC1UXGxUve0s_asUCYn9hjhCj2ZymZJaZt0EFopnjyBQVyp_nwnVH7QT1
+ BFId9AkoU2AIBoriSEtueHV2vzoJUpKejW4_x5Ez.8tvFT.McIr1zPOiT_Ot
+ qcsRDtZ6.809rx8ak.pFkAxM8y05b0AbjaV5PVnAbWcKgkc3sGCiTHWkVlbS
+ ILXrND.kaB5mR4bVPL9N9tYbNBbArQBLZ5l8JTJV.00_GJqTtxDsUduYhMqn
+ xzBwu8P0V7eNEpf.4Q.Nc9T_EmWzdno0K_Uhd3lcEwu7d617eHPE7KZMnsWO
+ UAA5_RWhdItKlkuCD9t.YcVnzSVZ7R3b4cn8N9kwMQUCVSLSnWKNVBgZ6K9D
+ 3syQS6rb_dujclIZYCmNyLjog3.31NY2Fd5Tv1A8IDFs26Q9GAsbK_5h7LJz
+ nUTanWK.eiuzw6JTWTZWCkqPVPv.7R_6uSq9.mtNOXqgBuOW72nI
+X-Originating-IP: [199.59.148.236]
+Authentication-Results: mta1159.mail.bf1.yahoo.com  from=postmaster.twitter.com; domainkeys=neutral (no sig);  from=twitter.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO ham-cannon.twitter.com) (199.59.148.236)
+  by mta1159.mail.bf1.yahoo.com with SMTP; Thu, 01 Nov 2012 17:40:19 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/simple; d=twitter.com; s=dkim-201205;
+	h=Message-ID:Date:Content-Type:MIME-Version:Subject:To:From; bh=ootZXBo7cj1iGVospx/AFvnW6cGFKj43YgOexgkZ9V8=;
+	b=KjCcL2rVD8mKO2tWiOYfkaWKVEiy4Xahc9OuPEfgYqA9tlAkznp1Jj8y9HuCCSHHoTdykiNvC+wpIoS3g/uPjXN777foydnEp7fHLnqCkUx7NjJ/bPFa6ddf96YmDyUsWhSnvw2q96Ng4o9NGxi9+kopaDhwKYqSCagSq4Qqp6g=;
+From: Twitter <n-snyqb_fbavp=lnubb.pbz-00617@postmaster.twitter.com>
+To: "Andre I.Triputra" <faldo_sonic@yahoo.com>
+Subject: Andre Taulany (@andreovja) kini mengikuti Anda di Twitter!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_214611_209715770.1351816746330"
+X-mailstream: default
+X-twfbl: am-1618412813518167461827477
+Date: Fri, 02 Nov 2012 00:39:06 +0000
+Message-ID: <828414450.2144491351816746335.JavaMail.ibis@1TU5Hu-000Fpz-nT.mta.twitter.com>
+Content-Length: 17646
+
+------=_Part_214611_209715770.1351816746330
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Andre I.Triputra,
+Anda punya pengikut baru di Twitter.
+
+------------------------
+
+Andre Taulany
+@andreovja
+pantang menolak tugas dan pantang tugas tak terselesaikan
+Jakarta
+
+
+Ikuti:
+https://twitter.com/#!/andreovja
+
+
+------------------------
+
+Jika Anda yakin Andre Taulany terlibat dalam penyalahgunaan Twitter, Anda dapat melaporkan Andre Taulany sebagai spam: https://twitter.com/user_spam_reports/andre_sonic/report/andreovja?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+109&amp;sig=cef3834fb05f7d9a299c9f91f56855823787488a
+
+Lupa kata sandi Twitter? Dapatkan petunjuk cara pengaturan ulang:
+https://twitter.com/account/resend_password
+
+Anda juga dapat berhenti berlangganan email ini atau mengubah pengaturan notifikasi Anda:
+https://twitter.com/i/u?uid=66145027&iid=am-1618412813518167461827477&nid=23+26&sig=0cc52b323ce4273392ddf79789d05cb18623c731
+https://twitter.com/settings/notifications
+
+Butuh bantuan?
+https://support.twitter.com
+
+Jika Anda menerima pesan ini dan tidak pernah mendaftar di Twitter, klik url di bawah:
+https://twitter.com/account/not_my_account/andre_sonic/F7H5E-A8H5D-135181
+------=_Part_214611_209715770.1351816746330
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .global-width-670-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-520-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-500-to-300 {
+width: 300px !important;
+}
+table[class=outer] .global-separator-padding {
+height: 8px !important;
+}
+table[class=outer] .global-shrinking-to-0 {
+height: 0px !important;
+}
+table[class=outer] .global-shrinking-to-10 {
+height: 10px !important;
+}
+table[class=outer] .global-h1 {
+font-size: 14px !important;
+}
+
+table[class=outer] .cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .vcut {
+height: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] img.cut {
+display: none !important;
+width: 0 !important;
+height: 0 !important;
+}
+table[class=outer] .cut span, table[class=outer] .cut a {
+display: none !important;
+}
+table[class=outer] .frame {
+width: 320px !important;
+border-left: 0px !important;
+border-right: 0px !important;
+}
+table[class=outer] .main_header.media_header {
+width: 300px !important;
+height: 55px !important;
+}
+table[class=outer] .header_left {
+height: 55px !important;
+}
+table[class=outer] .logo_header {
+height: 62px !important;
+}
+table[class=outer] .main_name {
+font-size: 12px !important;
+}
+table[class=outer] .subtitle {
+font-size: 12px !important;
+}
+table[class=outer] .media_main {
+width: 300px !important;
+}
+table[class=outer] .media_main .intro {
+width: 260px !important;
+font-size: 14px !important;
+}
+table[class=outer] .media_main .intro2 {
+font-size: 14px !important;
+}
+table[class=outer] .media_main .suggestions {
+font-size: 14px !important;
+}
+table[class=outer] .media_more {
+width: 300px !important;
+border-radius: 0 !important;
+background-color: #ffffff !important;
+border-top: 1px solid #e8e8e8 !important;
+}
+table[class=outer] .media_button {
+width: 300px !important;
+background-color: #209ae4 !important;
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+}
+table[class=outer] .media_footer {
+font-size: 11px !important;
+line-height: 14px !important;
+padding: 0 10px !important;
+}
+table[class=outer] .address {
+font-size: 11px !important;
+line-height: 14px !important;
+display: block !important;
+}
+table[class=outer] td[class=footer-padding-top] {
+height: 20px !important;
+}
+table[class=outer] td[class=footer-padding-bottom] {
+height: 17px !important;
+}
+table[class=outer] .media_footer br {
+display: none !important;
+}
+table[class=outer] .spacer.ios {
+display: none !important;
+}
+table[class=outer] .reset {
+display: block !important;
+padding-bottom: 4px !important;
+}
+table[class=outer] .media_logo_div {
+display: block !important;
+position: absolute !important;
+left: 274px !important;
+top: 0 !important;
+background-image: url('https://twitter.com/images/email/t1/ribbon.png') !important;
+background-size: 100% 100% !important;
+width: 36px !important;
+height: 68px !important;
+z-index: 1 !important;
+}
+table[class=employee-only-padding-top-bottom] {
+width: 310px !important;
+}
+td[class=employee-only-padding-left-right] {
+width: 4px !important;
+}
+table[class=employee-only] {
+width: 310px !important;
+}
+td[class=header_padding] {
+height: 55px !important;
+}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .media_button {
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+background-color: #209ae4 !important;
+}
+table[class=outer] .media_button td.cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .media_button {
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+}
+
+</style>
+</head>
+<body style="margin: 0; padding: 0; background: #ffffff;-webkit-text-size-adjust: 100%;">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="outer" style="position: relative; background-color: #dddddd;">
+<tbody>
+<tr>
+<td>
+<table class="outer frame" align="center" cellpadding="0" cellspacing="0" border="0" width="670" style="border: 0px; border-left: 1px solid #cccccc; border-right: 1px solid #cccccc; background-color: #ffffff;position: relative; background-color: #dddddd;">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+21" style="border: none; color: #0084b4; text-decoration: none;"><span class="media_logo_div"></span></a>
+<table cellpadding="0" cellspacing="0" border="0" width="670" class="header frame" style="background-color: #f2f2f2; table-layout: fixed;">
+<tbody>
+<tr>
+<td class="header_left cut" style="width: 19px; height: 77px;"> &nbsp; </td>
+<td height="94" width="46" valign="top" rowspan="2" class="logo_header cut" style="background-color: #ffffff; line-height: 100%;"><a href="https://twitter.com?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+21" style="border: none; color: #0084b4; text-decoration: none;"><img class="logo cut" src="https://twitter.com/images/email/t1/ribbon.png" width="46" height="94" style="border: 0; background-color: #fff; line-height: 100%;border: 0;" /></a></td>
+<td class="cut" width="9"> &nbsp; </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td width="458" height="77" class="main_header media_header" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="main_name" style="font-size: 14px; font-weight: bold; color: #000000;"> Andre I.Triputra, </td>
+</tr>
+<tr>
+<td class="subtitle" style="font-size: 14px; color: #666666;"> Anda punya pengikut baru di Twitter. </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td class="main_avatar cut" width="32" style="text-align: right;"> <a href="https://twitter.com/andre_sonic?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+22" style="border: none; color: #0084b4; text-decoration: none;"><img class="cut" src="https://si0.twimg.com/profile_images/2193145430/247333_1844457549027_1168267629_31723764_3993209_n_reasonably_small.jpg" width="32" height="32" alt="Andre I.Triputra" style="background-color: #ffffff; border-radius: 5px;border: 0;" /></a> </td>
+<td class="col header cut" style="background-color: #f2f2f2; table-layout: fixed;width: 85px;"></td>
+</tr>
+<tr>
+<td class="main header_drop cut" style="border-top: 1px solid #dddddd;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">&nbsp;</td>
+<td class="main header_drop cut" style="border-top: 1px solid #dddddd;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">&nbsp;</td>
+<td class="main header_drop media_header" height="17" style="border-top: 1px solid #dddddd;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;"><img width="1" height="1" style="display: block;border: 0;" src="https://twitter.com/scribe/ibis?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+20" /></td>
+<td class="main header_drop cut" height="17" colspan="4" style="border-top: 1px solid #dddddd;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td style="background: #ffffff;">
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .recent_tweets {
+border-top: 2px solid #e8e8e8;
+padding-top: 8px !important;
+}
+table[class=outer] .hero_avatar {
+width: 96px;
+height: 96px;
+}
+table[class=outer] .fd_button, table[class=outer] .following {
+padding-top: 3px !important;
+padding-bottom: 3px !important
+}
+}
+
+</style>
+<style type="text/css">
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .fd_button, table[class=outer] .following {
+padding-top: 3px !important;
+padding-bottom: 3px !important
+}
+}
+
+</style>
+<table width="670" border="0" cellpadding="0" cellspacing="0" class="main frame" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff;">
+<tbody>
+<tr>
+<td class="col cut" style="width: 85px;"></td>
+<td class="media_main" width="520">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td height="22"></td>
+</tr>
+<tr>
+<td align="center">
+<!-- place hero unit here --> <a href="https://twitter.com/andreovja?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+112" style="border: none; color: #0084b4; text-decoration: none;"><img class="hero_avatar" src="https://twitter.com/andreovja/profile_image?size=reasonably_small" width="128" height="128" style="border: 0;border-radius: 5px;" /></a> </td>
+</tr>
+<tr>
+<td align="center" class="hero_name row_pad" style="padding-left: 10px; padding-right: 10px;padding-top: 10px;"> <a class="hero_name" href="https://twitter.com/andreovja?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+112" style="border: none; color: #0084b4; text-decoration: none;color: #333333; font-size: 28px; font-weight: bold; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Andre Taulany</a> </td>
+</tr>
+<tr>
+<td align="center" class="hero_screen_name row_pad" style="padding-left: 10px; padding-right: 10px;font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a href="https://twitter.com/andreovja?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+112" style="border: none; color: #0084b4; text-decoration: none;">@andreovja</a> </td>
+</tr>
+<tr>
+<td align="center" class="hero_bio row_pad" style="padding-left: 10px; padding-right: 10px;color: #777777; font-size: 14px; font-style: italic; line-height: 20px; padding-top: 4px; padding-bottom: 2px; font-family: 'Georgia', 'Helvetica Neue', Helvetica, Arial, sans-serif;"> pantang menolak tugas dan pantang tugas tak terselesaikan </td>
+</tr>
+<tr>
+<td align="center" class="hero_details row_pad" style="padding-left: 10px; padding-right: 10px;color: #777777; font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding-bottom: 15px;"> <a href="#" class="location" style="border: none; color: #0084b4; text-decoration: none;color: #777777; text-decoration: none;">Jakarta</a> </td>
+</tr>
+<tr>
+<td class="vcut top_border" height="5" style="border-top: 1px solid #e8e8e8;"></td>
+</tr>
+<tr>
+<td height="8"></td>
+</tr>
+<tr>
+<td align="center" class="followed_by" style="color: #777777; font-size: 12px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding-bottom: 10px;"> Mengikuti: <a href="https://twitter.com/andreovja/following?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+106" style="border: none; color: #0084b4; text-decoration: none;">548</a> &middot; Pengikut: <a href="https://twitter.com/andreovja/followers?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+107" style="border: none; color: #0084b4; text-decoration: none;">1808</a> </td>
+</tr>
+<tr>
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" background="https://twitter.com/images/email/t1/grey_background.png" class="fd_button" style="background-color: #eeeeee; border-radius: 5px; border: 1px solid #cccccc; padding: 5px 0 5px 0; text-align: center; height: 28px; width: 1px;">
+<tbody>
+<tr>
+<td valign="middle" class="button_icon" style="padding-right: 4px; padding-left: 10px; line-height: 0;color: #333333; font-size: 13px; font-weight: bold; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"><a class="button_link" href="https://twitter.com/intent/follow?ea_u=66145027&amp;ea_e=1353026346&amp;screen_name=andreovja&amp;ea_s=7a10eaa9c063bbb1f2712e7ecdea5f3bed26623c&amp;uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+488" style="border: none; color: #0084b4; text-decoration: none;color: #333333; font-size: 13px; font-weight: bold; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"><img width="18" height="14" src="https://twitter.com/images/email/t1/blue_bird.png" style="border: 0;" /></a></td>
+<td class="follow_button" style="color: #333333; font-size: 13px; font-weight: bold; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;padding-right: 10px; white-space: nowrap;"><a class="button_link" href="https://twitter.com/intent/follow?ea_u=66145027&amp;ea_e=1353026346&amp;screen_name=andreovja&amp;ea_s=7a10eaa9c063bbb1f2712e7ecdea5f3bed26623c&amp;uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+488" style="border: none; color: #0084b4; text-decoration: none;color: #333333; font-size: 13px; font-weight: bold; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Ikuti</a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height="15"></td>
+</tr>
+</tbody>
+</table> </td>
+<td class="col cut" style="width: 85px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" width="670" class="frame footer" style="background-color: #eeeeee; background-image: url(https://twitter.com/images/email/t1/shadow_bottom.jpg); background-position: top; background-repeat: repeat-x; border-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;">
+<tbody>
+<tr>
+<td colspan="4" height="28" class="footer-padding-top"></td>
+</tr>
+<tr>
+<td class="col cut" style="width: 85px;"></td>
+<td class="footer_body media_footer" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 17px; color: #777; text-shadow: 0 1px 0 #ffffff;">
+<div>
+<span class="reset">Jika Anda yakin Andre Taulany terlibat dalam penyalahgunaan Twitter, Anda dapat <a href="https://twitter.com/user_spam_reports/andre_sonic/report/andreovja?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+109&amp;sig=cef3834fb05f7d9a299c9f91f56855823787488a" style="border: none; color: #0084b4; text-decoration: none;">melaporkan Andre Taulany</a> sebagai spam.</span> Lupa kata sandi Twitter?
+<a class="reset" href="https://twitter.com/account/resend_password?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+24" style="border: none; color: #0084b4; text-decoration: none;">Dapatkan petunjuk cara pengaturan ulang.</a>
+</div>
+<div>
+Anda juga dapat
+<a href="https://twitter.com/i/u?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+26&amp;sig=0cc52b323ce4273392ddf79789d05cb18623c731" style="border: none; color: #0084b4; text-decoration: none;">berhenti berlangganan email ini</a>
+<span class="reset">atau mengubah <a href="https://twitter.com/settings/notifications?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+27" style="border: none; color: #0084b4; text-decoration: none;">pengaturan notifikasi</a> Anda. Butuh <a href="https://support.twitter.com?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+97" style="border: none; color: #0084b4; text-decoration: none;">bantuan</a>?</span>
+</div>
+<div class="reset">
+Jika Anda menerima pesan ini karena kesalahan dan belum mendaftar di Twitter, silakan klik
+<a href="https://twitter.com/account/not_my_account/andre_sonic/F7H5E-A8H5D-135181?uid=66145027&amp;iid=am-1618412813518167461827477&amp;nid=23+25" style="border: none; color: #0084b4; text-decoration: none;">bukan akun saya</a>.
+</div>
+<div>
+<a href="#" class="address" style="border: none; color: #0084b4; text-decoration: none;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration: none; font-size: 11px; line-height: 17px; color: #999999; text-shadow: 0 1px 0 #ffffff;">Twitter, Inc. 1355 Market St., Suite 900 <span class="nobreak" style="white-space: nowrap;">San Francisco, CA 94103</span></a>
+</div> </td>
+<td class="col cut" style="width: 85px;"></td>
+</tr>
+<tr>
+<td colspan="3" class="footer-padding-bottom" height="25"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+------=_Part_214611_209715770.1351816746330--

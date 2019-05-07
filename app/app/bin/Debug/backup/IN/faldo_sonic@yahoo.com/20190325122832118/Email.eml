@@ -1,0 +1,1028 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.235; Tue, 30 Oct 2012 06:13:46 -0700
+Return-Path: <LittleMonsterscom-yhthdjy1jdtjtyhri1j@createsend3.com>
+Received-SPF: pass (domain of createsend3.com designates 203.55.21.105 as permitted sender)
+X-YMailISG: MMkYLokWLDtp00zbbjuRDF555xZAIgydVNP2OUZEEV0Qwm2z
+ 81GIFLpy3F.T2JteZ1eH0zlIVnZeW7EUGVoYhr9msSmJO4UeuHLXexvu.3Vd
+ NBdJFQgZQP9RTlWc4zqDB9FAaXM9e53IM9at1S5PVCM30cgJbX3JOMVep0ew
+ Sg92fb8ZxnPfwbQ6JM_bnkByNcf7A3eBAUsYZWE7WSFvCym5ImYgqQueFy7.
+ QbMBIzrIuZjGC4jmgEx6.03NE_j7.HG5_1cJ62PKiYMQLrw.WgWlGFprVhqc
+ r_zfX9laxEMDVzK_ZjP3dQLibvfxdMIGRkFew4OYU51o2J7moawI13jtfY88
+ UqD1hrHpJyKavralvNLwSqtyuDI7j_il2vXrEkXh9vVT_c7ouyGSLjIwmbV4
+ Aka00aST_D1lRxtyfalFgiuGu9w6Nbr.cWhMrm_IMWjon_UySdMttNQ1gvDk
+ pQJy0oZhehx0iC4BVpQOkoyFCrW4AsgNNFodY_mkW2xZfor1oLMU_lWvJ03J
+ giCLhXEfp21OhQyebWvu57CD_5jwr0TiAYcu.AhoO_dB3CLhLSuCAL_EsLpb
+ CQRRs_zSK193nh1b4pAFZJPItW.bbJ8Wq1Bd1dRcDiIquBVm_YY5Perwsa1u
+ K1eC74hqEjLx7nV9L1nudD6qR9maSn5U7cypJq_dw.QAguQCUiKVzVO_nYkh
+ WqBRGwDsI5eO7LjZmRmtGdXemmovxZz565tQZ7Iw2Pu2pTheCtnfUR4GS6a.
+ fwBeWOMtq9TOqZeovS6OvD7RdGGX1p9RemntlQRNDsxxOA1r3Nlk1HHBWrbJ
+ 4jAwbyRfWQrnxc.n_1dCr0Kl275.vwbG8gA5_tCbIrk3y.XPG4NMYo6oWy9j
+ zVmeUo4t93DNvgqoGc4eo9JgHPzoyShYe.7AJISdvpFQCa6FbkILY3yoibAH
+ 0ulmF5F3RZ5J45N1eCuiV308CdbeMHdKD5QW2U7pbZtZu.rmWFLcGywft2mV
+ .dEPGOw4cOg5V7ZCdtsnAm8bc7Hns_24oK3cyGv2AvKSzI2XUv91ARqfz9jr
+ jB8gJFqV6R2Q3dN1bqbvoo5cDm2yjgeisseerZ5MPqDm3IBOn0Y70ksSjyk9
+ .Lp1b7mBA2hnzGXyd1Heuy14NQGlREelXoI_ryJydHfRu6Cu9Mi1pXfePRa7
+ _OhcI8mWXpUjQCCXRqe_rklmnpThKSdabD_7RLr.1Tc_xSJ6uCDPd5VnZe3n
+ e2gq4.miC42c.onUfAXxyZNKZXWJxyfuXB7UI4wKWWczON46tDu5Ju8ODiGO
+ 7hZ2mNsaqL85PzjDLJ0dQed3ajHbEPrrcTzgo1ixuqT5d4wFabNazPq8mV8l
+ kYpUUzT7rJZREl7irAch5FA4om.VTnpL6oCkGPoZu_TO3yCGT3PrVOGm6YZg
+ Qs3CKqFFO6OjxqLiq0MqFDwnSdempo3o3i1Noxwx3pSbnys_MQCJ6JcAEUbJ
+ ex121Vtgb_wsUQPj5ML.LyhMnIKKSlOPtTATCNHm_Wslhk7HIaRTo0aRva1y
+ jeU.qd_1IZjkQSSm8L6muWKkROtKOazF.uZ7PS0UHS6LOyesSZ_LcW5wHQ5Z
+ k794aMQWgRM6MQFXAyBkA5bapw3r4YKbRH2UqCSvlW8BDqvgOSN6QX9rxZfL
+ fhpN5qN5xzki43Hf6yza
+X-Originating-IP: [203.55.21.105]
+Authentication-Results: mta1285.mail.ac4.yahoo.com  from=createsend3.com; domainkeys=pass (ok);  from=createsend3.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mx105.a.outbound.createsend.com) (203.55.21.105)
+  by mta1285.mail.ac4.yahoo.com with SMTP; Tue, 30 Oct 2012 06:13:45 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=createsend3.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:List-Unsubscribe:Sender:Message-ID; i=noreply=3Dlittlemonsters.com@createsend3.com;
+ bh=RmR9ISeSKefyYLm3KyiQ/fzQC5s=;
+ b=QZOkrJlgFA9LKkkKMkMfCjKiLBSTsXe3v/hLjOpXZ263OBZPTU/65ZCXW8Ncjd3RqzhNqOKIhfCw
+   PsPVrmhGpaI8qlY1ZCY8r8+3cflbjfBZh4FLEqrtK5lRekhiTySk
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=cm; d=createsend3.com;
+ b=fmIA6r99+eaZ2qUmOgsmNg4fj6cNowjCYDJk3tLR7I7H8ZVbnHNKTFP14R5fO5Ud3ZoRCIIuWoqP
+   AIPRja4SIiHzya6AvIQhqav7pzX/9D5z6ChfwGXzib1HPdhZRXu+;
+Received: by mx105.a.outbound.createsend.com id hhv98i19fesp for <faldo_sonic@yahoo.com>; Wed, 31 Oct 2012 00:09:54 +1100 (envelope-from <LittleMonsterscom-yhthdjy1jdtjtyhri1j@createsend3.com>)
+From: "LittleMonsters.com" <noreply@littlemonsters.com> 
+To: "Andre Ilham Triputra" <faldo_sonic@yahoo.com>
+Reply-To: noreply@littlemonsters.com
+Date: Wed, 31 Oct 2012 00:00:42 +1100
+Subject: LittleMonsters Newsletter
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_0d4d3be8be264fb693a668ebff14065b"
+X-Mailer: Create Send
+X-Complaints-To: abuse@createsend3.com
+List-Unsubscribe: <http://unsub.createsend3.com/t/j-u-yhthdjy-jdtjtyhri/>
+Sender: "LittleMonsters.com" <noreply=littlemonsters.com@createsend3.com>
+Received: from [76.176.189.201] by createsend3.com via HTTP; Wed, 31
+ Oct 2012 12:00:42 +1100
+Message-ID: <cm.000042.yhthdjy.jdtjtyhri.j@createsend3.com>
+Content-Length: 47102
+
+--_=aspNetEmail=_0d4d3be8be264fb693a668ebff14065b
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Web Version http://newsletter.thebackplane.com/t/j-e-yhthdjy-=
+=
+jdtjtyhri=
+-n/=C2=A0=C2=A0|=C2=A0  Update preferences http:/=
+/backplane.updatemyprofile.com/j-yhthdjy-=
+66F27283-=
+jdtjtyhri=
+-p=C2=A0=C2=A0|=C2=A0  Unsubscribe http://newslet=
+ter.thebackplane.com/t/j-u-yhthdjy-=
+jdtjtyhri=
+-x=
+/               http://newsletter.thebackplane.com/t/j-fb-yhthdjy-=
+jdtjtyhri=
+-m/   Like http://newsletter.thebackplane.co=
+m/t/j-fb-yhthdjy-=
+jdtjtyhri=
+-c/     http://newsl=
+etter.thebackplane.com/t/j-tw-yhthdjy-=
+jdtjtyhri=
+-q/   Tweet http://newsletter.thebackplane.com/t/j-tw-yhthdjy-=
+=
+jdtjtyhri=
+-a/      Forward http://backplane.forwardtomyfr=
+iend.com/j-=
+jdtjtyhri-66F27283=
+-yhthd=
+jy-l-f
+
+Little Monsters in the Spotlight
+
+Daniel Fern=C3=A1ndez [http://littlemonsters.com/dibumonster]
+
+Little Monster Daniel, your vision of Gaga is one of a kind. From waterco=
+lors to sketches to digital art, we love your interpretation of Mother Mo=
+nster regardless of the medium. Paws Up, Daniel, and thank you for sharin=
+g your artwork on=C2=A0 [http://LittleMonsters.com]!
+
+Poschin Bogdan [http://littlemonsters.com/nadgob.nihcsop]
+
+Little Monster Poschin's portraits of Lady Gaga are beautiful and imagina=
+tive. Poschin, we love the precision and consistency apparent in all of y=
+our work. Please continue to create and share with your friends on=C2=A0 =
+[http://LittleMonsters.com]!
+
+Highlighted Posts
+
+Gaga the Pumpkin Queen [http://littlemonsters.com/post/508cc4952227661c7=
+2001e66]
+
+In celebration of Gagaween, Little Monster Devon carving up this one of a=
+ kind Gaga pumpkin! Great work, Devon! Did you make a pumpkin for Zombie =
+Boy too?
+
+Witchy Woman [http://littlemonsters.com/post/508d1fa0cff95f826300141b]
+
+Book of Little Monsters created this hauntingly clever Disney-inspired in=
+terpretation of Lady Gaga. Happy Gagaween, Book of Little Monsters, and c=
+ontinue to share your unique designs with your family on=C2=A0 [http://L=
+ittleMonsters.com]!
+
+Skeleton Gaga [http://littlemonsters.com/post/508d3dedb11c7a9e6a002896]
+
+Check out Little Monster Maria Gutierrez's Halloween setup featuring a Mo=
+ther Monster-like doll. Anyone see the inspiration from Gaga's 2009 OUT M=
+agazine photo shoot? Paws up, Maria!
+
+Calling All Little Monsters
+
+See something you love? See something you don't? Drop us a line at  info@=
+thebackplane.com [mailto:info@thebackplane.com?subject=3DNewsletter%20-%=
+20Feedback] and let us know.
+
+This site was made for you and we love to hear what you have to say. Paws=
+ Up!
+
+- Team Little Monsters
+
+You're receiving this email because you're a member of LittleMonsters.com=
+
+
+Edit your subscription http://backplane.updatemyprofile.com/j-yhthdjy-=
+66F27283-jdtjtyhri=
+-z |  Unsubscribe ht=
+tp://newsletter.thebackplane.com/t/j-u-yhthdjy-=
+=
+jdtjtyhri=
+-v/
+
+Backplane
+
+--_=aspNetEmail=_0d4d3be8be264fb693a668ebff14065b
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><title></tit=
+le><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-=
+8" /><style type=3D"text/css">
+@media only screen and (max-device-width: 480px) {=20
+table[class=3Dw0], td[class=3Dw0] { width: 0 !important; }
+table[class=3Dw10], td[class=3Dw10], img[class=3Dw10] { width:10px !im=
+portant; }
+table[class=3Dw15], td[class=3Dw15], img[class=3Dw15] { width:5px !imp=
+ortant; }
+table[class=3Dw30], td[class=3Dw30], img[class=3Dw30] { width:10px !im=
+portant; }
+table[class=3Dw60], td[class=3Dw60], img[class=3Dw60] { width:10px !im=
+portant; }
+table[class=3Dw125], td[class=3Dw125], img[class=3Dw125] { width:80px =
+!important; }
+table[class=3Dw130], td[class=3Dw130], img[class=3Dw130] { width:55px =
+!important; }
+table[class=3Dw140], td[class=3Dw140], img[class=3Dw140] { width:90px =
+!important; }
+table[class=3Dw160], td[class=3Dw160], img[class=3Dw160] { width:180px=
+ !important; }
+table[class=3Dw170], td[class=3Dw170], img[class=3Dw170] { width:100px=
+ !important; }
+table[class=3Dw180], td[class=3Dw180], img[class=3Dw180] { width:80px =
+!important; }
+table[class=3Dw195], td[class=3Dw195], img[class=3Dw195] { width:80px =
+!important; }
+table[class=3Dw220], td[class=3Dw220], img[class=3Dw220] { width:80px =
+!important; }
+table[class=3Dw240], td[class=3Dw240], img[class=3Dw240] { width:180px=
+ !important; }
+table[class=3Dw255], td[class=3Dw255], img[class=3Dw255] { width:185px=
+ !important; }
+table[class=3Dw275], td[class=3Dw275], img[class=3Dw275] { width:135px=
+ !important; }
+table[class=3Dw280], td[class=3Dw280], img[class=3Dw280] { width:135px=
+ !important; }
+table[class=3Dw300], td[class=3Dw300], img[class=3Dw300] { width:140px=
+ !important; }
+table[class=3Dw325], td[class=3Dw325], img[class=3Dw325] { width:95px =
+!important; }
+table[class=3Dw360], td[class=3Dw360], img[class=3Dw360] { width:140px=
+ !important; }
+table[class=3Dw410], td[class=3Dw410], img[class=3Dw410] { width:180px=
+ !important; }
+table[class=3Dw470], td[class=3Dw470], img[class=3Dw470] { width:200px=
+ !important; }
+table[class=3Dw580], td[class=3Dw580], img[class=3Dw580] { width:280px=
+ !important; }
+table[class=3Dw640], td[class=3Dw640], img[class=3Dw640] { width:300px=
+ !important; }
+table[class*=3Dhide], td[class*=3Dhide], img[class*=3Dhide], p[class*=
+=3Dhide], span[class*=3Dhide] { display:none !important; }
+table[class=3Dh0], td[class=3Dh0] { height: 0 !important; }
+p[class=3Dfooter-content-left] { text-align: center !important; }
+#headline p { font-size: 30px !important; }
+.article-content, #left-sidebar{ -webkit-text-size-adjust: 90% !important=
+; -ms-text-size-adjust: 90% !important; }
+.header-content, .footer-content-left {-webkit-text-size-adjust: 80% !imp=
+ortant; -ms-text-size-adjust: 80% !important;}
+img { height: auto; line-height: 100%;}
+ }=20
+#outlook a { padding: 0; }=09
+body { width: 100% !important; }
+.ReadMsgBody { width: 100%; }
+.ExternalClass { width: 100%; display:block !important; }=20
+body { background-color: #e8e8e8; margin: 0; padding: 0; }
+img { outline: none; text-decoration: none; display: block;}
+br, strong br, b br, em br, i br { line-height:100%; }
+h1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoot=
+hing: antialiased; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: blue !important; }
+h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:ac=
+tive {	color: red !important; }
+h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6=
+ a:visited { color: purple !important; }
+ =20
+table td, table tr { border-collapse: collapse; }
+.yshortcuts, .yshortcuts a, .yshortcuts a:link,.yshortcuts a:visited, .ys=
+hortcuts a:hover, .yshortcuts a span {
+color: black; text-decoration: none !important; border-bottom: none !impo=
+rtant; background: none !important;
+}=09
+code {
+  white-space: normal;
+  word-break: break-all;
+}
+#background-table { background-color: #e8e8e8; }
+#top-bar { border-radius:6px 6px 0px 0px; -moz-border-radius: 6px 6px 0px=
+ 0px; -webkit-border-radius:6px 6px 0px 0px; -webkit-font-smoothing: anti=
+aliased; background-color: #2E2E2E; color: #888888; }
+#top-bar a { font-weight: bold; color: #eeeeee; text-decoration: none;}
+#footer { border-radius:0px 0px 6px 6px; -moz-border-radius: 0px 0px 6px =
+6px; -webkit-border-radius:0px 0px 6px 6px; -webkit-font-smoothing: antia=
+liased; }
+body, td { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-=
+serif; }
+.header-content, .footer-content-left, .footer-content-right { -webkit-te=
+xt-size-adjust: none; -ms-text-size-adjust: none; }
+.header-content { font-size: 12px; color: #888888; }
+.header-content a { font-weight: bold; color: #eeeeee; text-decoration: n=
+one; }
+#headline p { color: #eeeeee; font-family: 'Helvetica Neue', Arial, Helve=
+tica, Geneva, sans-serif; font-size: 36px; text-align: center; margin-top=
+:0px; margin-bottom:30px; }
+#headline p a { color: #eeeeee; text-decoration: none; }
+.article-title { font-size: 18px; line-height:24px; color: #444444; font-=
+weight:bold; margin-top:0px; margin-bottom:18px; font-family: 'Helvetica =
+Neue', Arial, Helvetica, Geneva, sans-serif; }
+.article-title a { color: #444444; text-decoration: none; }
+.article-title.with-meta {margin-bottom: 0;}
+.article-meta { font-size: 13px; line-height: 20px; color: #ccc; font-wei=
+ght: bold; margin-top: 0;}
+.article-content { font-size: 13px; line-height: 18px; color: #666666; ma=
+rgin-top: 0px; margin-bottom: 18px; font-family: 'Helvetica Neue', Arial,=
+ Helvetica, Geneva, sans-serif; }
+.article-content a { color: #2f82de; font-weight:bold; text-decoration:no=
+ne; }
+.article-content img { max-width: 100% }
+.article-content ol, .article-content ul { margin-top:0px; margin-bottom:=
+18px; margin-left:19px; padding:0; }
+.article-content li { font-size: 13px; line-height: 18px; color: #666666;=
+ }
+.article-content li a { color: #2f82de; text-decoration:underline; }
+.article-content p {margin-bottom: 15px;}
+.footer-content-left { font-size: 12px; line-height: 15px; color: #888888=
+; margin-top: 0px; margin-bottom: 15px; }
+.footer-content-left a { color: #eeeeee; font-weight: bold; text-decorati=
+on: none; }
+.footer-content-right { font-size: 11px; line-height: 16px; color: #88888=
+8; margin-top: 0px; margin-bottom: 15px; }
+.footer-content-right a { color: #eeeeee; font-weight: bold; text-decorat=
+ion: none; }
+#footer { background-color: #000000; color: #888888; }
+#footer a { color: #eeeeee; text-decoration: none; font-weight: bold; }
+#permission-reminder { white-space: normal; }
+#street-address { color: #ffffff; white-space: normal; }
+</style>
+<!--[if gte mso 9]>
+<style _tmplitem=3D"40" >
+.article-content ol, .article-content ul {
+   margin: 0 0 0 24px !important;
+   padding: 0 !important;
+   list-style-position: inside !important;
+}
+</style>
+<![endif]--></head><body style=3D"width:100% !important;background-color=
+:#e8e8e8;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;paddin=
+g-top:0;padding-bottom:0;padding-right:0;padding-left:0;font-family:'Helv=
+etica Neue', Arial, Helvetica, Geneva, sans-serif;" ><table width=3D"100%=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"background-table=
+" style=3D"background-color:#e8e8e8;" >
+	<tbody><tr style=3D"border-collapse:collapse;" >
+		<td align=3D"center" bgcolor=3D"#e8e8e8" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+>
+        	<table class=3D"w640"  width=3D"640" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"margin-top:0;margin-bottom:0;margin-right:=
+10px;margin-left:10px;" >
+            	<tbody><tr style=3D"border-collapse:collapse;" ><td class=3D=
+"w640" width=3D"640" height=3D"20" style=3D"font-family:'Helvetica Neue',=
+ Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></td></=
+tr>
+               =20
+            	<tr style=3D"border-collapse:collapse;" >
+                	<td class=3D"w640" width=3D"640" style=3D"font-family:'H=
+elvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:coll=
+apse;" >
+                        <table id=3D"top-bar" class=3D"w640" width=3D"640=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#000000" st=
+yle=3D"border-radius:6px 6px 0px 0px;-moz-border-radius:6px 6px 0px 0px;-=
+webkit-border-radius:6px 6px 0px 0px;-webkit-font-smoothing:antialiased;b=
+ackground-color:#2E2E2E;color:#888888;" >
+    <tbody><tr style=3D"border-collapse:collapse;" >
+        <td class=3D"w15" width=3D"15" style=3D"font-family:'Helvetica Ne=
+ue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></t=
+d>
+        <td class=3D"w325" width=3D"350" valign=3D"middle" align=3D"left"=
+ style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-se=
+rif;border-collapse:collapse;" >
+            <table class=3D"w325" width=3D"350" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0">
+                <tbody><tr style=3D"border-collapse:collapse;" ><td class=
+=3D"w325" width=3D"350" height=3D"8" style=3D"font-family:'Helvetica Neue=
+', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></td>=
+</tr>
+            </tbody></table>
+            <div class=3D"header-content" style=3D"-webkit-text-size-adju=
+st:none;-ms-text-size-adjust:none;font-size:12px;color:#888888;" ><a href=
+=3D"http://newsletter.thebackplane.com/t/j-e-yhthdjy-=
+=
+jdtjtyhri=
+-r/" style=3D"font-weight:bold;color:#eeeeee;text-decorat=
+ion:none;" >Web Version</a><span class=3D"hide">&nbsp;&nbsp;|&nbsp; <a hr=
+ef=3D"http://backplane.updatemyprofile.com/j-yhthdjy-=
+=
+66F27283-jdtjtyhri=
+-y" lang=3D"en" style=3D"font-weight:=
+bold;color:#eeeeee;text-decoration:none;" >Update preferences</a>&nbsp;&n=
+bsp;|&nbsp; <a href=3D"http://newsletter.thebackplane.com/t/j-u-yhthdjy-=
+jdtjtyhri=
+-j/" style=3D"font-weight:bold;color:#=
+eeeeee;text-decoration:none;" >Unsubscribe</a></span></div>
+            <table class=3D"w325" width=3D"350" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0">
+                <tbody><tr style=3D"border-collapse:collapse;" ><td class=
+=3D"w325" width=3D"350" height=3D"8" style=3D"font-family:'Helvetica Neue=
+', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></td>=
+</tr>
+            </tbody></table>
+        </td>
+        <td class=3D"w30" width=3D"30" style=3D"font-family:'Helvetica Ne=
+ue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></t=
+d>
+        <td class=3D"w255" width=3D"255" valign=3D"middle" align=3D"right=
+" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-s=
+erif;border-collapse:collapse;" >
+            <table class=3D"w255" width=3D"255" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0">
+                <tbody><tr style=3D"border-collapse:collapse;" ><td class=
+=3D"w255" width=3D"255" height=3D"8" style=3D"font-family:'Helvetica Neue=
+', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></td>=
+</tr>
+            </tbody></table>
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+    <tbody><tr style=3D"border-collapse:collapse;" >
+       =20
+        <td valign=3D"middle" style=3D"font-family:'Helvetica Neue', Aria=
+l, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ><a href=3D"h=
+ttp://newsletter.thebackplane.com/t/j-fb-yhthdjy-=
+=
+jdtjtyhri=
+-t/" likeurl=3D"https://www.facebook.com/ladygaga" rel=3D"cs_=
+facebox" style=3D"font-weight:bold;color:#eeeeee;text-decoration:none;" >=
+<img src=3D"https://img.createsend1.com/img/templatebuilder/like-glyph.pn=
+g" border=3D"0" width=3D"8" height=3D"14" alt=3D"Facebook icon" =3D"" sty=
+le=3D"outline-style:none;text-decoration:none;display:block;" /></a></td>=
+
+        <td width=3D"3" style=3D"font-family:'Helvetica Neue', Arial, Hel=
+vetica, Geneva, sans-serif;border-collapse:collapse;" ></td>
+        <td valign=3D"middle" style=3D"font-family:'Helvetica Neue', Aria=
+l, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ><div class=3D=
+"header-content" style=3D"-webkit-text-size-adjust:none;-ms-text-size-adj=
+ust:none;font-size:12px;color:#888888;" ><a href=3D"http://newsletter.the=
+backplane.com/t/j-fb-yhthdjy-=
+jdtjtyhri=
+-i/" lik=
+eurl=3D"https://www.facebook.com/ladygaga" rel=3D"cs_facebox" style=3D"fo=
+nt-weight:bold;color:#eeeeee;text-decoration:none;" >Like</a></div></td>
+       =20
+       =20
+        <td class=3D"w10" width=3D"10" style=3D"font-family:'Helvetica Ne=
+ue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></t=
+d>
+        <td valign=3D"middle" style=3D"font-family:'Helvetica Neue', Aria=
+l, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ><a href=3D"h=
+ttp://newsletter.thebackplane.com/t/j-tw-yhthdjy-=
+=
+jdtjtyhri=
+-d/" style=3D"font-weight:bold;color:#eeeeee;text-decoration:=
+none;" ><img src=3D"https://img.createsend1.com/img/templatebuilder/tweet=
+-glyph.png" border=3D"0" width=3D"17" height=3D"13" alt=3D"Twitter icon" =
+=3D"" style=3D"outline-style:none;text-decoration:none;display:block;" />=
+</a></td>
+        <td width=3D"3" style=3D"font-family:'Helvetica Neue', Arial, Hel=
+vetica, Geneva, sans-serif;border-collapse:collapse;" ></td>
+        <td valign=3D"middle" style=3D"font-family:'Helvetica Neue', Aria=
+l, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ><div class=3D=
+"header-content" style=3D"-webkit-text-size-adjust:none;-ms-text-size-adj=
+ust:none;font-size:12px;color:#888888;" ><a href=3D"http://newsletter.the=
+backplane.com/t/j-tw-yhthdjy-=
+jdtjtyhri=
+-h/" sty=
+le=3D"font-weight:bold;color:#eeeeee;text-decoration:none;" >Tweet</a></d=
+iv></td>
+       =20
+       =20
+        <td class=3D"w10" width=3D"10" style=3D"font-family:'Helvetica Ne=
+ue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></t=
+d>
+        <td valign=3D"middle" style=3D"font-family:'Helvetica Neue', Aria=
+l, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ><a href=3D"h=
+ttp://backplane.forwardtomyfriend.com/j-=
+jdtjtyhri-=
+66F27283=
+-yhthdjy-l-k" lang=3D"en" style=3D"font-weight:bol=
+d;color:#eeeeee;text-decoration:none;" ><img src=3D"https://img.createsen=
+d1.com/img/templatebuilder/forward-glyph.png" border=3D"0" width=3D"19" h=
+eight=3D"14" alt=3D"Forward icon" =3D"" style=3D"outline-style:none;text-=
+decoration:none;display:block;" /></a></td>
+        <td width=3D"3" style=3D"font-family:'Helvetica Neue', Arial, Hel=
+vetica, Geneva, sans-serif;border-collapse:collapse;" ></td>
+        <td valign=3D"middle" style=3D"font-family:'Helvetica Neue', Aria=
+l, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ><div class=3D=
+"header-content" style=3D"-webkit-text-size-adjust:none;-ms-text-size-adj=
+ust:none;font-size:12px;color:#888888;" ><a href=3D"http://backplane.forw=
+ardtomyfriend.com/j-=
+jdtjtyhri-66F27283=
+-yhthdjy-l-u" lang=3D"en" style=3D"font-weight:bold;color:#eeeeee;text=
+-decoration:none;" >Forward</a></div></td>
+       =20
+    </tr>
+</tbody></table>
+            <table class=3D"w255" width=3D"255" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0">
+                <tbody><tr style=3D"border-collapse:collapse;" ><td class=
+=3D"w255" width=3D"255" height=3D"8" style=3D"font-family:'Helvetica Neue=
+', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></td>=
+</tr>
+            </tbody></table>
+        </td>
+        <td class=3D"w15" width=3D"15" style=3D"font-family:'Helvetica Ne=
+ue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></t=
+d>
+    </tr>
+</tbody></table>
+                       =20
+                    </td>
+                </tr>
+                <tr style=3D"border-collapse:collapse;" >
+                <td id=3D"header" class=3D"w640" width=3D"640" align=3D"c=
+enter" bgcolor=3D"#000000" style=3D"font-family:'Helvetica Neue', Arial, =
+Helvetica, Geneva, sans-serif;border-collapse:collapse;" >
+   =20
+    <div align=3D"center" style=3D"text-align:center;" >
+       =20
+        <img id=3D"customHeaderImage" label=3D"Header Image" width=3D"236=
+" src=3D"http=
+://i2.createsend3.com=
+/ti/j/35/0=
+73/8BB/113952/images/logo.170258.png" class=3D"w640" border=3D"0" align=3D=
+"top" style=3D"display:inline;outline-style:none;text-decoration:none;" /=
+>
+       =20
+    </div>
+   =20
+   =20
+</td>
+                </tr>
+               =20
+                <tr style=3D"border-collapse:collapse;" ><td class=3D"w64=
+0" width=3D"640" height=3D"30" bgcolor=3D"#ffffff" style=3D"font-family:'=
+Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:col=
+lapse;" ></td></tr>
+                <tr id=3D"simple-content-row" style=3D"border-collapse:co=
+llapse;" ><td class=3D"w640" width=3D"640" bgcolor=3D"#ffffff" style=3D"f=
+ont-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-=
+collapse:collapse;" >
+    <table class=3D"w640" width=3D"640" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+        <tbody><tr style=3D"border-collapse:collapse;" >
+            <td class=3D"w30" width=3D"30" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td>
+            <td class=3D"w580" width=3D"580" style=3D"font-family:'Helvet=
+ica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;=
+" >
+               =20
+                        <table class=3D"w580" width=3D"580" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+                            <tbody><tr style=3D"border-collapse:collapse;=
+" >
+                                <td class=3D"w580" width=3D"580" style=3D=
+"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;borde=
+r-collapse:collapse;" >
+                                    <p align=3D"left" class=3D"article-ti=
+tle" style=3D"font-size:18px;line-height:24px;color:#444444;font-weight:b=
+old;margin-top:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial=
+, Helvetica, Geneva, sans-serif;" >Little Monsters in the Spotlight</p>
+                                    <div align=3D"left" class=3D"article-=
+content" style=3D"font-size:13px;line-height:18px;color:#666666;margin-to=
+p:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif;" >
+                                       =20
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr style=3D"border-collapse:collapse;" ><td =
+class=3D"w580" width=3D"580" height=3D"10" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td></tr>
+                        </tbody></table>
+                   =20
+                        <table class=3D"w580" width=3D"580" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+                            <tbody><tr style=3D"border-collapse:collapse;=
+" >
+                                <td class=3D"w580" width=3D"580" style=3D=
+"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;borde=
+r-collapse:collapse;" >
+                                    <p align=3D"left" class=3D"article-ti=
+tle" style=3D"font-size:18px;line-height:24px;color:#444444;font-weight:b=
+old;margin-top:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial=
+, Helvetica, Geneva, sans-serif;" ></p>
+                                    <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"right">
+                                        <tbody><tr style=3D"border-collap=
+se:collapse;" >
+                                            <td class=3D"w30" width=3D"15=
+" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-s=
+erif;border-collapse:collapse;" ></td>
+                                            <td style=3D"font-family:'Hel=
+vetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collap=
+se;" ><img label=3D"Image" class=3D"w300" width=3D"150" border=3D"0" src=3D=
+"http=
+://i1.createsend3.com=
+/ei/j/48/0F9/F77/c=
+simport/ScreenShot2012-10-28at1.52.44PM.135448.png" height=3D"150" style=3D=
+"outline-style:none;text-decoration:none;display:block;" /></td>
+                                        </tr>
+                                        <tr style=3D"border-collapse:coll=
+apse;" ><td class=3D"w30" width=3D"15" height=3D"5" style=3D"font-family:=
+'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:co=
+llapse;" ></td><td style=3D"font-family:'Helvetica Neue', Arial, Helvetic=
+a, Geneva, sans-serif;border-collapse:collapse;" ></td></tr>
+                                    </tbody></table>
+                                    <div align=3D"left" class=3D"article-=
+content" style=3D"font-size:13px;line-height:18px;color:#666666;margin-to=
+p:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif;" >
+                                        <p style=3D"margin-bottom:15px;" =
+>
+	<a href=3D"http://newsletter.thebackplane.com/t/j-l-yhthdjy-=
+=
+jdtjtyhri=
+-e/" style=3D"color:#2f82de;font-weight:bold;text=
+-decoration:none;" ><span style=3D"font-size:16px;" >Daniel Fern=C3=A1nde=
+z</span></a></p>
+<p style=3D"margin-bottom:15px;" >
+	<span style=3D"font-size:11px;" >Little Monster Daniel, your vision of G=
+aga is one of a kind. From watercolors to sketches to digital art, we lov=
+e your interpretation of Mother Monster regardless of the medium. Paws Up=
+, Daniel, and thank you for sharing your artwork on</span><span style=3D"=
+font-size:11px;" >&nbsp;<a href=3D"http://newsletter.thebackplane.com/t/j=
+-l-yhthdjy-=
+jdtjtyhri=
+-s/" style=3D"color:#2f82d=
+e;font-weight:bold;text-decoration:none;" >LittleMonsters.com</a>!</span>=
+</p>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr style=3D"border-collapse:collapse;" ><td =
+class=3D"w580" width=3D"580" height=3D"10" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td></tr>
+                        </tbody></table>
+                   =20
+                        <table class=3D"w580" width=3D"580" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+                            <tbody><tr style=3D"border-collapse:collapse;=
+" >
+                                <td class=3D"w580" width=3D"580" style=3D=
+"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;borde=
+r-collapse:collapse;" >
+                                    <p align=3D"left" class=3D"article-ti=
+tle" style=3D"font-size:18px;line-height:24px;color:#444444;font-weight:b=
+old;margin-top:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial=
+, Helvetica, Geneva, sans-serif;" ></p>
+                                    <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"right">
+                                        <tbody><tr style=3D"border-collap=
+se:collapse;" >
+                                            <td class=3D"w30" width=3D"15=
+" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-s=
+erif;border-collapse:collapse;" ></td>
+                                            <td style=3D"font-family:'Hel=
+vetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collap=
+se;" ><img label=3D"Image" class=3D"w300" width=3D"150" border=3D"0" src=3D=
+"http=
+://i2.createsend3.com=
+/ei/j/48/0F9/F77/c=
+simport/ScreenShot2012-10-28at2.00.32PM.140223.png" height=3D"150" style=3D=
+"outline-style:none;text-decoration:none;display:block;" /></td>
+                                        </tr>
+                                        <tr style=3D"border-collapse:coll=
+apse;" ><td class=3D"w30" width=3D"15" height=3D"5" style=3D"font-family:=
+'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:co=
+llapse;" ></td><td style=3D"font-family:'Helvetica Neue', Arial, Helvetic=
+a, Geneva, sans-serif;border-collapse:collapse;" ></td></tr>
+                                    </tbody></table>
+                                    <div align=3D"left" class=3D"article-=
+content" style=3D"font-size:13px;line-height:18px;color:#666666;margin-to=
+p:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif;" >
+                                        <p style=3D"margin-bottom:15px;" =
+>
+	<a href=3D"http://newsletter.thebackplane.com/t/j-l-yhthdjy-=
+=
+jdtjtyhri=
+-g/" style=3D"color:#2f82de;font-weight:bold;text=
+-decoration:none;" ><span style=3D"font-size:16px;" >Poschin Bogdan</span=
+></a></p>
+<p style=3D"margin-bottom:15px;" >
+	<span style=3D"font-size:11px;" >Little Monster Poschin's portraits of L=
+ady Gaga are beautiful and imaginative. Poschin, we love the precision an=
+d consistency apparent in all of your work. Please continue to create and=
+ share with your friends on</span><span style=3D"font-size:11px;" >&nbsp;=
+<a href=3D"http://newsletter.thebackplane.com/t/j-l-yhthdjy-=
+=
+jdtjtyhri=
+-w/" style=3D"color:#2f82de;font-weight:bold;text-=
+decoration:none;" >LittleMonsters.com</a>!</span></p>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr style=3D"border-collapse:collapse;" ><td =
+class=3D"w580" width=3D"580" height=3D"10" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td></tr>
+                        </tbody></table>
+                   =20
+                        <table class=3D"w580" width=3D"580" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+                            <tbody><tr style=3D"border-collapse:collapse;=
+" >
+                                <td class=3D"w580" width=3D"580" style=3D=
+"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;borde=
+r-collapse:collapse;" >
+                                    <p align=3D"left" class=3D"article-ti=
+tle" style=3D"font-size:18px;line-height:24px;color:#444444;font-weight:b=
+old;margin-top:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial=
+, Helvetica, Geneva, sans-serif;" >Highlighted Posts</p>
+                                    <div align=3D"left" class=3D"article-=
+content" style=3D"font-size:13px;line-height:18px;color:#666666;margin-to=
+p:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif;" >
+                                       =20
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr style=3D"border-collapse:collapse;" ><td =
+class=3D"w580" width=3D"580" height=3D"10" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td></tr>
+                        </tbody></table>
+                   =20
+                        <table class=3D"w580" width=3D"580" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+                            <tbody><tr style=3D"border-collapse:collapse;=
+" >
+                                <td class=3D"w580" width=3D"580" style=3D=
+"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;borde=
+r-collapse:collapse;" >
+                                    <p align=3D"left" class=3D"article-ti=
+tle" style=3D"font-size:18px;line-height:24px;color:#444444;font-weight:b=
+old;margin-top:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial=
+, Helvetica, Geneva, sans-serif;" ></p>
+                                    <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"left">
+                                        <tbody><tr style=3D"border-collap=
+se:collapse;" >
+                                            <td style=3D"font-family:'Hel=
+vetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collap=
+se;" ><img label=3D"Image" class=3D"w300" width=3D"100" border=3D"0" src=3D=
+"http=
+://i3.createsend3.com=
+/ei/j/48/0F9/F77/c=
+simport/ScreenShot2012-10-28at2.14.52PM.141741.png" height=3D"105" style=3D=
+"outline-style:none;text-decoration:none;display:block;" /></td>
+                                            <td class=3D"w30" width=3D"15=
+" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-s=
+erif;border-collapse:collapse;" ></td>
+                                        </tr>
+                                        <tr style=3D"border-collapse:coll=
+apse;" ><td style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Gene=
+va, sans-serif;border-collapse:collapse;" ></td><td class=3D"w30" width=3D=
+"15" height=3D"5" style=3D"font-family:'Helvetica Neue', Arial, Helvetica=
+, Geneva, sans-serif;border-collapse:collapse;" ></td></tr>
+                                    </tbody></table>
+                                    <div align=3D"left" class=3D"article-=
+content" style=3D"font-size:13px;line-height:18px;color:#666666;margin-to=
+p:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif;" >
+                                        <p style=3D"margin-bottom:15px;" =
+>
+	<a href=3D"http://newsletter.thebackplane.com/t/j-l-yhthdjy-=
+=
+jdtjtyhri=
+-yd/" style=3D"color:#2f82de;font-weight:bold;tex=
+t-decoration:none;" ><font size=3D"3">Gaga the Pumpkin Queen</font></a></=
+p>
+<p style=3D"margin-bottom:15px;" >
+	<span style=3D"font-size:11px;" >In celebration of Gagaween, Little Mons=
+ter Devon carving up this one of a kind Gaga pumpkin! Great work, Devon! =
+Did you make a pumpkin for Zombie Boy too?</span></p>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr style=3D"border-collapse:collapse;" ><td =
+class=3D"w580" width=3D"580" height=3D"10" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td></tr>
+                        </tbody></table>
+                   =20
+                        <table class=3D"w580" width=3D"580" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+                            <tbody><tr style=3D"border-collapse:collapse;=
+" >
+                                <td class=3D"w580" width=3D"580" style=3D=
+"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;borde=
+r-collapse:collapse;" >
+                                    <p align=3D"left" class=3D"article-ti=
+tle" style=3D"font-size:18px;line-height:24px;color:#444444;font-weight:b=
+old;margin-top:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial=
+, Helvetica, Geneva, sans-serif;" ></p>
+                                    <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"left">
+                                        <tbody><tr style=3D"border-collap=
+se:collapse;" >
+                                            <td style=3D"font-family:'Hel=
+vetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collap=
+se;" ><img label=3D"Image" class=3D"w300" width=3D"100" border=3D"0" src=3D=
+"http=
+://i4.createsend3.com=
+/ei/j/48/0F9/F77/c=
+simport/ScreenShot2012-10-28at4.00.54PM.160302.png" height=3D"101" style=3D=
+"outline-style:none;text-decoration:none;display:block;" /></td>
+                                            <td class=3D"w30" width=3D"15=
+" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-s=
+erif;border-collapse:collapse;" ></td>
+                                        </tr>
+                                        <tr style=3D"border-collapse:coll=
+apse;" ><td style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Gene=
+va, sans-serif;border-collapse:collapse;" ></td><td class=3D"w30" width=3D=
+"15" height=3D"5" style=3D"font-family:'Helvetica Neue', Arial, Helvetica=
+, Geneva, sans-serif;border-collapse:collapse;" ></td></tr>
+                                    </tbody></table>
+                                    <div align=3D"left" class=3D"article-=
+content" style=3D"font-size:13px;line-height:18px;color:#666666;margin-to=
+p:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif;" >
+                                        <p style=3D"margin-bottom:15px;" =
+>
+	<a href=3D"http://newsletter.thebackplane.com/t/j-l-yhthdjy-=
+=
+jdtjtyhri=
+-yh/" style=3D"color:#2f82de;font-weight:bold;tex=
+t-decoration:none;" ><font size=3D"3">Witchy Woman</font></a></p>
+<p style=3D"margin-bottom:15px;" >
+	<span style=3D"font-size:11px;" >Book of Little Monsters created this ha=
+untingly clever Disney-inspired interpretation of Lady Gaga. Happy Gagawe=
+en, Book of Little Monsters, and continue to share your unique designs wi=
+th your family on</span><span style=3D"font-size:11px;" >&nbsp;<a href=3D=
+"http://newsletter.thebackplane.com/t/j-l-yhthdjy-=
+=
+jdtjtyhri=
+-yk/" style=3D"color:#2f82de;font-weight:bold;text-decoratio=
+n:none;" >LittleMonsters.com</a>!</span></p>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr style=3D"border-collapse:collapse;" ><td =
+class=3D"w580" width=3D"580" height=3D"10" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td></tr>
+                        </tbody></table>
+                   =20
+                        <table class=3D"w580" width=3D"580" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+                            <tbody><tr style=3D"border-collapse:collapse;=
+" >
+                                <td class=3D"w580" width=3D"580" style=3D=
+"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;borde=
+r-collapse:collapse;" >
+                                    <p align=3D"left" class=3D"article-ti=
+tle" style=3D"font-size:18px;line-height:24px;color:#444444;font-weight:b=
+old;margin-top:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial=
+, Helvetica, Geneva, sans-serif;" ></p>
+                                    <table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"left">
+                                        <tbody><tr style=3D"border-collap=
+se:collapse;" >
+                                            <td style=3D"font-family:'Hel=
+vetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collap=
+se;" ><img label=3D"Image" class=3D"w300" width=3D"100" border=3D"0" src=3D=
+"http=
+://i5.createsend3.com=
+/ei/j/48/0F9/F77/c=
+simport/ScreenShot2012-10-28at4.38.07PM.165754.png" height=3D"95" style=3D=
+"outline-style:none;text-decoration:none;display:block;" /></td>
+                                            <td class=3D"w30" width=3D"15=
+" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-s=
+erif;border-collapse:collapse;" ></td>
+                                        </tr>
+                                        <tr style=3D"border-collapse:coll=
+apse;" ><td style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Gene=
+va, sans-serif;border-collapse:collapse;" ></td><td class=3D"w30" width=3D=
+"15" height=3D"5" style=3D"font-family:'Helvetica Neue', Arial, Helvetica=
+, Geneva, sans-serif;border-collapse:collapse;" ></td></tr>
+                                    </tbody></table>
+                                    <div align=3D"left" class=3D"article-=
+content" style=3D"font-size:13px;line-height:18px;color:#666666;margin-to=
+p:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif;" >
+                                        <p style=3D"margin-bottom:15px;" =
+>
+	<span style=3D"font-size:16px;" ><a href=3D"http://newsletter.thebackpla=
+ne.com/t/j-l-yhthdjy-=
+jdtjtyhri=
+-yu/" style=3D"c=
+olor:#2f82de;font-weight:bold;text-decoration:none;" >Skeleton Gaga</a></=
+span></p>
+<p style=3D"margin-bottom:15px;" >
+	<span style=3D"font-size:11px;" >Check out Little Monster Maria Gutierre=
+z's Halloween setup featuring a Mother Monster-like doll. Anyone see the =
+inspiration from Gaga's 2009 OUT Magazine photo shoot? Paws up, Maria!</s=
+pan></p>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr style=3D"border-collapse:collapse;" ><td =
+class=3D"w580" width=3D"580" height=3D"10" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td></tr>
+                        </tbody></table>
+                   =20
+                        <table class=3D"w580" width=3D"580" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">
+                            <tbody><tr style=3D"border-collapse:collapse;=
+" >
+                                <td class=3D"w580" width=3D"580" style=3D=
+"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;borde=
+r-collapse:collapse;" >
+                                    <p align=3D"left" class=3D"article-ti=
+tle" style=3D"font-size:18px;line-height:24px;color:#444444;font-weight:b=
+old;margin-top:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial=
+, Helvetica, Geneva, sans-serif;" >Calling All Little Monsters</p>
+                                    <div align=3D"left" class=3D"article-=
+content" style=3D"font-size:13px;line-height:18px;color:#666666;margin-to=
+p:0px;margin-bottom:18px;font-family:'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif;" >
+                                        <p style=3D"margin-bottom:15px;" =
+>
+	<span style=3D"font-size:11px;" >See something you love? See something y=
+ou don't? Drop us a line at <a href=3D"mailto:info@thebackplane.com?subje=
+ct=3DNewsletter%20-%20Feedback" style=3D"color:#2f82de;font-weight:bold;t=
+ext-decoration:none;" >info@thebackplane.com</a> and let us know.</span><=
+/p>
+<p style=3D"margin-bottom:15px;" >
+	<span style=3D"font-size:11px;" >This site was made for you and we love =
+to hear what you have to say. Paws Up!</span></p>
+<p style=3D"margin-bottom:15px;" >
+	<span style=3D"font-size:11px;" >- Team Little Monsters</span></p>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr style=3D"border-collapse:collapse;" ><td =
+class=3D"w580" width=3D"580" height=3D"10" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td></tr>
+                        </tbody></table>
+                   =20
+            </td>
+            <td class=3D"w30" width=3D"30" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td>
+        </tr>
+    </tbody></table>
+</td></tr>
+                <tr style=3D"border-collapse:collapse;" ><td class=3D"w64=
+0" width=3D"640" height=3D"15" bgcolor=3D"#ffffff" style=3D"font-family:'=
+Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:col=
+lapse;" ></td></tr>
+               =20
+                <tr style=3D"border-collapse:collapse;" >
+                <td class=3D"w640" width=3D"640" style=3D"font-family:'He=
+lvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:colla=
+pse;" >
+    <table id=3D"footer" class=3D"w640" width=3D"640" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" bgcolor=3D"#000000" style=3D"border-radius:=
+0px 0px 6px 6px;-moz-border-radius:0px 0px 6px 6px;-webkit-border-radius:=
+0px 0px 6px 6px;-webkit-font-smoothing:antialiased;background-color:#0000=
+00;color:#888888;" >
+        <tbody><tr style=3D"border-collapse:collapse;" ><td class=3D"w30"=
+ width=3D"30" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Ge=
+neva, sans-serif;border-collapse:collapse;" ></td><td class=3D"w580 h0" w=
+idth=3D"360" height=3D"30" style=3D"font-family:'Helvetica Neue', Arial, =
+Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></td><td class=3D=
+"w0" width=3D"60" style=3D"font-family:'Helvetica Neue', Arial, Helvetica=
+, Geneva, sans-serif;border-collapse:collapse;" ></td><td class=3D"w0" wi=
+dth=3D"160" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Gene=
+va, sans-serif;border-collapse:collapse;" ></td><td class=3D"w30" width=3D=
+"30" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, san=
+s-serif;border-collapse:collapse;" ></td></tr>
+        <tr style=3D"border-collapse:collapse;" >
+            <td class=3D"w30" width=3D"30" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td>
+            <td class=3D"w580" width=3D"360" valign=3D"top" style=3D"font=
+-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-col=
+lapse:collapse;" >
+            <span class=3D"hide"><p id=3D"permission-reminder" align=3D"l=
+eft" class=3D"footer-content-left" style=3D"-webkit-text-size-adjust:none=
+;-ms-text-size-adjust:none;font-size:12px;line-height:15px;color:#888888;=
+margin-top:0px;margin-bottom:15px;white-space:normal;" ><span>You're rece=
+iving this email because you're a member of LittleMonsters.com</span></p>=
+</span>
+            <p align=3D"left" class=3D"footer-content-left" style=3D"-web=
+kit-text-size-adjust:none;-ms-text-size-adjust:none;font-size:12px;line-h=
+eight:15px;color:#888888;margin-top:0px;margin-bottom:15px;" ><a href=3D"=
+http://backplane.updatemyprofile.com/j-yhthdjy-=
+=
+66F27283-jdtjtyhri=
+-o" lang=3D"en" style=3D"color:#eeeeee;text=
+-decoration:none;font-weight:bold;" >Edit your subscription</a> | <a href=
+=3D"http://newsletter.thebackplane.com/t/j-u-yhthdjy-=
+=
+jdtjtyhri=
+-b/" style=3D"color:#eeeeee;text-decoration:none;font-wei=
+ght:bold;" >Unsubscribe</a></p>
+            </td>
+            <td class=3D"hide w0" width=3D"60" style=3D"font-family:'Helv=
+etica Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collaps=
+e;" ></td>
+            <td class=3D"hide w0" width=3D"160" valign=3D"top" style=3D"f=
+ont-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;border-=
+collapse:collapse;" >
+            <p id=3D"street-address" align=3D"right" class=3D"footer-cont=
+ent-right" style=3D"-webkit-text-size-adjust:none;-ms-text-size-adjust:no=
+ne;font-size:11px;line-height:16px;margin-top:0px;margin-bottom:15px;colo=
+r:#ffffff;white-space:normal;" ><span>Backplane</span><br style=3D"line-h=
+eight:100%;" />
+<span></span></p>
+            </td>
+            <td class=3D"w30" width=3D"30" style=3D"font-family:'Helvetic=
+a Neue', Arial, Helvetica, Geneva, sans-serif;border-collapse:collapse;" =
+></td>
+        </tr>
+        <tr style=3D"border-collapse:collapse;" ><td class=3D"w30" width=3D=
+"30" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, san=
+s-serif;border-collapse:collapse;" ></td><td class=3D"w580 h0" width=3D"3=
+60" height=3D"15" style=3D"font-family:'Helvetica Neue', Arial, Helvetica=
+, Geneva, sans-serif;border-collapse:collapse;" ></td><td class=3D"w0" wi=
+dth=3D"60" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Genev=
+a, sans-serif;border-collapse:collapse;" ></td><td class=3D"w0" width=3D"=
+160" style=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, san=
+s-serif;border-collapse:collapse;" ></td><td class=3D"w30" width=3D"30" s=
+tyle=3D"font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-seri=
+f;border-collapse:collapse;" ></td></tr>
+    </tbody></table>
+</td>
+                </tr>
+                <tr style=3D"border-collapse:collapse;" ><td class=3D"w64=
+0" width=3D"640" height=3D"60" style=3D"font-family:'Helvetica Neue', Ari=
+al, Helvetica, Geneva, sans-serif;border-collapse:collapse;" ></td></tr>
+            </tbody></table>
+        </td>
+	</tr>
+</tbody></table><img src=3D"https://createsend3.com=
+/t/j-o-yhthdjy=
+-=
+jdtjtyhri=
+/o.gif"  width=3D"1" height=3D"1" bo=
+rder=3D"0" style=3D"height:1px !important;width:1px !important;border-wid=
+th:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin=
+-right:0 !important;margin-left:0 !important;padding-top:0 !important;pad=
+ding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impor=
+tant;outline-style:none;text-decoration:none;display:block;" /></body></h=
+tml>=
+
+
+
+
+--_=aspNetEmail=_0d4d3be8be264fb693a668ebff14065b--

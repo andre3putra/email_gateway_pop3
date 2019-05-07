@@ -1,0 +1,992 @@
+Delivered-To: atriputra87@gmail.com
+Received: by 2002:a25:b68a:0:0:0:0:0 with SMTP id s10-v6csp8590013ybj;
+        Tue, 4 Dec 2018 20:03:57 -0800 (PST)
+X-Google-Smtp-Source: AFSGD/U2HQY0Kra8MTaHljUElsho8So0/wRbDAczdJ9GIZmmJP+oDIK1yU/ue1yneJ0Duwodjyc7
+X-Received: by 2002:a0c:b669:: with SMTP id q41mr22350549qvf.58.1543982637613;
+        Tue, 04 Dec 2018 20:03:57 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1543982637; cv=none;
+        d=google.com; s=arc-20160816;
+        b=f7g8xDEWBCv6s7CYokr0/G+kf9LkCWdDown+2OjA4VthLJobGtaFA5XjA1Ynd1RM5J
+         F4P0xiEfzi+h6qgHOYw0uWAvQt9V3h/qxoVpks2/9wJlAUvIDNjU57fAFvU1zx0V3Ljq
+         QfuBDxDADmSptK4yF1ZO8BV2qDlvb2WHZGSUtsQ8SPHkBTGZmxh96Dudw9+6NuazMpPe
+         7mthM9avaOgDvg//DLB364EoQNX67TxG2b3jrYR5I4m5aVB5UKrVFXaPOSSuHM6KZZxx
+         6eoXpGoSkYazUIoft46DQevAdLYRI0XqWPJc0sMJ68WQBAzQweX2oHYJLbf8VZ0G+QUe
+         gYUA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:date:subject:to:from:message-id;
+        bh=zCwK7jmSnTKx+WhL02Ns3WsihXQfVirUFJ1A6PUEYZw=;
+        b=RXxb+r7ffR64FM+Fz7xbnPvpsWtAt5f4EOeFoOeqETKOOxQKmEcJhjse9+k2xOqrVc
+         Muqvf6PbUcaJVBcgcmIP/w5sJs6xlfl1B1YyIG29YKltzVgxtcHvlQ5tLCY4GdtLHRUw
+         40yKDF5LWZNXmWeJ9U+kVILEJuNacIXGLPTUsNOr9Z9eETrtoOQkcga0Z6ZMz8AKkIEf
+         xyIVSTOv6yUJqQWrGQYB57ne6QtOM4mymnqySdHM+2NxIDH1YqYEuKewU4G9uXazk5HD
+         bHUzk9kdv3FdesuVR2EE09ghGG84whEcRVeFHWRmXTlySC/tRzonxn2IY/u51O+feYDS
+         XGFg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=neutral (google.com: 146.20.161.127 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) smtp.mailfrom=andre@invision-ap.com
+Return-Path: <andre@invision-ap.com>
+Received: from smtp127.iad3b.emailsrvr.com (smtp127.iad3b.emailsrvr.com. [146.20.161.127])
+        by mx.google.com with ESMTPS id 37si1400788qvb.136.2018.12.04.20.03.56
+        for <atriputra87@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 04 Dec 2018 20:03:56 -0800 (PST)
+Received-SPF: neutral (google.com: 146.20.161.127 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) client-ip=146.20.161.127;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 146.20.161.127 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) smtp.mailfrom=andre@invision-ap.com
+Received: from smtp16.relay.iad3b.emailsrvr.com (localhost [127.0.0.1])
+	by smtp16.relay.iad3b.emailsrvr.com (SMTP Server) with ESMTP id 75EFBC016F
+	for <atriputra87@gmail.com>; Tue,  4 Dec 2018 23:03:56 -0500 (EST)
+X-Auth-ID: andre@invision-ap.com
+Received: by smtp16.relay.iad3b.emailsrvr.com (Authenticated sender: andre-AT-invision-ap.com) with ESMTPSA id F0114C01C4
+	for <atriputra87@gmail.com>; Tue,  4 Dec 2018 23:03:54 -0500 (EST)
+X-Sender-Id: andre@invision-ap.com
+Received: from nb-andre.domain ([UNAVAILABLE]. [182.253.44.54])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384)
+	by 0.0.0.0:465 (trex/5.7.12);
+	Tue, 04 Dec 2018 23:03:56 -0500
+Message-ID: <75f5460ef2d3ad1a30cb8dcf0011dc15@invision-ap.com>
+From: <andre@invision-ap.com>
+To: <atriputra87@gmail.com>
+Subject: Andre, selamat datang di Akun Google baru Anda
+Date: Wed, 05 Dec 2018 11:03:49 +0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="89a6885e5b66ba11dc10d0640004e5e0"
+
+This is a multi-part message in MIME format.
+
+--89a6885e5b66ba11dc10d0640004e5e0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+     =20
+     =20
+        =20
+           =20
+              =20
+              =20
+                 =20
+                    =20
+                       =20
+                    =20
+                    =20
+                       =20
+                          =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Halo Andre,
+                             =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                             =20
+                             =20
+                                 =20
+                             =20
+                             =20
+                             =20
+                                 Kami sangat senang Anda memutuskan untuk =
+mencoba Gmail. Berikut ini beberapa tips untuk membuat Anda siap dan dapat =
+segera menggunakannya=2E
+                             =20
+                             =20
+                                =20
+                                =20
+                             =20
+                          =20
+                       =20
+                    =20
+                    =20
+                       =20
+                          =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                                   =20
+                                   =20
+                                   =20
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Minta Asisten Google untuk membantu Anda
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Selesaikan pengaturan untuk Asisten =
+Google Anda - cara yang lebih mudah untuk menyelesaikan berbagai tugas di =
+ponsel baru Anda
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                                    SELESAIKAN PENGATURAN
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                          =20
+                       =20
+                    =20
+                    =20
+                       =20
+                          =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                                   =20
+                                   =20
+                                    =20
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Gmail kapan saja di mana saja
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Dengan Gmail untuk Android dan iOS, Anda =
+mendapatkan notifikasi secara real-time jadi tidak akan ada email penting =
+yang terlewat=2E
+                             =20
+                             =20
+                                =20
+                             =20
+                          =20
+                       =20
+                    =20
+                    =20
+                       =20
+                          =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                                   =20
+                                   =20
+                                   =20
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Anda yang memegang kendali
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Pilihlah setelan yang cocok untuk Anda. =
+Anda dapat meninjau dan menyesuaikan setelan privasi serta keamanan kapan =
+saja di Akun Saya.=20
+                             =20
+                             =20
+                                =20
+                             =20
+                          =20
+                       =20
+                    =20
+                    =20
+                       =20
+                          =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                                    Balasan ke email ini tidak dipantau, =
+namun jika ada pertanyaan, kunjungi Pusat Bantuan atau buat postingan di =
+Forum Bantuan Gmail tempat tim saya dan pengguna ahli lainnya menjawab =
+berbagai pertanyaan=2E
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Nikmati akun baru Anda,
+                             =20
+                             =20
+
+           =20
+
+                             =20
+                             =20
+                                =20
+                                   Community Manager Gmail
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                 Ikuti kami Twitter, Facebook, Google+
+                             =20
+                             =20
+                                =20
+                             =20
+
+                             =20
+                                =20
+                                   =20
+                                      =20
+                                          Dapatkan Gmail kapan saja di =
+mana saja=2E
+                                      =20
+                                      =20
+                                         =20
+                                      =20
+                                      =20
+                                         =20
+                                            =20
+                                         =20
+                                          =20
+                                         =20
+                                             =20
+                                         =20
+                                      =20
+                                   =20
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                                   =20
+                                   =20
+                                   =20
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                                   =20
+                                      =20
+                                         =20
+                                            =20
+                                            =20
+                                            =20
+                                         =20
+                                         =20
+                                         =20
+                                            =20
+                                            =20
+                                            =20
+                                         =20
+                                         =20
+                                         =20
+                                            =20
+                                            =20
+                                            =20
+                                         =20
+                                         =20
+                                         =20
+                                            =20
+                                            =20
+                                            =20
+                                         =20
+                                         =20
+                                         =20
+                                            =20
+                                            =20
+                                            =20
+                                         =20
+                                         =20
+                                         =20
+                                            =20
+                                             =20
+                                            =20
+                                         =20
+                                         =20
+                                         =20
+                                            =20
+                                             =20
+                                            =20
+                                         =20
+                                         =20
+                                         =20
+                                            =20
+                                            =20
+                                            =20
+                                         =20
+                                      =20
+                                   =20
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                             =20
+                             =20
+                                =20
+                                    =C2=A9 2018 Google LLC 1600 =
+Amphitheatre Parkway, Mountain View, CA 94043Anda menerima email ini =
+karena telah membuat akun Google=2E
+                                =20
+                             =20
+                          =20
+                       =20
+                    =20
+                    =20
+                       =20
+                    =20
+                 =20
+              =20
+              =20
+           =20
+        =20
+        =20
+            =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+            =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+         
+      
+   
+
+--89a6885e5b66ba11dc10d0640004e5e0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+=20
+=20
+=20
+=20
+=20
+<!doctype html public "- / /w3c / /dtd xhtml 1.0 transitional / /en" =
+"http: / /www.w3.org /tr /xhtml1 /dtd /xhtml1-transitional.dtd">
+<html>
+   <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8">
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1, maximum-scale=3D1">
+      <!--<meta name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1.0"/>
+         <meta name=3D"viewport" =
+content=3D"target-densitydpi=3Ddevice-dpi"/> -->
+         <title></title>
+     <style type=3D"text/css">    =20
+
+    @media only screen and (max-width: 767px){
+    	 .body_wrapper{min-width:100vw !important;}
+      .device_txt{font-size:26px!important;}
+    }
+   =20
+    @media screen and (min-resolution: 288dpi) {
+      .body_wrapper{min-width:100% !important;}
+      .device_txt{font-size:26px!important;}
+	}
+      =20
+   </style>
+   </head>
+   <body style=3D"padding: 0; margin: 0;" class=3D"body_wrapper">
+      <style>
+         @media screen{@font-face{font-family:'Open =
+Sans';font-style:normal;font-weight:300;src:local('Open Sans =
+Light'),local('OpenSans-Light'),url(http://fonts.gstatic.com/s/opensans/v9/=
+DXI1ORHCpsQm3Vp6mXoaTRampu5_7CjHW5spxoeN3Vs.woff2) =
+format('woff2'),url(http://fonts.gstatic.com/s/opensans/v9/DXI1ORHCpsQm3Vp6=
+mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) =
+format('woff')}}body{padding:0;margin:0}@media only screen and =
+(max-width:520px){-webkit-text-size-adjust:100%}
+      </style>
+      <center>
+         <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+align=3D"center" width=3D"520" bgcolor=3D"#ffffff" style=3D"background: =
+#ffffff; max-width: 520px; -webkit-font-smoothing: antialiased; =
+-webkit-text-size-adjust: none; -ms-text-size-adjust: 100%;">
+            <tr>
+               <td width=3D"20" bgcolor=3D"#eeeeee" style=3D"background: =
+#eeeeee;"></td>
+               <td width=3D"480" style=3D"-webkit-font-smoothing: =
+antialiased; -webkit-text-size-adjust: none; -ms-text-size-adjust: 100%;">
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%">
+                     <tr>
+                        <td height=3D"20" bgcolor=3D"#eeeeee" =
+style=3D"background: #eeeeee;"></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" width=3D"100%" style=3D"border-bottom: =
+1px solid #eeeeee;">
+                              <tr>
+                                 <td height=3D"49"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"whom" =
+style=3D"color:#4285f4; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:32px; font-weight:300; =
+line-height:46px; margin:0; padding:0 25px 0 25px; text-align:center">Halo =
+Andre,</td>
+                              </tr>
+                              <!--[if !mso]><!-- -->
+                              <tr>
+                                 <td height=3D"20"></td>
+                              </tr>
+                              <!--<![endif]-->
+                              <!--[if mso]>
+                              <tr>
+                                 <td height=3D"7">&nbsp;</td>
+                              </tr>
+                              <![endif]-->
+                              <tr>
+                                 <td align=3D"center" class=3D"parasec" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 25px 0 25px; text-align:center; =
+word-break:normal;">Kami sangat senang Anda memutuskan untuk mencoba =
+Gmail. Berikut ini beberapa tips untuk membuat Anda siap dan dapat segera =
+menggunakannya.</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"30">
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" width=3D"100%" style=3D"border-bottom: =
+1px solid #eeeeee;">
+                              <tr>
+                                 <td height=3D"32"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQPsYaDQKDqziPQftWPBd9_9I=
+V9UO86Y9Cu-pD7OGA1gONCP9syIim2ZP1a7n5gE1-UWk3jZe6VhNmtSbDIMmmkwAqhNJxj7mlc-=
+oOGkR3JzB3MkPyxYmsPt_P4YgQcLj_B0qukds_MfOlxUPtCXTIW-FAD7pFfDRu2KL9Z9gmWHznb=
+gQsP5SFmrG5J1Bbrl_gOIcYuHyX6ZNgobOg_L0mHYPeJSlYF68Bk" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                                    <img width=3D"64" border=3D"0" =
+src=3D"https://www.gstatic.com/images/branding/product/2x/assistant_48dp.pn=
+g" alt=3D"Google Assistant" style=3D"width: 64px; text-align: center; =
+border: none;">
+                                    </a>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"15"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"device_txt" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:24px; font-weight:300; =
+line-height:33px; margin:0; padding:0 25px 0 25px; =
+text-align:center">Minta Asisten Google untuk membantu Anda</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"4" style=3D"line-height: =
+4px; font-size: 4px;"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 25px 0 25px; text-align:center; =
+word-break:normal;">Selesaikan pengaturan untuk Asisten Google Anda - cara =
+yang lebih mudah untuk menyelesaikan berbagai tugas di ponsel baru =
+Anda</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"20"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 25px 0 25px; text-align:center">
+                                    <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQOMMF8-qfvl5EYvlAfyPiiTH=
+30V0q8jnWMzgIiod_zDHA8Gecg-xo5ELFfIWbV4pUaZUn2pYwRWMltkqjWkJVDHOoIKJ4o-hr3r=
+9uGHxWTrYt4fTMLKnXFaVoyPkiE7Z21GbjaM-MBO3j2fbn3TtbyWmLjOZF1SnwQ-prAQor7kz_u=
+aD6utTEAHCvrMqWXFv8UT6b2az-Kngq40b0sPxdL1uEvXtWeGRg" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline;">SELESAIKAN =
+PENGATURAN</a>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"30"></td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" width=3D"100%" style=3D"border-bottom: =
+1px solid #eeeeee;">
+                              <tr>
+                                 <td height=3D"32"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQN5jnY5wbmX01AStNpyIv7yU=
+OSbO7I2672UQ0MHS1M5IOMjETLFM4B33Bljth3uKaN3CQxoZ7MhELMbmixqehfvkydvz7w5aFDq=
+mEB1O4b-QfDUzBQ0uGIgocov0AYY1nGx3vDRW9KjJuNe69Or5uLbz3xfIWCwsg" =
+target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline">
+                                    <img width=3D"64" border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe_gmail_128dp.png" =
+alt=3D"Gmail" style=3D"width: 64px; text-align: center; border: none;">
+                                    </a>=20
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"15"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"device_txt" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:24px; font-weight:300; =
+line-height:33px; margin:0; padding:0 25px 0 25px; =
+text-align:center">Gmail kapan saja di mana saja</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"4" style=3D"line-height: =
+4px; font-size: 4px;"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 25px 0 25px; text-align:center; =
+word-break:normal;">Dengan Gmail untuk <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQMvrJV6MR6-r8YOYC-wjhafC=
+bWyIdjEOXAk4xGMrezTGRTIgAisddkQgVHDZixNu_sXP0JaFiXMYSHd05KRJETxQbSh2x9Ru4O1=
+lnJoBR2ZSlOKkHuzZuHC9Fz26vsL_5GRpCwzd684DdWjkvE-833PnVbrVo4ZkNdz1W1yaM7KVOs=
+HO3adwVmLtBWhvqwnYGkZv-JGwG1ZDa0" target=3D"_blank" =
+style=3D"color:#4285f4;text-decoration:underline">Android</a> dan <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQOQWkhEAtlmgXXO48DO1hFdu=
+UIld_kqFfVVPvB6Qqv-uf-YY1CvWl1TyoQczKgAmiIAdMAWU2dGlhHKg_vNsHnDpoYxve2ZHDlU=
+5OGFGvf75CCsHrS9SO9TeNJ-PDOFm1Vyi-pRx7ZWLr18l25lxtfun7KQnYFvkBTjyw" =
+target=3D"_blank" =
+style=3D"color:#4285f4;text-decoration:underline">iOS</a>, Anda =
+mendapatkan notifikasi secara real-time jadi tidak akan ada email penting =
+yang terlewat.</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"30"></td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" width=3D"100%" style=3D"border-bottom: =
+1px solid #eeeeee;">
+                              <tr>
+                                 <td height=3D"32"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQMQDlLk_jYQcOwFqlKhRkYcw=
+SSaQCxIJAS6xqG4gxytNl64wNGTiVSlQdla851nbCZIP0A_9T-o12AaN6Bnebc6kEaz_vK0q4wo=
+aJZ7pVO01_kG_SitpYgjH-2mb7E4OU7ywSZ0TicTO6Uei9UeM3JE2Rs0" =
+target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline">
+                                    <img width=3D"60" height=3D"77" =
+src=3D"https://services.google.com/fh/files/emails/shield_logo_150_rt.png" =
+alt=3D"Trust shield" border=3D"0" style=3D"width: 60px; height: 77px; =
+text-align: center; border: none;">
+                                    </a>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"15"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"device_txt" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:24px; font-weight:300; =
+line-height:33px; margin:0; padding:0 25px 0 25px; text-align:center">Anda =
+yang memegang kendali</td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"4" style=3D"line-height: =
+4px; font-size: 4px;"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para1" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 20px 0 20px; text-align:center; =
+word-break:normal;">Pilihlah setelan yang cocok untuk Anda. Anda dapat =
+meninjau dan menyesuaikan setelan privasi serta keamanan kapan saja di <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQNTvuuJnMzJBcH4H9jX5CPMc=
+YzAbCr5ZXJHBDwLwa1CsJ1OUHlZz6YlVOB_V2iPfiFJffAeryP5ShFe_4qjGxT-74myM30lSKpS=
+tNXz8_7LdFz8svveQItD4QSRLn-bmZnRp1sGIgVgBFOi1TV-zrFgx1iJJBDzmw" =
+target=3D"_blank" =
+style=3D"color:#4285f4;text-decoration:underline;white-space:nowrap">Akun =
+Saya</a>. </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"30"></td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" width=3D"100%">
+                              <tr>
+                                 <td height=3D"27"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"parasec" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 25px 0 25px; text-align:center; =
+word-break:normal;">
+                                    Balasan ke email ini tidak dipantau, =
+namun jika ada pertanyaan, kunjungi <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQNQNLd6WQX4d9yfAg7NPC3Bj=
+mBtCNnzhQzmlx35MKzh-jmEUl7zSoFkG790HD9tYX_Iiq-AE4by3Ab-UfcXX94C3TGyHawzBhl4=
+z_rtCoe3pKOuUo0aHEBXWsyNUMTJlCm6FwTkLeS-1GlyVW3YBw" target=3D"_blank" =
+style=3D"text-decoration:underline;color:#4285f4">Pusat Bantuan</a> atau =
+buat postingan di <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQPAT7FwmbuFFCIwa9NQ2L_Uk=
+iaXLK0TVOBQ3Ac6V0NjNdjGOETeC-MhNdr3_SmsmfYaJSdTLyEUWWedvwWjghzyw_RBohhB7RQm=
+pQiuciWF9JKndap9JnywFs2b0rNiCNqEdQKUz24inwYrLl1U3VAxT4d4uP0rRqiOXvjVI_VIwPL=
+_issD_A" target=3D"_blank" =
+style=3D"color:#4285f4;text-decoration:underline;white-space:nowrap!importa=
+nt">Forum Bantuan Gmail</a> tempat tim saya dan pengguna ahli lainnya =
+menjawab berbagai pertanyaan=2E
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"25"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"parasec" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 25px 0 25px; =
+text-align:center">Nikmati akun baru Anda,</td>
+                              </tr>
+                              <tr>
+<td align=3D"center" style=3D"padding-top:13px; padding-bottom:8px;">
+           =20
+</td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"parasec" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 25px 0 25px; text-align:center">
+                                   Community Manager Gmail
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"35"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center" class=3D"para" =
+style=3D"color:#757575; font-family:&quot;Roboto&quot;, OpenSans, =
+&quot;Open Sans&quot;, Arial, sans-serif; font-size:17px; font-weight:300; =
+line-height:24px; margin:0; padding:0 25px 0 25px; =
+text-align:center">Ikuti kami <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQPnsED1EyzPV5_VZjSTISdNX=
+E1s8HSM2sP5hL9P1W_hVZd3MkkN7hYRTFPejMjOp2smoZcaZC3CifCccTOdeR6uTUTMc5qAq8gA=
+0R8-2-S5cxkecHulXfIZcBo8BLWtf_JyMiZR7oddXGTmrtL_02WGGlF0S7c" =
+target=3D"_blank" style=3D"color:#4285f4; =
+text-decoration:underline">Twitter</a>, <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQP2u0OcwdOYwEZ_V8V0dqd9j=
+hv1WPm87ktbeG56hEwQJ0J_U1y2ZLPA2a2J-DdhtnohtJZp-klw78irU2QJjaqALp4n-h22DAfC=
+ABds5hnoyLRzI5odA2Rlf-RnReZIimM10A1ERN9qYx7MrHjbnJQ4CQ" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">Facebook</a>, <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQOSH_fZQPKFuEwai8yrvnTTq=
+Gc6GtjcbJaTI4MbxxLtXo-z5p1CJh64t-5SYuz64du2bEm9lm_pN4-HthQkVSB1B3ZlX4LWoiDe=
+ivfGpj9MClTn33f5lbxLYRg9G_F790-OnnHqYSMyKBWDWg42y-VX0HTu-Q" =
+target=3D"_blank" style=3D"color:#4285f4; =
+text-decoration:underline">Google+</a></td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"27"></td>
+                              </tr>
+
+                              <tr>
+                                 <td>
+                                    <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%">
+                                       <tr>
+                                          <td colspan=3D"3" =
+align=3D"center" style=3D"text-align: center; font-family: =
+&#39;Roboto&#39;,OpenSans,&#39;Open Sans&#39;,Arial,sans-serif; font-size: =
+17px; line-height: 24px; font-weight: 300; color: #757575;">Dapatkan Gmail =
+kapan saja di mana saja.</td>
+                                       </tr>
+                                       <tr>
+                                          <td colspan=3D"3" =
+style=3D"height:10px"></td>
+                                       </tr>
+                                       <tr>
+                                          <td style=3D"text-align:right; =
+line-height:10px;" width=3D"229">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQPTUEl8bnaKu7uPE0wfTDsJC=
+3epVCjoHhyfrwd9Efil-5LdM_YasXtfTVtDYW3wPBV1NBhkEeki0m1yuLTy46NKy3R_kf6YnzjU=
+8bdcdQh44_1BySaGLrXjVusA6xmfy7eKG6-fGNNZzGYW-_W7cWE5WesRj5f_FG8bsEjfOy5GwdJ=
+LSqO3ZOi_Qb3JcZ6W6iziendvAXL-G_fM" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline"><img =
+src=3D"https://services.google.com/fh/files/emails/en_generic_rgb_wo_60.png=
+" alt=3D"Google Play" width=3D"162" height=3D"48" style=3D"max-width: =
+none; height: 48px; width:162px; outline: none; display: block; =
+-ms-interpolation-mode: bicubic; border-top-width: 0; border-right-width: =
+0; border-bottom-width: 0; border-left-width: 0;" align=3D"right"></a>
+                                          </td>
+                                          <td width=3D"21" height=3D"48" =
+style=3D"width:21px;height:48px"> </td>
+                                          <td style=3D"text-align:left; =
+line-height:10px;" width=3D"230">
+                                              <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQN9S4-azeGlN6i9fkGaiRf3y=
+3_AsFJUXfK3-Xaiiwam8ANwCI9uTzVA5_Pc-oZQMwfn-JpaSPvehzGrgC3rDcq7_u0TTQK8hhiw=
+R90xg8Hz2ZbL66owdICfGlHYLXHugJu9lN06mVv_gaFhJyD-3OLWh5eNCAEQoWzhVO8" =
+target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline"><img =
+src=3D"https://services.google.com/fh/files/emails/one_wel_email_itunes_ico=
+n.png" alt=3D"App Store" width=3D"162" height=3D"48" style=3D"max-width: =
+none; width:162; height: 48px; outline: none; display: block; =
+-ms-interpolation-mode: bicubic; border-top-width: 0; border-right-width: =
+0; border-bottom-width: 0; border-left-width: 0;" align=3D"left"></a>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"36"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQM7PcSBBRvCGIQBlIu7By9K-=
+FttpAm3p7dT1lXBcmXQdImNuPquBBbbS-NBQ55BAg9YkKrwRi97I4AJ0kpheMgesg8bXzqF36L2=
+Pc4X3mPLK25MQeZmuoMIXYXHehL30hM9krZGgGo-jR1N6WNB6w" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                                    <img width=3D"134" height=3D"46" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/google_log_new.png" =
+alt=3D"Google" style=3D"width: 134px; height: 46px; text-align: center; =
+border: none;">
+                                    </a>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"31"></td>
+                              </tr>
+                              <tr>
+                                 <td align=3D"center">
+                                    <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" width=3D"405" class=3D"strip" =
+style=3D"padding-left:10px;padding-right:10px;">
+                                       <tr>
+                                          <td width=3D"32" =
+class=3D"prod-icon" style=3D"margin:0; padding:0 0 0 0">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQPSetiJfOF5RPLtLjOxhwp9q=
+HIvJvq_uq7-pMiCnB5CUUnwx1t7dsHZc8o-w1O8AM3mTG1Ik1hdO50LCvUh6oViL_-JXHAGvzXS=
+G8mRUr-SYD6irtA4-xuaAv9Yxyr3DVdAN048POH5L0XqSIvwzg" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                                             <img width=3D"32" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe_googleg_32dp.png" =
+alt=3D"Google Search" style=3D"width: 32px; text-align: center; border: =
+none;">
+                                             </a>
+                                          </td>
+                                          <td width=3D"15" =
+style=3D"margin:0; padding:0"></td>
+                                          <td width=3D"32" =
+class=3D"prod-icon" style=3D"margin:0; padding:0 0 0 0">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQOS9wkw0mUQH3xqW4Gd40I5h=
+OFomz8znx_S_iG5Y5Rn5dBtqecoFmbxSpxMCd5IEzn-uqzWz9b6f54bRr8knTkBMuLlZwFc41Z9=
+5mOWAXeRZrrQLshi8A_tlhLMRTrF92yI2zZvfPVponLabZ-8VJUvA-hx7G1cfCM" =
+target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline">
+                                             <img width=3D"32" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe-new_gmail_32dp.png" =
+alt=3D"Gmail">
+                                             </a>
+                                          </td>
+                                          <td width=3D"19" =
+style=3D"margin:0; padding:0"></td>
+                                          <td width=3D"32" =
+class=3D"prod-icon" style=3D"margin:0; padding:0 0 0 0">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQNZIQmzGN89hhs6tNzO_P5yr=
+CKBnX6wDlQq6F4H_l9oY8aP15A7eC78WJDyR18z2AV6snj2ewHD6NyV260rRRVhRheLx2rS4_ZX=
+IW0ZOBcjN8c1U9Y26CvaHt93CngCYUxI6Nnbir6P61eTjKDJr3b5Aw" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                                             <img width=3D"32" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe_maps_32dp.png" =
+alt=3D"Google Maps" style=3D"width: 32px; text-align: center; border: =
+none;">
+                                             </a>
+                                          </td>
+                                          <td width=3D"19" =
+style=3D"margin:0; padding:0"></td>
+                                          <td width=3D"32" =
+class=3D"prod-icon" style=3D"margin:0; padding:0 0 0 0">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQNSbbvYsBIAYRfDxYl-D5YKA=
+3tJQtzE3ENJ0mJ1KD5CJ684GL7TCUreYKlf_MwArLf3KMBfB4SWo7aQ_z_WfcbhFFGLzYpJVnS4=
+D-VP11ockpQpGhDmNZEbQaMwG75T_kmPWhsD1BHKMySBJg" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                                             <img width=3D"32" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe_youtube_32dp.png" =
+alt=3D"YouTube" style=3D"width: 32x; text-align: center; border: none;">
+                                             </a>
+                                          </td>
+                                          <td width=3D"14" =
+style=3D"margin:0; padding:0"></td>
+                                          <td width=3D"32" =
+class=3D"prod-icon" style=3D"margin:0; padding:0 0 0 0">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQNYfaGeEvJdKNXzd5qd13Nfo=
+kIXPdIlQAi4f-T4-4HMJ50ohZbY9CnfLQ00X0CbWK6VYgQpFIMq49itsmCP-sDr5le59fmTX74r=
+ZF8sqQD9dp1mZ9ijFS0vNJkG_V8QrUZ8cPvxT6vy6gaG8iRBnzM" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                                             <img width=3D"32" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe_drive_32dp.png" =
+alt=3D"Google Drive" style=3D"width: 32px; text-align: center; border: =
+none;">
+                                             </a>
+                                          </td>
+                                          <td width=3D"13" =
+style=3D"margin:0; padding:0"></td>
+                                          <td width=3D"32" =
+class=3D"prod-icon" style=3D"margin:0; padding:0 0 0 0">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQMTT3O3-_jvT3CRH-118G9cn=
+XyK6SIyPz3-wO46M2H4VsdChLGPtypAZo762BBVgyRnyLczthXazshx053yNS8LJS2qUUAxLoZR=
+xHvlASwIMVS6vK_BMGncECfujeCpM-LhxXALfuuVaJkwuY2GrzU6YA" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                                             <img width=3D"32" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe_photos_32dp.png" =
+alt=3D"Google Photos" style=3D"width: 32px; text-align: center; border: =
+none;">=20
+                                             </a>
+                                          </td>
+                                          <td width=3D"16" =
+style=3D"margin:0; padding:0"></td>
+                                          <td width=3D"32" =
+class=3D"prod-icon" style=3D"margin:0; padding:0 0 0 0">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQM1-EZMnmsCqojLaJlvdlX1Q=
+88bS43y1nEPOSQWURJU91We9IcUUn1gv1H5guAzUyy7kBQ2bJmgdpVmsNvHo0OX_9k_ojT5ckL3=
+5ptCwrxXmzGmA3zwLzX-A-roYk2Omay92fuAF73l3WaLKCPHUm3oGC8" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                                             <img width=3D"32" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe_play_32dp.png" =
+alt=3D"Google Play" style=3D"width: 32px; text-align: center; border: =
+none;">=20
+                                             </a>
+                                          </td>
+                                          <td width=3D"15" =
+style=3D"margin:0; padding:0"></td>
+                                          <td width=3D"32" =
+class=3D"prod-icon" style=3D"margin:0; padding:0 0 0 0">
+                                             <a =
+href=3D"https://www.google.com/appserve/mkt/p/ABMBUQPHgEH_RcFY3QU9cg7FbclQn=
+j1clX86xTCO1P_SX9Z3SV2Iwr3mX2Qo0tSUWU-nVeP9hIKke81stTOj0NWgr6vjC-YBHJVc9pGn=
+x3sfsN4oi0S1GM2kz6_dqxVyUHJMuoMo1dQjkCQmfqHBEPlWtPVJc5Hu2cc" =
+target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline">
+                                             <img width=3D"32" =
+border=3D"0" =
+src=3D"https://services.google.com/fh/files/emails/owe_chrome_32dp.png" =
+alt=3D"Chrome" style=3D"width: 32px; text-align: center; border: none;">
+                                             </a>
+                                          </td>
+                                       </tr>
+                                    </table>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"28"></td>
+                              </tr>
+                              <tr>
+                                 <td height=3D"19" bgcolor=3D"#eeeeee" =
+style=3D"background: #eeeeee;"></td>
+                              </tr>
+                              <tr>
+                                 <td class=3D"footer" valign=3D"middle" =
+style=3D"background:#eee; color:#777; font-family:&quot;Roboto&quot;, =
+OpenSans, &quot;Open Sans&quot;, Arial, sans-serif; font-size:10px; =
+font-weight:300; line-height:14px; margin:0; padding:0 6px 0 6px; =
+text-align:center" align=3D"center">
+                                    =C2=A9 2018 Google LLC 1600 =
+Amphitheatre Parkway, Mountain View, CA 94043<br>Anda menerima email ini =
+karena telah membuat akun Google=2E
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height=3D"18" bgcolor=3D"#eeeeee" =
+style=3D"background: #eeeeee;"></td>
+                     </tr>
+                  </table>
+               </td>
+               <td width=3D"20" bgcolor=3D"#eeeeee" style=3D"background: =
+#eeeeee;"></td>
+            </tr>
+         </table>
+         <div style=3D"display:none; white-space:nowrap; font:15px =
+courier; line-height:0;">
+            =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+            =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0
+         </div>
+      </center>
+   <img height=3D"1" width=3D"3" =
+src=3D"https://www.google.com/appserve/mkt/img/ABMBUQMmLEEQ4-jYmBrsflRjTaF8=
+dhU3ERURamcVEeg3SnbILw.gif"></body>
+  </html>
+
+--89a6885e5b66ba11dc10d0640004e5e0--

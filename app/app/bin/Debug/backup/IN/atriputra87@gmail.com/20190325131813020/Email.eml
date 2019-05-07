@@ -1,0 +1,173 @@
+Delivered-To: atriputra87@gmail.com
+Received: by 2002:a25:b68a:0:0:0:0:0 with SMTP id s10-v6csp3019005ybj;
+        Thu, 29 Nov 2018 18:52:10 -0800 (PST)
+X-Received: by 2002:a9d:282:: with SMTP id 2mr2429566otl.287.1543546330328;
+        Thu, 29 Nov 2018 18:52:10 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1543546330; cv=none;
+        d=google.com; s=arc-20160816;
+        b=Rspo1762mjC1nOjy4Ro4lR6YRhRI7aJCxHtkB36ShpwtNgEqDECQsp3to4390K9Rgk
+         GnSD4HAAXZlUtjtjo9uR2McPeqSs7zar57G6EHIxjV2p1MjSFkiM/099h0hIm5ixi9hn
+         eIWYRwuQP6XvbY73Ez8EpC2siA2HmKIBob4JfF76GF1EiskypwOXzLWVi1QthG8/+nYO
+         aMSRfYzydSS9OVQ+XsMPgaJnDYKLTelGvukooebx9gD38Jmq8+C3JTD+afcUSMBJtkFx
+         iROD0FgfwBDlKJfFBc8gyAK7pJbSSLUkxZ0rQR56TPxFhzv9gj9JZ/pI166PFlcgY7qQ
+         04Fw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:from:subject:message-id:feedback-id:date:mime-version
+         :dkim-signature;
+        bh=J/gK0nSSqY6/HLPtBvADXQf5TwtNSCBAXZb0nbsoeSA=;
+        b=ZFaW9PK9pkGcuuqBwCvG+IiES3WwN2TgZrQhGrzOJI8XEZOBZ/zTrH2Et8ROe7lGE+
+         tbtKr+LjIywXcqhj1k/Ec56mgWhdaEzB0vRuqq+hk1HDxNiN2/V7wlIeg8sx/esGUvkH
+         R7oUlOgqb4X8gDfpZVxp8Lo8mqQB1oEJ7gsSgz89dPv9RdheIWa0for9+FJqDz2K0r5Z
+         J/PoynfcTgBsa/za94tilzYoEbOeh5UurUbVZe09eFb7qMfYperD8lRD/f5l4gyGYrBF
+         G/icV8+LmAu3YlDt8B8cneF2C8v+tap32xadmLYAv+rORVFUGqm4+Zzxjj65jE3TzMSx
+         cvMg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@accounts.google.com header.s=20161025 header.b=Nrnt6mz5;
+       spf=pass (google.com: domain of 32quaxagtcw823-6t40dprr39287.v33v0t.r31p86x4986pnmv1px0.r31@gaia.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=32qUAXAgTCw823-6t40Dprr39287.v33v0t.r31p86x4986pNMv1px0.r31@gaia.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=accounts.google.com
+Return-Path: <32qUAXAgTCw823-6t40Dprr39287.v33v0t.r31p86x4986pNMv1px0.r31@gaia.bounces.google.com>
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
+        by mx.google.com with SMTPS id r5sor1881302oie.99.2018.11.29.18.52.10
+        for <atriputra87@gmail.com>
+        (Google Transport Security);
+        Thu, 29 Nov 2018 18:52:10 -0800 (PST)
+Received-SPF: pass (google.com: domain of 32quaxagtcw823-6t40dprr39287.v33v0t.r31p86x4986pnmv1px0.r31@gaia.bounces.google.com designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@accounts.google.com header.s=20161025 header.b=Nrnt6mz5;
+       spf=pass (google.com: domain of 32quaxagtcw823-6t40dprr39287.v33v0t.r31p86x4986pnmv1px0.r31@gaia.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=32qUAXAgTCw823-6t40Dprr39287.v33v0t.r31p86x4986pNMv1px0.r31@gaia.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=accounts.google.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20161025;
+        h=mime-version:date:feedback-id:message-id:subject:from:to;
+        bh=J/gK0nSSqY6/HLPtBvADXQf5TwtNSCBAXZb0nbsoeSA=;
+        b=Nrnt6mz5s0raS6a+B+a6pWmDMYQSP82FfYTSW3pzNMEyRwbK+VliNTg+lnw+vaKKhk
+         235MdnfNvk+m39Xcc+M8lW+jgObLnthCrBmB8UZVTPO9yMDlGanopHW36dWNBqpvSoYN
+         zzm5jJX1awca58BCQxYF/hY7yWUO49+i7OOsuxc9bUWqA/1ULnmvQ9mbz/yk7S4g5p4j
+         XlroDaiWL4kZTEVHMOPvYkSdxh/IQQTZhwt8cG4QOQVaiy+9rvlVUjO50a+WNdayNvgf
+         HigVArOSIGHXdtmR+sH6Nap+FsCSAxVUMuo5XgOYZiLOfszl75EoC4sOTQtJdsHUUA/J
+         ZRog==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:feedback-id:message-id:subject
+         :from:to;
+        bh=J/gK0nSSqY6/HLPtBvADXQf5TwtNSCBAXZb0nbsoeSA=;
+        b=kabDKpLy4zAplbe7jEMTopsPH/FmJkG1oY/rOr3lEmX3gfJsYJdqFJdMDbux3jzeQC
+         D+NDDEhZqaV6+rqXZEVCBg0Jhfgi6XqUN4gu0AZlsmPb4uQJxWjdxH53TY+DK2XcERX3
+         LCtEUsQwaJPCtZ2scODBO/tyicNCyeLYShZsDw6C3VK7S1iSpywpWShTeKdtjUHq1Aot
+         aswtkOB4uv6YZ/AD1oexYRQ2n8y60rY/+dZUmh4jwlbMDgZePgTZuToPRIpO13P2qNlx
+         1aUOO8Q1P3F+LqPk6zh5QDlenPPjcuJiTdBrNEaNx9Q5Laoz+CnFBli5uocmAaMNiV8f
+         iMhQ==
+X-Gm-Message-State: AA+aEWYMHd5+FLhZqpUR1b2O8Z2ZIm90w0Xusis4t0J7+bKQAeJiKlNt
+	76pL6P8eLEbVqH3UbrY0W+c4DgC+RF9O
+X-Google-Smtp-Source: AFSGD/Wn6Fdslp0zMnqw3rOdeY32scXMWNtM5Md4YhCBInMlpgycx52Ffrs56DarJlkatw5wUCnvht1sNSvQNRSkDO2HFw==
+MIME-Version: 1.0
+X-Received: by 2002:aca:be87:: with SMTP id o129mr2957670oif.52.1543546330099;
+ Thu, 29 Nov 2018 18:52:10 -0800 (PST)
+Date: Fri, 30 Nov 2018 02:51:53 +0000 (UTC)
+X-Account-Notification-Type: 1-anexp#givab-fa
+Feedback-ID: 1-anexp#givab-fa:account-notifier
+X-Notifications: 0a2e9220c9000000
+Message-ID: <BZpIkgO1YgggxCKyp9NWnA.0@notifications.google.com>
+Subject: Sandi telah diubah
+From: Google <no-reply@accounts.google.com>
+To: atriputra87@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000b330dd057bd8e206"
+
+--000000000000b330dd057bd8e206
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+U2FuZGkgdGVsYWggZGl1YmFoDQoNCg0KDQpZYW5nIHRlcmhvcm1hdCBBbmRyZSwNClNhbmRpIEFr
+dW4gR29vZ2xlIGF0cmlwdXRyYTg3QGdtYWlsLmNvbSBiYXJ1LWJhcnUgaW5pIGRpdWJhaC4NCg0K
+KlRpZGFrIG1lbmdlbmFsaSBha3Rpdml0YXMgaW5pPyoNCktsaWsgZGkgc2luaQ0KPGh0dHBzOi8v
+YWNjb3VudHMuZ29vZ2xlLmNvbS9SZWNvdmVyQWNjb3VudD9mcE9ubHk9MSZzb3VyY2U9YW5jcHBl
+JkVtYWlsPWF0cmlwdXRyYTg3QGdtYWlsLmNvbSZhbmV4cD1naXZhYi1mYT4NCnVudHVrIGluZm9y
+bWFzaSBzZWxlbmdrYXBueWEgdGVudGFuZyBjYXJhIG1lbXVsaWhrYW4gYWt1bi4NClRpbSBBa3Vu
+IEdvb2dsZQ0KDQoNCg0KRW1haWwgaW5pIHRpZGFrIGRhcGF0IG1lbmVyaW1hIGJhbGFzYW4uIFVu
+dHVrIGluZm9ybWFzaSBzZWxlbmdrYXBueWEsDQprdW5qdW5naSBQdXNhdCBCYW50dWFuIEFrdW4g
+R29vZ2xlDQo8aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2VyLzE2Mjg4
+NzU+Lg0KDQoNCg0KQW5kYSBtZW5lcmltYSBwZW5ndW11bWFuIGxheWFuYW4gZW1haWwgd2FqaWIg
+aW5pIGFnYXIgbWVtcGVyb2xlaCBpbmZvcm1hc2kNCnRlcmJhcnUgdGVudGFuZyBwZXJ1YmFoYW4g
+cGVudGluZyBwYWRhIHByb2R1ayBhdGF1IGFrdW4gR29vZ2xlIEFuZGEuDQoNCsKpIDIwMTggR29v
+Z2xlIExMQywgMTYwMCBBbXBoaXRoZWF0cmUgUGFya3dheSwgTW91bnRhaW4gVmlldywgQ0EgOTQw
+NDMsIFVTQQ0KMTU0MzU0NjMxMzEyNzYxNA0K
+--000000000000b330dd057bd8e206
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3Did><head><meta content=3D"date=3Dno" name=3D"fo=
+rmat-detection"><meta content=3D"email=3Dno" name=3D"format-detection"><sty=
+le>@import url(//fonts.googleapis.com/css?family=3DGoogle+Sans);.awl a {col=
+or: #FFFFFF; text-decoration: none;}.abml a {color: #000000; font-family: R=
+oboto-Medium,Helvetica,Arial,sans-serif; font-weight: bold; text-decoration=
+: none;}.adgl a {color: rgba(0, 0, 0, 0.87); text-decoration: none;}.afal a=
+ {color: #b0b0b0; text-decoration: none;}@media screen and (min-width: 600p=
+x) {.v2sp {padding: 6px 30px 0px;} .v2rsp {padding: 0px 10px;}}.mdv2rw {pad=
+ding: 40px 20px;}@media screen and (min-width: 600px) {.mdv2rw {padding: 40=
+px 40px;}}</style></head><body bgcolor=3D"#FFFFFF" style=3D"margin: 0; padd=
+ing: 0;"><table border=3D0 cellpadding=3D0 cellspacing=3D0 height=3D"100%" =
+lang=3Did style=3D"min-width: 348px;" width=3D"100%"><Tbody><tr height=3D32=
+ style=3D"height: 32px;"><td></td></tr><tr align=3Dcenter><td style=3D"widt=
+h: 32px;" width=3D32></td><td><table border=3D0 cellpadding=3D0 cellspacing=
+=3D0 style=3D"max-width: 600px;"><Tbody><tr><td><table border=3D0 cellpaddi=
+ng=3D0 cellspacing=3D0 width=3D"100%"><Tbody><tr><td align=3Dleft><img heig=
+ht=3D32 src=3D"https://www.gstatic.com/accountalerts/email/googlelogo_color=
+_188x64dp.png" style=3D"display: block; width: 92px; height: 32px;" width=
+=3D92></td><td align=3Dright><img height=3D32 src=3D"https://www.gstatic.co=
+m/accountalerts/email/shield.png" style=3D"display: block; width: 32px; hei=
+ght: 32px;" width=3D32></td></tr></Tbody></table></td></tr><tr height=3D16>=
+</tr><tr><td><table bgcolor=3D"#D94235" border=3D0 cellpadding=3D0 cellspac=
+ing=3D0 style=3D"min-width: 332px; max-width: 600px; border: 1px solid #F0F=
+0F0; border-bottom: 0; border-top-left-radius: 3px; border-top-right-radius=
+: 3px;" width=3D"100%"><Tbody><tr><td colspan=3D3 height=3D72 style=3D"heig=
+ht: 72px;"></td></tr><tr><td style=3D"width: 32px;" width=3D32></td><td sty=
+le=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 24=
+px; color: #FFFFFF; line-height: 1.25; min-width: 300px;">Sandi telah diuba=
+h</td><td style=3D"width: 32px;" width=3D32></td></tr><tr><td colspan=3D3 h=
+eight=3D18 style=3D"height: 18px;"></td></tr></Tbody></table></td></tr><tr>=
+<td><table bgcolor=3D"#FAFAFA" border=3D0 cellpadding=3D0 cellspacing=3D0 s=
+tyle=3D"min-width: 332px; max-width: 600px; border: 1px solid #F0F0F0; bord=
+er-bottom: 1px solid #C0C0C0; border-top: 0; border-bottom-left-radius: 3px=
+; border-bottom-right-radius: 3px;" width=3D"100%"><Tbody><tr height=3D16 s=
+tyle=3D"height: 16px;"><td rowspan=3D3 style=3D"width: 32px;" width=3D32></=
+td><td></td><td rowspan=3D3 style=3D"width: 32px;" width=3D32></td></tr><tr=
+><td><table border=3D0 cellpadding=3D0 cellspacing=3D0 style=3D"min-width: =
+300px;"><Tbody><tr><td style=3D"font-family: Roboto-Regular,Helvetica,Arial=
+,sans-serif; font-size: 13px; color: #202020; line-height: 1.5;padding-bott=
+om: 4px;">Yang terhormat Andre,</td></tr><tr><td style=3D"font-family: Robo=
+to-Regular,Helvetica,Arial,sans-serif; font-size: 13px; color: #202020; lin=
+e-height: 1.5;padding: 4px 0;">Sandi Akun Google <a>atriputra87@gmail.com</=
+a> baru-baru ini diubah.<br><br><b>Tidak mengenali aktivitas ini?</b><br>Kl=
+ik <a data-meta-key=3D"recover-account" href=3D"https://accounts.google.com=
+/RecoverAccount?fpOnly=3D1&amp;source=3Dancppe&amp;Email=3Datriputra87@gmai=
+l.com&amp;anexp=3Dgivab-fa" style=3D"text-decoration: none; color: #4285F4;=
+" target=3D"_blank">di sini</a> untuk informasi selengkapnya tentang cara m=
+emulihkan akun.</td></tr><tr><td style=3D"font-family: Roboto-Regular,Helve=
+tica,Arial,sans-serif; font-size: 13px; color: #202020; line-height: 1.5; p=
+adding-top: 28px;">Tim Akun Google</td></tr><tr height=3D16 style=3D"height=
+: 16px;"></tr><tr><td><table style=3D"font-family: Roboto-Regular,Helvetica=
+,Arial,sans-serif; font-size: 12px; color: #B9B9B9; line-height: 1.5;"><Tbo=
+dy><tr><td>Email ini tidak dapat menerima balasan. Untuk informasi selengka=
+pnya, kunjungi <a data-meta-key=3Dhelp href=3D"https://support.google.com/a=
+ccounts/answer/1628875" style=3D"text-decoration: none; color: #4285F4;" ta=
+rget=3D"_blank">Pusat Bantuan Akun Google</a>.</td></tr></Tbody></table></t=
+d></tr></Tbody></table></td></tr><tr height=3D32 style=3D"height: 32px;"></=
+tr></Tbody></table></td></tr><tr height=3D16 style=3D"height: 16px;"></tr><=
+tr><td style=3D"max-width: 600px; font-family: Roboto-Regular,Helvetica,Ari=
+al,sans-serif; font-size: 10px; color: #BCBCBC; line-height: 1.5;"></td></t=
+r><tr><td><table style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-=
+serif; font-size: 10px; color: #666666; line-height: 18px; padding-bottom: =
+10px"><Tbody><tr><td>Anda menerima pengumuman layanan email wajib ini agar =
+memperoleh informasi terbaru tentang perubahan penting pada produk atau aku=
+n Google Anda.</td></tr><tr height=3D6 style=3D"height: 6px;"></tr><tr><td>=
+<div style=3D"direction: ltr; text-align: left">&copy; 2018 Google LLC, 160=
+0 Amphitheatre Parkway, Mountain View, CA 94043, USA</div><div style=3D"dis=
+play: none !important; mso-hide:all; max-height:0px; max-width:0px;">154354=
+6313127614</div></td></tr></Tbody></table></td></tr></Tbody></table></td><t=
+d style=3D"width: 32px;" width=3D32></td></tr><tr height=3D32 style=3D"heig=
+ht: 32px;"><td></td></tr></Tbody></table><img height=3D1 src=3D"https://not=
+ifications.googleapis.com/email/t/AFG8qyV3yN0K3RuGYt7u54IGbvwJ485CW1XTbJSmQ=
+spuRDWdBgS6FRi9Xdad1QjMVU2_O2QqS7L8WscCtPFR-Kl5HPsA9VDbAaR8Epz0MXFeiTV9NHjF=
+oYHBcVQI13wpnb44MlzzCyPbYQ9ulxqFVUWeMF9Gc1gsMBhZywtUQ5dHf0EsrlHFSrjoidh8fgr=
+uReHBvg4udOXPn0fc1LDsi9XlnEzDrHgs66eXzA/a.gif" width=3D1></body></html>
+--000000000000b330dd057bd8e206--

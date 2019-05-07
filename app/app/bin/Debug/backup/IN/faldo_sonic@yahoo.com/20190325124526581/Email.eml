@@ -1,0 +1,504 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.232; Wed, 31 Oct 2012 14:02:00 -0700
+Return-Path: <ESC1111425045234_1106382273336_17253_r20@in.constantcontact.com>
+Received-SPF: pass (domain of in.constantcontact.com designates 208.75.123.175 as permitted sender)
+X-YMailISG: 5w.JI4MWLDufyF5HZtT4JkMd38vssyKMfyQDjPcpdMpnYoNd
+ Z_0OZlhxyblRdt0hIK1ySSXKEqNIuRaM4_Rzgmjl2ZmYLzmSxffwNrpJho71
+ vkhSK9CJVrkC.6wdPyMHHBSfAROPcbuntDRJmc6Q10gXf81NScVzvDuFx8Ov
+ X_K7mvNe2iPIc6sqNUuqyWvKjlLgUvwoXQKPEDN035IuI0HBUwtn1QMoHmJt
+ LG6LI7WeoxcuMQ4opgayapbW29Ukrxp_rg90BBtUF5y3cMnWllJRBUprnGcn
+ EY36DqVoGexvzVS0p0MGKpvscFasiln_sluVkJ03FfxTak5pNJq.UkXLkfE5
+ a3eyWErWnRRQuSm4mlOCDNnY0o1cFzjfKOUiE0jb6T6lrqr.qE1zUz6NhUf0
+ uzzNoQe.7IcGQB_.zgdWQimU70COaoJRu.fIyB6pa0J4OlS_1ALxXzSpKZj0
+ t2LGpEOO.XhD0ivTCByuRE45DyzF_C0YS4vFlUhzVv8G4FzXvdKUlTRrxzT7
+ WE8EvxJeREY77vBK6VT5Ql9ux9Gg9mCvJW4GPqhpEJENIcwse.rNaxpC5zY_
+ rWvBVsNtGaD8MHfxiBrovAiZDfeQaTokZ74X7hP3QRQVNuV0o7wPnr5RkVCw
+ 69Mfwf7ReiLqC.EWUGuRoK4ebJiQiq.it58DzAZcnxCbq03sePgKJdpABrRM
+ PV0DVZXAeeWwz1tikxAYaYZ1qRefXt5ejc98lGejnfQRQfkKwbwWulFZQQmd
+ T00lj6RNm5iGzPMSbwAEy8PzqqMvgkSX9qEFBLq14wYlTsUljPWu2HPZbQ_d
+ 7zlb0lEXHOTh3nO.BwOuI7iofUuo0jED8T8Cf1CRf3PfS5Ze5RN5gXayBibx
+ AlfuYyjPS8vsFSBpydxgMq7T.K_NzuK.3Xik2TjJNe.CfFY_vlvVI5.KWdQ5
+ VyLHOt0vZxNOp_wWil2.pRGmGCiCdzQd1Zyh9thkRLbjiuSoKa0N_gGCx3Ou
+ WtdT5Z.KNLowa_Z.4JWDnSYombzzLXvw4MRvfd3XljkY3EHXnWm0wQi6Fizg
+ TO5G02sSu5KucnRNeKI.nk.v4pfiD6A3flPlov6u_A1HrbkHTAkf_0SEs0Fa
+ xo0_BTXr2ogG4HNJZcIH72_FjgulPnJYIAFurr5NAB5Mb2ituCESjrIZZheC
+ kLN6if8CFsf7ao41wmUpU5OIDg0BDZg9JD.OaJXg1qkaFumjCJd_8aEQYFPD
+ 9BK2EdlOg0wTkBGmF8pePDPomeRyuDpEGfOqK4SRDi81KHwJYzkV0A3kAU3v
+ UTI27_YxZlR2R4OOzIJsLHRmWsg6vRRGWf3pCyBBitrGorkSpl6nIsbnwjmQ
+ DQ4L_HJTtuxblMFHPrrAW_lILiNvU1qffHxcxRAUKBk2C7yCxYlh5LAjBC3t
+ i7a8F.QaCBaBAiPTp4OAsnRUsheePG6FfVaUcSJmgYbgBdFbo5ox0HmGztrh
+ zjiZOVxe9S8nLHQ3.K5bOwSy1u08212Vk_41w93F13U.dlDi
+X-Originating-IP: [208.75.123.175]
+Authentication-Results: mta1013.mail.gq1.yahoo.com  from=jelastic.com; domainkeys=neutral (no sig);  from=auth.ccsend.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO ccm175.constantcontact.com) (208.75.123.175)
+  by mta1013.mail.gq1.yahoo.com with SMTP; Wed, 31 Oct 2012 14:02:00 -0700
+Received: from p2-jbsched10.ad.prodcc.net (p2-pen3.ad.prodcc.net [10.252.0.103])
+	by p2-mail48.ccm175.constantcontact.com (Postfix) with ESMTP id 0F9B454ECE4
+	for <faldo_sonic@yahoo.com>; Wed, 31 Oct 2012 17:02:00 -0400 (EDT)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=auth.ccsend.com; h=to:subject:mime-version:message-id:from:date:list-unsubscribe:reply-to; bh=tQuAP4w40a8oSjxurcjDFL/61ae6l76QH2WTb6oo7WQ=; b=Q0FRj4lIndouTPN3JkRQqNEOJTMOhPm7onwCkoXrc8VWPurLDyOsdQEGe/8hBYJ9GDnTTJS/esS4DT+vkq8VPWB0gh7dwkhfSMyGYksh1KZfEExnARpDP/06lch/VOHQC6WbH68KteLQh+7zWiAlcwEKVEcFjrm9/KnDaZQYLQ4=
+Message-ID: <1111425045234.1106382273336.17253.10.22170027@scheduler.constantcontact.com>
+Date: Wed, 31 Oct 2012 17:02:00 -0400 (EDT)
+From: Jelastic <info@jelastic.com>
+Reply-To: judah@jelastic.com
+To: faldo_sonic@yahoo.com
+Subject: This week's Jelastic newsletter! Learn about our first
+ mega-interview (including James Gosling and Markus Eisele) and more!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_49988210_1826866208.1351717320054"
+X-Mailer: Roving Constant Contact 2009 (http://www.constantcontact.com)
+List-Unsubscribe: http://visitor.constantcontact.com/do?p=un&mse=001sohAd67rc_SmvL35f7ocYJ4SRvKFxMYrugr6rj-eHwQ%3D&t=001fOP7eMbDLIlAJUsVP6Oi5g%3D%3D&llr=yzolymgab
+X-Return-Path-Hint: ESC1111425045234_1106382273336_17253_r20@in.constantcontact.com
+X-Roving-ID: 1106382273336.17253
+X-Lumos-SenderID: 1106382273336
+X-Roving-CampaignId: 1111425045234
+X-Roving-StreamId: 0
+Content-Length: 25173
+
+------=_Part_49988210_1826866208.1351717320054
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+Having trouble viewing this email?
+Click here
+http://campaign.r20.constantcontact.com/render?llr=yzolymgab&v=001_3wh4u6-fR9U7aV180aG0oCsAl-7aEJGL7mEbn1Eyp_PTvoVHWcixXrDgN9uFTZ1Y3sPVF1nuJQ-GY4kJA5k9FFSVpgQ3CXBlGL1fDra4zLR0ISnnLCwPQ%3D%3D
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This week's round up is here.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Welcome to this week's newsletter and Happy Halloween! And if you happen to be somewhere
+where no one celebrates it, feel free to go and buy yourself some candy. You deserve
+it.
+Well, this last week was pretty awesome. We had a chance to chat with a few big 
+names in the Java/Programming world and got their advice on some stuff. Read the
+ post and let us know if you have any questions that you would like to follow up
+ with.
+Also, have you checked out the new Jelastic Online Community [http://r20.rs6.net/tn.jsp?e=0014bUjo4fPGFFKZ4Z_ELx2kTU11lp1lR1W16Jg3EwxX1YNx1hb5SI4uUHBHDG9MrHXvAe81Z-ZGSLeM0a_ybEirG4vJU5ANaqm7bzC305xniKtGJE0zLRtSF0ZQC5p63B5rXl5uCkcYCUVrptf2Muqf8eZTOsZS7XhEY4IHdOAz2c=]?
+If not, please do. It's your resource for FAQs, letting us know what you want to
+ see in Jelastic as well as a place to report issues and it's also a place where
+ you can share your Jelastic expertise with others.
+Now, on to the top news this week . . .
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+JVM Languages Analysis
+
+A great read on why the JVM continues to be the platform of choice as well as an
+ analysis of those languages.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The INTERVIEWS
+
+We got to sit with James Gosling, Markus Eisele, Martijn Verburg and Jean-Michel
+ Van Lippevelde and ask them for their advice.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Application Lifecycle
+
+In this how-to, we run through how the application lifecycle can be made so much
+ easier within Jelastic, from top to bottom.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you have any questions or concerns, you can respond to this email and I'll be
+ glad to answer any questions or concerns that you have. You can also find us on
+ Facebook [http://r20.rs6.net/tn.jsp?e=0014bUjo4fPGFHLCBk-_y5mspLpWyLHkMx0Wm7sA1pqxRs8rKHPJiFtTIaugzknBZqPF0ZiDgb4rQcrZwwWXzBwe_UvS_IaG7vajn5wEQMFtdR7CuXW8eV2nw==]
+or Twitter [http://r20.rs6.net/tn.jsp?e=0014bUjo4fPGFElYOR8qkHK5XTPpDGIYs6AEMaQd2anngDgTfQgBEvc4soy1X5kVyuuMN5YMIc5DhqyewhjCAxnfm-b4ABlD6alPxO0LxeaYdOt-3VTIqbzvg==].
+
+On behalf of the whole Jelastic Team,
+
+Judah Johns, Chief Evangelist
+
+Jelastic, Inc.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hi, just a reminder that you're receiving this email because you have expressed 
+an interest in Jelastic. Don't forget to add info@jelastic.com to your address book
+so we'll be sure to land in your inbox!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you haven't tried out Jelastic. Here's a free trial!
+No credit card card required. Plus, our latest version is out now!
+We are so sure that you will love it that we want to give you 2 weeks to try it 
+out for free. Go ahead! Click on the Duke over there on the left.
+Sign up today! We look forward to serving you as Jelastic customer!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Forward this email
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=yzolymgab&m=1106382273336&ea=faldo_sonic@yahoo.com&a=1111425045234
+
+
+This email was sent to faldo_sonic@yahoo.com by info@jelastic.com.
+
+Update Profile/Email Address
+http://visitor.constantcontact.com/do?p=oo&mse=001sohAd67rc_SmvL35f7ocYJ4SRvKFxMYrugr6rj-eHwQ%3D&t=001fOP7eMbDLIlAJUsVP6Oi5g%3D%3D&lang=001FCSs65SMrsI%3D&llr=yzolymgab
+
+
+Instant removal with SafeUnsubscribe(TM)
+http://visitor.constantcontact.com/do?p=un&mse=001sohAd67rc_SmvL35f7ocYJ4SRvKFxMYrugr6rj-eHwQ%3D&t=001fOP7eMbDLIlAJUsVP6Oi5g%3D%3D&lang=001FCSs65SMrsI%3D&llr=yzolymgab
+
+
+Privacy Policy:
+http://ui.constantcontact.com/roving/CCPrivacyPolicy.jsp
+
+
+
+
+Jelastic, Inc | 228 Hamilton Avenue | Palo Alto | CA | 94301
+------=_Part_49988210_1826866208.1351717320054
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+<body topmargin=3D"0" leftmargin=3D"0" rightmargin=3D"0"><!--Copyright (c) =
+1996-2012 Constant Contact. All rights reserved.  Except as permitted under=
+ a separate
+written agreement with Constant Contact, neither the Constant Contact softw=
+are, nor any content that appears on any Constant Contact site,
+including but not limited to, web pages, newsletters, or templates may be r=
+eproduced, republished, repurposed, or distributed without the
+prior written permission of Constant Contact.  For inquiries regarding repr=
+oduction or distribution of any Constant Contact material, please
+contact legal@constantcontact.com.--><div id=3D"rootDiv"><div align=3D"cent=
+er" style=3D"background-color:#ffffff;padding-bottom:10px;"><div align=3D"l=
+eft" style=3D"font-family:verdana,arial;font-size:8pt;color:#000000;width:6=
+00px;"><font face=3D"verdana,arial" size=3D"1" color=3D"#000000" style=3D"f=
+ont-family:verdana,arial;font-size:8pt;color:#000000;"><center><table bgcol=
+or=3D"#ffffff" width=3D"595" id=3D"VWPLINK"><tr><td style=3D"font-size: 8pt=
+; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;" widt=
+h=3D"100%" rowspan=3D"1" colspan=3D"1">Having trouble viewing this email?
+<a track=3D"off" shape=3D"rect" href=3D"http://campaign.r20.constantcontact=
+.com/render?llr=3Dyzolymgab&v=3D001_3wh4u6-fR9U7aV180aG0oCsAl-7aEJGL7mEbn1E=
+yp_PTvoVHWcixXrDgN9uFTZ1Y3sPVF1nuJQ-GY4kJA5k9FFSVpgQ3CXBlGL1fDra4zLR0ISnnLC=
+wPQ%3D%3D" target=3D"_blank">Click here
+</a></td></tr></table></center></font></div></div>
+<div align=3D"center">
+<table style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF" border=3D"0"=
+ width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+=09<td valign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"center">
+  <table style=3D"width:600px;" border=3D"0" width=3D"600" cellspacing=3D"0=
+" cellpadding=3D"8">
+    <tr>
+      <td width=3D"600" rowspan=3D"1" colspan=3D"1">
+=09=09  <table style=3D"display: table;" border=3D"0" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK1"><tr><td style=3D=
+"text-align: center;" valign=3D"bottom" rowspan=3D"1" colspan=3D"1" align=
+=3D"center"><img height=3D"45" vspace=3D"2" border=3D"0" name=3D"ACCOUNT.IM=
+AGE.31" width=3D"190" src=3D"http://ih.constantcontact.com/fs089/1106382273=
+336/img/31.jpg" /></td></tr></table>
+        </td>
+    </tr>
+    <tr>
+      <td style=3D"background-color:#000000;padding:1px;" bgcolor=3D"#00000=
+0" rowspan=3D"1" colspan=3D"1">
+=09    <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"=
+0">        =20
+          <tr>
+            <td style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF" wid=
+th=3D"100%" rowspan=3D"1" colspan=3D"2">
+                <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"0" id=3D"content_LETTER.BLOCK2"><tr><td rowspan=3D"1" colspan=3D"1=
+"><img height=3D"222" border=3D"0" name=3D"ACCOUNT.IMAGE.20" width=3D"600" =
+src=3D"http://ih.constantcontact.com/fs089/1106382273336/img/20.jpg" /></td=
+></tr></table>=09=09   =20
+                <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpa=
+dding=3D"5" id=3D"content_LETTER.BLOCK3"><tr><td style=3D"color:#000000;fon=
+t-style:normal;font-family:Arial,Helvetica,sans-serif;font-size:18pt;" rows=
+pan=3D"1" colspan=3D"1" align=3D"center"><span style=3D"font-size: 27px; fo=
+nt-family: Calibri, Helvetica, Arial, sans-serif; "><b>This week's round up=
+ is here.&nbsp;</b></span></td></tr></table>
+              </td>
+          </tr>
+          <tr>
+            <td style=3D"padding-top:20px;padding-left:5px;padding-bottom:2=
+0px;padding-right:5px;background-color:#FFFFFF;" bgcolor=3D"#FFFFFF" width=
+=3D"100%" rowspan=3D"1" colspan=3D"2">
+=09=09=09    <table border=3D"0" width=3D"100%" cellpadding=3D"5" cellspaci=
+ng=3D"0" id=3D"content_LETTER.BLOCK4"><tr><td style=3D"font-size: 11pt; fon=
+t-family: Calibri, Helvetica, Arial, sans-serif; color: #666666;" rowspan=
+=3D"1" colspan=3D"1" align=3D"left">Welcome to this week's newsletter and H=
+appy Halloween! And if you happen to be somewhere where no one celebrates i=
+t, feel free to go and buy yourself some candy. You deserve it.<br /><br />=
+Well, this last week was pretty awesome. We had a chance to chat with a few=
+ big names in the Java/Programming world and got their advice on some stuff=
+. Read the post and let us know if you have any questions that you would li=
+ke to follow up with.<br /><br />Also, have you checked out the new <a styl=
+e=3D"color: rgb(102, 102, 102); text-decoration: underline; " track=3D"on" =
+shape=3D"rect" href=3D"http://r20.rs6.net/tn.jsp?e=3D0014bUjo4fPGFFKZ4Z_ELx=
+2kTU11lp1lR1W16Jg3EwxX1YNx1hb5SI4uUHBHDG9MrHXvAe81Z-ZGSLeM0a_ybEirG4vJU5ANa=
+qm7bzC305xniKtGJE0zLRtSF0ZQC5p63B5rXl5uCkcYCUVrptf2Muqf8eZTOsZS7XhEY4IHdOAz=
+2c=3D" linktype=3D"1" target=3D"_blank">Jelastic Online Community</a>? If n=
+ot, please do. It's your resource for FAQs, letting us know what you want t=
+o see in Jelastic as well as a place to report issues and it's also a place=
+ where you can share your Jelastic expertise with others.&nbsp;<br /><br />=
+Now, on to the top news this week . . .</td></tr></table>
+              </td>
+          </tr>
+          <tr>
+            <td style=3D"background-color:#FFFFFF;padding-top:20px;padding-=
+bottom:20px;" bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"100%" rowspan=3D"=
+1" colspan=3D"2" align=3D"center"><table border=3D"0" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0">
+<tr valign=3D"top">
+<td valign=3D"top" width=3D"33%" rowspan=3D"1" colspan=3D"1"><table border=
+=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"5" id=3D"content_LET=
+TER.BLOCK6"><tr><td style=3D"font-size: 12pt; font-family: Calibri, Helveti=
+ca, Arial, sans-serif; color: #000000;" rowspan=3D"1" colspan=3D"1" align=
+=3D"center">
+<div><b>JVM Languages Analysis</b></div>
+</td></tr><tr><td style=3D"text-align: center;" rowspan=3D"1" colspan=3D"1"=
+ align=3D"center"><a class=3D"imgCaptionAnchor" track=3D"on" shape=3D"rect"=
+ href=3D"http://r20.rs6.net/tn.jsp?e=3D0014bUjo4fPGFEsCY3lXhIqxulU8NFZpRfDA=
+jq-qhsjjrgB1jubSdNKUEuTWPj2MAxTiASyx9GsvyLqimUgN6wGWelFz1_ZuD1L7MmcljYOfAfb=
+9sPfcU6p6J8n4P5YbGEz8yY0vzNrDfaPjwPCrTVj_V5XFNO6VkO5J-ekXz5R2qizN65LwjrRVg=
+=3D=3D" target=3D"_blank"><img height=3D"125" border=3D"0" width=3D"125" sr=
+c=3D"http://www.blog.qarea.com/wp-content/uploads/2011/05/java256px.png" />=
+</a></td></tr><tr><td style=3D"color:#666666;font-family:Arial,Helvetica,sa=
+ns-serif;font-size:10pt;" rowspan=3D"1" colspan=3D"1" align=3D"center">
+<div style=3D"text-align: left;"><span style=3D"font-family: Calibri, Helve=
+tica, Arial, sans-serif; font-size: 10pt;">A great read on why the JVM cont=
+inues to be the platform of choice as well as an analysis of those language=
+s.</span></div>
+<div style=3D"text-align: left;"><span style=3D"font-family: Calibri, Helve=
+tica, Arial, sans-serif; font-size: 10pt;">&nbsp;</span></div>
+<div style=3D"font-family: Arial, Helvetica, sans-serif;">
+<div style=3D"text-align: center;" align=3D"center"><a class=3D"imgCaptionA=
+nchor" track=3D"on" shape=3D"rect" href=3D"http://r20.rs6.net/tn.jsp?e=3D00=
+14bUjo4fPGFEsCY3lXhIqxulU8NFZpRfDAjq-qhsjjrgB1jubSdNKUEuTWPj2MAxTiASyx9Gsvy=
+LqimUgN6wGWelFz1_ZuD1L7MmcljYOfAfb9sPfcU6p6J8n4P5YbGEz8yY0vzNrDfaPjwPCrTVj_=
+V5XFNO6VkO5J-ekXz5R2qizN65LwjrRVg=3D=3D" target=3D"_blank"><img height=3D"2=
+4" vspace=3D"5" border=3D"0" hspace=3D"5" width=3D"102" src=3D"http://thepc=
+expert.ca/images/button-learn-more.gif" /></a></div>
+</div>
+</td></tr></table></td>
+<td valign=3D"top" width=3D"33%" rowspan=3D"1" colspan=3D"1"><table style=
+=3D"display: table;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"5" id=3D"content_LETTER.BLOCK15"><tr><td style=3D"font-size: 12pt; f=
+ont-family: Calibri, Helvetica, Arial, sans-serif; color: #000000;" rowspan=
+=3D"1" colspan=3D"1" align=3D"center">
+<div><b>The INTERVIEWS</b></div>
+</td></tr><tr><td style=3D"text-align: center;" rowspan=3D"1" colspan=3D"1"=
+ align=3D"center"><a class=3D"imgCaptionAnchor" track=3D"on" shape=3D"rect"=
+ href=3D"http://r20.rs6.net/tn.jsp?e=3D0014bUjo4fPGFGkNO6enYZXcJvHV4ufs-UEB=
+5-y-H_lcXVmwYr1ThPtPg-fEAkb1pGMBjwSumPEQhhKY5y0R4BQiCySlweVPi_VHO-q848OI8Xm=
+q0SAVyfaCThD1ZND8VTxe8nYv4DV_kDn56Ajh9WFvOcHoQApjeZOv0qk4Roi8c0AcnXcR1lzYUz=
+cnoCAjBzxJXl-_BFSBZlanOnY90gakypb7hsaH1MW6T7t3BbKkIIhgOFYMD69aMPI-RzzquXfhS=
+LWlx80tiLhWeUU90sUtw=3D=3D" target=3D"_blank"><img height=3D"125" border=3D=
+"0" width=3D"125" src=3D"http://jelastic.files.wordpress.com/2012/06/spotli=
+ght.png?w=3D200&h=3D120&h=3D133" /></a></td></tr><tr><td style=3D"color:#66=
+6666;font-family:Arial,Helvetica,sans-serif;font-size:10pt;" rowspan=3D"1" =
+colspan=3D"1" align=3D"center">
+<div style=3D"text-align: left;"><span style=3D"font-family: Calibri, Helve=
+tica, Arial, sans-serif;" face=3D"Calibri, Helvetica, Arial, sans-serif">We=
+ got to sit with James Gosling, Markus Eisele, Martijn Verburg and Jean-Mic=
+hel Van Lippevelde and ask them for their advice.</span></div>
+<div style=3D"text-align: left;"><span style=3D"font-family: Calibri, Helve=
+tica, Arial, sans-serif; font-size: 10pt;" face=3D"Calibri, Helvetica, Aria=
+l, sans-serif">&nbsp;</span></div>
+<div style=3D"font-family: Arial, Helvetica, sans-serif;">
+<div style=3D"text-align: center;" align=3D"center"><a class=3D"imgCaptionA=
+nchor" track=3D"on" shape=3D"rect" href=3D"http://r20.rs6.net/tn.jsp?e=3D00=
+14bUjo4fPGFGkNO6enYZXcJvHV4ufs-UEB5-y-H_lcXVmwYr1ThPtPg-fEAkb1pGMBjwSumPEQh=
+hKY5y0R4BQiCySlweVPi_VHO-q848OI8Xmq0SAVyfaCThD1ZND8VTxe8nYv4DV_kDn56Ajh9WFv=
+OcHoQApjeZOv0qk4Roi8c0AcnXcR1lzYUzcnoCAjBzxJXl-_BFSBZlanOnY90gakypb7hsaH1MW=
+6T7t3BbKkIIhgOFYMD69aMPI-RzzquXfhSLWlx80tiLhWeUU90sUtw=3D=3D" target=3D"_bl=
+ank"><img height=3D"24" vspace=3D"5" border=3D"0" hspace=3D"5" width=3D"102=
+" src=3D"http://thepcexpert.ca/images/button-learn-more.gif" /></a></div>
+</div>
+</td></tr></table></td>
+<td valign=3D"top" width=3D"33%" rowspan=3D"1" colspan=3D"1"><table style=
+=3D"display: table;" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"5" id=3D"content_LETTER.BLOCK13"><tr><td style=3D"font-size: 12pt; f=
+ont-family: Calibri, Helvetica, Arial, sans-serif; color: #000000;" rowspan=
+=3D"1" colspan=3D"1" align=3D"center">
+<div><b>The Application Lifecycle</b></div>
+</td></tr><tr><td style=3D"text-align: center;" rowspan=3D"1" colspan=3D"1"=
+ align=3D"center"><a class=3D"imgCaptionAnchor" track=3D"on" shape=3D"rect"=
+ href=3D"http://r20.rs6.net/tn.jsp?e=3D0014bUjo4fPGFHdcJhqL2ZTg27H7GXHEL8v9=
+exdW8rJX7M0zHX6RfIOuKuNrochNPnIRGQmes30_hI8iTeSfP3qQFVd_L1EvKzvKbvS3IYF8gKD=
+7Ku4pkRZbEXiQSiCYQ7cxDbVRY0nUjEVsTJ1mfth_vW1NCWYfGL0NPQhIcoySHFAmYNRU0Zp7AI=
+-QK29zod2ptG3_IDOamn3ZCR5AuQcRA=3D=3D" target=3D"_blank"><img height=3D"125=
+" border=3D"0" name=3D"ACCOUNT.IMAGE.49" width=3D"125" src=3D"http://ih.con=
+stantcontact.com/fs199/1106382273336/img/49.png" /></a></td></tr><tr><td st=
+yle=3D"color:#666666;font-family:Arial,Helvetica,sans-serif;font-size:10pt;=
+" rowspan=3D"1" colspan=3D"1" align=3D"center">
+<div style=3D"text-align: left;"><span style=3D"font-family: Calibri, Helve=
+tica, Arial, sans-serif;" face=3D"Calibri, Helvetica, Arial, sans-serif">In=
+ this how-to, we run through how the application lifecycle can be made so m=
+uch easier within Jelastic, from top to bottom.</span></div>
+<div style=3D"text-align: left;"><span style=3D"font-family: Calibri, Helve=
+tica, Arial, sans-serif; font-size: 10pt;" face=3D"Calibri, Helvetica, Aria=
+l, sans-serif">&nbsp;</span></div>
+<div style=3D"font-family: Arial, Helvetica, sans-serif;">
+<div style=3D"text-align: center;" align=3D"center"><a class=3D"imgCaptionA=
+nchor" track=3D"on" href=3D"http://r20.rs6.net/tn.jsp?e=3D0014bUjo4fPGFHdcJ=
+hqL2ZTg27H7GXHEL8v9exdW8rJX7M0zHX6RfIOuKuNrochNPnIRGQmes30_hI8iTeSfP3qQFVd_=
+L1EvKzvKbvS3IYF8gKD7Ku4pkRZbEXiQSiCYQ7cxDbVRY0nUjEVsTJ1mfth_vW1NCWYfGL0NPQh=
+IcoySHFAmYNRU0Zp7AI-QK29zod2ptG3_IDOamn3ZCR5AuQcRA=3D=3D" shape=3D"rect" ta=
+rget=3D"_blank"><img height=3D"24" vspace=3D"5" border=3D"0" hspace=3D"5" w=
+idth=3D"102" src=3D"http://thepcexpert.ca/images/button-learn-more.gif" /><=
+/a></div>
+</div>
+</td></tr></table></td></tr>
+</table></td>
+          </tr>
+          <tr>
+            <td style=3D"background-color:#FFFFFF;padding-top:20px;padding-=
+left:5px;padding-bottom:20px;padding-right:5px;" bgcolor=3D"#FFFFFF" width=
+=3D"100%" rowspan=3D"1" colspan=3D"2">
+=09=09=09    <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"5" id=3D"content_LETTER.BLOCK8"><tr><td style=3D"color:#666666;font-f=
+amily:Arial,Helvetica,sans-serif;font-size:10pt;" rowspan=3D"1" colspan=3D"=
+1" align=3D"left">
+<div style=3D"font-family: Calibri, Helvetica, Arial, sans-serif; font-size=
+: 10pt;"><span>
+<p style=3D"margin-top: 0px; margin-bottom: 0px; font-family: Calibri, Helv=
+etica, Arial, sans-serif; font-size: 11pt;"><span style=3D"font-size: 10pt;=
+">If you have any questions or concerns, you can respond to this email and =
+I'll be glad to answer any questions or concerns that you have. You can als=
+o&nbsp;</span><span style=3D"font-size: 10pt;">find us on </span><a style=
+=3D"color: blue; text-decoration: underline; " track=3D"on" shape=3D"rect" =
+href=3D"http://r20.rs6.net/tn.jsp?e=3D0014bUjo4fPGFHLCBk-_y5mspLpWyLHkMx0Wm=
+7sA1pqxRs8rKHPJiFtTIaugzknBZqPF0ZiDgb4rQcrZwwWXzBwe_UvS_IaG7vajn5wEQMFtdR7C=
+uXW8eV2nw=3D=3D" linktype=3D"1" target=3D"_blank">Facebook</a><span style=
+=3D"font-size: 10pt;"> or </span><a style=3D"color: blue; text-decoration: =
+underline; " track=3D"on" shape=3D"rect" href=3D"http://r20.rs6.net/tn.jsp?=
+e=3D0014bUjo4fPGFElYOR8qkHK5XTPpDGIYs6AEMaQd2anngDgTfQgBEvc4soy1X5kVyuuMN5Y=
+MIc5DhqyewhjCAxnfm-b4ABlD6alPxO0LxeaYdOt-3VTIqbzvg=3D=3D" linktype=3D"1" ta=
+rget=3D"_blank">Twitter</a><span style=3D"font-size: 10pt;">.</span></p>
+<p style=3D"margin-top: 0px; margin-bottom: 0px; font-family: Calibri, Helv=
+etica, Arial, sans-serif; font-size: 10pt;"><span style=3D"font-size: 10pt;=
+">&nbsp;</span></p>
+</span></div>
+<div style=3D"font-family: Calibri, Helvetica, Arial, sans-serif; font-size=
+: 10pt;"><b><i>On behalf of the whole Jelastic Team,</i></b></div>
+<p style=3D"margin-top: 0px; margin-bottom: 0px; font-family: Calibri, Helv=
+etica, Arial, sans-serif; font-size: 10pt;">&nbsp;</p>
+<div style=3D"font-family: Calibri, Helvetica, Arial, sans-serif; font-size=
+: 10pt;">Judah Johns, Chief Evangelist</div>
+<p style=3D"margin-top: 0px; margin-bottom: 0px; font-family: Calibri, Helv=
+etica, Arial, sans-serif; font-size: 10pt;">&nbsp;&nbsp;</p>
+<div><span style=3D"font-family: Calibri, Helvetica, Arial, sans-serif; fon=
+t-size: 10pt;"> Jelastic, Inc.</span><br /></div>
+</td></tr></table>
+                 =20
+              </td>
+          </tr>
+          <tr>
+            <td style=3D"background-color:#FFFFFF;" bgcolor=3D"#FFFFFF" wid=
+th=3D"100%" rowspan=3D"1" colspan=3D"2">
+=09=09=09    <table border=3D"0" width=3D"100%" cellpadding=3D"5" cellspaci=
+ng=3D"0" id=3D"content_LETTER.BLOCK10"><tr><td style=3D"font-size: 10pt; fo=
+nt-family: Calibri, Helvetica, Arial, sans-serif; color: #000000;" rowspan=
+=3D"1" colspan=3D"1" align=3D"left">
+<div>Hi, just a reminder that you're receiving this email because you have =
+expressed an interest in Jelastic. Don't forget to add info@jelastic.com to=
+ your address book so we'll be sure to land in your inbox!</div>
+</td></tr></table>
+               =20
+              </td>
+          </tr>
+        </table>
+=09=09</td>
+    </tr>
+    <tr>
+      <td height=3D"10" width=3D"100%" rowspan=3D"1" colspan=3D"1">
+=09=09  <table style=3D"border-color:#000000;border-width:3px;border-style:=
+dashed;background-color:#FFFFFF;margin-bottom:10px;margin-top:10px;" bgcolo=
+r=3D"#FFFFFF" border=3D"0" bordercolor=3D"#000000" width=3D"100%" cellspaci=
+ng=3D"0" cellpadding=3D"10" id=3D"content_LETTER.BLOCK12"><tr><td style=3D"=
+color:#000000;font-family:Arial,Helvetica,sans-serif;font-size:24pt;" valig=
+n=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div style=3D"text-align: center;" align=3D"center"><a class=3D"imgCaptionA=
+nchor" track=3D"on" href=3D"http://r20.rs6.net/tn.jsp?e=3D0014bUjo4fPGFHzn_=
+Y8UFxlyHd8EysdxgDWO6ADdcttZGGpfpUo-nrit4eQeO8Bv-_X9vYpQiUir5ZkISNLkA1SKziv7=
+sy35xCE3WPVw9lSUZw=3D" shape=3D"rect" target=3D"_blank"><img vspace=3D"5" b=
+order=3D"0" hspace=3D"5" width=3D"139" src=3D"http://jelastic.files.wordpre=
+ss.com/2012/10/blog_award.gif" /></a></div>
+</td><td style=3D"font-size: 10pt; font-family: Calibri, Helvetica, Arial, =
+sans-serif; color: #666666;" rowspan=3D"1" colspan=3D"1" align=3D"left">
+<div>If you haven't tried out Jelastic. Here's a free trial!&nbsp;</div>
+<div>No credit card card required. Plus, our latest version is out now!&nbs=
+p;</div>
+<br /><div>We are so sure that you will love it that we want to give you 2 =
+weeks to try it out for free. Go ahead! Click on the Duke over there on the=
+ left.&nbsp;</div><div>Sign up today! We look forward to serving you as Jel=
+astic customer!</div></td></tr></table>
+        </td>
+    </tr>
+  </table>
+  </td>
+  </tr>
+  </table>
+</div>
+<div align=3D"center" style=3D"background-color:#ffffff;">
+<table style=3D"text-align:left;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" id=3D"footerPanelWrap">
+<tr>
+<td rowspan=3D"1" colspan=3D"1" align=3D"center">
+
+<div><div style=3D"font-weight:bold;font-family:tahoma,sans-serif;font-size=
+:8pt;text-align:center;color:#000000;background-color:#ffffff;padding-botto=
+m:10px;"><font style=3D"font-family:tahoma,sans-serif;font-size:8pt;color:#=
+000000;" color=3D"#000000" size=3D"1" face=3D"tahoma,sans-serif"><a shape=
+=3D"rect" href=3D"http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dyzolymgab=
+&m=3D1106382273336&ea=3Dfaldo_sonic%40yahoo.com&a=3D1111425045234" target=
+=3D"_blank">Forward this email</a></font></div>
+
+
+<table style=3D"font-family:tahoma,sans-serif;font-size:11px;color:#2f2f2f;=
+background-color:#ffffff;" border=3D"0" width=3D"619" cellspacing=3D"0" cel=
+lpadding=3D"0">
+<tr>
+<td rowspan=3D"1" colspan=3D"1"><font style=3D"font-family:tahoma,sans-seri=
+f;font-size:11px;color:#2f2f2f;" color=3D"#000000" size=3D"1" face=3D"tahom=
+a,sans-serif">
+<table border=3D"0" width=3D"100%">
+<tr>
+<td valign=3D"middle" width=3D"100" rowspan=3D"1" colspan=3D"1"><a shape=3D=
+"rect" href=3D"http://visitor.constantcontact.com/do?p=3Dun&mse=3D001sohAd6=
+7rc_SmvL35f7ocYJ4SRvKFxMYrugr6rj-eHwQ%3D&t=3D001fOP7eMbDLIlAJUsVP6Oi5g%3D%3=
+D&lang=3D001FCSs65SMrsI%3D&llr=3Dyzolymgab" target=3D"_blank"><img border=
+=3D"0" src=3D"http://img.constantcontact.com/letters/images/SafeUnsubscribe=
+_Footer_Logo_New.png" /></a>
+</td>
+<td width=3D"519" rowspan=3D"1" colspan=3D"1" align=3D"right">
+</td>
+</tr>
+</table><div>This email was sent to faldo_sonic@yahoo.com by <a style=3D"co=
+lor:#0000ff;" shape=3D"rect" href=3D"mailto:info@jelastic.com" target=3D"_b=
+lank">info@jelastic.com</a> <span style=3D"color: #bababa;"> | </span> &nbs=
+p; </div>
+<div><a style=3D"color:#0000ff;" shape=3D"rect" href=3D"http://visitor.cons=
+tantcontact.com/do?p=3Doo&mse=3D001sohAd67rc_SmvL35f7ocYJ4SRvKFxMYrugr6rj-e=
+HwQ%3D&t=3D001fOP7eMbDLIlAJUsVP6Oi5g%3D%3D&lang=3D001FCSs65SMrsI%3D&llr=3Dy=
+zolymgab" target=3D"_blank">Update Profile/Email Address</a> <span style=3D=
+"color: #bababa;">|</span> Instant removal with <a style=3D"color:#0000ff;"=
+ shape=3D"rect" href=3D"http://visitor.constantcontact.com/do?p=3Dun&mse=3D=
+001sohAd67rc_SmvL35f7ocYJ4SRvKFxMYrugr6rj-eHwQ%3D&t=3D001fOP7eMbDLIlAJUsVP6=
+Oi5g%3D%3D&lang=3D001FCSs65SMrsI%3D&llr=3Dyzolymgab" target=3D"_blank">Safe=
+Unsubscribe</a>&trade;  <span style=3D"color: #bababa;">|</span>  <a style=
+=3D"color:#0000ff;" shape=3D"rect" href=3D"http://ui.constantcontact.com/ro=
+ving/CCPrivacyPolicy.jsp" target=3D"_blank">Privacy Policy</a>.</div>
+</font></td>
+</tr>
+</table><div style=3D"font-family:tahoma,sans-serif;font-size:12px;color:#0=
+00000;background-color:#ffffff;padding-top: 12px;" align=3D"left" id=3D"LET=
+TER.PHYSICALADDRESS"><font style=3D"font-family:tahoma,sans-serif;font-size=
+:12px;color:#000000;" color=3D"#000000" size=3D"1" face=3D"tahoma,sans-seri=
+f">Jelastic, Inc<span style=3D"color: #bababa;"> | </span>228 Hamilton Aven=
+ue<span style=3D"color: #bababa;"> | </span>Palo Alto<span style=3D"color: =
+#bababa;"> | </span>CA<span style=3D"color: #bababa;"> | </span>94301</font=
+></div></div>
+</td>
+</tr>
+</table>
+</div><img src=3D"http://r20.rs6.net/on.jsp?t=3D1111425045234.0.11063822733=
+36.17253&ts=3DS0827&o=3Dhttp://ui.constantcontact.com/images/p1x1.gif" heig=
+ht=3D"1" width=3D"1" /></div></body>
+
+------=_Part_49988210_1826866208.1351717320054--

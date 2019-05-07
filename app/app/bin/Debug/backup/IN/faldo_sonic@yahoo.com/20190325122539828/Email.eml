@@ -1,0 +1,305 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.232; Mon, 29 Oct 2012 17:52:15 -0700
+Return-Path: <n-snyqb_fbavp=lnubb.pbz-00617@postmaster.twitter.com>
+Received-SPF: pass (domain of postmaster.twitter.com designates 199.59.148.233 as permitted sender)
+X-YMailISG: FPOkWhAWLDthtbzhp1.SLuP2DaDrGVvXTsPTEMtWkjjb3UMK
+ V9eZBupLsDR1qPjRQuJVSpkHKCXH13KTnKKrCPbt9qpMqRuu67V7XdtvZLgZ
+ JpvP84ZzLI6svE4HKfOshnU33WccQrk1gciUAdGJ_OSA7W.YtHw2XRehNcao
+ 7a_aQGzleEINJI5W03VR.k4bps.edQTA0QBh.VpYZcT_j0olutKlnKYlIkgE
+ JTP4TLwWUEELY44LEJJ9HMoRPZLvjwg6DuSyupxoXXL7l771snGnehy.X5ik
+ P5kXJ1ikMT3DhMZgaZGy2lxp6GAv8eVEXwfpYgVb5259q5U_XmdRMJNlr4LA
+ kZbD8su0QnRKjvIFF_HKkKAkFJlZs.IDzdhXQl1eDzGeBUSvmaRGDfbrgHKz
+ 1TgBpQmBvPsNSs93DTRgXC3W6Y1XYEvGmRF5K8xQ.H0IDkKcVYHQ3yL4ZJbG
+ _z2ifxgwpG4swWFC1d7SCJBC.JLzGV._W2NOVACcUuK_0WDg0ypOBkw7.siL
+ anhljlIAkvzib3uOtielsTT.q61cHaGSYmWGBRU22aukgiUaQCdlBJeEniup
+ WiyALVqIO0bid_9r.PhSAc_DSl9eIIJ9mtq5saGkSOBS7wnnjTpNCL5PGmmh
+ UkoCvp8vTLkxEUSBr6.1UT4uwB9chpTiBfOAIv3QxS5K2aaElbJDoQg4P.VT
+ X4fs9eZ7Hxhh7nxvgdyJwj8EVEQy4jYld4LmkuaMau2KKUIudXflhOE5DtTQ
+ lJSVC1MgJjE6VPvGX0_F5wtTam01T6USM11Szn4CX7eFWEe35uUJ4uiP6G1f
+ GZIYyXumvjWJEjJ9rawHXkVVzvMr5mvzLgZ32E3mThuVEfFyFLb45FPCmMoL
+ 0l_X0EtSVnsvNQZd_Y_5g5tcTVqywLJ0Tf2zEBFqWPp029kIxFntSvRCaxmb
+ 2Uh38M5HUaI73LZ4uGmVaJbJaKVBDHa3O2bXq0aTL2RYbUDz6BXQ7c3Td1GZ
+ .7clwJQin7FK3MkJGZ52dsbbxY0e53DZKcc4AA.EBjnF9OIHnW_VKO4qg5zl
+ FZ9srJzOBVbkkbKD.q8cPoPvFHqsJt31vpeRsicIxEIG7ggtSpX0.0sSFL0G
+ keed3HqjccuYuo5O7T6RQa6bSoK2_xeVcCYVTlQnhGPyA8kKsOIfuOxCcs36
+ UFlollzFyrVPeLm0XeBXzzAfq7luJHtOu4dekKPoUc5j4ESzXsPOyxKtDxzx
+ nf3Ca0JCVuhfmhKdz6NoJNk1fHZPsBXn3j0v1VzyQpZQDUnh7depaPUehUV8
+ cvm.z_pfre9FlCpk9oBlC7EHMTgD3XWu9Nus05aTVQ2c3aoDHElTRJZN602r
+ _j.6vRbfqyDG
+X-Originating-IP: [199.59.148.233]
+Authentication-Results: mta1310.mail.bf1.yahoo.com  from=postmaster.twitter.com; domainkeys=permerror (no key);  from=twitter.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO ham-cannon.twitter.com) (199.59.148.233)
+  by mta1310.mail.bf1.yahoo.com with SMTP; Mon, 29 Oct 2012 17:52:15 -0700
+X-DKIM: Sendmail DKIM Filter v2.8.2 4144521642.twitter.com 2634C48E82DF
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=twitter.com; s=dkim;
+	t=1351558334; i=@twitter.com; bh=s81otaucHU+gAjt+47W6jUNIvOU=;
+	h=Date:From:Reply-To:To:Subject:Mime-Version:Content-Type:
+	 List-Unsubscribe;
+	b=AEseBoxfRJIE/T2OYsS6MVIX60wZy+VFSQ3zS+wVkeZH+B3m+OS55h3fRW2Myz4xX
+	 STZhkjC5EDMN5x48Dmvfme1Shw+JHmUPx04QMgeTf3TJwPLwBKs2RLEMCke0jsJgiw
+	 fBa75+xw93gGMLIp3Ked80p6xA1++CH0bkR3+7WI=
+X-DomainKeys: Sendmail DomainKeys Filter v1.0.2 4144521642.twitter.com 2634C48E82DF
+DomainKey-Signature: a=rsa-sha1; s=default; d=twitter.com; c=simple; q=dns;
+	h=date:from:reply-to:to:subject:mime-version:content-type:
+	x-twitterimpressionid:list-unsubscribe:errors-to:bounces-to;
+	b=eTXm4MkViyAXn5O38YZ3PtO2fjzvpppaWLhRd+DXJLP7CMvsyuseLcreUFEI49ffy
+	mQRL0jRFWdx18rFgdbXOQ==
+Date: Tue, 30 Oct 2012 00:52:14 +0000
+From: Twitter <n-snyqb_fbavp=lnubb.pbz-00617@postmaster.twitter.com>
+Reply-To: noreply@postmaster.twitter.com
+To: faldo_sonic@yahoo.com
+Message-Id: <508f24be2516f_75a53fa02a084cb@4144521642.twitter.com.tmail>
+Subject: Pekanbaru Info (@infoPKU) telah mengirimi Anda pesan langsung di Twitter!
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_508f24be2571e_75a53fa02a08528
+X-Twitterimpressionid: am-1618412813515583340589176
+List-Unsubscribe: <https://twitter.com/account/unsubscribe?code=zub%2BBtg5bSidQe6T%2BTfdBKyPLIfusMlR&iid=am-1618412813515583340589176&nid=22+list-unsubscribe&t=dm&uid=66145027&utm_content=optout>
+Errors-To: Twitter <n-snyqb_fbavp=lnubb.pbz-00617@postmaster.twitter.com>
+Bounces-To: Twitter <n-snyqb_fbavp=lnubb.pbz-00617@postmaster.twitter.com>
+Content-Length: 8873
+
+
+--mimepart_508f24be2571e_75a53fa02a08528
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+Pesan langsung yang dikirim oleh Pekanbaru Info (@infoPKU) kepada Anda (@=
+andre_sonic) pada Oct 30,  7:52 AM.
+
+" Terima kasih telah memfollow kami. Info ke teman=C2=B2 kamu yg belum fo=
+llow kami. Follow @iklanPKU juga ya :) "
+
+
+Kirimkan pesan langsung ke @infoPKU: https://twitter.com/direct_messages/=
+create/infoPKU?utm_content=3Daction
+
+Ingin menerima notifikasi di ponsel?
+Unduh Twitter untuk ponsel Anda: https://twitter.com/download
+
+--
+Berhenti berlangganan: https://twitter.com/account/unsubscribe?code=3Dzub=
+%2BBtg5bSidQe6T%2BTfdBKyPLIfusMlR&iid=3Dam-1618412813515583340589176&nid=3D=
+22+unsubscribe&t=3Ddm&uid=3D66145027
+
+
+--mimepart_508f24be2571e_75a53fa02a08528
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: Quoted-printable
+Content-Disposition: inline
+
+<body lang=3D"id" style=3D"padding: 0; margin: 0;">
+  <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100%">=
+<tr><td style=3D"background-color:#e9eff2; padding: 30px 15px 0;">
+    <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cent=
+er" width=3D"710" style=3D"font-family: 'Helvetica Neue', Helvetica, Aria=
+l, sans-serif; font-size: 16px; color: #333;">
+      <tr><td style=3D"background-color: #63839b;">
+        <a style=3D"color:#ffffff; display: block;" href=3D"https://twitt=
+er.com/?from=3Demailheader&amp;iid=3Dam-1618412813515583340589176&amp;nid=
+=3D22+header&amp;uid=3D66145027">
+          <img alt=3D"Twitter" height=3D"52" src=3D"http://a0.twimg.com/a=
+/1351295865/images/email/email_header_710.png" style=3D"border: 0; displa=
+y: block;" width=3D"710" />
+        </a>
+      </td></tr>
+
+      =
+
+
+      <tr><td style=3D"background-color: #fff; padding: 25px 40px 22px;">=
+
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" class=3D"message">
+  <tr>
+    <td valign=3D"top" width=3D"100%" style=3D"background: #ecf2f5; -webk=
+it-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; paddi=
+ng: 15px;">
+      <div style=3D"font-size: 15px; line-height: 19px;" class=3D"text">
+         Terima kasih telah memfollow kami. Info ke teman=C2=B2 kamu yg b=
+elum follow kami. Follow @<a class=3D"" href=3D"https://twitter.com/iklan=
+pku" style=3D"color: #5a7b93;text-decoration: none;">iklanpku</a> juga ya=
+ :) =
+
+      </div>
+
+      <div style=3D"padding: 3px 0 0; font-size: 11px; line-height: 15px;=
+ color: #999;">
+        <span style=3D"color: #999;">
+          Pesan langsung yang dikirim oleh Pekanbaru Info (<a href=3D"htt=
+ps://twitter.com/infoPKU?iid=3Dam-1618412813515583340589176&nid=3D22+dm_s=
+ender_profile&uid=3D66145027&utm_content=3Dprofile" style=3D"color: #5a7b=
+93;text-decoration: none;">@infoPKU</a>) untuk Anda (<a href=3D"https://t=
+witter.com/andre_sonic?iid=3Dam-1618412813515583340589176&nid=3D22+dm_rec=
+ipient_options&uid=3D66145027&utm_content=3Dprofile" style=3D"color: #5a7=
+b93;text-decoration: none;">@andre_sonic</a>) pada tanggal Oct 30,  7:52 =
+AM.
+        </span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style=3D"padding: 0 0 10px 31px;">
+      <div style=3D"width:0; height:0; border-width: 8px; border-style: s=
+olid; border-color: #ecf2f5 white white white;">
+    </td>
+  </tr>
+</table>
+
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+  <tr>
+    <td valign=3D"middle" style=3D"padding: 0 10px 0 15px">
+      <a href=3D"https://twitter.com/infoPKU?iid=3Dam-1618412813515583340=
+589176&amp;nid=3D22+dm_sender_avatar_profile&amp;uid=3D66145027&amp;utm_c=
+ontent=3Dprofile" style=3D"text-decoration:none;">
+        <img alt=3D"" height=3D"48" src=3D"https://si0.twimg.com/profile_=
+images/2773398423/ca043938d8a4ba56fa07896d9203a184_normal.jpeg" style=3D"=
+display:block; border: none;" width=3D"48" />
+      </a>
+    </td>
+
+    <td valign=3D"middle" width=3D"100%" style=3D"padding: 0 15px 0 0;">
+      <a href=3D"https://twitter.com/infoPKU?iid=3Dam-1618412813515583340=
+589176&amp;nid=3D22+dm_sender_screenname_profile&amp;uid=3D66145027&amp;u=
+tm_content=3Dprofile" style=3D"font-size: 15px; font-weight: bold; color:=
+ #333; text-decoration: none;">
+        infoPKU<br/>
+        <span style=3D"font-size: 13px; font-weight: normal; color: #999;=
+">Pekanbaru Info</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img width=3D"1" height=3D"1" style=3D"display: block;" src=3D"https://tw=
+itter.com/scribes/ibis?iid=3Dam-1618412813515583340589176&amp;nid=3D22&am=
+p;uid=3D66145027" />
+
+
+
+
+
+
+
+      </td></tr>
+
+      =
+
+      <tr><td style=3D"background-color: #fff; padding: 0 0 10px 0;"></td=
+></tr>
+      <tr><td style=3D"background-color: #fff; padding: 32px 40px 22px; b=
+order-top: 1px solid #E4ECF0;">
+        =
+
+  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+  <tr>
+    <td valign=3D"middle" style=3D"padding: 0 0 0 15px">
+      <table style=3D"background-color: #63839b;" cellpadding=3D"0" borde=
+r=3D"0" cellspacing=3D"0">
+        <tr>
+          <td width=3D"1" height=3D"1" style=3D"background-color: #fff;">=
+</td>
+          <td></td>
+          <td width=3D"1" height=3D"1" style=3D"background-color: #fff;">=
+</td>
+        </tr>
+
+        <tr>
+          <td></td>
+          <td style=3D"padding: 5px;">
+            <a href=3D"https://twitter.com/direct_messages/create/infoPKU=
+?iid=3Dam-1618412813515583340589176&amp;nid=3D22+dm_reply&amp;uid=3D66145=
+027&amp;utm_content=3Daction" style=3D"color: #fff; text-decoration: none=
+; padding: 5px 13px; font-size: 16px; display: block;" class=3D"primary-a=
+ction">
+              Send a message to <span style=3D"color:#e7eef2">@</span>inf=
+oPKU
+            </a>
+          </td>
+          <td></td>
+        </tr>
+
+        <tr>
+          <td width=3D"1" height=3D"1" style=3D"background-color: #fff;">=
+</td>
+          <td style=3D"background-color: #4e6f8A"></td>
+          <td width=3D"1" height=3D"1" style=3D"background-color: #fff;">=
+</td>
+        </tr>
+      </table>
+    </td>
+
+    =
+
+    <td valign=3D"middle" style=3D"padding: 0 0 0 15px; font-size: 15px; =
+line-height: 19px">
+      <a href=3D"https://twitter.com/download?iid=3Dam-161841281351558334=
+0589176&amp;nid=3D22+mobile&amp;uid=3D66145027" style=3D"text-decoration:=
+ none; color: #666;" class=3D"secondary-action">
+        Ingin menerima notifikasi di ponsel?<br/>
+        <span style=3D"color: #63839a;">
+          =
+
+            <strong style=3D"border-bottom: 1px solid #e7eef2;">Unduh Twi=
+tter</strong> untuk ponsel Anda &raquo;
+          =
+
+        </span>
+      </a>
+    </td>
+    =
+
+  </tr>
+</table>
+
+
+      </td></tr>
+      =
+
+
+      <tr><td style=3D"padding: 0 0 10px 0; background-color: #fff; -webk=
+it-border-bottom-right-radius: 8px; -webkit-border-bottom-left-radius: 8p=
+x; -moz-border-radius-bottomright: 8px; -moz-border-radius-bottomleft: 8p=
+x; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px;"></td=
+></tr>
+
+      <tr><td>
+      <div style=3D"padding: 0 5px;">
+        <div style=3D"height: 2px; line-height: 2px; font-size: 2px; back=
+ground-color: #e2e7e7; clear: both; -webkit-border-bottom-right-radius: 5=
+px; -webkit-border-bottom-left-radius: 5px; -moz-border-radius-bottomrigh=
+t: 5px; -moz-border-radius-bottomleft: 5px; border-bottom-right-radius: 5=
+px; border-bottom-left-radius: 5px;"></div>
+      </div>
+      </td></tr>
+
+      <tr><td style=3D"font-size: 11px; line-height: 16px; color: #aaa; p=
+adding: 25px 40px;">
+        =
+
+  Jika Anda tidak ingin menerima pesan langsung email dari Twitter, Anda =
+dapat <a href=3D"https://twitter.com/account/unsubscribe?code=3Dzub%2BBtg=
+5bSidQe6T%2BTfdBKyPLIfusMlR&amp;iid=3Dam-1618412813515583340589176&amp;ni=
+d=3D22+unsubscribe&amp;t=3Ddm&amp;uid=3D66145027&amp;utm_content=3Doptout=
+" style=3D"color: #6d90a9; text-decoration: none;" class=3D"unsubscribe-l=
+ink">berhenti berlangganan</a> dengan segera. Untuk berlangganan lagi ata=
+u mengubah preferensi email Twitter yang lain, kunjungi pengaturan akun u=
+ntuk mengelola <a href=3D"https://twitter.com/settings/notifications?iid=3D=
+am-1618412813515583340589176&amp;nid=3D22+settings&amp;uid=3D66145027&amp=
+;utm_content=3Dnotices" style=3D"color: #6d90a9; text-decoration: none;">=
+notifikasi email</a>.
+
+
+
+        Tolong jangan balas pesan ini; pesan ini dikirim dari alamat emai=
+l yang tidak terpantau. Pesan ini adalah email layanan yang berhubungan d=
+engan penggunaan Twitter. Untuk meminta bantuan dan pertanyaan umum menge=
+nai akun Twitter Anda, silakan kunjungi kami di <a href=3D"https://suppor=
+t.twitter.com/?iid=3Dam-1618412813515583340589176&amp;nid=3D22+support_fo=
+oter&amp;uid=3D66145027" style=3D"color: #6d90a9; text-decoration: none;"=
+>Bantuan Twitter</a>.
+              </td></tr>
+    </table>
+  </td></tr></table>
+</body>
+
+--mimepart_508f24be2571e_75a53fa02a08528--

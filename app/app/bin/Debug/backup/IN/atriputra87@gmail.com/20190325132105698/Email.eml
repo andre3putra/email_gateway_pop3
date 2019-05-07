@@ -1,0 +1,366 @@
+Delivered-To: atriputra87@gmail.com
+Received: by 2002:a25:b68a:0:0:0:0:0 with SMTP id s10-v6csp9875406ybj;
+        Wed, 5 Dec 2018 22:30:22 -0800 (PST)
+X-Google-Smtp-Source: AFSGD/XjV6PviLMLT/a9EFJdKAknj41J7rm2OyIi+D1oNy/4JNpI5q8gS3AwfJgcYZ+T0sH5Vala
+X-Received: by 2002:ac8:320a:: with SMTP id x10mr25887463qta.275.1544077822558;
+        Wed, 05 Dec 2018 22:30:22 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1544077822; cv=none;
+        d=google.com; s=arc-20160816;
+        b=hrukDMea5sRIdP5KdDflO8dWKyvCH0vdsd51hhz8ig3ykCNS8ilSqr5VJ6S9xb/0/E
+         E/a/qdBCB+TAAYyvNJ4PpZ6k1ljRLt8V+jyRJw0tLX3iZ9N/SdHS6jf5lpvW7cGWXZDo
+         D44n/Mqjimok+cHSy/IMt5HUjl6+0R9KCxuff6UI1lQiHl9rnT5tVHJuA/EU4wzTyKWT
+         5WlLws0xWl69QVAWH4EWU7UtQ8r2NNvQtGyt1G1bOkX36zmzHaVPzXE5pI1NW+bU8tIl
+         xwMD143Iv6Z0uTwUgn3CjnaJioszg+ioTmkFky2j/Tytqc2kptmkiXKNyRoDOL9mKOsR
+         /x+g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-language:thread-index:mime-version:message-id:date:subject
+         :in-reply-to:references:to:from;
+        bh=x+0JOPZbDLyWyjRhA5NYMarZBwRLV9VqXJYkRh2SeAU=;
+        b=ObTSe0rh8cS68Q7Ttmr5BAx0P8mMBs34v0fFEAPrSyMHFEx+EtPtx2v1UatOlQHurH
+         KBKviQVvZc4cvHN2goVjPkQ8h/3EREKWehZ0aVfz2jYi1UDDbvn/3tJIjPGAt3pKBAC3
+         kv7/QbNV/nUoYFMUJNAk/VgrhF02pm5VMucY+HN1gq3jPyM21hBr3Gb0/H7sO2xgmNFV
+         oR1EAk29m8qdm77p3KsIc2rvvAMbBVblTiQV7hC5BqO4MhDuEwYyD2R65pPNy8uyNvn9
+         s7ijYiUxN7vNOv+hZPXc1iRRwOMzK8maost8it6PF3v3mB2A12LHfs+S5BuWjMkdfunx
+         JfVA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=neutral (google.com: 173.203.187.87 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) smtp.mailfrom=andre@invision-ap.com
+Return-Path: <andre@invision-ap.com>
+Received: from smtp87.iad3a.emailsrvr.com (smtp87.iad3a.emailsrvr.com. [173.203.187.87])
+        by mx.google.com with ESMTPS id y11si750418qvp.98.2018.12.05.22.30.21
+        for <atriputra87@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 05 Dec 2018 22:30:21 -0800 (PST)
+Received-SPF: neutral (google.com: 173.203.187.87 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) client-ip=173.203.187.87;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 173.203.187.87 is neither permitted nor denied by best guess record for domain of andre@invision-ap.com) smtp.mailfrom=andre@invision-ap.com
+Received: from smtp35.relay.iad3a.emailsrvr.com (localhost [127.0.0.1])
+	by smtp35.relay.iad3a.emailsrvr.com (SMTP Server) with ESMTP id 5BA005A49
+	for <atriputra87@gmail.com>; Thu,  6 Dec 2018 01:30:21 -0500 (EST)
+X-Auth-ID: andre@invision-ap.com
+Received: by smtp35.relay.iad3a.emailsrvr.com (Authenticated sender: andre-AT-invision-ap.com) with ESMTPSA id 135185B38
+	for <atriputra87@gmail.com>; Thu,  6 Dec 2018 01:30:19 -0500 (EST)
+X-Sender-Id: andre@invision-ap.com
+Received: from NBANDRE ([UNAVAILABLE]. [120.188.4.122])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384)
+	by 0.0.0.0:465 (trex/5.7.12);
+	Thu, 06 Dec 2018 01:30:21 -0500
+From: "Andre Triputra" <andre@invision-ap.com>
+To: <atriputra87@gmail.com>
+References: 
+In-Reply-To: 
+Subject: RE: Test
+Date: Thu, 6 Dec 2018 13:30:15 +0700
+Message-ID: <000501d48d2d$29417f30$7bc47d90$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0006_01D48D67.D5A05730"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdSNKjMpKl0F14NeRDi5GmDI1YgpMwAAL1+g
+Content-Language: en-id
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0006_01D48D67.D5A05730
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+asas
+
+ 
+
+Best regards,
+
+ 
+
+Andre Triputra
+
+Desktop Programmer
+
+ 
+
+PT. Invision Astrindo Pratama (Selindo Group)
+
+Darmawangsa Square
+
+Jl. Darmawangsa VI No.9-10, RT.5/RW.1, Pulo, Kebayoran Baru
+
+South Jakarta City, Jakarta 12140 , Indonesia
+
+Phone: 021 - 7264528
+
+Fax: 021 - 7264522
+
+Website : http://invision.io/
+
+ 
+
+From: Andre Triputra [mailto:andre@invision-ap.com] 
+Sent: 06 December 2018 13:09
+To: 'atriputra87@gmail.com'
+Subject: Test
+
+ 
+
+Tes ahhh
+
+ 
+
+Best regards,
+
+ 
+
+Andre Triputra
+
+Desktop Programmer
+
+ 
+
+PT. Invision Astrindo Pratama (Selindo Group)
+
+Darmawangsa Square
+
+Jl. Darmawangsa VI No.9-10, RT.5/RW.1, Pulo, Kebayoran Baru
+
+South Jakarta City, Jakarta 12140 , Indonesia
+
+Phone: 021 - 7264528
+
+Fax: 021 - 7264522
+
+Website : http://invision.io/
+
+ 
+
+
+------=_NextPart_000_0006_01D48D67.D5A05730
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'color:#1F497D'>asas<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'>Best regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'>Andre Triputra<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'>Desktop Programmer<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>PT. Invision Astrindo Pratama (Selindo =
+Group)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Darmawangsa Square<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Jl. Darmawangsa VI No.9-10, RT.5/RW.1, Pulo, Kebayoran =
+Baru<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>South Jakarta City, Jakarta 12140</span><span =
+style=3D'font-size:
+10.0pt;font-family:"Cambria","serif";color:#7F7F7F'> , =
+Indonesia<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Phone: 021 &#8211; 7264528<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Fax: 021 &#8211; 7264522<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Website : <a =
+href=3D"http://invision.io/">http://invision.io/</a><o:p></o:p></span></p=
+>
+
+</div>
+
+<p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Andre =
+Triputra
+[mailto:andre@invision-ap.com] <br>
+<b>Sent:</b> 06 December 2018 13:09<br>
+<b>To:</b> 'atriputra87@gmail.com'<br>
+<b>Subject:</b> Test<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span lang=3DIN>Tes ahhh<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'>Best regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'>Andre Triputra<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'>Desktop Programmer<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>PT. Invision Astrindo Pratama (Selindo =
+Group)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Darmawangsa Square<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Jl. Darmawangsa VI No.9-10, RT.5/RW.1, Pulo, Kebayoran =
+Baru<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>South Jakarta City, Jakarta 12140</span><span =
+style=3D'font-size:
+10.0pt;font-family:"Cambria","serif";color:#7F7F7F'> , =
+Indonesia<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Phone: 021 &#8211; 7264528<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Fax: 021 &#8211; 7264522<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DIN =
+style=3D'font-size:10.0pt;font-family:"Cambria","serif";
+color:#7F7F7F'>Website : <a =
+href=3D"http://invision.io/">http://invision.io/</a><o:p></o:p></span></p=
+>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_0006_01D48D67.D5A05730--

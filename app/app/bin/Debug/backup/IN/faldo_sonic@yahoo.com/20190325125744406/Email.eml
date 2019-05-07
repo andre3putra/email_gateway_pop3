@@ -1,0 +1,614 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.232; Fri, 02 Nov 2012 06:24:13 -0700
+Return-Path: <bounces+6464-8684-faldo_sonic=yahoo.com@www.slidesharenewsletter.com>
+Received-SPF: pass (domain of www.slidesharenewsletter.com designates 74.63.202.218 as permitted sender)
+X-YMailISG: LHEZ7UsWLDu10bBYetMZWzT9sqdMN06G9S33o7THpqoka813
+ Sehor8WJOCIgfaLU6cPDLX0OMxysRaesvvK4STY.KdGp0508usHFIBl7fI6L
+ SvoUeOvDLnuhWzP77UuaH5ZU8mNttyYUqcj6_yITp.y.VDWujMDZAvfDCC12
+ 6sXuy4cFNh.j7WJ1vFMQfcSVoMBzZfWMFVpk95iUblbrzjmkQXDmef2Wo8Q9
+ pq3QSTg8D6ROiOsoc_io9EgJPCwzhMSuqQoF8Dv5xSOVZZD3.6YNjrItZbFK
+ RxOukK5Pq_pqleadZwyBybUbFVQr1CPktlAhWl6t1nhOnTqkfMYownBqwhEL
+ FM3PP8WrVCxQiM6AzEl3KUAJ8P1u840vKGRn3RrgNALg3p6TsHk05tb3zagj
+ srOTa_5v4iy3e5XQFCx3xKLfHdCFDkiboWZ8D9qnrr5RpDRvCQ7d7iWgGdeY
+ 7yVZGc_ffmZ7N1kzb0MBeKSDwk3lLazLE97WMdi4v.5UiAWFX4u_6EKip5pU
+ 9df4w.MzA4TKVStg9Wn8klgHDIb8vtAFyF7_PL7WYy_4ntxTzjju6z36ZDxE
+ Euw5H0_3arp.4r6ubUvQw2CBWZI4xLDtAnlJ_74ok47nBfROT9jZ8n1ELM2m
+ HKWZnkRkJZHc7yb1PbVeszLgawDipr_NhLET8pdcfuDrpcbODyrGISXq7eHF
+ IkDkxBPFz3dLLj0CLvjqaOPWtLLMuCY98JoIB.vQvleC.OKMHUw0v5Xsnak8
+ MRPgmqNiVna2_mtKL5wn_rxAlkUdLzHFTyvj50xv60XrSuRW13fvInBUray5
+ KtdIIl66mAyp3rfP375i6SRMECIWQIcntg6aafgNG0JaDQRd7d2r2zQg9iyQ
+ 9IuOLuvIVjqHL1S03xkJFvLfs8XiIsGgix1amHXJH8nI5PcOz_ACTMj58x0_
+ plR9srvzMs98rbguxxkciGOllbdwVoZdjpnCgckD5YZ1lhPE8HOC2HBAgHO7
+ yyo0gm4RpyT5Itg75rimchUKgNcxvBa6fBsuGvc5dHhFVwHt3hut3J9b.JCA
+ 68TurXTts2astG1owirT6goLG93om6RS2LtQOiDF0pfpFlqIaUHqAWLP5Zg2
+ uQLF8VtsnntDIf3ethFx9WJ0oLp_.xpxMQWFriBZ2HWP8.BYG50RAkQaMjht
+ dJWEI.ozIv0f.0OfOd5opLu8h6EcnfdWao6Vsd298gJkDSCAu_bKLavzIblH
+ dF268rsJbmEDG2ItlVWW2G84yLZTVL_rCB1X5u9aiUlxfZWbDkdGH69TlP5v
+ WMdgMEd4eMwk0rNwi1_sGW1gAyjVos7wFE3lIQt9YSPflqfLEcnyYTQz9AWT
+ kl4-
+X-Originating-IP: [74.63.202.218]
+Authentication-Results: mta1334.mail.gq1.yahoo.com  from=slidesharenewsletter.com; domainkeys=fail (bad syntax);  from=slidesharenewsletter.com; dkim=pass (ok)
+Received: from 127.0.0.1  (HELO o2.www.slidesharenewsletter.com) (74.63.202.218)
+  by mta1334.mail.gq1.yahoo.com with SMTP; Fri, 02 Nov 2012 06:24:13 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=slidesharenewsletter.com;
+	 h=content-type:mime-version:from:to:reply-to:subject:sender; s=
+	smtpapi; bh=Ddw5+tPluQBP652wwqOfnkdFSyU=; b=W6WI0zNV6yGBE09StjsF
+	SE/3kSXFqpOF4/gyArZjT3CYnwZrtKUH2D5L0JE+KJ+UrqfTqurZuQz55fEoJ6NJ
+	CKqYsS/KfFBC9t2M6v1H7tRWkzFxRyFiXI4a3PmrPI6zU+X1cjphx/Otwtj7xdLV
+	0UO2C8p5S7+1jPLk2Sqys+M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=slidesharenewsletter.com; h=
+	content-type:mime-version:from:to:reply-to:subject:sender; q=
+	dns; s=smtpapi; b=lnh/rQ2bHXLQp95g2s5/288QtmBsjo3kcKq458fgHNeS7z
+	vijUE9d0mFWq7DWQ+GKJ0NxSu8y+axOlbOQoR+Uu9RxxKd/5B4Lglk4pa4oBmFiT
+	CeQ8C+W2WkQ9FaesQiv2TV5XbSjE1kZTSoijSNz+c247PyR1WoWQmh847E/9Q=
+Received: by 10.41.149.108 with SMTP id f04-05.6759.5093C83E3
+        Fri, 02 Nov 2012 13:18:54 +0000 (UTC)
+Received: from 127.0.0.1 (unknown [mi20])
+	by mi20.sendgrid.net (SG) with ESMTP id 5093c83e.15fe.b2ed41
+	for <kane@sendgrid.com>; Fri, 02 Nov 2012 08:18:54 -0500 (CST)
+Content-Type: multipart/alternative;
+	boundary="===============1049237703475215268=="
+MIME-Version: 1.0
+From: SlideShare <noreply@slideshare.net>
+To: faldo_sonic@yahoo.com
+Reply-To: noreply@slideshare.net
+Subject: SlideShare Newsletter: These 7 secrets will make you a SlideShare Ninja
+Message-ID: <1351862334.7254649382235757@f04-05>
+Date: Fri, 02 Nov 2012 13:18:54 +0000 (UTC)
+X-Sendgrid-EID: zrnQfjC9NaiK+f3Cte55Kec5cxDoQQdxQ3rxUwT/uYGU/5j0+C8rjkAgsydkNOD1mTn5hp7x2Coyug1A68Sj5l+jyADzG695NHdTsDcGg8IErybskVwgYydIpk7i4NyT
+X-Sendgrid-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LC+vQA6MP1ZPk6xEEGZ3PeTzuQpPUBXD4lwSjnSCLEaM6MHwVJyrJ2sTFCPNWAiwg9Ki0jOd5+40lhHrMz49bwha2y6ZSJY8zgrW9zmxIIbAui4u6L5QCrfAq2KWT8xw+w7YF7JqbCvqYb0Z6Htfmsi
+Sender: SlideShare <noreply=slideshare.net@slidesharenewsletter.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=slidesharenewsletter.com;
+	 h=content-type:mime-version:from:to:reply-to:subject:sender; s=
+	smtpapi; bh=9K4VymVdtJ7BJVvLqh7DFcX1gtU=; b=w7LJb9jfEbk7XLy6jjln
+	yreSO3hgNY2dlU+09RL1MXGu3hdDn6tKG1gSZa4vH7Hvev6OcgN/0HTH73PPJWso
+	B03507bVADkRiBNtxJXJ+AyHnEjxvZIK3kJqSxkzgw94/KSbWax/R/VWvzzf43Fw
+	LuWc8A3PKIZuCix8MJ0oxrU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=slidesharenewsletter.com; h=
+	content-type:mime-version:from:to:reply-to:subject:sender; q=
+	dns; s=smtpapi; b=C9fCH9ZHIFzgGCeQColdFfRDktJ3p/pmXHRlQAGW/Kc0kn
+	ho7+joEurojMu4KiN+1AI0QNx5r85SW1nTDQyb9XVELIGluU3q9Cqv6SSH1Wh2ZM
+	62+0DY0qsJ7LneDgETZOz4KjJ7DTLz1REfpVdyIZ5oNaT8joHHaAsRvU+/MtI=
+Content-Length: 31135
+
+--===============1049237703475215268==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+The exclusive newsletter for registered members of the SlideShare community.
+You can also view this newsletter online (http://www.slideshare.net/newslet=
+ter/2012/november2). Remember to display images.
+
+Do you know all 7 SlideShare Ninja secrets?
+(http://blog.slideshare.net/2012/10/29/7-secrets/) Using SlideShare to shar=
+e slides is pretty easy. Being a SlideShare ninja is another thing entirely=
+. In this post (and deck) (http://blog.slideshare.net/2012/10/29/7-secrets/=
+), Ross Mayfield shares seven secrets to using SlideShare that you probably=
+ shouldn't know. Insider tip: How to take advantage of the fact that most o=
+f your viewers come from Search. Learn more... (http://blog.slideshare.net/=
+2012/10/29/7-secrets/)=20
+
+SlideShare community curates Sandy photo slideshows
+(http://blog.slideshare.net/2012/10/31/crowdsourcing-and-curation-news-and-=
+photos-of-superstorm-sandy/) Community members express their concern and su=
+pport, as well as their expertise and knowledge, by creating and creating p=
+hoto slideshows (http://blog.slideshare.net/2012/10/31/crowdsourcing-and-cu=
+ration-news-and-photos-of-superstorm-sandy/). Sharing also helps inform the=
+ greater community about long-term outcomes affecting those who are involve=
+d. If you create a slidedeck about Superstorm Sandy (http://blog.slideshare=
+.net/2012/10/31/crowdsourcing-and-curation-news-and-photos-of-superstorm-sa=
+ndy/) and its after-effects, please tag it 'sandy'. We'll spotlight these p=
+resentations as they come in.
+
+TempsAhead picks 10 favorite creative resumes
+(http://www.tempsahead.com/tips-for-job-seekers/10-creative-slideshare-visu=
+al-resumes/) TempsAhead has put together a list of 10 SlideShare users (htt=
+p://www.tempsahead.com/tips-for-job-seekers/10-creative-slideshare-visual-r=
+esumes/) =E2=80=9Cwho have taken the leap and swapped their word doc for a =
+vibrant, interactive presentation with POP!=E2=80=9D Is your resume a bit h=
+o-hum? Then get some inspiration (http://www.tempsahead.com/tips-for-job-se=
+ekers/10-creative-slideshare-visual-resumes/)  from these creative folks wh=
+o are thinking outside the doc.
+
+Event Spotlight
+On our home page we're currently shining the spotlight on the 3rd annual Co=
+ntent Strategy Forum (http://www.slideshare.net/search/slideshow?searchfrom=
+=3Dheader&q=3Dcsforum) which took place last month in Cape Town, South Afri=
+ca. Nearly 60 presentations from Pubcon Las Vegas (http://www.slideshare.ne=
+t/search/slideshow?searchfrom=3Dheader&q=3Dpubcon) have been uploaded in th=
+e past couple weeks. Be sure to check out our home page (http://www.slidesh=
+are.net) for recent conference uploads from around the world.=20
+
+Need some help using SlideShare?
+Check the FAQs on our community forums (http://help.slideshare.com/forums).=
+ We provide support to all registered members of the SlideShare community -=
+ free accounts as well as our PRO members. Just log in and submit a help re=
+quest. (http://help.slideshare.com/requests/new)=20
+(http://ad.doubleclick.net/clk;264686901;62015026;d?http://offers.desk.com/=
+deskcom_dominate_twitter_for_customer_service_cpm)=20
+------------------------------------------------------------
+Subscribe to our blog (http://feeds.feedburner.com/SlideshareBlog), follow =
+our LinkedIn (http://www.linkedin.com/company/slideshare) company page, fol=
+low @slideshare (http://www.twitter.com/slideshare) on Twitter and let's be=
+ friends on Facebook (http://www.facebook.com/slideshare) - now over 120,00=
+0 friends strong.
+We have your email at faldo_sonic@yahoo.com. You signed up for this newslet=
+ter when you registered for a SlideShare account. You can stop receiving (h=
+ttp://www.slideshare.net/unsubscribe/andre_ilham_triputra/YTdmN2E4OWRiMDhjY=
+mNjZDBkZGU0MTRmOGQzMDJiYWU=3D) this newsletter or change email settings (ht=
+tp://www.slideshare.net/andre_ilham_triputra/edit_privacy_options?tab=3Dema=
+il).
+
+SlideShare Inc., 490 2nd St, Suite 300, San Francisco, CA 94107=
+
+--===============1049237703475215268==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8" /></head>
+
+<body>
+
+<table bgcolor=3D"#677876" border=3D"0" cellpadding=3D"0" cellspacing=3D"24=
+" width=3D"100%">
+  <tbody>
+    <tr>
+      <td>
+        <table cellspacing=3D"24" cellpadding=3D"0" border=3D"0" bgcolor=3D=
+"#ffffff" align=3D"center" width=3D"720"><!-- Header, do not edit -->
+          <tbody>
+            <tr>
+              <td style=3D"font-size:11px;font-family:'verdana';color:#6666=
+66;line-height:1.5">
+                The exclusive newsletter for registered members of the Slid=
+eShare community.<br>
+                You can also view this <a target=3D"_blank" href=3D"http://=
+www.slidesharenewsletter.com/wf/click?upn=3DJjY7yJgNVQZiz1211QP0zb35a6PRZjd=
+TzrfxnLWJ0HGvh9qTvpdI9mzGaySZAPPAm7bkiNSnqC1Y1qDZRL5u4Q-3D-3D_SovCTpkY3vMdn=
+EOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8KkgbaL-2BDXvHUhFU8ym=
+NSf-2Blooa867nKA4Eg3XleVBdHQtqMQLaLJUaKjXvKJhPYqaBOcP5JSaTJaW-2B-2FSpostGPK=
+0VsvopDvPZx8S2Y7Qk7Gq0-2BMz9M-2BdZHLVyHG4yLyh18c1N2nSVyzlLV3-2FZN7UEbOwNXQ2=
+MmA8TDfzOQWokePwbp6ueXsXfc8a0Fsvjvf-2BA3X6OnZdebKJ7Nvnl75asxxpcyD8fEiawJJ3m=
+I0p304gXdHj94YdBVc336gOfY6dDEA-2Bi2z-2BDiGOPN-2FPbp9Ad1iE4-2F0yvwdBhY5A524j=
+Pf8-3D" style=3D"color:#0077aa">newsletter online</a>.=20
+                Remember to <strong>display images</strong>.
+              </td>
+            </tr>
+
+            <tr>
+              <td bgcolor=3D"#687876" height=3D"90" style=3D"color: #eeeeee=
+; font-family: helvetica,arial,sans-serif; font-size: 36px; font-weight: 70=
+0; text-indent: 12px;">
+                 <img align=3D"bottom" alt=3D"SlideShare" src=3D"http://sli=
+deshare-wordpress-blog-pictures.s3.amazonaws.com/ss-logo.png" style=3D"bord=
+er-width: 0px; border-style: solid; margin: 0px; width: 200px; height: 60px=
+;" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+  <!-- END header bit -->
+=20=20
+        <table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"24" width=3D"720" style=3D"margin-top:-24px;">
+          <tbody>
+            <tr>
+              <td valign=3D"top" width=3D"488">
+                <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgc=
+olor=3D"#ffffff" width=3D"488" style=3D"padding: 0;">
+                  <!-- Left side content area starts -->
+
+                    <!-- ARTICLE 1 BEGIN -->
+                    <tr>
+                      <td valign=3D"top" width=3D"488" style=3D"font-size: =
+14px; font-family: helvetica,arial,sans-serif;">
+                        <p style=3D"color:#687876; font-size:18px; font-wei=
+ght:700; margin: 6px 0 12px;">Do you know all 7 SlideShare Ninja secrets?</=
+p>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td valign=3D"top" width=3D"488" style=3D"font-size: =
+14px; font-family: helvetica,arial,sans-serif;">
+                        <table cellspacing=3D"0" cellpadding=3D"10" border=
+=3D"0"> <!-- for picture with text next to it -->
+                          <tbody>
+                            <tr>
+                              <td width=3D"80" valign=3D"top" style=3D"padd=
+ing: 0;" colspan=3D"1">
+                                <a style=3D"color: #079" href=3D"http://www=
+.slidesharenewsletter.com/wf/click?upn=3Dz-2FMv2rpVUKuuxKMsdbx-2FpvxCNNPwBw=
+M1BYGcP5QqjYVOS2tQgK6EHRq1-2B2xzsqRuPX5WjPsITk-2BNKRNfwFE-2BeQ-3D-3D_SovCTp=
+kY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8NbVGa02tM4jmu=
+7FWYd2u7Tz9yK844Z8-2BfcdlGt2IJePyvMUKLD5n9Yv-2B7L96sO9VCmdSUwYtutEoaJUNaKYg=
+Ues0WymadlguWB1JByffdzDhxvO4lwSQCln-2BsDKOi8lI8-2FPNsnLSIHH-2FWy-2B922UWRvq=
+Hqr5H9ROSUkVsTzrb-2BgWNrEp10BQQkEIB6VXmyni6T1ElSSaxEOrrVd3A5HTY-2BxPU3NtsmM=
+2fYS95Vve0ThC9nnyMHlqjEWz0uW2dPXNfgitq9FauXr4-2BmuNn4J2PhhpRp8Ukme-2BeAaslt=
+64yhTs-3D" target=3D"_blank">
+                                <img width=3D"157" height=3D"106" alt=3D"Fe=
+ldman Creative presentation" src=3D"http://slideshare-wordpress-blog-pictur=
+es.s3.amazonaws.com/7secrets_157x106.png" style=3D"margin-right: 12px;"></a>
+                              </td>
+
+                              <td width=3D"330" valign=3D"top" style=3D"pad=
+ding: 0;" colspan=3D"1">
+                                <p style=3D"font-size:14px; font-family:hel=
+vetica,arial,sans-serif;margin:0px">
+                                Using SlideShare to share slides is pretty =
+easy. Being a SlideShare ninja is another thing entirely. In <a style=3D"co=
+lor: #079" href=3D"http://www.slidesharenewsletter.com/wf/click?upn=3Dz-2FM=
+v2rpVUKuuxKMsdbx-2FpvxCNNPwBwM1BYGcP5QqjYVOS2tQgK6EHRq1-2B2xzsqRuPX5WjPsITk=
+-2BNKRNfwFE-2BeQ-3D-3D_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2B=
+P2qAL2pn2-2B4iu8nAN2dh3Ni2dmIMSGGx1WxpYLQKZBlkS26cFW0g-2BnDr-2Fa-2F9Xvct-2F=
+BpfxX1XCfGG-2FjtmfRgijanbUfvKzo71Z5J3N2eBp-2B6ymKcPdy3AuxPTYP7gU5gGd02Zvcet=
+Yj0xxA1S-2Bq-2BVIOxlQ1Olvr5mWTrwrP-2BwmG9F22tV1YFbQo9isdAmctgNEJ1Ij8J0kdBOR=
+rHTjqyQosef9O8ho2ajqok41noxL5UzTuI3nN5dEmFkRLao3U9UyjlcBfgMOtnn7swH0IYafqaV=
+gUglK7MKvTxSbmJHqONYz8Il3eW60bS-2BM-3D" target=3D"_blank">this post (and de=
+ck)</a>, Ross Mayfield shares seven secrets to using SlideShare that you pr=
+obably shouldn't know.  Insider tip: How to take advantage of the fact that=
+ most of your viewers come from Search. <a style=3D"color: #079" href=3D"ht=
+tp://www.slidesharenewsletter.com/wf/click?upn=3Dz-2FMv2rpVUKuuxKMsdbx-2Fpv=
+xCNNPwBwM1BYGcP5QqjYVOS2tQgK6EHRq1-2B2xzsqRuPX5WjPsITk-2BNKRNfwFE-2BeQ-3D-3=
+D_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8TXYGQ=
+7eIIphHFT1Ecnnq6-2B4v2swcVm-2FNqp3dIdkK942YoD7VVY5muWNrFGLcPQA3Pkn3xnYPZrqQ=
+B3RrwBE-2BxcGjLD6H2rliBbLgSlP9Ufr1oVbMxtsSDJhTQVl8cvlX8-2B8cRresW0-2BYXrA8c=
+v0pYsFlH0Ee5e-2FDuCgqCdsm36YfBxctz3Maq67Eljb-2Fe8bZhy2qSwspeq1lmulKUs7GMGlQ=
+bvBrODT3xDjY3Bb8FHgRr4uTQRVTcQjTml5W7R-2BnU1vV1xTvAfKFQeaLDu9uB4kbGY2ckNtKZ=
+zZeaErGBWU-3D" target=3D"_blank">Learn more >></a>
+=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- END ARTICLE 1 -->
+
+                    <!-- begin second article-->
+                    <tr>
+                      <td valign=3D"top" width=3D"488" style=3D"font-size: =
+14px; font-family: helvetica,arial,sans-serif;">
+                        <p style=3D"color:#687876; font-size:18px; font-wei=
+ght:700; margin: 24px 0 12px;">SlideShare community curates Sandy photo sli=
+deshows</p>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td valign=3D"top" width=3D"488" style=3D"font-size: =
+14px; font-family: helvetica,arial,sans-serif;">
+                        <table cellspacing=3D"0" cellpadding=3D"10" border=
+=3D"0"> <!-- for picture with text next to it -->
+                          <tbody>
+                            <tr>
+                              <td width=3D"80" valign=3D"top" style=3D"padd=
+ing: 0;" colspan=3D"1">
+                                <a style=3D"color: #079" href=3D"http://www=
+.slidesharenewsletter.com/wf/click?upn=3Dz-2FMv2rpVUKuuxKMsdbx-2FpvxCNNPwBw=
+M1BYGcP5QqjYU-2BNucmly5NHxsm4mpqVW3vD1C0mzKlukLD-2FH-2FJ5QilcQLTPWDhh5R6wcb=
+NUNI9gMCq2iE6MqZGRSYoWcINRTAKohvYb8Vab46NMzu5W5VgQw-3D-3D_SovCTpkY3vMdnEOac=
+9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8W8-2FYB7nm3B89pQF8MjnEKV=
+2DSqqEg1VfsWcXWIm5jq0hvr1Yr78GEn6fT1gkpHdGh0mpmlaKleLuFG30sSo2KXdb4mtuZPqp-=
+2BwCmgLuMV-2FfnMVDz1buyc60MMq2EGTQY8KvWZrtaxl3vETHYh37H06IkD-2F2iVFs-2Bzp13=
+Hww854NvxqjTkJ1K0-2FmnuGC-2BqpbNcJ68f6ExrZtDy9AIzrN00A6x0kSbDS7-2FkLvXY6eXA=
+QAqMm7d2vh-2FlkwY-2FzexRL0uA2cENF1EIyrFd0JL0xxg-2FHW3S-2FcbqBTG4cooWXjrrAc-=
+3D" target=3D"_blank">
+                                <img width=3D"160" height=3D"121" alt=3D"Su=
+perstorm Sandy" src=3D"http://slideshare-wordpress-blog-pictures.s3.amazona=
+ws.com/sandy_fromspace_157x118.jpg" style=3D"margin-right: 12px;"></a>
+                              </td>
+
+                              <td width=3D"330" valign=3D"top" style=3D"pad=
+ding: 0;" colspan=3D"1">
+                                <p style=3D"font-size:14px; font-family:hel=
+vetica,arial,sans-serif;margin:0px">
+Community members express their concern and support, as well as their exper=
+tise and knowledge, by creating and creating <a style=3D"color: #079" href=
+=3D"http://www.slidesharenewsletter.com/wf/click?upn=3Dz-2FMv2rpVUKuuxKMsdb=
+x-2FpvxCNNPwBwM1BYGcP5QqjYU-2BNucmly5NHxsm4mpqVW3vD1C0mzKlukLD-2FH-2FJ5Qilc=
+QLTPWDhh5R6wcbNUNI9gMCq2iE6MqZGRSYoWcINRTAKohvYb8Vab46NMzu5W5VgQw-3D-3D_Sov=
+CTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu83SSBfa-2FN=
+U-2FJHeLBs5HIwLO8GwzdqDPQ-2FKT6vJN0cFH5ddHswdcdnb-2B-2FN4Zn36OJO1Qql6sreo5H=
+OoOVW-2Bexnzcw-2Bef1aeyt8JFIGhmXQENyw8IM9zdKujWImGG01YOFMg7pCOSFNzZ6xLy-2F7=
+VU-2FmnDV5MMeILpyX3mlQox2baNWT5u1OriD82SwERGnTtUqUsARWeMZvqGA10ICbmHWwPJfk3=
+rU2v0ldf4Eh9o4FnGNDJ1Xr6pAxLBYyiyiqTzPi3dqUEeybs5y8LivwMB9vAMQwrrVbgG-2F-2F=
+CJiZ-2FDV-2BhdQ-3D" target=3D"_blank">photo slideshows</a>. Sharing also he=
+lps inform the greater community about long-term outcomes affecting those w=
+ho are involved. If you create a <a style=3D"color: #079" href=3D"http://ww=
+w.slidesharenewsletter.com/wf/click?upn=3Dz-2FMv2rpVUKuuxKMsdbx-2FpvxCNNPwB=
+wM1BYGcP5QqjYU-2BNucmly5NHxsm4mpqVW3vD1C0mzKlukLD-2FH-2FJ5QilcQLTPWDhh5R6wc=
+bNUNI9gMCq2iE6MqZGRSYoWcINRTAKohvYb8Vab46NMzu5W5VgQw-3D-3D_SovCTpkY3vMdnEOa=
+c9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8VREHa8rQGUUQ9hAlTORJfKK=
+AbXEzjPwYSVRCXYBHAxvz9nQFpEtZSusoUslnbdfCCYsbA2MNJOx0fpelfRvQnEromQOaYGfbxJ=
+FRaAyWlnTOK76h80XBPUVThzHaqqvUyqbxoLWzVprIcFp0MpvutQAV8mjbcCQKMxS5c1pzTQiW3=
+siJ-2B-2BBIDMDT14HZxRxv-2Fx-2BwNvFEYKzn0Rmzmqb4BC3X-2FlkyqWTeaqst52F0ENToKV=
+OpfOKYzk4PG95xitiOub4VpsnqH3sKXqxWQ9zuXw9UD0A2djaF1ucGlOAft30-3D" target=3D=
+"_blank">slidedeck about Superstorm Sandy</a> and its after-effects, please=
+ tag it 'sandy'. We'll spotlight these presentations as they come in.=20
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- end second article -->
+=20=20=20=20=20
+                    <!-- begin third article-->
+                    <tr>
+                      <td valign=3D"top" width=3D"488" style=3D"font-size: =
+14px; font-family: helvetica,arial,sans-serif;">
+                        <p style=3D"color:#687876; font-size:18px; font-wei=
+ght:700; margin: 24px 0 12px;">TempsAhead picks 10 favorite creative resume=
+s </p>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td valign=3D"top" width=3D"488" style=3D"font-size: =
+14px; font-family: helvetica,arial,sans-serif;">
+                        <table cellspacing=3D"0" cellpadding=3D"10" border=
+=3D"0"> <!-- for picture with text next to it -->
+                          <tbody>
+                            <tr>
+                              <td width=3D"80" valign=3D"top" style=3D"padd=
+ing: 0;" colspan=3D"1">
+                                <a style=3D"color: #079" href=3D"http://www=
+.slidesharenewsletter.com/wf/click?upn=3DJjY7yJgNVQZiz1211QP0zcxKyeeEWgb0Ja=
+iHxRVzcNM6YbMmhMciVhyS-2BhR6pB3eKJMkmJ87IP2ufMHNNTYN9upY-2FfWG8wF4uTSIIJfaV=
+L0U7b-2BquYNdId7W6vvXE8da_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G=
+-2BP2qAL2pn2-2B4iu83qxwrhMc9OLjdML2jdwjG0FfbdFMGALs1TVmTEGeNvD5oxb-2FOCA-2F=
+XJtzGeZKJM7IkYA-2Bq9iPiX3QjI85DARIyrK6mFyWekUMHfd3vrylrNs-2BPf3nAYEL5dhjYu2=
+MODeKG-2Bd4WCk993mdeOahGKQqMH-2FHnnm6HQumsAqOHPMpUpkhplDmOdy-2BZFiCmZw3X1CQ=
+R0hOYla6e2BeF69qjZsTTSGW56l4PMYgUm9uwGwsqEd4Xb3YkOMsd-2F-2Ffnf3F4rFs3GWIL-2=
+FOiDAQUHP1ilrnpDgUy6bTiLiywlLz-2ByXHIpXI-3D" target=3D"_blank">
+                                <img width=3D"157" height=3D"120" alt=3D"Ev=
+ent spotlight" src=3D"http://slideshare-wordpress-blog-pictures.s3.amazonaw=
+s.com/visualresume_dion.png" style=3D"margin-right: 12px;">
+                              </td>
+                              <td width=3D"330" valign=3D"top" style=3D"pad=
+ding: 0;" colspan=3D"1"><p style=3D"font-size:14px; font-family:helvetica,a=
+rial,sans-serif;margin:0px">
+                            TempsAhead has put together a list of <a style=
+=3D"color: #079" href=3D"http://www.slidesharenewsletter.com/wf/click?upn=
+=3DJjY7yJgNVQZiz1211QP0zcxKyeeEWgb0JaiHxRVzcNM6YbMmhMciVhyS-2BhR6pB3eKJMkmJ=
+87IP2ufMHNNTYN9upY-2FfWG8wF4uTSIIJfaVL0U7b-2BquYNdId7W6vvXE8da_SovCTpkY3vMd=
+nEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8-2BZu1CuF3G-2FMEYg-=
+2FBff0Ao4bWs4mLR6IJSZoeEAJ3XRsg0DF9FDmY2zZH-2BekBpZMdku6uBYk-2BdOBfs85jaLHX=
+EfhXvZ62qmopAIAbKr-2BAxvlEQj10sxaMT8mtBDwjR-2FwyIquGIj8oiCx-2FU-2BGxnBi-2B9=
+nKhREo2eBjym-2FzDt-2Byr1TvSBkdoA1Rv9OCBYT7w8f85WNxGgz8fHewqfkCrUYTyPCIigApc=
+1FH213EymJv-2BzLZoPxxdsau9NhIwjb9oU-2BdPB7Qg2OoIACpoDlyMBzj9HihTb9NJeal8fkB=
+mLPBI2go-3D" target=3D"_blank">10 SlideShare users</a> =E2=80=9Cwho have ta=
+ken the leap and swapped their word doc for a vibrant, interactive presenta=
+tion with POP!=E2=80=9D Is your resume a bit ho-hum?  Then get <a style=3D"=
+color: #079" href=3D"http://www.slidesharenewsletter.com/wf/click?upn=3DJjY=
+7yJgNVQZiz1211QP0zcxKyeeEWgb0JaiHxRVzcNM6YbMmhMciVhyS-2BhR6pB3eKJMkmJ87IP2u=
+fMHNNTYN9upY-2FfWG8wF4uTSIIJfaVL0U7b-2BquYNdId7W6vvXE8da_SovCTpkY3vMdnEOac9=
+t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8AtLNu7cmgOae1zhO9UjP2Repl=
+ZcIVfmN0goUOldH7Pik3WO536pq4l4fJ5dNIcbYMgiVaC7Vzr0E7h4aFkDf9eS7KJXy235YZkTf=
+gThLaKT07TwpBvy-2BmFDKPJ11RFVeslxS29dCxeed5CeDv68CHLc-2F8pLuafsTfwaO-2FBXpC=
+MGpQsN46jZQOESIjWFlcL-2B3lklymtIt-2ByjhYHTYBVLeaJQsSjUFdEuMJONCLWggbYqpTzS8=
+4LGfxf6kGM0ReMrqQcg-2BCIpXCPy8dRZFccQVgAO5iEDUzgkI3ZVwr-2B2P-2BHo-3D" targe=
+t=3D"_blank">some inspiration</a> from these creative folks who are thinkin=
+g outside the doc.
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- end third article -->
+                    <!-- begin fourth article-->
+                      <tr>
+                      <td valign=3D"top" width=3D"488" style=3D"font-size: =
+14px; font-family: helvetica,arial,sans-serif;">
+                        <p style=3D"color:#687876; font-size:18px; font-wei=
+ght:700; margin: 24px 0 12px;">Event Spotlight</p>
+                      </td>
+                    </tr>
+
+                    <tr>
+                      <td valign=3D"top" width=3D"488" style=3D"font-size: =
+14px; font-family: helvetica,arial,sans-serif;">
+                        <table cellspacing=3D"0" cellpadding=3D"10" border=
+=3D"0"> <!-- for picture with text next to it -->
+                          <tbody>
+                            <tr>
+                              <td width=3D"80" valign=3D"top" style=3D"padd=
+ing: 0;" colspan=3D"1">
+                                <img width=3D"157" height=3D"107" alt=3D"Ev=
+ent spotlight" src=3D"http://slideshare-wordpress-blog-pictures.s3.amazonaw=
+s.com/spotlight_157x107_hires.jpg" style=3D"margin-right: 12px;">
+                              </td>
+                              <td width=3D"330" valign=3D"top" style=3D"pad=
+ding: 0;" colspan=3D"1"><p style=3D"font-size:14px; font-family:helvetica,a=
+rial,sans-serif;margin:0px">
+                              On our home page we're currently shining the =
+spotlight on the 3rd annual <a style=3D"color:#0077aa" href=3D"http://www.s=
+lidesharenewsletter.com/wf/click?upn=3DJjY7yJgNVQZiz1211QP0zUTI2UnfAn5eA8ct=
+-2BOsDvxrha1K0OGCCXdWPuMPGXbs9MQY5cpoCAVBkyGkrxf-2BqV8KwKZWgUk27KucdDwhhy08=
+-3D_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu823b=
+OeKvEEwAi9-2F5HeeDZvUafz6WRZkKjyrCt2GZzIfKmqRo3nqOkG2G65j9qRjjHTz6ZTCjlAgqN=
+M-2FVn228hzLwth6sVRCbDITCSfqa7VqbOicnZm1waOjOcHbTcFHVwhKwtSC-2Bpgj5UF957Bc5=
+hZnsbl2C8PD4ZCYi4h6w-2FWDFrxgdlwRXVSV19zyOh0ithW-2FWISxGOb96YZWC40y7zlw6yHI=
+SFy906JkYr6vI8wdLV7lYr3Z9vsgZTp4ezYAJz-2BddmgVdI-2BRkq1MNonYMZiwDl7GQQkNQkq=
+v-2FvJ1I5Wtc-3D" target=3D"_blank">Content Strategy Forum</a> which took pl=
+ace last month in Cape Town, South Africa.  Nearly 60 presentations from <a=
+ style=3D"color:#0077aa" href=3D"http://www.slidesharenewsletter.com/wf/cli=
+ck?upn=3DJjY7yJgNVQZiz1211QP0zUTI2UnfAn5eA8ct-2BOsDvxrha1K0OGCCXdWPuMPGXbs9=
+MQY5cpoCAVBkyGkrxf-2BqV3qVM5zeE50uKhTQ0czpCBs-3D_SovCTpkY3vMdnEOac9t5wZWte9=
+TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8VrhVrVCyX7LHDKeoDiFEYPiF8zbjjBiwG=
+qfqk4QOBdZQx9RrQcjboG4ocAjvf9K9YdXzCe4lshExhAoPRH79KqoUJzsDkSwHFPa88kdhx2Kl=
+61EiIzEQ54MahwXKMadEZ-2FDQAGsLiA-2FzpqPOP7gXLdOfGwwfnIWwgY5-2BHbAX0ckyZh-2B=
+H8giTJ9AcNniHUixtkJJljQq-2FQKzqKTs9gFymt-2FjLjD0kpu1O332e8D8nIMzotTVjID7lkV=
+Pnl2CdYjCjQA2iwtmNtdRobYuHLP520yIXeZgdflf9e4P9y5Grzgs-3D" target=3D"_blank"=
+>Pubcon Las Vegas</a> have been uploaded in the past couple weeks.  Be sure=
+ to check out our <a style=3D"color:#0077aa" href=3D"http://www.slidesharen=
+ewsletter.com/wf/click?upn=3DJjY7yJgNVQZiz1211QP0zeSHlLk7AKplWKeSQOh-2BIwE-=
+3D_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8-2FS=
+7gDfdWh4Xt9EjhmQEmzGnM-2FXzvmmGQ3k1BrDcU15eflEKx4xq9Hrq7LObEuP6tm1ixWWTLoZX=
+sCue-2FfxrejCiakSYI-2BifNe0laU2wKvEKF3geqyK6j6Os3cgG2mnv-2B0c28wjmPmyNdM9T6=
+SkfVurXQ5v3o1M3LRy-2BJhdhMc56o7F2rupJxNaZBBLX34rTIABog7FawA8WJZ04rz0zg53oJs=
+8qKnm6iCiQ-2BBQB4jTgn3qYL5wMUbhOqVcIFwPw-2Bsf4hmkMP5z4cqZT9nWXcUX9hAZHKXCQb=
+eoHWb3AgAIo-3D" target=3D"_blank">home page</a> for recent conference uploa=
+ds from around the world.
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- end fourth article -->
+                    <tr>
+                      <td valign=3D"top" width=3D"488" colspan=3D"2" style=
+=3D"padding: 10px 0; font-size: 14px; font-family: helvetica,arial,sans-ser=
+if;">
+                        <p style=3D"color:#687876; font-size:18px; font-wei=
+ght:700; margin: 18px 0 12px;">Need some help using SlideShare?</p>
+                        <p>
+                          Check the <a style=3D"color:#0077aa" href=3D"http=
+://www.slidesharenewsletter.com/wf/click?upn=3DFaEXEXbspcT6z1P1-2FSqE0sxHhA=
+0GGcpMj0yvXcPOB9FeHD7sIcg6k48bSGuotne6_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JW=
+tyxJbLajCy49G-2BP2qAL2pn2-2B4iu8P-2BC5nMDY4pOcYUKx0sLCph4gHoSvSQFk4mXOjbe88=
+rrBZGJx6g-2BoG4IfPaBcMYSsGJwVjDEpVCa5nyu-2BhZqhcsGKw0smSHxdQAKUJ14XZTiQH2bw=
+4SSP6s461EJgaNIHklR-2BTPKGiFKKkiKPcrOayg8iIcQAWSpErUW4SPb2dNP1M8hWoGTMtAmyf=
+hjE7rnjB-2FVqfZ3TBMt88S0PZRUtv5JVDiCTo32gQi1u4ZTrsMFpiVGbKQnHmouSZXbBFE6S1W=
+am-2BQPp1PGRGboAC9WxfEUJJhQEMORL7uqKcoGxI1A-3D" target=3D"_blank">FAQs on o=
+ur community forums</a>.=20=20=20
+                          We provide support to all registered members of t=
+he SlideShare community - free accounts as well as our PRO members.=20=20
+                          Just <a style=3D"color:#0077aa" href=3D"http://ww=
+w.slidesharenewsletter.com/wf/click?upn=3DFaEXEXbspcT6z1P1-2FSqE0sxHhA0GGcp=
+Mj0yvXcPOB9GVed9RWSivH6vO0t1QCtft_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJb=
+LajCy49G-2BP2qAL2pn2-2B4iu8sUNAtIvHXRDiNWeBqEWzCSUwat-2BHxwgLtNY-2BuedwPHxO=
+oajBvTFE4f9JGrYj3UxmItY4okJtH4N4A9azjpZxo-2F70DWpbnhnCf00-2Fs0aq4EVF732Vrg6=
+xmUPKP4Mo31KLLq2N-2F0d4QtlG7Lk4nlJJOtELxIXTA6kSWEJ0m3rpLkYXxfVgHrJApLNgliiw=
+FmY7TbO8wkJ8Xj4q2ViwdHmoXqxMILMR-2FZCG-2FmppEQQEVtUxLVJF-2F7HHx9MuVMCbYKmys=
+TfGzC-2BU10ws4XYnsa2ngqnW5ffq-2FtFs8uAnC9teIb0-3D" target=3D"_blank">log in=
+ and submit a help request.</a>
+                        </p>
+                      </td>
+                    </tr>
+                  <!-- Left side content area ends.-->
+                </table>=20=20=20=20=20=20
+              </td>
+=20=20
+              <td valign=3D"top" width=3D"160"><!-- Right side ad only chan=
+ge the anchor link and image path -->
+                <a style=3D"color: #079" href=3D"http://www.slidesharenewsl=
+etter.com/wf/click?upn=3Dkjr6-2Bm3GnrAw2F8wG2LOMg5qSCig78CTxVbiakNVOVOZQmNr=
+ZxTn8Ip0BpzplXXO4FeMM1sb9vfOp1yGETRYPMASED1EF-2FA3KO60VY9sUkZpx3F4uO5oikF5T=
+siwuLxz2IEWUcnoVOCX5cVQFQWjyn9t1-2FhYN7qXHZ8SDdApRNs-3D_SovCTpkY3vMdnEOac9t=
+5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8ja9htCIwAzkg-2FjNyHZR9I5iG=
+0TrjSXU4sJPX8J6xTPUcDTX8IYwuOw8I-2F5gwFgkc9h5KwMr3M0klthcU536LDbsYuWTlKOXwV=
+aF3BGBOHBRyHk1oqS5-2FnwbQtfUDRV7rxluESLYJ75JyaSvpyP4NkMtOPWmB7rNAaUAbyz2UKE=
+UJvUHu3gpD-2FY4LsWQCimc8UE0Z2vjB2NbRTigeyTNikYaEcx4XQg01YbvZXrNiZd1TVo2MdWL=
+N7PnnfdZqDc6TLdaqE8xqV5N38SCK-2FinlItE5hAJ-2FnbtxNvwkSVvpCY4-3D" target=3D"=
+_blank">
+                  <img alt=3D"Salesforce Twitter eBook" src=3D"http://slide=
+share-wordpress-blog-pictures.s3.amazonaws.com/TwittereBook-160x600.jpeg" s=
+tyle=3D"border: 0; "/>
+                </a>
+              </td><!-- Ad ends -->
+            </tr>
+          </tbody>
+        </table>
+        <table style=3D'margin-top: -30px' align=3D"center" bgcolor=3D"#fff=
+fff" border=3D"0" cellpadding=3D"0" cellspacing=3D"24" width=3D"720"><!-- F=
+ooter, do not edit -->
+          <tbody>
+            <tr>
+              <td valign=3D"top" width=3D"488">
+                <hr style=3D"color: #687876; background-color: #687876; hei=
+ght: 2px;" />
+                <p style=3D"font-size:11px;font-family:'verdana';color:#666=
+666;line-height:1.5">
+                 <a href=3D"http://www.slidesharenewsletter.com/wf/click?up=
+n=3DwJjGWVw-2FGwKoUqDS-2BGKU76x9nJPXGgVyoh7Vp0HqZbY890ganmejqF-2B-2FiS5pOmK=
+g_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8eP-2B=
+dtENo2iFI5LelWsBICV7Isc-2BrMGXet6XOAdZdSaT87nR6mDlqRtGBQnVh4QTEcHdU6qQP776x=
+bP2mus0g40iXbH2orb-2FCUYvJJTSy88TwsKMTHwtjTmfS6gWf0zf-2Fk4QRF7gplBkq4OI0ZXz=
+oAOtTca5XICGfvHCRHMveyO-2BCGpQjeMCfalyUv-2FVCyz0LqNOKnY24OqHjtikrzR3GsfmIKC=
+fDFMiY2HVKKVozG-2BY83mLivvgFzz7-2B7mcCHoX0ndzKjJ4hC0-2B1Z793XxqNyinhh8x3oX0=
+pIxiK1yjOVJc-3D" style=3D"color: rgb(0, 119, 170);" target=3D"_blank">Subsc=
+ribe to our blog</a>, follow our <a href=3D"http://www.slidesharenewsletter=
+.com/wf/click?upn=3DJjY7yJgNVQZiz1211QP0zYsiO9N9S0J3uWhLA5zzxd1aTBPxndW-2F5=
+NV9rvI9itgb_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2=
+B4iu8ZvzoT1vRA1-2Byzm4MCvyLknnrv6-2FxGsucuIBG2aGDIgcKMROZXKir1n3mNQmWlFisiZ=
+HiV18BI8IAbTLc-2Bgu0XMx0LLti9-2FGvUWi5Wcp1Ygo-2FdGwjFG2YRahA7oO2KZzcZSzJ8ma=
+NeMKZC-2B38omoswSpa3wcL8HSBSKPRoznv1m-2Bk5H-2F8xDKLT9HjBcavyGqTwAIR5y7wwnhe=
+6-2B1OgP9B-2FVU7Ejpn3fgf-2BvrH70r2dMojgHM2vaRLbG1nsPYLpZZ0JBsw55XU1ROA6CASX=
+cASQ1G32Obe8U-2FRnoKze5ZKArc-3D" style=3D"color: rgb(0, 119, 170);" target=
+=3D"_blank">LinkedIn</a> company page, follow <a href=3D"http://www.slidesh=
+arenewsletter.com/wf/click?upn=3DJjY7yJgNVQZiz1211QP0zSctSSbkY-2BszsjkwcWfV=
+pFO9yC-2BDjvUHoBGDseHdeb5l_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49=
+G-2BP2qAL2pn2-2B4iu8NGyQ2k5e58nXAnziHCbhbMFTRqNN450CSQTE-2BPmy5SIES-2BXOl9L=
+H-2Bn9bixtzIg-2Fhb7URRQxpSGw-2FyEsJSeh0S7AytNxhSTf3cE-2BbFr-2BwaOW7-2FCpCsW=
+PgLlah6ZNJ2MiFj6UZYYE79SujJi7ek-2FLCPm-2FzediEOOIm0tJqfq-2BCtlwhZQ3DO0AtsTS=
+wtsGyX72xoWno1MGF-2BRBxMYJubJa8YP-2F6xqgeBJ-2FlY1wRTfqa8-2B-2Bk8WZr-2FFgaOq=
+cKKE5zTlPiHHKdOL9-2FUz1RAS5jC3XZ-2BfSYqqJkQttKGXhNVmBqlec-3D" style=3D"colo=
+r: rgb(0, 119, 170);" target=3D"_blank">@slideshare</a> on Twitter and let'=
+s be <a href=3D"http://www.slidesharenewsletter.com/wf/click?upn=3DJjY7yJgN=
+VQZiz1211QP0zVz3yN-2F5Ll5vCNrYrb65aI63aTFtgoncCroKSTQPhiB2_SovCTpkY3vMdnEOa=
+c9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu81Ld-2FU9FfaGoDZWL9v7ELT=
+UVa0NM1R5GiAxr8SZ9U-2FseaM2GYKHdoGfLZzOFoxIbukfVE7z622KLjjKqgRmMA1rquvYnkc9=
+ey-2BUgE-2BiViJ3Z0Jw0I0SeMialTRHfihp1Cxoqx0xZ3n0phN1KBSO0-2BTx-2B2Sn4elCnyP=
+Y5UKo2AXJtzIW3tbTJHyNKfB7UdvblBzHi7ZMkRp5fBflF7QONH1jdPC-2FVsYyEIHk3qFsJ7u1=
+1dj-2BeKchQWYomADQxaj2C3PZdW0pEnlJAAgn9SewJUxnVE7TqGaJHew-2BNvE4ONds8-3D" s=
+tyle=3D"color: rgb(0, 119, 170);" title=3D"SlideShare on Facebook" target=
+=3D"_blank">friends on Facebook</a> - now over 120,000 friends strong.<br />
+                  We have your email at faldo_sonic@yahoo.com.  You signed =
+up for this newsletter when you registered for a SlideShare account. You can
+                  <a href=3D"http://www.slidesharenewsletter.com/wf/click?u=
+pn=3DJjY7yJgNVQZiz1211QP0ze-2BAUxaJ3h-2FQT97y-2FaCgofvZcK-2B7qmqjS6zXV8K6Td=
+hjQv7P1tQpvoSoy2Zh9KHeIRb2E60NyneWWXVy5vAiCUNPk7EKzNlblnUwCgQpILcNkmB9rzPcw=
+FU2Dl9PxGwqKA-3D-3D_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2q=
+AL2pn2-2B4iu8hGT6yUeY-2BreX3yKdtzGLCkVFQJNKYiQBK4Dzptgc58j866O-2BbytObI90Er=
+8GDnrDE3yTfKNQF-2FaViVl6rbJbcEnTsJ-2BRA8B2-2Bp-2F4QbI3r-2BFIpswdgN9I8CF4ZtN=
+0N5E3Un-2BPRlLIualLMO9gRae7jlCPzx9EsY46PtDNhkiSuSGvMTgP0bOqg-2FxyBpDTcQtwSS=
+FVRTERDmyuVOFhPP066S1XcmUdgXWk8NmLPUHOYPoywgxUKq-2F557g-2BBxPg-2FOC3YZhdNcH=
+z9vhNY49nrDmU1ZaZHlulcexOE0gxas8Tj5g-3D" style=3D"color: rgb(0, 119, 170);"=
+ target=3D"_blank">stop receiving</a>=20
+                  this newsletter or <a href=3D"http://www.slidesharenewsle=
+tter.com/wf/click?upn=3DJjY7yJgNVQZiz1211QP0zbmpUDbFA-2BOzyJeT5gVsP2C-2FvFa=
+1armibk-2Byj-2B1Ey0nXwbqfJgUiWvHMh-2FoeLOAhl-2BpuaWMWJsL7hQ0zFtY64iPor26EOI=
+r47DsaN60-2BIQau_SovCTpkY3vMdnEOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2=
+pn2-2B4iu8LzCKjZMazzaKgvw2tYVtL6v5WPxCZNuYxXlFe56TCXV35OINynphY-2BAIJllkbiF=
+YdH7cCLuCVEYMOXULXHQv8AQnt9Lp2eMXbTRBi8qqiQCUIDX11cXEiTLragh6CEdH4rtl5iOjuH=
+0O2GQ0L0OOMm5aumOP1pri9-2FQxSPIuBDGdqNiRwmsRLyl5HaJNmvV2EjpomADfvPrCOArGsqR=
+HI7YkWZZGmynYmy1JSz14jRPfYjFo9XrQKHbgN1loaH5OWDEp-2FukIqww4P2T18XEN0bYvxYRL=
+rJnd5FQj-2Fk0mpQk-3D" style=3D"color: rgb(0, 119, 170);" target=3D"_blank">=
+change email settings</a>.
+                  <br /><br /> SlideShare Inc., 490 2nd St, Suite 300, San =
+Francisco, CA 94107
+                </p>
+              </td>
+            </tr>
+          </tbody>
+        </table><!-- Footer ends -->
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<img src=3D"http://www.slidesharenewsletter.com/wf/open?upn=3DSovCTpkY3vMdn=
+EOac9t5wZWte9TGxs7FM1JWtyxJbLajCy49G-2BP2qAL2pn2-2B4iu8Ma0w9vKzr1WM-2BsWOGh=
+BWuq4mWwf-2FTkpdRgnRu9UodDinzEc17WV2VHFt2opBwzcmmJu1nWF2-2Fd3OAX1fnbY30gDWC=
+B7-2B95AcHvMwpXj-2BuDDsvS-2BWAl-2Ft5CjPExRtto85fRBssKQVwV4AtdE0nIWYOVJ5sZyJ=
+4yN9nt-2BkyOsTiSvctRU70BFBcyRvok00YNpSCkEFkyTa06qWf-2BqQ96lYrCAL70Zb8bm-2Bx=
+8OQ7im-2BYePop-2B3IpcUGEWjKMQrMYuPzX45skLjxo07toE51LLPKqKmYkAhEk1OH8k4vjZpY=
+vs8-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px =
+!important;width:1px !important;border-width:0 !important;margin-top:0 !imp=
+ortant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !=
+important;padding-top:0 !important;padding-bottom:0 !important;padding-righ=
+t:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--===============1049237703475215268==--

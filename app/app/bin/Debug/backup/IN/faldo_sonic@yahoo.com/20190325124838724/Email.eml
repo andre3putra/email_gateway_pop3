@@ -1,0 +1,131 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.235; Thu, 01 Nov 2012 00:13:27 -0700
+Return-Path: <nOysrCzstCwcDIwsbEwMtEa0jGxM7KwMjIw=@smtp-coi-g09-026.aweber.com>
+Received-SPF: pass (domain of smtp-coi-g09-026.aweber.com designates 204.194.223.26 as permitted sender)
+X-YMailISG: C7.vY9UWLDvSNEmbbdhnPYwXuz1azpqCD.fG8WSUVJ32B2Y4
+ qG9z7gFCRlLUhZJAg8Dh9Ki9BiplmxB70MYImlbWwsefj3luAhSoswkO5QxU
+ aE3DeECGEsPyLL70W_NarPCP4oTQRQGgeIovdjZ4055vuXdzSEj4qowS1jSH
+ pSYoXS0cDtwdWV4zdh33_ZVLMcwb8_DZJRUKkJIi23gzgyPjXnkFvVx7PbhD
+ PHkhbZeHfHPHaq0Ri5iC_MdHdNLX3_KD.qV8PqyiX3U2r6CXRirEOxAq4QA3
+ nzhv6q3aTwsD6ksoIaXHcx1UFtG4YSw8NsS8bZCqIGPlJ2tJGiHlOQ0PysZk
+ .JmmJp4Y3oAMjVMDgy5NHcG2dQziODBaS7Qg0COcjaw_0scQBg1Fy1iMNYBk
+ 2fqoiKT6rGyvQrqINRnp_phSFNl5xFWPJI.kV1BXZ6hHORpmTDEAdWXQkGEt
+ PDLX_YRAkI_iTvExyHFigBlRoY5v.e70kQ.dE_P4iV1Mqy2huptcIWg9q2jI
+ og0gSsqWs1tvz5_lPVcOVILezuSpXgWnooej8zMNfOs2tEhYC8LIoEO9_NSD
+ TNxfESVm57tpQ.QZaNXnjzdgiaCOo2m6zCBL.IozyNhmwnemiGASvzoKXm81
+ g7kPEhLNnmZUi5rRxzpWz56hmWxQKubwzUCAqC8wgUkzwMQ7qwxpjzbTxAbS
+ RNO16AGT8Uc0Q_93zGdtrnfKgKOl160aRnFWKdUQKYMquXuV2MsPjTQTyxrI
+ YAa4XyXy4bezYyZZcSLv7iXg2W_1D7Fd03sZcqXFrtvUK6G6Dvxcg54xxiaJ
+ psumIGDhS_QJh57E1NQ2a1JzKkt1MmsNhN_Xv_p6dUfcekvhPBirMFvidQYQ
+ HlMHdAjrlhu80tyfnUgqSiLZKVSKTH324jMbfx965rc65z8BWyHCOxmw3FPE
+ E54ebxzCC0V_VHoZVb49IE9o0ZT2d7fxilEmUaUnll_V4WPpYhy.EmNcHBeN
+ FqVVziZ.AQMJiEIbReBXSWk7mAYRAalsMCm97HmG0c2BFa1WT3PliFbjVrSH
+ TR2_AD9xO2ZwIVKqU4Lq9p0wQwNARvBCP6u.xOfLKGsfNXAyo7NsrWM.QvZE
+ 6tMiCKYfv7HPsA97Px5oWs5aBKLHyc9jzkNSFtCABy8AzmpeIV7o9Eq5wHMJ
+ IkQyWRtyHYcKxbAmM291KolFSCs4wIKH4O6Wv4E0FI9Ukb6HDWIGDPy4cRD.
+ tvRhN6UgVqfs2wl2PxGAEIxEXuyROwyy0MzG27xeW8PHCSG1_v43NA--
+X-Originating-IP: [204.194.223.26]
+Authentication-Results: mta1018.mail.bf1.yahoo.com  from=aweber.com; domainkeys=neutral (no sig);  from=aweber.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO smtp-coi-g09-026.aweber.com) (204.194.223.26)
+  by mta1018.mail.bf1.yahoo.com with SMTP; Thu, 01 Nov 2012 00:13:27 -0700
+DKIM-Signature: v=1; a=rsa-sha1; d=aweber.com; s=dkim_s1024; c=relaxed/simple;
+	q=dns/txt; i=@aweber.com; t=1351754006;
+	h=Sender:Subject:Date:From:List-Unsubscribe:To:MIME-version:Content-type;
+	bh=QBkpXDQChFrr1ar12Ez8wUakyXU=;
+	b=0HdtlpInoA4p/hFwuBMPm4Joe6ysLZZz70hthbGJEU1Pb4FA7yqIGOvs/RJaV8hc
+	PvwVcg07JqB+888G1c5F01amqxtra2u+eg9DJZ8Z8Mm+K4UIWpf3IUfm6FsL+xVy
+	uD7FJyjGuYRy/fNsr915znVdsx6Goepd6635l+vnsjA=;
+Received: (qmail 28604 invoked by uid 0); 1 Nov 2012 07:13:26 -0000
+Message-ID: <F1.A0.18463.61122905@ec3>
+MIME-version: 1.0
+Content-type: multipart/alternative; boundary="_----------=_1351753553275830"
+To: "andre ilham triputra" <faldo_sonic@yahoo.com>
+From: "Denny Santoso, S.Kom, CSN" <reply_pembakarlemak@sportindo.com>
+Sender: panduandiet@aweber.com
+X-Loop: panduandiet@aweber.com
+X-Mailer: AWeber 4.1
+X-Subscription: Subscribed on 08/13/2010, via web form, by 202.152.243.158, from http://www.duniafitnes.com/category/training-program/fat-loss
+X-Verification: Verified by 202.152.243.158
+X_Id: 743207:11-01-2012-03-00-06:faldo_sonic@yahoo.com/975547
+Date: Thu, 1 Nov 2012 03:13:26 -0400
+List-Unsubscribe: <mailto:panduandiet@aweber.com?subject=unsubscribe;nOysrCzstCwcDIwsbEwMtEa0jGxM7KwMjIw=>, <http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxM7KwMjIw=>
+Subject: andre Promo Gratis Prostar Whey Protein di Bulan November
+Content-Length: 3068
+
+This is a multi-part message in MIME format.
+
+--_----------=_1351753553275830
+Content-Disposition: inline
+Content-Length: 974
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi andre,
+
+kabar baik untuk andre, Ultimate Nutrition memberikan promo GRATIS
+Prostar Whey Protein 1lb untuk setiap pembelian pembakar lemak Ultra
+Ripped 180caps selama bulan November ini.
+
+Ultra Ripped adalah suplemen untuk membantu meningkatkan metabolisme
+tubuh sehingga pembakaran lemak lebih optimal. 
+
+Sedangkan Prostar Whey Protein digunakan untuk mencukupi kebutuhan
+protein harian tubuh. Karena biasanya orang yang kelebihan berat badan,
+justru tubuhnya kekurangan protein.
+
+Gabungan kedua produk ini bisa saling menunjang untuk program
+penurunan berat badan secara sehat dan cepat.
+
+Promo ini bisa andre dapatkan melalui link ini:
+http://clicks.aweber.com/y/ct/?l=PBSpR&m=JxMe_K62A6w_ja&b=FP30PYNjT1NPONNN8slZ6A
+atau telp ke 021 7981972
+
+Buruan, karena stock sangat terbatas :)
+
+Salam,
+@dennysantoso
+
+Kenongo 4, Malang, East Java 65141, INDONESIA
+
+To unsubscribe or change subscriber options visit:
+http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxM7KwMjIw=
+
+
+--_----------=_1351753553275830
+Content-Disposition: inline
+Content-Length: 1695
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><div>Hi andre,</div>
+<div>&nbsp;</div>
+<div>kabar baik untuk andre, Ultimate Nutrition memberikan promo GRATIS</div>
+<div>Prostar Whey Protein 1lb untuk setiap pembelian pembakar lemak Ultra</div>
+<div>Ripped 180caps selama bulan November ini.</div>
+<div>&nbsp;</div>
+<div>Ultra Ripped adalah suplemen untuk membantu meningkatkan metabolisme</div>
+<div>tubuh sehingga pembakaran lemak lebih optimal.&nbsp;</div>
+<div>&nbsp;</div>
+<div>Sedangkan Prostar Whey Protein digunakan untuk mencukupi kebutuhan</div>
+<div>protein harian tubuh. Karena biasanya orang yang kelebihan berat badan,</div>
+<div>justru tubuhnya kekurangan protein.</div>
+<div>&nbsp;</div>
+<div>Gabungan kedua produk ini bisa saling menunjang untuk program</div>
+<div>penurunan berat badan secara sehat dan cepat.</div>
+<div>&nbsp;</div>
+<div>Promo ini bisa andre dapatkan melalui link ini:</div>
+<div><a target="_blank" title="" href="http://clicks.aweber.com/y/ct/?l=PBSpR&m=JxMe_K62A6w_ja&b=FP30PYNjT1NPONNN8slZ6A">http://sportindo.com/special/promo/</a></div>
+<div>atau telp ke 021 7981972</div>
+<div>&nbsp;</div>
+<div>Buruan, karena stock sangat terbatas :)</div>
+<div>&nbsp;</div>
+<div>Salam,</div>
+<div>@dennysantoso</div><br>
+Kenongo 4, Malang, East Java 65141, INDONESIA
+<BR><BR>
+<TABLE ID="aweber_rem" BORDER="0" WIDTH="580" CELLSPACING="0" CELLPADDING="0"><TR><TD>
+To unsubscribe or change subscriber options visit:<BR>
+<A HREF="http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxM7KwMjIw=">http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxM7KwMjIw=</A><BR><BR><img src="http://openrate.aweber.com/y/o/?l=PBSpR&m=JxMe_K62A6w_ja" width="1" height="1">
+</TD></TR></TABLE>
+</body></html>
+
+--_----------=_1351753553275830--

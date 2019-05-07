@@ -1,0 +1,285 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.232; Sun, 28 Oct 2012 20:32:45 -0700
+Return-Path: <noreply@netlogmail.com>
+Received-SPF: pass (domain of netlogmail.com designates 193.164.158.72 as permitted sender)
+X-YMailISG: 2lL73xAWLDtrhVOwUs5OqiadSTSRPgwOrg5GDr5.X8x8_BcG
+ 8Pqwu3FvVBZBHeHXTxyfJi.hSNRoV2aLlTM5lcXyKxo0BtnXu0zcG4bo3dac
+ Gu9qywKXEh_M2peuVll.bkmgVkN6Kyy_fd1AJ5uyy.rezor41y67fB4Vv5Gw
+ aDQObMPBDXMiL9P22Lk7qwkmNvzzbfGJ3U_OQJiAIHA7uI3QE59Rqj_t3bZv
+ Uxdm_ENud9B2UH.NKM63CydJqImrKjSpy53zLt60oAFIeiz8wDykGwpz_sLw
+ mybcmKUlOccQyJkuyIzXawyfYlGo8RHaRQJ5PledUAgYFNsF1I5XhhhUy2XD
+ VxHAKqK.6dLYrTRd68.23b5dYxsGsL0LgPzxb336QPnVabqWoe3tHFXjsQfu
+ I3_D9zXWHdncj9cl2qW7w43mxk5qnDfog41sBImknYq.xJFFow_hCYD7thr1
+ 4TYZ4YG4ilKJCgBJWmacM0D2dU4CvNN3nRPNbrgmfZvURVE_0.Z_HfqXvAd6
+ KkabzXqg8DxZvevUmnfTR7ZcMJ8kb6AY9V01PK6LuuhpjdFy1Ps1sioLikzJ
+ IBsLpJ5Xu2_yy45spiyhS9etIUQuhf05JTkcpTegmSsw22SPDrdKwikY408G
+ GnlArAwezF9joK2OfFn8MEaK21syb._4s7ZlZh0MleRgMwUskN0t55WwPsjh
+ u2o.gy_i9JSuaC9mlKU4nSVFIORt3y3iKNXt2AZdBe9zRjXe4_mDSFwbxyUA
+ tyUEvhTid6t9wkzb6dEg_0aVsdxX3x893yupTPkBZHp5jLhblYzxS4ZNFRTt
+ ZS48bS.YoCGcAyjYINw9.7Ipu7TheyllowSa0XgSL3x9O6z.pMQOrm_8ySKN
+ fxnj32kH5stxr3gJupQXrLblwS1Ybhb4GZxSJevWQTWQiialCWKn6zufLBo3
+ sL2GTr_UEGlkvSad7Z9LXVxyaG.0e2KaPzttf8GOLYoJ2t2wnUIQcj3kMEtM
+ 3fsxPrScrXqHDNI4NkA8t4lrUcj9Dv3KUj_ai7XT_WTsbsZfEFVxNg7wUCng
+ Q3pye_CiekRaBEvr5EaGDXXYdzi83f.CA7VzkSC2lgLjllAE9bui5yPkwMfw
+ ev7lleSEXsIdNT6wyofhpgcl9zga4E.r7GakTPHLDs2OX5yzD7kWcwkTkx06
+ OmFJ0NGJAQEXkZw5GaxBoNmMB2YRUt5VD6Kl5itg7paM4_5.uhDf.o4aa8Jz
+ tnTzOLDy5deoFwo-
+X-Originating-IP: [193.164.158.72]
+Authentication-Results: mta1419.mail.mud.yahoo.com  from=netlogmail.com; domainkeys=neutral (no sig);  from=netlogmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mx01-3.netlogmail.com) (193.164.158.72)
+  by mta1419.mail.mud.yahoo.com with SMTP; Sun, 28 Oct 2012 20:32:44 -0700
+Return-Path: <noreply@netlogmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; d=netlogmail.com; s=k256; c=relaxed/simple;
+	q=dns/txt; i=@netlogmail.com; t=1351480350;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=xWV9Hbbflfl50dCSFc8IzfQ4o3wnIIrxdHYojBmN914=;
+	b=x4by3mxE+CwUpWm9k02IC8wsTyUAWQuFSfO3aak+RSWRlOA+F1VWrMrN0ZcyIDWF
+	AYAnZw//QZQ2QFqCBjDVS0w5ejBuIEdXsS5B/dxOF6qVTKlt++p7NCZneura9pEG
+	Z0OOj3ZBsr45JYE/lqmjkueZH6SRoTiYX5JLdoMhl4I=;
+Received: from [192.168.10.28] ([192.168.10.28:51883] helo=web)
+	by mx19.netlogmail.com (envelope-from <noreply@netlogmail.com>)
+	(ecelerity 3.5.0.35861 r(Momo-dev:tip)) with ESMTP
+	id 26/D9-32453-E14FD805; Mon, 29 Oct 2012 03:12:30 +0000
+From: "Rizky Irawan melalui Twoo" <noreply@netlogmail.com>
+Message-ID: <26.D9.32453.E14FD805@mail06.netnoc>
+To: "faldo_sonic@yahoo.com" <=?UTF-8?B?ZmFsZG9fc29uaWNAeWFob28uY29t?=>
+Reply-To: "noreply@netlogmail.com" <noreply@netlogmail.com>
+Sender: noreply@netlogmail.com
+Subject: Rizky Irawan menambahkanmu sebagai kontak di Twoo dan ingin tersambung
+List-Unsubscribe: <mailto:unsubscribe+f8c79365a33fb73d469182b299a3fd13@unsubscribe.twoo.com?subject=-6aWQ9NDAwamMzLG1taWQ9OWItNDAwamMzLTFoMmIwMzlnLWMyOCxhcHBpZD0yLHQ9MixzPTEsdj0yOCx1PSxmPTE3MjYxNzM2LGQ9MTM1MTQ4MDM1MCxtPXA=>, <http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9MSZ1PSUyRnVuc3Vic2NyaWJlJTJGJTNGZW1haWwlM0RmYWxkb19zb25pYyUyNTQweWFob28uY29tJTI2Y29kZSUzRDAwODk3NWEyNGM5YjYxNGEzZDg4ODVhMWMzYWU3MDQyJTI2dHlwZWlkJTNEMiUyNnNraXBTcGxhc2glM0RtYWls>
+Date: Mon, 29 Oct 2012 03:12:30 +0000
+X-MM-ID: -6aWQ9NDAwamMzLG1taWQ9OWItNDAwamMzLTFoMmIwMzlnLWMyOCxhcHBpZD0yLHQ9MixzPTEsdj0yOCx1PSxmPTE3MjYxNzM2LGQ9MTM1MTQ4MDM1MCxtPXA=
+X-rpcampaign: Twoo0020010280
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="massivemedia_6d0617373369766566d656496961ef738"
+Content-Length: 15183
+
+This is a multi-part message in MIME format.
+
+--massivemedia_6d0617373369766566d656496961ef738
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Rizky menambahkanmu sebagai kontak di Twoo dan ingin tersambung denganmu.
+
+Tersambung di Twoo Salin/rekat tautan berikut ke peramban web kamu:
+http://mail.twoo.com/m/idXPHIfN
+
+Twoo adalah cara paling asyik bertemu kenalan baru di daerahmu
+
+Bergabung dengan lebih dari 10 juta orang
+Twoo adalah jaringan tempat bertemu kenalan baru yang paling cepat berkembang. Cari tahu kenapa lebih dari 10 juta orang bergabung di Twoo.
+
+Mengobrol sekarang
+Pertama kali yang ingin kamu lakukan saat melihat profil menarik adalah mulai mengobrol, betul kan? Di Twoo kami jamin banyak orang yang sangat ingin mengobrol. Yang paling penting: gratis!
+
+Ponsel
+Periksa apa yang terjadi di sekitarmu dengan aplikasi iPhone dan Android. Bawa Twoo denganmu ke mana pun kamu pergi.
+
+----------------------------------------------------------------
+Tidak ingin menerima email ini? Ikuti tautan ini:
+http://mail.twoo.com/m/CiFcLXf$
+TWOO NV/SA, Grainsborough House, 81 Oxford Street, W1D 2EU London, United Kingdom info-id@twoo.com BE0834322338.
+--massivemedia_6d0617373369766566d656496961ef738
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head><title>Rizky Irawan menambahkanmu sebagai kontak di Twoo dan ingin tersambung</title>
+<style>
+a {
+color: #1269DD !important;
+}
+</style>
+</head><body topmargin='0' bottommargin='0' align='center' leftmargin='0' rightmargin='0' style='-webkit-font-smoothing: antialiased;width:100% !important;background:#F2F2F2;-webkit-text-size-adjust:none;'><div style="max-width:800px;margin:0;padding:20px 0;background:#F2F2F2;">
+<table class="table" align="center" width="80%" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif;background-color:#FFF;text-align: left">
+<tr>
+<td colspan="3" style="font-size:11px; color:#524d4d; padding:0;background:#F2F2F2;">
+<p>
+Baca email ini dalam:
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9MiZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEZW4lMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="color: #1269DD; font-size: 11px; font-family: Arial;">English</a>,
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9MyZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEbmwlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="color: #1269DD; font-size: 11px; font-family: Arial;">Nederlands</a>,
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9NCZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEanYlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="color: #1269DD; font-size: 11px; font-family: Arial;"></a>,
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9NSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEZXMlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="color: #1269DD; font-size: 11px; font-family: Arial;">Español</a>,
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9NiZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEZnIlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="color: #1269DD; font-size: 11px; font-family: Arial;">Français</a>,
+dan
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9NyZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2ZW1haWwlM0RmYWxkb19zb25pYyUyNTQweWFob28uY29tJTI2Y29kZSUzRDAwODk3NWEyNGM5YjYxNGEzZDg4ODVhMWMzYWU3MDQyJTI2aW52aXRlciUzRDkzMjgzMDQyNQ" style="color: #1269DD; font-size: 11px; font-family: Arial;">26 bahasa lain</a>.
+</p>
+Kamu menerima email ini karena Rizky ingin tersambung dengan <a href="mailto:faldo_sonic@yahoo.com" style="#1269DD">faldo_sonic@yahoo.com</a> di Twoo. <a  href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OCZ1PSUyRnVuc3Vic2NyaWJlJTJGJTNGZW1haWwlM0RmYWxkb19zb25pYyUyNTQweWFob28uY29tJTI2Y29kZSUzRDAwODk3NWEyNGM5YjYxNGEzZDg4ODVhMWMzYWU3MDQyJTI2dHlwZWlkJTNEMiUyNnNraXBTcGxhc2glM0RtYWls" style="color: #1269DD;">Berhenti langganan</a>.
+</td>
+</tr>
+<tr>
+<td colspan="3" height="10" style="font-size:11px; color:#524d4d; padding:0;background:#F2F2F2;"></td>
+</tr>
+<tr>
+<td style="padding:20px">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" style="width:120px">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEaWQlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="text-decoration: none;">
+<img src="http://www.twoocdn.com/c/82dc581fcbafebafbdde2391d0178b53_1_6_0_547_576_180_180_0003165286.jpg" width="100%" style="display: block;border-style:none;max-width:120px;border: 1px solid #E5E5E5" border="0" />
+</a>
+</td>
+<td width="3%"></td>
+<td valign="middle">
+<p>
+<span style="color: #444444; font-family:Arial, Helvetica, sans-serif; font-size: 20px;">
+Rizky menambahkanmu sebagai kontak di Twoo dan ingin tersambung denganmu.
+</span>
+</p>
+<table cellspacing="0" cellpadding="6" class="button">
+<tr>
+<td bgcolor="#FF9833" align="center" valign="middle" background="http://www.twoocdn.com/static/0474869951956976139403838/images/mails/btn_mail_orange.jpg" style="min-width: 135px;background:url('http://www.twoocdn.com/static/0474869951956976139403838/images/mails/btn_mail_orange.jpg') #FF9833; border:1px solid #fd8830;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEaWQlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="text-decoration: none;">
+<span style="font-size:16px;font-family:Arial;color:#FFFFFF;white-space:nowrap;"><strong>Tersambung di Twoo</strong></span>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<td>
+</tr>
+<tr>
+<td height="20" colspan="3"></td>
+</tr>
+<tr>
+<td height="1" colspan="3" bgcolor="#e5e5e5"></td>
+</tr>
+<tr>
+<td height="20" colspan="3"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td colspan="3">
+<span style="color: #ff7917; font-family:Arial, Helvetica, sans-serif; font-size: 18px;">
+Twoo adalah cara paling asyik bertemu kenalan baru di areamu
+</span>
+</td>
+</tr>
+<tr>
+<td height="20" colspan="3"></td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEaWQlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="text-decoration: none;">
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/mails/FriendInvite/Friendinvite-23.jpg" border="0" style="display: block;border-style:none;width: 100%;">
+</a>
+</td>
+<td width="3%"></td>
+<td valign="top">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEaWQlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="text-decoration: none;">
+<span style="color: #444444; font-family:Arial, Helvetica, sans-serif; font-size: 16px; margin:0; padding: 0;font-weight: bold;">
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/mails/FriendInvite/twoo-mail-friendinvite-icon-people-2.jpg" border="0"/> Bergabung dengan lebih dari 10 juta orang
+</span>
+</a>
+<p style="color: #444444; font-family:Arial, Helvetica, sans-serif; font-size: 14px; margin:0; padding: 10px 0 0 0;">
+Twoo adalah jaringan tempat bertemu kenalan baru yang paling cepat berkembang. Cari tahu kenapa lebih dari 10 juta orang bergabung di Twoo.
+</p>
+</td>
+</tr>
+<tr>
+<td height="20" colspan="3"></td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEaWQlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="text-decoration: none;">
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/mails/FriendInvite/Friendinvite-24.jpg" border="0" style="display: block;border-style:none;width:100%">
+</a>
+</td>
+<td width="3%"></td>
+<td valign="top">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEaWQlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="text-decoration: none;">
+<span style="color: #444444; font-family:Arial, Helvetica, sans-serif; font-size: 16px; margin:0; padding: 0;font-weight: bold;">
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/mails/FriendInvite/twoo-mail-friendinvite-icon-chat-2.jpg" style="border-style:none" border="0" /> Mengobrol sekarang
+</span>
+</a>
+<p style="color: #444444; font-family:Arial, Helvetica, sans-serif; font-size: 14px; margin:0; padding: 10px 0 0 0;">
+Pertama kali yang ingin kamu lakukan saat melihat profil menarik adalah mulai mengobrol, betul kan? Di Twoo kami jamin banyak orang yang sangat ingin mengobrol. Yang paling penting: gratis!
+</p>
+</td>
+</tr>
+<tr>
+<td height="20" colspan="3"></td>
+</tr>
+<tr>
+<td valign="top" width="20%">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEaWQlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="text-decoration: none;">
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/mails/FriendInvite/Friendinvite-25.jpg" style="display: block;border-style:none;width:100%;" border="0" >
+</a>
+</td>
+<td width="3%"></td>
+<td valign="top">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OSZ1PSUyRiUzRnV0bV9jYW1wYWlnbiUzRG1haWxfZnJpZW5kaW52aXRlXzclMjZ1dG1fY29udGVudCUzRGludml0ZV8yOCUyNnV0bV9tZWRpdW0lM0RlbWFpbCUyNnV0bV9zb3VyY2UlM0R0d29vJTI2bG5nJTNEaWQlMjZlbWFpbCUzRGZhbGRvX3NvbmljJTI1NDB5YWhvby5jb20lMjZjb2RlJTNEMDA4OTc1YTI0YzliNjE0YTNkODg4NWExYzNhZTcwNDIlMjZpbnZpdGVyJTNEOTMyODMwNDI1" style="text-decoration: none;">
+<span style="color: #444444; font-family:Arial, Helvetica, sans-serif; font-size: 16px; margin:0; padding: 0;font-weight: bold;">
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/mails/FriendInvite/twoo-mail-friendinvite-icon-phone-3.jpg" border="0" /> Ponsel
+</span>
+</a>
+<p style="color: #444444; font-family:Arial, Helvetica, sans-serif; font-size: 14px; margin:0; padding: 10px 0 0 0;">
+Periksa apa yang terjadi di sekitarmu dengan aplikasi iPhone dan Android. Bawa Twoo denganmu ke mana pun kamu pergi.
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" colspan="3"></td>
+</tr>
+<tr>
+<td height="1" colspan="3" bgcolor="e5e5e5"></td>
+</tr>
+<tr>
+<td height="20" colspan="3"></td>
+</tr>
+<tr>
+<td colspan="3">
+<span style="color: #ff7917; font-family:Arial, Helvetica, sans-serif; font-size: 14px;">
+Sebagaimana terlihat di:
+</span>
+</td>
+</tr>
+<tr>
+<td height="20" colspan="3"></td>
+</tr>
+<tr>
+<td>
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/media-logos/sponsor-okezone.png" />
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/media-logos/sponsor-cosmopilain.png" />
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/media-logos/sponsor-mailonline.png" />
+<img src="http://www.twoocdn.com/static/0474869951956976139403838/images/media-logos/sponsor-mtv.png" />
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" height="20" style="background:#F2F2F2;"></td>
+</tr>
+<tr>
+<td colspan="3" style="font-size:11px; color:#524d4d; padding:0;background:#F2F2F2;">
+<a href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9MTcmdT0lMkY"><img src="http://www.twoocdn.com/static/0474869951956976139403838/images/logos/logo-twoo-flat.png" style="display: block;" width="80" border="0"/></a>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="background:#F2F2F2;" height="10"></td>
+</tr>
+<tr>
+<td colspan="3" style="background:#F2F2F2;">
+<span style="color:#969696; font-size:11px; line-height:12px; display:block;">
+Tidak ingin menerima email seperti ini di masa datang? <a style="color: #1269DD;" href="http://mail.twoo.com/mailurl/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4Jmw9OCZ1PSUyRnVuc3Vic2NyaWJlJTJGJTNGZW1haWwlM0RmYWxkb19zb25pYyUyNTQweWFob28uY29tJTI2Y29kZSUzRDAwODk3NWEyNGM5YjYxNGEzZDg4ODVhMWMzYWU3MDQyJTI2dHlwZWlkJTNEMiUyNnNraXBTcGxhc2glM0RtYWls">Klik di sini</a>.<br />
+<strong>Massive Media NV</strong>, Emile Braunplein 18, 9000 Ghent, Belgium
+BE0834322338.
+<a href="mailto:info-id@twoo.com" style="color: #1269DD;">info-id@twoo.com</a>
+
+</span>
+</td>
+</tr>
+</table>
+</div>
+<img src="http://mail.twoo.com/mailimage/aT05Yi00MDBqYzMtMWgyYjAzOWctYzI4.gif" border="0" width="1" height="1" /></body></html>
+--massivemedia_6d0617373369766566d656496961ef738--

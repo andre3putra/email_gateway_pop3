@@ -1,0 +1,139 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.232; Thu, 01 Nov 2012 19:58:01 -0700
+Return-Path: <nOysrCzstCwcDIwsbEwMtEa0jGxMHKzsDAw=@smtp-coi-g09-026.aweber.com>
+Received-SPF: pass (domain of smtp-coi-g09-026.aweber.com designates 204.194.223.26 as permitted sender)
+X-YMailISG: lLe6YPwWLDutQ9iNEthVC.sgZdg.N2i4hztKhUZA2f8MINVV
+ fIpa7ICkXJUUY794hmqjR71otRNOJu1jH4H_kdPgwjgateSUN0NiIEc6Qhdw
+ ENdB40xpMWiLWxzgbg.6PDptzpJhsNCg6QslNAzj0YPnKGHnelXW5NZQB9Me
+ ERuJWHB0KvCGOeLjIGhNATmAhkYlsgIAGBULF7lR_nB_McMSTTKnxGr2K_7z
+ S5dVwj39X66cG6Sfk3TUjEY4GngJwTh5DBWAca47FT4vP50hOoHPJqgrf8fP
+ fNiwhZXKIkZvuKbGP4mhV8ZZo4viVDpbnWu.bJBYVe8Aujdxvk0s1DmvlsVa
+ kO3xGjSBtcev1y5MrTYFFbeKZND8swXMmPKX_V7K0VdDeKzKI3D6wOvz4qlo
+ IFy_fcymTCMyo8QyZ9oqJvpsZ40k92BQzl6SxCBMYmBwS9Hcj6YWHiNasQmf
+ m0BKIt4taLVdXHi3y_Rn3sCPGWsBaC0_vmBs52zlQhnpU6gwgQZ5s1STlj2U
+ u8Re.hVAk574KFkPgQ4dlW7qzbZxi_fc2zDZlTaZadvzNktmkwfBkDqJHrOs
+ 1aFp09zX7qHd09ez2LwF5YmFHbOGHUCSft1_9DRwJt34Mwgd26JmUnFjHVhN
+ Qycvk97PYIsQ7NfCVjlvIxL_CyhFjr7LnDo4jJoLcuok7qYbk33kqcanUcmo
+ Kif5kpbgAGcMf7AE7MmsLbWGN3HWBXjAbrzEvYuXgSHYzuuPlJ8iIjdYOJjO
+ tV.p7Hx2CQezJOIU9QEVmdjkLA95sY_Y7Xc5T8cfjDbSXDlTVQp8oinoVzr7
+ WeIsBY7aAjHgwyPfdz7iQLexGAWuX7YFlJz3ozTaVFfQv7z2erb93Sv9nW_R
+ rr0wT_t8kazVhM5uw9bnbvQwReA.26hejRGW44qat3AUt1Rt7.NDgs.PN2s0
+ 9Hd6.9dLNIgW8RucOpyKsCy4Y05zje67VCrluWIt1m7CM2CRyHadFpOY8edy
+ XSZaS03kTLCevEj.Odha7vsjuNkwlbYiBZNUJqnqw4AsMVRzJD_T0o1_cY5n
+ MNPGoTiGqnpM33haSxMKrWt3nIZgJQhUFV9j5_MfwbihHysLtEsUSaRG_Avr
+ vSkl5l3x9W.70GiOO0Az_EMiNjq07QzeG103IdAbOc3MIpRr69lgYS2CNMaG
+ SbVsUMctskgqAg9YzQWYTuZNRamGq2mfBbIqRp90rbwv068hqnjAYuBwP7Rd
+ nBqbtx35dxJiBcMilIa0y0dG...Deme.0.nnaYloN7gddkQI9nhtZWjCJg--
+X-Originating-IP: [204.194.223.26]
+Authentication-Results: mta1205.mail.mud.yahoo.com  from=aweber.com; domainkeys=neutral (no sig);  from=aweber.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO smtp-coi-g09-026.aweber.com) (204.194.223.26)
+  by mta1205.mail.mud.yahoo.com with SMTP; Thu, 01 Nov 2012 19:58:01 -0700
+DKIM-Signature: v=1; a=rsa-sha1; d=aweber.com; s=dkim_s1024; c=relaxed/simple;
+	q=dns/txt; i=@aweber.com; t=1351825081;
+	h=Sender:Subject:Date:From:List-Unsubscribe:To:MIME-version:Content-type;
+	bh=xB4c4w8Tk2vd+F8qPYqSlyz/AHc=;
+	b=YweP6gecWCL5SIVwzIaTNmwZ5B3tacRXNsYBEDM/d6fYDVfWf0ckgg25Es6jou0P
+	hIRpCsMSEoIlxtXV94XWdll/GPxbH9S7/zZhNwoqoz0sV/TMQPcGHJmS/Ps1xH7O
+	BOTsIGlf64H6p+C3cPvYpjCZMOvsqRMqum/u3ePwfoo=;
+Received: (qmail 19446 invoked by uid 0); 2 Nov 2012 02:58:01 -0000
+Message-ID: <21.D3.18463.9B633905@ec3>
+MIME-version: 1.0
+Content-type: multipart/alternative; boundary="_----------=_1351824669193590"
+To: "andre ilham triputra" <faldo_sonic@yahoo.com>
+From: "Denny Santoso, S.Kom, CSN" <reply_pembakarlemak@sportindo.com>
+Sender: panduandiet@aweber.com
+X-Loop: panduandiet@aweber.com
+X-Mailer: AWeber 4.1
+X-Subscription: Subscribed on 08/13/2010, via web form, by 202.152.243.158, from http://www.duniafitnes.com/category/training-program/fat-loss
+X-Verification: Verified by 202.152.243.158
+X_Id: 743207:11-01-2012-22-43-12:faldo_sonic@yahoo.com/975547
+Date: Thu, 1 Nov 2012 22:58:01 -0400
+List-Unsubscribe: <mailto:panduandiet@aweber.com?subject=unsubscribe;nOysrCzstCwcDIwsbEwMtEa0jGxMHKzsDAw=>, <http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxMHKzsDAw=>
+Subject: andre Bakar Lemak dengan Cardio Jenis Baru ini
+Content-Length: 4434
+
+This is a multi-part message in MIME format.
+
+--_----------=_1351824669193590
+Content-Disposition: inline
+Content-Length: 1516
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi andre,
+
+Selama ini kita tahu bahwa untuk membakar lemak haruslah melakukan cardio
+yang cukup lama. Hal tersebut tentu membosankan dan kurang efektif, sehingga
+beberapa waktu yang lalu saya memperkenalkan dengan apa yang disebut eHIIT.
+Yaitu High Intensity Interval Training (jalan dan lari diselang seling) untuk 
+meningkatkan pembakaran lemak melalui afterburn effect.
+
+Kali ini, saya ingin memberikan satu jenis cardio lagi, yang efeknya lebih dahsyat
+daripada eHIIT. Latihan ini disebut Circuit Training. Dengan melakukan latihan CT
+ini, tidak ada alasan lagi bagi andre untuk tidak melakukannya. Modalnya 
+hanya niat. Semuanya bahkan bisa dilakukan tanpa keluar dari kamar. Efek afterburn
+(pembakaran lemak setelah berhenti latihan) sangat tinggi, dan latihan ini
+melatih otot-otot di tubuh andre.
+
+Perhatian: Sebaiknya latihan ini tidak dilakukan lebih dari 2-3x dalam seminggu.
+
+Latihannya seperti apa? Baca selengkapnya disini:
+http://clicks.aweber.com/y/ct/?l=PBSpR&m=K5RlgrdjQ6w_ja&b=x8RDnWNW8L1LRtOQ2DRx4g
+
+Salam
+@dennysantoso
+
+PS: Gunakan Ultra Ripped 30 menit sebelum melakukan latihan ini.
+Liat efek pembakaran lemaknya terus berjalan bahkan setelah andre sudah
+tidak berolahraga lagi:) Ultra ripped bisa dipesan di: www.PembakarLemak.com
+Dan selama bulan November ini, ada Promo GRATIS Prostar Whey Protein. Buruan,
+sebelum kehabisan.
+
+Kenongo 4, Malang, East Java 65141, INDONESIA
+
+To unsubscribe or change subscriber options visit:
+http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxMHKzsDAw=
+
+
+--_----------=_1351824669193590
+Content-Disposition: inline
+Content-Length: 2518
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><div>Hi andre,</div>
+<div>&nbsp;</div>
+<div>Selama ini kita tahu bahwa untuk membakar lemak haruslah melakukan cardio</div>
+<div>yang cukup lama. Hal tersebut tentu membosankan dan kurang efektif, sehingga</div>
+<div>beberapa waktu yang lalu saya memperkenalkan dengan apa yang disebut eHIIT.</div>
+<div>Yaitu High Intensity Interval Training (jalan dan lari diselang seling) untuk&nbsp;</div>
+<div>meningkatkan pembakaran lemak melalui afterburn effect.</div>
+<div>&nbsp;</div>
+<div>Kali ini, saya ingin memberikan satu jenis cardio lagi, yang efeknya lebih dahsyat</div>
+<div>daripada eHIIT. Latihan ini disebut Circuit Training. Dengan melakukan latihan CT</div>
+<div>ini, tidak ada alasan lagi bagi andre untuk tidak melakukannya. Modalnya&nbsp;</div>
+<div>hanya niat. Semuanya bahkan bisa dilakukan tanpa keluar dari kamar. Efek afterburn</div>
+<div>(pembakaran lemak setelah berhenti latihan) sangat tinggi, dan latihan ini</div>
+<div>melatih otot-otot di tubuh andre.</div>
+<div>&nbsp;</div>
+<div>Perhatian: Sebaiknya latihan ini tidak dilakukan lebih dari 2-3x dalam seminggu.</div>
+<div>&nbsp;</div>
+<div>Latihannya seperti apa? Baca selengkapnya disini:</div>
+<div><a target="_blank" title="" href="http://clicks.aweber.com/y/ct/?l=PBSpR&m=K5RlgrdjQ6w_ja&b=x8RDnWNW8L1LRtOQ2DRx4g">http://duniafitnes.com/sixpack/the-sixpack-abs-circuit-training.html</a></div>
+<div>&nbsp;</div>
+<div>Salam</div>
+<div>@dennysantoso</div>
+<div>&nbsp;</div>
+<div><strong>PS: Gunakan Ultra Ripped 30 menit sebelum melakukan latihan ini.</strong></div>
+<div><strong>Liat efek pembakaran lemaknya terus berjalan bahkan setelah andre sudah</strong></div>
+<div><strong>tidak berolahraga lagi:) Ultra ripped bisa dipesan di: <a target="_blank" title="" href="http://clicks.aweber.com/y/ct/?l=PBSpR&m=K5RlgrdjQ6w_ja&b=.KnRJ8MisUV2_3M20a354A">www.PembakarLemak.com</a></strong></div>
+<div><strong>Dan selama bulan November ini, ada Promo GRATIS Prostar Whey Protein. Buruan,</strong></div>
+<div><strong>sebelum kehabisan.</strong></div><br>
+Kenongo 4, Malang, East Java 65141, INDONESIA
+<BR><BR>
+<TABLE ID="aweber_rem" BORDER="0" WIDTH="580" CELLSPACING="0" CELLPADDING="0"><TR><TD>
+To unsubscribe or change subscriber options visit:<BR>
+<A HREF="http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxMHKzsDAw=">http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxMHKzsDAw=</A><BR><BR><img src="http://openrate.aweber.com/y/o/?l=PBSpR&m=K5RlgrdjQ6w_ja" width="1" height="1">
+</TD></TR></TABLE>
+</body></html>
+
+--_----------=_1351824669193590--

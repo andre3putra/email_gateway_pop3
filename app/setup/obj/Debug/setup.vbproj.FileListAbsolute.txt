@@ -1,0 +1,15 @@
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\bin\Debug\setup.exe.config
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\bin\Debug\setup.exe
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\bin\Debug\setup.pdb
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\bin\Debug\setup.xml
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\obj\Debug\setup.vbprojResolveAssemblyReference.cache
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\obj\Debug\setup.Resources.resources
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\obj\Debug\setup.FSetting.resources
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\obj\Debug\setup.vbproj.GenerateResource.Cache
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\obj\Debug\setup.exe
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\obj\Debug\setup.xml
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\setup\obj\Debug\setup.pdb
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\setup.exe.config
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\setup.exe
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\setup.pdb
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\setup.xml

@@ -1,0 +1,331 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.232; Tue, 30 Oct 2012 06:55:48 -0700
+Return-Path: <faldo_sonic=yahoo.com@bounces.wp.com>
+Received-SPF: pass (domain of bounces.wp.com designates 72.233.119.195 as permitted sender)
+X-YMailISG: rsljYKMWLDud9SgNGlz6Xmo1C3lG6WSG4GIL_NfLv09Eax89
+ 8gcADCMi36wq_eCiqCRfOevyVjnBoQ1wEDD_njMveEe2hloR2ooUKGHqnW6m
+ ZOc2ZDy3.Rvqn1GDwt_NNZokK8xKKeEKYaVk50ueXKkIWh5hCh3NFUf1HveV
+ 0syny3AHvDmXa9kYeOxjqbTfqHmMNwcE6IgutJPot.AGCjyJlP.A6gj15ZGi
+ ._8BilYwnlNXZIUzX3Lp.QJzC_L2jzLMaLLOehayO4xc4amgEdEuU5w11NAN
+ cRaapV_AGKJxZ8f0AkKXxVOqy7wfkpbegJgCJBO6U1rSEFRxCNolfzED_Q06
+ ltYPOJjeKb6sdNc.qf96XnbTon5sIPBr7JmJulkl7r1OHTn57hv3UP4lkMgK
+ .RGPPzQKNkG0ufBdHeiBao1IlwxTaPkPViu6KRdS2ariL.i8fd3urvPu969Y
+ _r04A1fqhg6HaU5ihXiUgpG_mWdi0haowuSr2hfh.lpsZBHqyGKSSFfGGZnt
+ MUNW6UuXjIwMq1Pbn6hdbze1a4BReHgx3.v3K0mWKNP1SMBXuhZ6Ga6QzZba
+ tyK3oqOTyvWfM6l.WjdhH7xYh0DEQHuCU37YbWWDw42oGr46bLtLrZF4G40G
+ iGMSSHm.R7kV9DD8Hrk4mK5uZnicMBrSPgv9JEmFc4aDPFWJalkP9ARyId96
+ XzqrkVNaQMpG7QHOAmNexEyNgQvaSe_pS_og4hI9MHhJZFh1myIAMMxj1u7z
+ hf_PvuXzv0iHHdx8iKAjysz3mkGH00GMtLU6ja4rZPAT8oJuQXUt1LanMzus
+ phciR8ayl.rm64zjj_Dbgog8cKrYIwriw262d7wnz8Qa6VYPjeRIvdbiePi5
+ 7dVQNk_4mB7ACEab4VQPdVfHreK3zv5v624sGlbzGe9PEw_FLA6cqAHbBbmN
+ ZIFgWZ5.HJz8i_8tvGNhVtZQ_G7yw4I6dam4mpegSTALwu8NdKrHpTzX4VPI
+ u3L69mXShHGqr0gI3ZUnVyUT8dVD9SFpHzorvap_i.cj5QW2ne09VyvdpMp1
+ mj._ve3moXzKR2tMGG7zByfnQmdw6dPw.XpNoFyv4.CqB3D2nywIqgvR_6P1
+ pfvFadaSdBgEVX6F5E9YNqHQu8NQlrhA2MoaEs0HpccgRNeCvkE8bqxr7glV
+ JanyGPdFZx8prtj4j9DGd9C1IsjHdmTH4fyFBSodkxAIfVaDt9Vsd1vZoT.x
+ wPTXyvAaUC.LfUUd36guAeJUBKGh7mvzampeten5Z8BXGvUFHdWH5gMDX256
+ 4LyDSpTVqlrw7bHnJYX1jbocBGjet740pPLiLXFGIoP1rrJKNbIZobNipgxP
+ HxDFZIfgavvdu1qRTUhbl0o4YPo9CPNBbLY0DKbVEv8Nb38-
+X-Originating-IP: [72.233.119.195]
+Authentication-Results: mta1247.mail.mud.yahoo.com  from=wordpress.com; domainkeys=pass (ok);  from=wordpress.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO smtp2.luv.wordpress.com) (72.233.119.195)
+  by mta1247.mail.mud.yahoo.com with SMTP; Tue, 30 Oct 2012 06:55:48 -0700
+Received: from smtp2.luv.wordpress.com (localhost.localdomain [127.0.0.1])
+	by smtp2.luv.wordpress.com (Postfix) with ESMTP id 1F05A72ACC
+	for <faldo_sonic@yahoo.com>; Tue, 30 Oct 2012 13:55:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wordpress.com; h=date:to
+	:from:subject:message-id:reply-to:list-help:list-unsubscribe
+	:list-subscribe:list-archive:mime-version:content-type; s=my5;
+	 bh=+IZ2s1Hh+vTT7AXmsNXV2WBPW+I=; b=R+ZGrCo4bh14oYtORDKKS5VpzNk2
+	WFl2xRjkR+PDPW6/osPSO7OU6WpMTD1jQRkqu5fkwnmMGJdXoj5rfwZpv6XKxW6p
+	XgxP5wx/J20IPFpSYNsruAW2rEheZZpC12E0DV7S1YLiv09zVShtwt/xlEeNQZUJ
+	RrA5hJ8kFLhV6OM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wordpress.com; h=date:to:from
+	:subject:message-id:reply-to:list-help:list-unsubscribe
+	:list-subscribe:list-archive:mime-version:content-type; q=dns;
+	 s=my5; b=x3Y4pM6mDlpxonFa7OeoMoFZblIcakq7e/6FJ4CAAdIthsXuRNvhcM
+	bswRlgstOcicItbqcpO0Kc6IuXfv2AEfRbQclwugpKz5xxuXksUZMUnTWmhwNpEe
+	BMOrSws3Lu5EmtuIaBR5gnIoSWjc7gTtnN/q3DIinzRZDwl1d2Zcw=
+Received: from wordpress.com (jobs22.luv.wordpress.com [72.233.44.105])
+	by smtp2.luv.wordpress.com (Postfix) with ESMTP id 1390872AD2
+	for <faldo_sonic@yahoo.com>; Tue, 30 Oct 2012 13:55:48 +0000 (UTC)
+Date: Tue, 30 Oct 2012 13:55:48 +0000
+To: faldo_sonic@yahoo.com
+From: Java Sexy Edition <comment-reply@wordpress.com>
+Subject: =?UTF-8?B?W1R1bGlzYW4gYmFydV0gRG93bmxvYWQgQnVrdSDigJxNZW1idWF0IEFwbGlrYXNpIEFuZHJvaWQgU2VkZXJoYW5h4oCdIEdyYXRpcw==?=
+Message-ID: <1819006.5091.0@wordpress.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+Reply-to: "Java Sexy Edition" <comment+egnd_bsdrbj48kpd76tyjm@comment.wordpress.com>
+List-Help: <http://en.support.wordpress.com/subscriptions/>
+List-Unsubscribe: <https://subscribe.wordpress.com/?key=3ae65f1c86a8473c58dc123507d6b8bf&amp;email=faldo_sonic%40yahoo.com&amp;b=aC2-.%26pR%5D3VBK%2Fl%7CcN%2CBd_yFbG9cgW5GjE4mwdzHRjtg0_%5Bfk>
+List-Subscribe: <http://eecchhoo.wordpress.com>
+List-Archive: <http://eecchhoo.wordpress.com>
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5738caa9fd18699ab2e01afcb686f05a"
+Content-Length: 18980
+
+
+--b1_5738caa9fd18699ab2e01afcb686f05a
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Tulisan  : Download Buku =E2=80=9CMembuat Aplikasi Android Sederhana=E2=80=
+=9D Gratis=0AURL      : http://eecchhoo.wordpress.com/2012/10/30/download-b=
+uku-membuat-aplikasi-android-sederhana-gratis-2/=0ATerkirim : 30 Oktober 20=
+12 pada 20.55=0APenulis  : Eko Kurniawan Khannedy=0ATag      : android, bel=
+ajar android, ebook android, pemrograman android, tutorial pemrograman andr=
+oid=0AKategori : Other=0A=0ABagi temen-temen yang mau belajar bikin aplikas=
+i di Android, bisa download buku ini, gratis gak pake bayar=C2=A0=C2=A0Cuku=
+p doakan saja semoga kami bisa terus berkarya untuk kemajuan pendidikan IT =
+di Indonesia=C2=A0=C2=A0#Amin Silahkan download disini : http://stripbandun=
+k.googlecode.com/files/Membuat%20Aplikasi%20Android%20Sederhana.pdf Semoga =
+bermanfaat=C2=A0=0A=0ABaca tulisan ini lebih lanjut (http://eecchhoo.wordpr=
+ess.com/2012/10/30/download-buku-membuat-aplikasi-android-sederhana-gratis-=
+2/)=0A=0AKomentari tulisan ini: http://eecchhoo.wordpress.com/2012/10/30/do=
+wnload-buku-membuat-aplikasi-android-sederhana-gratis-2/#respond=0A=0A-- =
+=0AWordPress.com | Terima kasih karena terbang bersama WordPress!=0A=0AKelo=
+la Langganan=0Ahttps://subscribe.wordpress.com/?key=3D3ae65f1c86a8473c58dc1=
+23507d6b8bf&email=3Dfaldo_sonic%40yahoo.com=0A=0AUnsubscribe:=0Ahttps://sub=
+scribe.wordpress.com/?key=3D3ae65f1c86a8473c58dc123507d6b8bf&email=3Dfaldo_=
+sonic%40yahoo.com&b=3DaC2-.%26pR%5D3VBK%2Fl%7CcN%2CBd_yFbG9cgW5GjE4mwdzHRjt=
+g0_%5Bfk=0A
+
+--b1_5738caa9fd18699ab2e01afcb686f05a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A=09<style type=3D"text/css" media=3D"all">=
+=0A=09a:hover {=09color: red;=09}=0A=09a {=0A=09=09text-decoration: none;=
+=0A=09=09color: #0088cc;=0A=09}=0A=09=0A=09a.primaryactionlink:link, a.prim=
+aryactionlink:visited { background-color: #2585B2; color: #fff; }=0A=09a.pr=
+imaryactionlink:hover, a.primaryactionlink:active { background-color: #1172=
+9E !important; color: #fff !important; }=0A=0A/*=0A =09@media only screen a=
+nd (max-device-width: 480px) { =0A=09=09 .post { min-width: 700px !importan=
+t; }=0A=09}=0A*/=0A=09</style>=0A=09<title>WordPress.com</title>=0A=09<!--[=
+if gte mso 12]>=0A=09<style type=3D"text/css" media=3D"all">=0A=09body {=0A=
+=09font-family: arial;=0A=09font-size: 0.8em;=0A=09}=0A=09.post, .comment {=
+=0A=09background-color: white !important;=0A=09line-height: 1.4em !importan=
+t;=0A=09}=0A=09</style>=09=0A=09<![endif]-->=0A=09<meta http-equiv=3D"Conte=
+nt-Type" content=3D"text/html; charset=3Dutf-8" />=0A</head>=0A=0A<body sty=
+le=3D"background: #DDDDDD; font-family: &quot;Helvetica Neue&quot;, Helveti=
+ca, Arial, sans-serif; font-size: 14px; color: #666; text-align: center; ma=
+rgin: 0; padding: 0;" class=3D"subscription-body-tag">=0A=0A<table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#DDDDDD" style=3D"bac=
+kground: #DDDDDD; width: 100%;">=0A=09<tr>=0A=09=09<td>=0A=09=09=09=09=09<s=
+pan style=3D"display:none !important">=0A=09=09=09=09Eko Kurniawan Khannedy=
+ menulis:"Bagi temen-temen yang mau belajar bikin aplikasi di Android, bisa=
+ download buku ini, gratis gak pake bayar=C2=A0=C2=A0Cukup doakan saja semo=
+ga kami bisa terus berkarya untuk kemajuan pendidikan IT di Indonesia=C2=A0=
+=C2=A0#Amin
+
+Silahkan download disini :
+
+http://stri"=09=09=09</span>=0A=09=09=09=09=09=09<table border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" align=3D'center'  style=3D"padding: 10px; wid=
+th: 100%;" class=3D"subscribe-body">=0A=09=09=09=09<tr>=0A=09=09=09=09=09<t=
+d>=0A=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" align=3D"center" class=3D"header-small=
+-text" style=3D"padding-bottom:10px; width: 100%;">=0A=09=09=09=09=09=09=09=
+<tr>=0A=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"color: #555 !i=
+mportant; font-size: 10px;">Tanggapi tulisan ini dengan menuliskannya di at=
+as garis ini</td>=0A=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09</table>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"max-width: 600px; marg=
+in: 0 auto; overflow: hidden;">=0A=09=09=09=09=09=09=09<table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff"  style=3D"backgroun=
+d-color: #fff; text-align: left; margin: 0 auto; max-width: 1024px; min-wid=
+th: 320px; width: 100%;" class=3D"subscribe-wrapper">=0A=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=
+=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=3D"8" bac=
+kground=3D"http:/s.wordpress.com/i/emails/stripes.gif"  style=3D"background=
+-image: url( 'http:/s.wordpress.com/i/emails/stripes.gif'); background-repe=
+at: repeat-x; background-color: #43A4D0; height: 8px; width: 100%;" class=
+=3D"subscribe-header-wrap">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<td></td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"  style=
+=3D"color: #0088cc; margin: 0 0 5px 0; font-size: 1.6em; color: #0088cc; ma=
+rgin: 0 0 0px 0; font-size: 1.6em; background-color: #EFEFEF; padding: 0; b=
+order-bottom: 1px solid #DDD; width: 100%;" class=3D"subscribe-header">=0A=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<h2 style=3D"padding: 0px;=
+ margin: 5px 20px; font-size: 16px; line-height: 1; font-weight: normal; co=
+lor: #464646; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sa=
+ns-serif;" class=3D"subscribe-title">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09Tulisan baru pada <strong>Java Sexy Edition</strong>=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</h2>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"text-align: right;">=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<img border=3D"0" style=3D"margin=
+: 5px 20px 5px 0; vertical-align: middle;" class=3D"head-avatar" src=3D'htt=
+p://1.gravatar.com/blavatar/9130446ee1a980e58c057ac91c3551d3?s=3D32&#038;ts=
+=3D1351605348' alt=3D'' style=3D'vertical-align: middle;' />=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09<=
+table border=3D"0" cellspacing=3D"0" cellpadding=3D"20" bgcolor=3D"#ffffff"=
+ style=3D"width: 100%;">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: =
+100%;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" class=3D"the-post">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"width: 100%;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d style=3D"width: 60px !important; white-space: nowrap; vertical-align: top=
+;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=
+=3D"http://eecchhoo.wordpress.com/author/khannedy/" style=3D"display: block=
+; margin-right: 10px; text-decoration: none; color: #0088cc; text-decoratio=
+n: underline; color: #2585B2;"><img border=3D"0" alt=3D'' src=3D'http://1.g=
+ravatar.com/avatar/df38f3ac51acc07e479259f59984ea7a?s=3D50&amp;d=3Dhttp%3A%=
+2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&am=
+p;r=3DX' class=3D'avatar avatar-50' height=3D'50' width=3D'50' /></a>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<h2 style=3D"margin: 0; font-size: 1=
+.6em; color: #555; margin: 0; font-size: 1.6em; color: #555; font-size: 20p=
+x;" class=3D"post-title"><a style=3D"text-decoration: none !important; text=
+-decoration: none; color: #0088cc; text-decoration: underline; color: #2585=
+B2;" href=3D"http://eecchhoo.wordpress.com/2012/10/30/download-buku-membuat=
+-aplikasi-android-sederhana-gratis-2/">Download Buku =E2=80=9CMembuat Aplik=
+asi Android Sederhana=E2=80=9D&nbsp;Gratis</a></h2>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #888;">by <a h=
+ref=3D"http://eecchhoo.wordpress.com/author/khannedy/" style=3D"color: #888=
+ !important; text-decoration: none; color: #0088cc; text-decoration: underl=
+ine; color: #2585B2;">Eko Kurniawan Khannedy</a></span>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"margin-top=
+: 1em; max-width: 560px;" class=3D"post-content">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<p style=3D"font-size: 14px; line-height: 1.4em; color: #444444; f=
+ont-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; margi=
+n: 0 0 1em 0;">Bagi temen-temen yang mau belajar bikin aplikasi di Android,=
+ bisa download buku ini, gratis gak pake bayar=C2=A0=C2=A0Cukup doakan saja=
+ semoga kami bisa terus berkarya untuk kemajuan pendidikan IT di Indonesia=
+=C2=A0=C2=A0#Amin Silahkan download disini : http://stripbandunk.googlecode=
+.com/files/Membuat%20Aplikasi%20Android%20Sederhana.pdf Semoga bermanfaat=
+=C2=A0</p>=0A<p style=3D"font-size: 14px; line-height: 1.4em; color: #44444=
+4; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; m=
+argin: 0 0 1em 0;"><a href=3D"http://eecchhoo.wordpress.com/2012/10/30/down=
+load-buku-membuat-aplikasi-android-sederhana-gratis-2/" style=3D"text-decor=
+ation: none; color: #0088cc; text-decoration: underline; color: #2585B2;">B=
+aca tulisan ini lebih lanjut</a></p>=0A<div style=3D"clear: both"></div>=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"colo=
+r: #999; font-size: 0.9em; margin-top: 4px; color: #999; font-size: 0.9em; =
+margin-top: 4px; line-height: 160%; padding: 15px 0 15px; border-top: 1px s=
+olid #eee; border-bottom: 1px solid #eee; overflow: hidden" class=3D"meta">=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong><a href=3D=
+"http://eecchhoo.wordpress.com/author/khannedy/" style=3D"text-decoration: =
+none; color: #0088cc; text-decoration: underline; color: #2585B2;">Eko Kurn=
+iawan Khannedy</a></strong> | 30 Oktober 2012 pada 20.55 | Tag: <a href=3D"=
+http://eecchhoo.wordpress.com/?tag=3Dandroid" style=3D"text-decoration: non=
+e; color: #0088cc; text-decoration: underline; color: #2585B2;">android</a>=
+, <a href=3D"http://eecchhoo.wordpress.com/?tag=3Dbelajar-android" style=3D=
+"text-decoration: none; color: #0088cc; text-decoration: underline; color: =
+#2585B2;">belajar android</a>, <a href=3D"http://eecchhoo.wordpress.com/?ta=
+g=3Debook-android" style=3D"text-decoration: none; color: #0088cc; text-dec=
+oration: underline; color: #2585B2;">ebook android</a>, <a href=3D"http://e=
+ecchhoo.wordpress.com/?tag=3Dpemrograman-android" style=3D"text-decoration:=
+ none; color: #0088cc; text-decoration: underline; color: #2585B2;">pemrogr=
+aman android</a>, <a href=3D"http://eecchhoo.wordpress.com/?tag=3Dtutorial-=
+pemrograman-android" style=3D"text-decoration: none; color: #0088cc; text-d=
+ecoration: underline; color: #2585B2;">tutorial pemrograman android</a>=0A =
+| Categories: <a href=3D"http://eecchhoo.wordpress.com/?cat=3D1035" style=
+=3D"text-decoration: none; color: #0088cc; text-decoration: underline; colo=
+r: #2585B2;">Other</a>=0A | URL: <a href=3D"http://wp.me/p7DcO-1k7" style=
+=3D"text-decoration: none; color: #0088cc; text-decoration: underline; colo=
+r: #2585B2;">http://wp.me/p7DcO-1k7</a>=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</div>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<p style=3D"font-size: 14px; padding: 0; color: #66=
+6; padding-top: 1em; padding-bottom: 0em; margin-bottom: 0; margin-left: 0;=
+ padding-left: 0;" class=3D"subscribe-action-links">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"width: 100%;">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td style=3D"width: 10px;"><a style=3D'-moz-border-rad=
+ius: 10em; -webkit-border-radius: 10em; border-radius: 10em; border: 1px so=
+lid #11729E; text-decoration: none; color: #fff; text-shadow: 0 1px 0 #1172=
+9E; background-color: #2585B2; padding: 5px 15px; font-size: 16px; line-hei=
+ght: 1.4em; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font=
+-weight: normal; margin-left: 0; white-space: nowrap;' href=3D"http://eecch=
+hoo.wordpress.com/2012/10/30/download-buku-membuat-aplikasi-android-sederha=
+na-gratis-2/#respond" style=3D"text-decoration: none; color: #0088cc; text-=
+decoration: underline; color: #2585B2;">Komentar</a></td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>&nbsp;&nbsp;&nbsp;<a style=
+=3D"font-size: 14px; text-decoration: underline; text-decoration: none; col=
+or: #0088cc; text-decoration: underline; color: #2585B2;" class=3D"subscrib=
+e-action-link" href=3D"http://eecchhoo.wordpress.com/2012/10/30/download-bu=
+ku-membuat-aplikasi-android-sederhana-gratis-2/#comments">See all comments<=
+/a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=
+=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09<=
+/table>=0A=0A=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"20" bgcolor=3D"#efefef"  style=3D"background-color: #=
+efefef; text-align: left; border-top: 1px solid #dddddd; width: 100%;" clas=
+s=3D"subscribe-wrapper-sub">=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<td style=3D"border-top: 1px solid #f3f3f3=
+; color: #888; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, s=
+ans-serif; font-size: 14px; background: #efefef;" class=3D"subscribe-conten=
+t">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D'font-size: 12px; l=
+ine-height: 1.4em; margin: 0px 0px 10px 0px;' style=3D"font-size: 14px; lin=
+e-height: 1.4em; color: #444444; font-family: &quot;Helvetica Neue&quot;, H=
+elvetica, Arial, sans-serif; margin: 0 0 1em 0;">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09Unsubscribe or change your email settings at <a href=
+=3D"https://subscribe.wordpress.com/?key=3D3ae65f1c86a8473c58dc123507d6b8bf=
+&amp;email=3Dfaldo_sonic%40yahoo.com" style=3D"text-decoration: none; color=
+: #0088cc; text-decoration: underline; color: #2585B2;">Manage Subscription=
+s</a>.=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<p style=3D'font-size: 12px; line-height: 1.4em; margi=
+n: 0px 0px 0px 0px;' style=3D"font-size: 14px; line-height: 1.4em; color: #=
+444444; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-ser=
+if; margin: 0 0 1em 0;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<stron=
+g>Trouble clicking?</strong> Copy and paste this URL into your browser: <br=
+ />=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://eecchhoo.=
+wordpress.com/2012/10/30/download-buku-membuat-aplikasi-android-sederhana-g=
+ratis-2/" style=3D"text-decoration: none; color: #0088cc; text-decoration: =
+underline; color: #2585B2;">http://eecchhoo.wordpress.com/2012/10/30/downlo=
+ad-buku-membuat-aplikasi-android-sederhana-gratis-2/</a>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</p>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</ta=
+ble>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09<table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" height=3D"3" background=3D"http:/s.wor=
+dpress.com/i/emails/stripes.gif"  style=3D"background-image: url( 'http://s=
+.wordpress.com/i/emails/stripes.gif'); background-repeat: repeat-x; backgro=
+und-color: #43A4D0; height: 3px; width: 100%;" class=3D"subscribe-footer-wr=
+ap">=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td></td>=
+=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=
+=09=09=09=09</div>=0A=09=09=09=09=09</td>=0A=09=09=09=09</tr>=0A=09=09=09</=
+table>=0A=0A=09=09=09=0A=09=09=09=09<table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" align=3D'center'  style=3D"padding-bottom: =
+2em; color: #555555; font-size: 12px; height: 18px; text-align: center; fon=
+t-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; width: =
+100%;" class=3D"subscribe-footer">=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09<td align=3D'center'>=0A=09=09=09=09=09=09<a style=3D"font-size: 14px; c=
+olor: #555555 !important; text-decoration: none; font-family: &quot;Helveti=
+ca Neue&quot;, Helvetica, Arial, sans-serif; color: #555 !important; font-s=
+ize: 14px; text-decoration: none;" class=3D"subscribe-footer-link"  href=3D=
+"http://wordpress.com">Thanks for flying with <img border=3D"0" src=3D"http=
+://s.wordpress.com/i/emails/wp-footericon.png" alt=3D"" style=3D"vertical-a=
+lign: middle;" width=3D"16" and height=3D"17" /> WordPress.com</a>=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=0A=09=09=09=
+=0A=09=09=09<br />=0A=09=09</td>=0A=09</tr>=0A</table>=0A=0A<img alt=3D"" b=
+order=3D"0" src=3D"http://stats.wordpress.com/b.gif?host=3Deecchhoo.wordpre=
+ss.com&#038;blog=3D1819006&#038;post=3D5091&#038;subd=3Deecchhoo&#038;ref=
+=3D&#038;email=3D1&#038;email_o=3Dwpcom" width=3D"1" height=3D"1" /></body>=
+</html>
+
+
+--b1_5738caa9fd18699ab2e01afcb686f05a--
+

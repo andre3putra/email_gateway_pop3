@@ -1,0 +1,6 @@
+2019-03-29 10: 07:14	user	FSetting.MyBase.Load.SettingsException	Could not find file 'E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\config.ini'.
+2019-03-29 10: 07:33	user	FSetting.MyBase.Load.SettingsException	Could not find file 'E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\config.ini'.
+2019-03-29 10: 07:56	user	FMain.LoadSessionSettings.SettingsException	Could not find file 'E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\config.ini'.
+2019-03-29 11: 27:45	user	FMain.RetriveEmail.EmailINException	No connection could be made because the target machine actively refused it 74.125.200.109:995
+2019-03-29 11: 27:53	user	FMain.RetriveEmail.EmailINException	No connection could be made because the target machine actively refused it 74.125.200.109:995
+2019-03-29 11: 28:00	user	FMain.RetriveEmail.EmailINException	No connection could be made because the target machine actively refused it 74.125.200.109:995

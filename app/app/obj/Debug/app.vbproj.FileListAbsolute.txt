@@ -1,0 +1,17 @@
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\bin\Debug\app.exe
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\bin\Debug\app.pdb
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\bin\Debug\app.xml
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\obj\Debug\app.Resources.resources
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\obj\Debug\app.vbproj.GenerateResource.Cache
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\obj\Debug\app.exe
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\obj\Debug\app.xml
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\obj\Debug\app.pdb
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\obj\Debug\app.FMain.resources
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\bin\Debug\app.exe.config
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\bin\Debug\EAGetMail45.dll
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\bin\Debug\EASendMail45.dll
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\app\app\obj\Debug\app.vbprojResolveAssemblyReference.cache
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\app.exe.config
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\app.exe
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\app.pdb
+E:\Data\andre3putra\Project\Source\Email Gateway\POP3\Released\app.xml

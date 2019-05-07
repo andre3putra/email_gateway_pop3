@@ -1,0 +1,147 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.232; Tue, 30 Oct 2012 19:45:22 -0700
+Return-Path: <nOysrCzstCwcDIwsbEwMtEa0jGxMbAxs7Ow=@smtp-coi-g09-024.aweber.com>
+Received-SPF: pass (domain of smtp-coi-g09-024.aweber.com designates 204.194.223.24 as permitted sender)
+X-YMailISG: lZYNYskWLDt_E5tqxGkV7xebhumukViiqMe.9yPMbtpcBk2W
+ uBKN9Di6bSHYWss6hcSI68yHN4itlwBvt2NMIVZUHQqHaFqsz12uDMhzXc8L
+ _CBtvzwchDIOn6Hr1QI3E7Qtv.mhso56vho8Tb4AbRrSQ_g3gk.MZIPC4yPn
+ btPZUvWAJVX_avYU8S5TPDpjuVaAtZenL5n81vs.iW92sI8_zIc5iiHjd7Xh
+ rmhZng27.excjqPggUNeLfIEi86PWxkXwtBpfDvKzHaqvAElRyP73kvJs__f
+ euisg2wZ2_WFGS9f0uESI2g9_BCbl4jPOHHOtTbh_VuvmNrRn5FC8PbqS2a_
+ DmR.XnCNZIcMPcWa46u9gysRLv4JMpTxgToN4O2HBrgdaTc0cvGTvdKzxmPm
+ 16VfEjfPiF87G1kOm4Omt1.MIJh2iaAwpKH.6uXE6DIQ.VXVzlxo7ZOHaMri
+ 7VzV6n9mWo6pEugiEg2ydTTsDMCsx.Hby6D39wAP.1ECx5ejeM9RgvdVQSzB
+ 28MBI_DfiPP5p9McFofsP7glQa7PUy.xhNdKjA0I3JfK_lbOMwTIbqaPcB72
+ rJ6ycHHH4svBcVVj9CJ3k3NSoK3bqkpH6FgHNLNabSHeEpRHqRXCd.ofrcb1
+ 88davgW25QQLu0DZoWrhZ_ZXajZB3262RM7tT3tOJ6Flbcfk1tvOtZKO24tR
+ SDoVN_dTlavxPZI1Msmw543hCkY.vCKs543iiHX5NvEK_pcdp1XoNr5HerAT
+ K6F4yrV7A002pp3Tfew1xP0ASPFTl1xLx1oN6Ew6OinEqzDb9j_3rz0FaBf0
+ e4IMBVihNNJzgGCH1YSP4ir9GzG2xHF5Sr0k2fCMB.m4JIdMF.TIigMVtT_g
+ bVzTZM6RBF7Uwy1jYDFd_ZrdbCWz20MTyvsNinpS0EiSp_k2GtBtMNK9SDBh
+ 73yEYFvDiJwiCGEA4Cnhf3AalV0O8gQTbusYxMDsTnD7J4pccAEFW3ub4wBG
+ y_VYXMg9KFBOSayDNJhBPipZtnHaM4YGG_7xGMkVVKef_AveIevQlUN8bttw
+ yong9d9AaT61hRtdWuJxGipfnPLoZAyRKLFBtMvojPcHqd2LAnouDlDJhAm5
+ CGGXzkQCaR5UiXoV0dTdOOvE7C.CW5vALnCBIQ7pZH2F79Ab7kgk0j1Vh_pU
+ XuK9BdSJ1YW.URESyYhrksV7bt1zJkdmu19lXwQzYufri3jGkQtiZ5QPTOvE
+ SqYL0XH2QvAUMgPwa.ywtPMFdndvS_uv5VCXRC54_fsy6rIDVeUldQ.jSDex
+ KGFzC6uDqtKOF_d.s7ZMEQchGJ1ZDxnw5tTE5lQ1
+X-Originating-IP: [204.194.223.24]
+Authentication-Results: mta1432.mail.mud.yahoo.com  from=aweber.com; domainkeys=neutral (no sig);  from=aweber.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO smtp-coi-g09-024.aweber.com) (204.194.223.24)
+  by mta1432.mail.mud.yahoo.com with SMTP; Tue, 30 Oct 2012 19:45:22 -0700
+DKIM-Signature: v=1; a=rsa-sha1; d=aweber.com; s=dkim_s1024; c=relaxed/simple;
+	q=dns/txt; i=@aweber.com; t=1351651521;
+	h=Sender:Subject:Date:From:List-Unsubscribe:To:MIME-version:Content-type;
+	bh=N5M+i9Tzt5zxebrQ40e8KLPknME=;
+	b=K37uDn8yR9b8C6OEUxZFGgXm5SnO5bZSh4T6ld02D1xmNykDTta0rrpJdBh0tEgu
+	k37s9J2U+3xZ6l/CZuvDDdvvmvIKTyiG6FkjkZbVDA9kfQGoQuFa8O9CFzpfLkqN
+	lyvOhro37oTo3Ao2DZGCXm9c9KUdoh2aHIXKCiY/r9o=;
+Received: (qmail 21589 invoked by uid 0); 31 Oct 2012 02:45:21 -0000
+Message-ID: <71.79.18463.1C090905@ec3>
+MIME-version: 1.0
+Content-type: multipart/alternative; boundary="_----------=_1351651203215160"
+To: "andre ilham triputra" <faldo_sonic@yahoo.com>
+From: "Denny Santoso, S.Kom, CSN" <reply_pembakarlemak@sportindo.com>
+Sender: panduandiet@aweber.com
+X-Loop: panduandiet@aweber.com
+X-Mailer: AWeber 4.1
+X-Subscription: Subscribed on 08/13/2010, via web form, by 202.152.243.158, from http://www.duniafitnes.com/category/training-program/fat-loss
+X-Verification: Verified by 202.152.243.158
+X_Id: 743207:10-30-2012-21-20-17:faldo_sonic@yahoo.com/975547
+Date: Tue, 30 Oct 2012 22:45:21 -0400
+List-Unsubscribe: <mailto:panduandiet@aweber.com?subject=unsubscribe;nOysrCzstCwcDIwsbEwMtEa0jGxMbAxs7Ow=>, <http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxMbAxs7Ow=>
+Subject: andre Inilah Alasan Kenapa Menaikkan Berat Badan Lebih Susah daripada Menurunkannya
+Content-Length: 4228
+
+This is a multi-part message in MIME format.
+
+--_----------=_1351651203215160
+Content-Disposition: inline
+Content-Length: 1343
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Apa kabar andre,
+
+Kemarin saya membuat status yang cukup kontroversial di Tweet
+(@dennysantoso) dan Facebook saya
+(www.facebook.com/dennysantoso.fanspage) dengan isi "Menaikkan
+Berat Badan Lebih Susah daripada Menurunkan Berat Badan".
+
+Ada beberapa respond yang setuju, dan ada beberapa orang lainnya
+mengatakan sebaliknya. Bahkan mengatakan status saya hanyalah
+sebuah teori belaka. Hal tersebut menggelitik saya untuk menuliskan
+artikel ini.
+
+Sebelum kita berdebat mana yang lebih mudah atau lebih sulit,
+sebaiknya kita mengenal dulu bentuk badan manusia. Ada 3 jenis
+tubuh manusia, yaitu:
+
+Ectomorph, ini dikenali dengan tubuhnya yang kurus, susah sekali
+menaikkan berat badannya walaupun sudah makan banyak.
+Mesomorph, ini tipe dengan badan yang cukup bidang, besar dan gagah
+Endomorph, ini tipe gendut, buncit, memiliki banyak lemak di
+tubuhnya.
+
+Baca selengkapnya di: http://clicks.aweber.com/y/ct/?l=PBSpR&m=Ixfrk7dtw6w_ja&b=rad2dszEP_cfe1_PfwEDHA
+
+Salam
+@dennysantoso
+
+PS: Gunakan Pembakar Lemak Ultra Ripped untuk meningkatkan metabolisme
+tubuh andre sehingga pembakaran lemak lebih optimal. Ultra Ripped
+bisa andre pesan disini: www.PembakarLemak.com atau 021 7981972.
+
+Kenongo 4, Malang, East Java 65141, INDONESIA
+
+To unsubscribe or change subscriber options visit:
+http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxMbAxs7Ow=
+
+
+--_----------=_1351651203215160
+Content-Disposition: inline
+Content-Length: 2485
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><div>Apa kabar andre,</div>
+<div>&nbsp;</div>
+<div>Kemarin saya membuat status yang cukup kontroversial di Tweet</div>
+<div>(@dennysantoso) dan Facebook saya</div>
+<div>(www.facebook.com/dennysantoso.fanspage) dengan isi "Menaikkan</div>
+<div>Berat Badan Lebih Susah daripada Menurunkan Berat Badan".</div>
+<div>&nbsp;</div>
+<div>Ada beberapa respond yang setuju, dan ada beberapa orang lainnya</div>
+<div>mengatakan sebaliknya. Bahkan mengatakan status saya hanyalah</div>
+<div>sebuah teori belaka. Hal tersebut menggelitik saya untuk menuliskan</div>
+<div>artikel ini.</div>
+<div>&nbsp;</div>
+<div>Sebelum kita berdebat mana yang lebih mudah atau lebih sulit,</div>
+<div>sebaiknya kita mengenal dulu bentuk badan manusia. Ada 3 jenis</div>
+<div>tubuh manusia, yaitu:</div>
+<div>&nbsp;</div>
+<div>Ectomorph, ini dikenali dengan tubuhnya yang kurus, susah sekali</div>
+<div>menaikkan berat badannya walaupun sudah makan banyak.</div>
+<div>Mesomorph, ini tipe dengan badan yang cukup bidang, besar dan gagah</div>
+<div>Endomorph, ini tipe gendut, buncit, memiliki banyak lemak di</div>
+<div>tubuhnya.</div>
+<div>&nbsp;</div>
+<div><img alt="" src="http://duniafitnes.com/wp-content/uploads/2012/10/Body-type1.jpg" title="" /><br />
+</div>
+<div>&nbsp;</div>
+<div>Baca selengkapnya di: <a target="_blank" title="" href="http://clicks.aweber.com/y/ct/?l=PBSpR&m=Ixfrk7dtw6w_ja&b=rad2dszEP_cfe1_PfwEDHA">http://duniafitnes.com/fat-loss/menaikkan-berat-badan-lebih-susah-daripada-menurunkannya.html</a></div>
+<div>&nbsp;</div>
+<div>Salam</div>
+<div>@dennysantoso</div>
+<div>&nbsp;</div>
+<div><strong>PS: Gunakan Pembakar Lemak Ultra Ripped untuk meningkatkan metabolisme</strong></div>
+<div><strong>tubuh andre sehingga pembakaran lemak lebih optimal. Ultra Ripped</strong></div>
+<div><strong>bisa andre pesan disini: <a target="_blank" title="" href="http://clicks.aweber.com/y/ct/?l=PBSpR&m=Ixfrk7dtw6w_ja&b=3BWUqWlYNWdC3h8Jd08b.g">www.PembakarLemak.com</a> atau 021 7981972.</strong></div><br>
+Kenongo 4, Malang, East Java 65141, INDONESIA
+<BR><BR>
+<TABLE ID="aweber_rem" BORDER="0" WIDTH="580" CELLSPACING="0" CELLPADDING="0"><TR><TD>
+To unsubscribe or change subscriber options visit:<BR>
+<A HREF="http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxMbAxs7Ow=">http://www.aweber.com/z/r/?nOysrCzstCwcDIwsbEwMtEa0jGxMbAxs7Ow=</A><BR><BR><img src="http://openrate.aweber.com/y/o/?l=PBSpR&m=Ixfrk7dtw6w_ja" width="1" height="1">
+</TD></TR></TABLE>
+</body></html>
+
+--_----------=_1351651203215160--

@@ -1,0 +1,258 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.235; Sun, 28 Oct 2012 07:21:57 -0700
+Return-Path: <notifications+vvvq132mhwv@zyngamail.com>
+Received-SPF: pass (domain of zyngamail.com designates 74.114.9.162 as permitted sender)
+X-YMailISG: at_TyHAWLDvr5E0RSmfL2.miTWmQ72rpFRL0idy4Qx3TI3QV
+ dDDdpqQ5dmdEFnLJLI.ekDjIM8OjpPZkCY4EUWuTWEJ.uqHs6gQIBl5hWfAQ
+ M_c_sGLnobp5VHlMClhQBBkqImjpAtmoXSUj51ubI4z9Btma8N2G8scCVGhA
+ mWpQPv5F83F8pN3WCe.HW9c9e0DEpFPE.iRMqKQiSp0Nyxmd13usC7tWLsRq
+ .2rU0kG1iaPNeTy5xKgRsgCHrSZpzj_vW_2IDS4l6HslT7rvLsx3O9s5P4Ek
+ rDckGTqnWpmk3Ue9VOoqeXlNh8ZGp3ylL0OG3r3rRqy7pxrQjQpyWuo2C811
+ 2jPyB2x25yekSHo2_aVDLK_A2goJc8BAaMdZSWflh0zGxPVEDJMSLiPYEvsK
+ nTJUcmibwcn_th5nHegE2f6mTgbsDrd10cuy3nRckBomeWcal06f6mljlrDs
+ Lucp9qGbaAvo.80PqqkwvBUW6oG.Js.UAgc6frwBZ9kkxPYThslFU0Ct3DK6
+ PTLbUZMS2thRXhau2cLhrvJiu9fylPWPGM28mmRRvga.dOboFY.L5OVB9m9U
+ K4yzDgP_yxDADLPkAiHemYebcl09VpoUmXg6syOyK360xQRhZrqcw.SLGVwx
+ vE2Hy_VujSa8L7002Ho41uiro6O9Zs0bqRE5brR08JBlCGrlMJWWstvez0Pi
+ fmWII15g.qbZ2AuX4Rvy4Xo_kAva2ckfh.HyZ1aLd1Gu6RjlotHHf2_JAB_0
+ nqzOnwRflqEAnaaKVF9liNcwDUf_8Vzm2mj_hvG38YVOTeql.LqgG468K36X
+ Pn7eu671wVebSUUau4mlZ67BSlxPqrad8WIye55Ixk2k7BIqOdIzgXlQ.wWM
+ 1.lcp.fl4GAd48QX6MSY_6oc2rY.c2h0Bqull2q..qEkZBLaP2TcULDGpnJv
+ vfDxV3GiwoLMY0d0aIk5mJiFgpiB8NnBe92PGRb1m2Kv.Z5oJq.cwSt8fKbU
+ pqJlBJqoRYKlHL83gBxFZXUiC4cJyLv4.HMzmp7ZKcXgoe4zBmD4s1nzYfnj
+ pJW1GIoe6EKA0Vv_mJuTmKpQzHjjRrJ2szCWkWpslY191Y9x_wy6pwAEN2rZ
+ IW7N0YKRVv05WCFsyIDWu5FZ5htxl.E3UxZP6oMTayOauCoDeA9W2alm.q1J
+ .TfWfe8Q2nrDg_183mD90Q3w5kkbOBFPS10_FgWFgThPHstGyEyHtxTVpEOV
+ HNi0mlpQku__TIb.QfKcaSmsJvP1qLtjZv6pAmX.eVmoQ.YhvjpGSiFcj1Nj
+ u0LPJrlfwYiBtAzUzHFbBXmEaemCjfYlLfnhvV64QTwr1IhctVrNmT0oDDr_
+ l_hJ1XpacQT7RjGq4j9f91QFxoV1leYkhmWWHHFbJGnIoiKqGurSeg4-
+X-Originating-IP: [74.114.9.162]
+Authentication-Results: mta1337.mail.mud.yahoo.com  from=zyngamail.com; domainkeys=neutral (no sig);  from=zyngamail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO outmail.zyngamail.com) (74.114.9.162)
+  by mta1337.mail.mud.yahoo.com with SMTP; Sun, 28 Oct 2012 07:21:56 -0700
+Return-Path: <notifications+vvvq132mhwv@zyngamail.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=zyngamail.com; s=dkim512; c=relaxed/simple;
+	q=dns/txt; i=@zyngamail.com; t=1351434114;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=HcCJx7sbiZpD+wvvKMzN33YiyPw=;
+	b=JnPxIToV5NL3pqRkOcSvlvHur+6lMtklx4+Nn9v7uvFWJeuz9cmojGtvEl47h1Ua
+	SKviIDUmyCxdz8yuh+JrwQ==;
+X-MSFBL: ZmFsZG9fc29uaWNAeWFob28uY29tQGRlZmF1bHRAZGVmYXVsdEB3dnZxMTMybWh3
+	dm52MnEjIllvbGFuZGEgTnVlbGEgdmlhIEZhcm1WaWxsZSAyIiA8bm90aWZpY2F0
+	aW9ucyt2dnZxMTMybWh3dlxAenluZ2FtYWlsLmNvbT4=
+Received: from [10.64.82.211] ([10.64.82.211:59506] helo=zyngamail.com)
+	by s2zs-msg-mta9 (envelope-from <notifications+vvvq132mhwv@zyngamail.com>)
+	(ecelerity 3.1.1.39454 r(39454)) with ESMTP
+	id 07/83-07951-28F3D805; Sun, 28 Oct 2012 07:21:54 -0700
+Date: Sun, 28 Oct 2012 07:21:54 -0700
+Message-ID: <07.83.07951.28F3D805@s2zs-msg-mta9>
+MIME-Version: 1.0
+From: "Yolanda Nuela via FarmVille 2" <notifications+vvvq132mhwv@zyngamail.com>
+Errors-To: notifications+vvvq132mhwv@zyngamail.com
+Reply-To: noreply@zyngamail.com
+Content-Type: text/html; charset=UTF-8
+To: faldo_sonic@yahoo.com
+Subject: Join me in FarmVille 2 for a FREE CHICK
+X-Zynga-Notify: wvvq132mhwvnv2q
+Content-Length: 14419
+
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  </head>
+  <body leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-text-size-adjust:none;" topmargin="0">
+<img src='http://accounts.zynga.com/track.php?next=http%3A%2F%2Faccounts.static.zynga.com%2Femail_images%2F1x1.gif&sendkey=8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I&hid=nnsuostsov&gameid=118&sig=6a7367ab48f0846b7a7f9d4044c7fa643d24f24a&linkname=open' border="0" width="1" height="1">
+    <table bgcolor="#5c8e22" border="0" cellpadding="0" cellspacing="0" width="640">
+      <tr>
+        <td height="20" width="640" colspan="3" bgcolor="#ffffff" style="text-align:center;">
+          <font style="font-family:Arial,helvetica,sans-serif;color:#010101;font-size:12px;">
+            I cherry pick my friends.
+          </font>
+        </td>
+      </tr>
+      <tr>
+        <td height="542" width="30">
+          <img border="0" height="542" src="http://accounts.static.zynga.com/email_images/__01_1349726572.gif" style="display:block;" width="30" />
+        </td>
+        <td height="539" width="580">
+          <table border="0" cellpadding="0" cellspacing="0" height="539" width="580">
+            <tr>
+              <td height="89" width="580">
+                <table border="0" cellpadding="0" cellspacing="0" height="89" width="580">
+                  <tr>
+                    <td height="89" width="345">
+                      <a href="https://apps.facebook.com/farmville-two?sendkey=8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I">
+                        <img border="0" height="89" src="http://accounts.static.zynga.com/email_images/3_1343674853.gif" style="display:block;font-family:Arial,helvetica,sans-serif;color:#ffffff;font-weight:bold;font-size:24px;text-decoration:none;" width="345" alt="FarmVille 2" />
+                      </a>
+                    </td>
+                    <td height="89" width="217">
+                      <table border="0" cellpadding="0" cellspacing="0" height="89" width="217">
+                        <tr>
+                          <td height="14" width="217"></td>
+                        </tr>
+                        <tr>
+                          <td height="25" width="217">
+                            <table border="0" cellpadding="0" cellspacing="0" height="25" width="217">
+                              <tr>
+                                <td height="25" width="133"></td>
+                                <td height="25" width="28">
+                                  <a href="https://www.facebook.com/FarmVille2">
+                                    <img border="0" height="25" src="http://accounts.static.zynga.com/email_images/fb_1343677172.gif" style="display:block;" width="28" />
+                                  </a>
+                                </td>
+                                <td height="25" width="28">
+                                  <img border="0" height="25" src="http://accounts.static.zynga.com/email_images/twitter_1343677173.gif" style="display:block;" width="28" />
+                                </td>
+                                <td height="25" width="28">
+                                  <a href="http://pinterest.com/zyngagames/">
+                                    <img border="0" height="25" src="http://accounts.static.zynga.com/email_images/pinterest_1343677173.gif" style="display:block;" width="28" />
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="right" height="25" width="217">
+                            <font style="font-family:Arial,helvetica,sans-serif;color:#ffffff;font-size:12px;font-weight:bold;">
+                              Follow us.
+                            </font>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="25" width="217">
+                            <img border="0" height="25" src="http://accounts.static.zynga.com/email_images/5_1343674854.gif" style="display:block;" width="217" />
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td height="89" width="18">
+                      <img border="0" height="89" src="http://accounts.static.zynga.com/email_images/4_1343674853.gif" style="display:block;" width="18" />
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#ffffff" height="91" width="580">
+                  <a href="https://apps.facebook.com/farmville-two?sendkey=8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I">
+                <img border="0" height="91" src="http://accounts.static.zynga.com/email_images/chick__04_1349727639.gif" style="display:block; font-family:Arial, Helvetica, sans-serif; font-size: 24px; color:#765808; font-weight:bold;" width="580" alt="HAY, Neighbor" />
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#ffffff" height="78" width="580">
+                <table border="0" cellpadding="0" cellspacing="0" height="78" width="580">
+                  <tr>
+                    <td height="78" width="315">
+                      <table border="0" cellpadding="0" cellspacing="0" height="78" width="315">
+                        <tr>
+                          <td height="78" width="21"></td>
+                          <td height="78" width="56">
+                            <table border="0" cellpadding="0" cellspacing="0" height="78" width="56">
+                              <tr>
+                                <td height="1" width="56"></td>
+                              </tr>
+                              <tr>
+                                <td height="56" width="56">
+                                  <a href="https://apps.facebook.com/farmville-two?sendkey=8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I">
+                                    <img height="50" src="https://graph.facebook.com/1526393137/picture?type=small" style="display:block;border:3px solid #010101;" width="50" />
+                                  </a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="15" width="56"></td>
+                              </tr>
+                            </table>
+                          </td>
+                          <td height="78" width="17"></td>
+                          <td height="78" width="221" valign="top">
+                            <font style="font-family:Arial,helvetica,sans-serif;color:#5c8e22;font-weight:bold;font-size:16px;">
+                              <a href="https://apps.facebook.com/farmville-two?sendkey=8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I" style="font-family:Arial,helvetica,sans-serif;color:#5c8e22;font-weight:bold;font-size:16px;text-decoration:none;">
+                                The cows have come home. Will you? Put down roots in FarmVille 2.
+                              </a>
+                            </font>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td height="78" width="265">
+                      <table border="0" cellpadding="0" cellspacing="0" height="78" width="265">
+                        <tr>
+                          <td height="78" width="25"></td>
+                          <td height="78" width="220">
+                            <table border="0" cellpadding="0" cellspacing="0" height="78" width="220">
+                              <tr>
+                                <td bgcolor="#d46e40" height="60" width="220">
+                                  <table border="0" cellpadding="0" cellspacing="0" height="60" width="220">
+                                    <tr>
+                                      <td height="60" width="15">
+                                        <img border="0" height="60" src="http://accounts.static.zynga.com/email_images/7_1343679713.gif" style="display:block;" width="15" />
+                                      </td>
+                                      <td height="60" width="190">
+                                        <table border="0" cellpadding="0" cellspacing="0" height="60" width="190">
+                                          <tr>
+                                            <td height="14" width="190">
+                                              <img border="0" height="14" src="http://accounts.static.zynga.com/email_images/9_1343679714.gif" style="display:block;" width="190" />
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="31" width="190" style="text-align:center;">
+                                              <font style="font-family:Arial,helvetica,sans-serif;color:#ffffff;font-weight:bold;font-size:17px;">
+                                                <a href="https://apps.facebook.com/farmville-two?sendkey=8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I" style="font-family:Arial,helvetica,sans-serif;color:#ffffff;font-weight:bold;font-size:17px;text-decoration:none;">
+                                                  Click for Free Chick
+                                                </a>
+                                              </font>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="15" width="190">
+                                              <img border="0" height="15" src="http://accounts.static.zynga.com/email_images/10_1343679714.gif" style="display:block;" width="190" />
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                      <td height="60" width="15">
+                                        <img border="0" height="60" src="http://accounts.static.zynga.com/email_images/8_1343679713.gif" style="display:block;" width="15" />
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="18" width="220"></td>
+                              </tr>
+                            </table>
+                          </td>
+                          <td height="78" width="20">
+                             <img border="0" style="display:block;" src="http://accounts.static.zynga.com/email_images/__21_1348268774.jpg" width="20" height="78"></td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#ffffff" height="284" width="580">
+                <img border="0" height="284" src="http://accounts.static.zynga.com/email_images/__06_1349726459.jpg" style="display:block;" width="580" />
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td height="542" width="30">
+          <img border="0" height="542" src="http://accounts.static.zynga.com/email_images/__03_1349726572.gif" style="display:block;" width="30" />
+        </td>
+      </tr>
+      <tr>
+        <td height="50" width="30"></td>
+        <td height="50" width="580">
+          <font style="font-family:Arial,helvetica,sans-serif;font-size:11px;color:#23413e; text-decoration:none;">
+                Don't want to receive email notifications? <a style="color:#23413e; text-decoration:underline;" href="http://accounts.zynga.com/?game=118&unsub=45011&templateid=1000007873&sig=1:1168267629:118:20121028142154:6rpo9842no7s469qp9694o3np2op5765qrn8ns43" target="_blank">Unsubscribe here</a> or <a style="color:#23413e; text-decoration:underline;" href="http://accounts.zynga.com/?game=118&templateid=1000007873" target="_blank">Adjust Your Message Settings</a>.<br /><br />&copy; 2012, Zynga Inc. 699 8th Street San Francisco, CA 94103 <a style="color:#23413e; text-decoration:underline;" href="http://www.zynga.com/privacyPolicy/" target="_blank">Privacy Policy</a>.
+           </font>
+        </td>
+        <td height="50" width="30"></td>
+      </tr>
+    </table>
+  </body>
+</html><!-- ZMAIL TRACE: {"time_send":1351434091,"time_zmail_q":1351434093.5638,"time_mta":1351434114.3677}--><!-- ZMAIL DATA: ["1",118,"1168267629","faldo_sonic@yahoo.com","1000007873","HTML","8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I",{"sender_first_name":"Yolanda","sender_last_name":"Nuela","sender_image":"https:\/\/graph.facebook.com\/1526393137\/picture?type=small","__locale":"en_US","sendkey":"8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I","SENDKEY":"8483fa7a9b4c2e7a9d2dd66978b2562d$$b4Pl402-fjbCPZV_cAwMFBRd.EsoclGzxdse_e)S34E947-N!!tu)chpfL-z)jnEYMBFKp49xyp23-UO4e.4K-I","SIGNATURE":"1:1168267629:118:20121028142154:6rpo9842no7s469qp9694o3np2op5765qrn8ns43","EVENTID":"45011","EVENTDESC":"Neighbor Invites - Parent","TEMPLATEID":"1000007873","__trace":{"time_send":1351434091,"time_zmail_q":1351434093.5638,"time_mta":1351434114.3677},"TOUID":"1168267629","TOSNID":"1","GAMEID":118},false,null,false]--><!-- ZMAIL SOURCE: 10.64.82.211-->

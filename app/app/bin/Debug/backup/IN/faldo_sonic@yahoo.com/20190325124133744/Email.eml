@@ -1,0 +1,213 @@
+X-Apparently-To: faldo_sonic@yahoo.com via 72.30.238.235; Tue, 30 Oct 2012 22:28:38 -0700
+Return-Path: <lina@fugu.jobstreet.com>
+Received-SPF: none (domain of fugu.jobstreet.com does not designate permitted sender hosts)
+X-YMailISG: 2hYBTWwWLDvbXBU.GPj_ehoA85_.0iXI6JzOFPtbNh368vkk
+ mYzulutAgx159WxmA0TxlHcuOw1THog_wPYaMzWOFFH6SHa1sOH3QMTeGgIx
+ kj.ZSx_wgVaLj1yfrDevqnkvBPy6sA2auqevkfDomXLvQD72T4xeE3nwCGgA
+ UHpZqUyicZ.k6BGbrgx_jNtQsTkCywSFLu.5qrR7Ik52d87MgTwGl60hDT00
+ ZW_rfVpo4xY4QIlTGE7A8jyLiSIL3Y0kAEDXTgJ_PvguY1Xuzd8v97VwjfxV
+ yzUgNLDrA5Lr41OOmfrvDuyW2J7No9m7Dr.q6OfLYWng8qMzAib66.EHCoD1
+ Ne8U7DkN1su73omLnnrj6GP5XFzPc5F8ThqkKVXywGJVWT2gnEMZpiuAPYYC
+ ZcMYda.0svWuSAlBRr3qOD376Un3pNOJtee37o4lEvJ2zHwTRY2vRrJwACVt
+ 25S2XM1fyN8vl2Wf6k4JlhvdBLzeJ1oS52wXJJRDiNQ1Sm6.6XN8roHbCRgs
+ fcizHo8g4faGh.ixenTg0Hoo3kdZcAg_NIp_B9S8nBoqoDuxL7Pc6fcz0t3W
+ OaRgc86AUDrOoVYyBcAxiy9t_mgmB4rY6ESCVzjDPPaO8EJWQZlCw1f3ZJoL
+ 1erfVov6XVyAB29cEJcdNf7jsC8S4I8zuueY7d4q3D_x8L1s_E8tvGsJMUES
+ p4ImXrJ1qYrB3yy6qfs62Yqrf3oEjy4A9JqnWmBi.E5.YRRaqO2JbyxbK.CP
+ Ly0O9S8ZjBasZw8heBry_o_gd4pJanFkmOQHzfIqoMB9cSodzP2TPGvodil2
+ KCofZZyg_Pq1jVhN6mcZI1Rs99z0AhQaxmqPFWP7o7NWMHjxeQlN0dC1oKMB
+ O5jf35SKnELCmEYesafUakshYgn0GyizzjRK7A12gitdikyD7L.eNEXFXEQj
+ 1.7EMXlT.si3Tff7HOSaoiJLd0JaD3e4AE6A2STJYNPsb7Ncu6ld7Ifc7wXP
+ MJYLCjsGd8_0GJ4kJYOkVTHGAFBbuaAXh22EmVW6fDVgr2ya8GZfDo.Cfk_r
+ ImbItd_KuwDREqehbiLd5L3xHqlR0ViB_.nukY2sz.L1_0bNGzWAhMi7jLV0
+ B.fURUc7LLYS..s3GPmPH47393FnoUM6_wCcWRMuD4Kj193NJ5tS41M3kTNE
+ D5uz_GmtGupNl54F5i2m.q5evVie8LrgNjfiYod9rS6vLzxjUrN4myqwheRI
+ D0DKBHpw4w1JoPUuImd9hmU3ymTXExt6rQW1p2SNUHXRFMlqkOPNiRy4QE2f
+ s5dKLE5ugu5g
+X-Originating-IP: [203.142.17.155]
+Authentication-Results: mta1155.mail.mud.yahoo.com  from=jobstreet.com; domainkeys=pass (ok);  from=jobstreet.com; dkim=permerror (mismatched key granularity)
+Received: from 127.0.0.1  (EHLO walrus.jobstreet.com) (203.142.17.155)
+  by mta1155.mail.mud.yahoo.com with SMTP; Tue, 30 Oct 2012 22:28:38 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=jskey1; d=jobstreet.com;
+ h=MIME-Version:Date:From:To:Subject:Content-Type:Content-Transfer-Encoding:Message-ID; i=lina01@jobstreet.com;
+ bh=Kxed29Fb13qbgWZpgj2i7E7D7Kc=;
+ b=rHTk2hlqvIfR5P3MVCYc/pJE/Z8B2X0U4AEx15zirRAiZe5sdN+ibIv5kPEqlwe4YoIIEMWbLfHq
+   tD0KDgpDLnminNK0sXu/F5LXBs0CI7XAmyzHRuFPfrGmTKcyz5LuENfiEs7+dd/po5iau76OjsI/
+   yOjcXDJLFAlr24+qsB8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=jskey1; d=jobstreet.com;
+ b=WvW+WCtu2L68mxNAxyJqJdCB9LY4RGK5WRJiXJkJajzGdG+SKil/Ts1lI3QFHQ1oyPJurxsAASKu
+   ynroDlAWtLs6WDe5HI39hAWWyWpVDTIohNqQxPkKuSV4mxErVloxy1ilAAj04EZKE3hXGZIm5oHy
+   TkYN70CfxHcIwGSpKY8=;
+Received: from blackbuck.ad.jobstreet.com (192.168.6.66) by walrus.jobstreet.com id hi2rga0ia4s0 for <faldo_sonic@yahoo.com>; Wed, 31 Oct 2012 13:28:23 +0800 (envelope-from <lina@fugu.jobstreet.com>)
+MIME-Version: 1.0
+Date: Wed, 31 Oct 2012 13:28:22 +0800
+X-Priority: 3 (Normal)
+From: "lina@jobstreet.com" <lina01@jobstreet.com>
+To: faldo_sonic@yahoo.com
+Subject: IT Programmer (Banking Industry) + 11 new jobs - Job
+ Alert from JobStreet.com
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <89C6FA097C51434770AF47598F33ED849A74A5AA@blackbuck.ad.jobstreet.com>
+Content-Length: 11825
+
+<html>=0A<head>=0A    <meta http-equiv=3D"content-type" content=3D"text-=
+html; charset=3Dutf-8">=0A    <title>JobStreet.com - Job Alert</title>=0A=
+    =0A    <style type=3D"text/css">=0A        /* Overwrite iPhone Mail'=
+s Font-size Setting */=0A        div, p, a, li, td { -webkit-text-size-a=
+djust:none; }=0A    </style>  =0A</head>=0A=0A<body>=0A=0A<table><tr><td=
+ style=3D"width:740px;">=0A=0A<table width=3D"100%" cellpadding=3D"5" ce=
+llspacing=3D"0" border=3D"0" style=3D"font:11px verdana, arial;color:#00=
+0000;background-color:#FFFFFF;">=0A	<tr><td><a href=3D"http://linabanner=
+=2Ejobstreet.com/redirect.asp?bid=3D15540&track=3D0&uid=3D&url=3Dhttp%3A=
+%2F%2Fwww.facebook.com%2FJobStreetIndonesia%2Fapp_290135571079323"><img =
+style=3D"max-width:100%" src=3D"http://linabanner.jobstreet.com/show_ban=
+ner.asp?bid=3D15540" border=3D"0" alt=3D""></a><br><a href=3D"http://lin=
+abanner.jobstreet.com/redirect.asp?bid=3D15540&track=3D0&uid=3D&url=3Dht=
+tp%3A%2F%2Fwww.facebook.com%2FJobStreetIndonesia%2Fapp_290135571079323">=
+</a></td></tr>=0A	<tr>=0A		<td style=3D"font-size:12px;background-color:=
+#F3F8FB;">=0A        Hi ANDRE, here are your 12 job matches.=0A        <=
+/td>=0A	</tr>=0A</table>=0A=0A<table width=3D"100%" cellpadding=3D"5" ce=
+llspacing=3D"0" border=3D"0" style=3D"font:11px verdana,arial;color:#000=
+000;background-color:#FFFFFF;"><tr><td style=3D"padding-top:20px;padding=
+-bottom:10px;">LiNa does not have any job matches today for your Job Ale=
+rt Profile. However, here are some job recommendations that you may be i=
+nterested in.</td></tr></table><table width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"font:11px verdana,arial;color:#00=
+0000;background-color:#FFFFFF;"><tr style=3D"font-size:14px;font-weight:=
+bold;"><td style=3D"padding:30px 5px 20px;">Additional Jobs Recommended =
+by LiNa</td></tr>=0A<tr><td style=3D"padding:10px 5px;"><a style=3D"font=
+:14px verdana,arial;color:#1C3F94;text-decoration:underline;" href=3D"ht=
+tp://job-search.jobstreet.co.id/job/job-ad.php?op=3D10337076&mn=3Did&url=
+=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2Fjobs%2F2012%2F10%2Fdefault%2F40%2F=
+646423.htm%3Ffr=3D10&fr=3D10&utm_source=3Dyahoo&utm_medium=3Dlinaalerts&=
+utm_campaign=3D193">System Programmer (S-P)</a><br>PT TOS Information Sy=
+stems Indonesia<br><font style=3D"color:#006600;">Jakarta Raya</font><br=
+>1 yr exp</td></tr>=0A<tr><td style=3D"padding:10px 5px;"><a style=3D"fo=
+nt:14px verdana,arial;color:#1C3F94;text-decoration:underline;" href=3D"=
+http://job-search.jobstreet.co.id/job/job-ad.php?op=3D10370299&mn=3Did&u=
+rl=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2Fjobs%2F2012%2F10%2Fp%2F40%2F6521=
+90.htm%3Ffr=3D10&fr=3D10&utm_source=3Dyahoo&utm_medium=3Dlinaalerts&utm_=
+campaign=3D193">IT Programmer (Banking Industry)</a><br>PT Bank Hana<br>=
+<font style=3D"color:#006600;">Jakarta Raya</font><br>1 yr exp</td></tr>=
+=0A<tr><td style=3D"padding:10px 5px;"><a style=3D"font:14px verdana,ari=
+al;color:#1C3F94;text-decoration:underline;" href=3D"http://job-search.j=
+obstreet.co.id/job/job-ad.php?op=3D10366360&mn=3Did&url=3Dhttp%3A%2F%2Fw=
+ww.jobstreet.co.id%2Fjobs%2F2012%2F10%2Fdefault%2F40%2F651359.htm%3Ffr=3D=
+10&fr=3D10&utm_source=3Dyahoo&utm_medium=3Dlinaalerts&utm_campaign=3D193=
+">System Engineer</a><br>PT Xsis Mitra Utama<br><font style=3D"color:#00=
+6600;">Jakarta Raya</font><br>1 yr exp</td></tr>=0A<tr><td style=3D"padd=
+ing:10px 5px;"><a style=3D"font:14px verdana,arial;color:#1C3F94;text-de=
+coration:underline;" href=3D"http://job-search.jobstreet.co.id/job/job-a=
+d.php?op=3D10373616&mn=3Did&url=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2Fjob=
+s%2F2012%2F10%2Fdefault%2F40%2F652804.htm%3Ffr=3D10&fr=3D10&utm_source=3D=
+yahoo&utm_medium=3Dlinaalerts&utm_campaign=3D193">BI Developer</a><br>PT=
+ Smart Tbk (Upstream)<br><font style=3D"color:#006600;">Jakarta Raya</fo=
+nt><br>1 yr exp</td></tr>=0A<tr><td style=3D"padding:10px 5px;"><a style=
+=3D"font:14px verdana,arial;color:#1C3F94;text-decoration:underline;" hr=
+ef=3D"http://job-search.jobstreet.co.id/job/job-ad.php?op=3D10368092&mn=3D=
+id&url=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2Fjobs%2F2012%2F10%2Fdefault%2=
+F40%2F651764.htm%3Ffr=3D10&fr=3D10&utm_source=3Dyahoo&utm_medium=3Dlinaa=
+lerts&utm_campaign=3D193">IT Officer</a><br>Marketing Sentratama Indones=
+ia (Frontier Consulting group)<br><font style=3D"color:#006600;">Jakarta=
+ Raya</font><br>1 yr exp</td></tr>=0A<tr><td style=3D"padding:10px 5px;"=
+><a style=3D"font:14px verdana,arial;color:#1C3F94;text-decoration:under=
+line;" href=3D"http://job-search.jobstreet.co.id/job/job-ad.php?op=3D103=
+72627&mn=3Did&url=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2Fjobs%2F2012%2F10%=
+2Fdefault%2F40%2F652520.htm%3Ffr=3D10&fr=3D10&utm_source=3Dyahoo&utm_med=
+ium=3Dlinaalerts&utm_campaign=3D193">System  Support</a><br>PT Murni Sol=
+usindo Nusantara<br><font style=3D"color:#006600;">Jakarta Raya</font><b=
+r>1 yr exp</td></tr>=0A<tr><td style=3D"padding:10px 5px;"><a style=3D"f=
+ont:14px verdana,arial;color:#1C3F94;text-decoration:underline;" href=3D=
+"http://job-search.jobstreet.co.id/job/job-ad.php?op=3D10366314&mn=3Did&=
+url=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2Fjobs%2F2012%2F10%2Fdefault%2F40=
+%2F651340.htm%3Ffr=3D10&fr=3D10&utm_source=3Dyahoo&utm_medium=3Dlinaaler=
+ts&utm_campaign=3D193">.Net Developer</a><br>PT Indocyber Global Teknolo=
+gi<br><font style=3D"color:#006600;">Jakarta Raya</font><br>1 yr exp</td=
+></tr>=0A<tr><td style=3D"padding:10px 5px;"><a style=3D"font:14px verda=
+na,arial;color:#1C3F94;text-decoration:underline;" href=3D"http://job-se=
+arch.jobstreet.co.id/job/job-ad.php?op=3D10366315&mn=3Did&url=3Dhttp%3A%=
+2F%2Fwww.jobstreet.co.id%2Fjobs%2F2012%2F10%2Fdefault%2F40%2F651342.htm%=
+3Ffr=3D10&fr=3D10&utm_source=3Dyahoo&utm_medium=3Dlinaalerts&utm_campaig=
+n=3D193">Oracle Developer</a><br>PT Indocyber Global Teknologi<br><font =
+style=3D"color:#006600;">Jakarta Raya</font><br>1 yr exp</td></tr>=0A<tr=
+><td style=3D"padding:10px 5px;"><a style=3D"font:14px verdana,arial;col=
+or:#1C3F94;text-decoration:underline;" href=3D"http://job-search.jobstre=
+et.co.id/job/job-ad.php?op=3D10366326&mn=3Did&url=3Dhttp%3A%2F%2Fwww.job=
+street.co.id%2Fjobs%2F2012%2F10%2Fdefault%2F40%2F651345.htm%3Ffr=3D10&fr=
+=3D10&utm_source=3Dyahoo&utm_medium=3Dlinaalerts&utm_campaign=3D193">VB6=
+ Developer</a><br>PT Indocyber Global Teknologi<br><font style=3D"color:=
+#006600;">Jakarta Raya</font><br>1 yr exp</td></tr>=0A<tr><td style=3D"p=
+adding:10px 5px;"><a style=3D"font:14px verdana,arial;color:#1C3F94;text=
+-decoration:underline;" href=3D"http://job-search.jobstreet.co.id/job/jo=
+b-ad.php?op=3D10366311&mn=3Did&url=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2F=
+jobs%2F2012%2F10%2Fdefault%2F40%2F651337.htm%3Ffr=3D10&fr=3D10&utm_sourc=
+e=3Dyahoo&utm_medium=3Dlinaalerts&utm_campaign=3D193">PHP Developer</a><=
+br>PT Indocyber Global Teknologi<br><font style=3D"color:#006600;">Jakar=
+ta Raya</font><br>1 yr exp</td></tr>=0A<tr><td style=3D"padding:10px 5px=
+;"><a style=3D"font:14px verdana,arial;color:#1C3F94;text-decoration:und=
+erline;" href=3D"http://job-search.jobstreet.co.id/job/job-ad.php?op=3D1=
+0366312&mn=3Did&url=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2Fjobs%2F2012%2F1=
+0%2Fdefault%2F40%2F651339.htm%3Ffr=3D10&fr=3D10&utm_source=3Dyahoo&utm_m=
+edium=3Dlinaalerts&utm_campaign=3D193">Java Developer</a><br>PT Indocybe=
+r Global Teknologi<br><font style=3D"color:#006600;">Jakarta Raya</font>=
+<br>1 yr exp</td></tr>=0A<tr><td style=3D"padding:10px 5px;"><a style=3D=
+"font:14px verdana,arial;color:#1C3F94;text-decoration:underline;" href=3D=
+"http://job-search.jobstreet.co.id/job/job-ad.php?op=3D10370092&mn=3Did&=
+url=3Dhttp%3A%2F%2Fwww.jobstreet.co.id%2Fjobs%2F2012%2F10%2Fdefault%2F40=
+%2F651785.htm%3Ffr=3D10&fr=3D10&utm_source=3Dyahoo&utm_medium=3Dlinaaler=
+ts&utm_campaign=3D193">IT Application Developer - Programmer (Full Time)=
+</a><br>PT Arta Dwi Mitra<br><font style=3D"color:#006600;">Jakarta Raya=
+</font><br>1 yr exp</td></tr>=0A<tr><td style=3D"padding:0px 5px;border-=
+bottom:1px solid #DAE1EB;">&nbsp;</td></tr></table>=0A<br>=0A=0A<table c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"border:1px solid #DAE1EB;fon=
+t:11px verdana,arial;color:#000000;background-color:#FFFFFF;"><tr><td st=
+yle=3D"padding:5px;" colspan=3D"2"><b>Login ID: </b>faldo_sonic@yahoo.co=
+m</td></tr><tr><td style=3D"padding:5px;" colspan=3D"2"><b>Job Alert Pro=
+file: </b>My LiNa Job Matches [<a style=3D"color:#1C3F94;text-decoration=
+:underline;" href=3D"http://myjobstreet-id.jobstreet.com/home/login.php?=
+site=3Did&go=3DLINA&lid=3Dfaldo_sonic@yahoo.com&utm_source=3Dyahoo&utm_m=
+edium=3Dlinaalerts&utm_campaign=3D0">Edit</a>]</td></tr><tr style=3D"ver=
+tical-align:top"><td style=3D"color:#686868;padding:5px;">Specialization=
+:</td><td style=3D"padding:5px;">Customer Service, Clerical/General Admi=
+n</td></tr><tr style=3D"vertical-align:top"><td style=3D"color:#686868;p=
+adding:5px;">Position Level:</td><td style=3D"padding:5px;">Fresh Grad /=
+ Less than 1 year experience</td></tr></table>=0A=0A<table width=3D"100%=
+" cellpadding=3D"5" cellspacing=3D"0" border=3D"0" style=3D"font:11px ve=
+rdana,arial;color:#000000;background-color:#FFFFFF;">=0A    =0A    <tr>=0A=
+        <td style=3D"padding-top:30px;padding-bottom:30px;">=0A        <=
+b><a style=3D"color:#1C3F94;text-decoration:underline;" href=3D"http://m=
+yjobstreet-id.jobstreet.com/home/lina-feedback.php?site=3Did&espid=3D431=
+5613588&ecid=3D4173848497&utm_source=3Dyahoo&utm_medium=3Dlinaalerts&utm=
+_campaign=3D0">Rate LiNa Matching Accuracy</a></b> | =0A        <a style=
+=3D"color:#1C3F94;text-decoration:underline;" href=3D"http://job-search.=
+jobstreet.co.id?&utm_source=3Dyahoo&utm_medium=3Dlinaalerts&utm_campaign=
+=3D0">Search Jobs</a> | =0A        <a style=3D"color:#1C3F94;text-decora=
+tion:underline;" href=3D"http://myjobstreet-id.jobstreet.com/home/login.=
+php?site=3Did&lid=3Dfaldo_sonic@yahoo.com&utm_source=3Dyahoo&utm_medium=3D=
+linaalerts&utm_campaign=3D0">Update My Resume</a> | =0A        <a style=3D=
+"color:#1C3F94;text-decoration:underline;" href=3D"http://myjobstreet-id=
+=2Ejobstreet.com/home/help.php?site=3Did&utm_source=3Dyahoo&utm_medium=3D=
+linaalerts&utm_campaign=3D0">Help!</a>=0A        </td>    =0A    </tr>=0A=
+    =0A    <tr>=0A        <td>=0A        Best Regards,<br>LiNa, your Per=
+sonal Career Agent<br>=0A        <b><a style=3D"color:#1C3F94;text-decor=
+ation:underline;" href=3D"http://www.jobstreet.com?&utm_source=3Dyahoo&u=
+tm_medium=3Dlinaalerts&utm_campaign=3D0">JobStreet.com</a></b>=0A       =
+ </td>    =0A    </tr>=0A    =0A    <tr>=0A        <td style=3D"padding-=
+top:30px;padding-bottom:30px;font-size:10px;">=0A        To ensure you n=
+ever miss a job alert, add lina01@jobstreet.com to your email address bo=
+ok.=0A        </td>=0A    </tr>=0A    =0A    =0A    =0A    <tr style=3D"=
+font-size:10px;color:#686868;">=0A        <td>=0A        Contact us at <=
+a style=3D"color:#1C3F94;text-decoration:underline;" href=3D"http://myjo=
+bstreet-id.jobstreet.com/home/help.php?site=3Did&utm_source=3Dyahoo&utm_=
+medium=3Dlinaalerts&utm_campaign=3D0">LiNa</a>. Do not reply to this com=
+puter-generated email.<br>=0A        PT JobStreet Indonesia, Wisma Bumip=
+utera 5th floor, Jl. Jend. Sudirman, kav. 75 Jakarta 12910=0A        <hr=
+ color=3D"#EEEEEE" size=3D"1">=0A        <a style=3D"color:#1C3F94;text-=
+decoration:underline;" href=3D"http://www.jobstreet.com.sg/aboutus/priva=
+cy_policy.htm?&utm_source=3Dyahoo&utm_medium=3Dlinaalerts&utm_campaign=3D=
+0">Privacy Policy</a> - Copyright &copy; 2012 JobStreet.com=0A        <i=
+mg src=3D"http://wolverine.jobstreet.com/or.asp?bid=3D7304&c=3D417384849=
+7&gspid=3D4315613588&sub=3D2&dt=3D1351661302.88177" border=3D"0" width=3D=
+"0" height=3D"0">=0A        </td>=0A    </tr>  =0A    =0A</table>=0A =0A=
+</td></tr></table>=0A=0A</body>=0A</html>
